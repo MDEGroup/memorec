@@ -1,0 +1,10 @@
+FSMModel#State
+FSMModel#Transition
+FSMModel#StateMachineDefinition
+FSMModel#AbstractTrigger
+FSMModel#AbstractAction
+FSMModel#AbstractGuard
+FSMModel#Guard
+FSMModel#Trigger
+FSMModel#IntegerAssignement
+FSMModel#DeclarationBlock

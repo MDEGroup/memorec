@@ -1,0 +1,11 @@
+inheritancemapping#Address
+inheritancemapping#ContentList
+inheritancemapping#DistrictUKAddress
+inheritancemapping#InternationalPrice
+inheritancemapping#Price
+inheritancemapping#UKAddress
+inheritancemapping#USAddress
+inheritancemapping#Customer
+inheritancemapping#SpecificCustomer
+inheritancemapping#USState
+inheritancemapping#USStateObject

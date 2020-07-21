@@ -1,0 +1,8 @@
+CP2Class#fields
+CP2Class#methods
+CP2Class#extends
+CP2Class#implements
+CP2Class#simpleName
+CP2Dependency#from
+CP2Dependency#to
+CP2Dependency#type

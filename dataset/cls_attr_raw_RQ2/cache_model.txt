@@ -1,0 +1,7 @@
+CacheEntry#path
+CacheEntry#timestamp
+CacheEntry#attributes
+CacheEntry#lastAccessTime
+CacheIndex#lastIndex
+CacheIndex#entries
+CacheIndex#environment

@@ -1,0 +1,13 @@
+cloud#SLA
+cloud#Provider
+cloud#Customer
+cloud#Constraint
+cloud#SLO
+cloud#Penalty
+cloud#DataLocationConstraint
+cloud#PerformanceConstraint
+cloud#Obligation
+cloud#DataLocationObligation
+cloud#DataLocationPenalty
+cloud#Subject
+cloud#Condition

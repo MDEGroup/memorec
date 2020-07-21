@@ -1,0 +1,5 @@
+Graphical2d#children
+Graphical2d#parent
+Graphical2d#bounds
+Graphical2d#visible
+Graphical2d#transform

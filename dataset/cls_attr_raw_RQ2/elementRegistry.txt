@@ -1,0 +1,3 @@
+ElementType#elementTypeID
+ElementType#description
+ElementType#context

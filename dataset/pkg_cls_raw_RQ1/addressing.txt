@@ -1,0 +1,14 @@
+addressing#AttributedQNameType
+addressing#AttributedUnsignedLongType
+addressing#AttributedURIType
+addressing#DocumentRoot
+addressing#EndpointReferenceType
+addressing#FaultCodesOpenEnumType
+addressing#FaultCodesType
+addressing#MetadataType
+addressing#ProblemActionType
+addressing#ReferenceParametersType
+addressing#RelatesToType
+addressing#RelationshipType
+addressing#RelationshipTypeObject
+addressing#RelationshipTypeOpenEnum

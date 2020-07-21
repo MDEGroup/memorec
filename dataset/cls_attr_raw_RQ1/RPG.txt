@@ -1,0 +1,14 @@
+RPG#hasWorldMap
+RPG#hasAgents
+RPG#hasHero
+RPG#hasObject
+Agent#name
+Agent#occupies
+Agent#hasInventory
+Cell#name
+Cell#x
+Cell#y
+Cell#left
+Cell#right
+Cell#top
+Cell#bottom

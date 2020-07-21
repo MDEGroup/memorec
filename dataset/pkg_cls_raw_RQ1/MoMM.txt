@@ -1,0 +1,8 @@
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+MoMM#ModelElement
+MoMM#Attribute
+MoMM#Relationship
+MoMM#Generalization
+MoMM#Association

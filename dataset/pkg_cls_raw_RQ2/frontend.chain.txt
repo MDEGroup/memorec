@@ -1,0 +1,11 @@
+package#ChainTransformation
+package#GeneratedModel
+package#TransformationExecution
+package#AvailableTransformation
+package#ExternalTransformation
+package#CompositeTransformation
+package#Variable
+package#NamedElement
+package#TransformationDefinition
+package#RepresentModel
+package#LocatedElement

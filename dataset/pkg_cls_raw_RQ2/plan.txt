@@ -1,0 +1,6 @@
+package#ArtifactType
+package#AttributesType
+package#DocumentRoot
+package#NameValueType
+package#Plan
+package#VersionType

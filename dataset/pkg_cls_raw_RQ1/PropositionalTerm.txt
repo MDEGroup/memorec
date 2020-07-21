@@ -1,0 +1,9 @@
+expression#Term
+expression#And
+expression#Or
+expression#Not
+expression#FeatureRef
+expression#Nested
+expression#BinaryOperator
+expression#UnaryOperator
+expression#Constraint

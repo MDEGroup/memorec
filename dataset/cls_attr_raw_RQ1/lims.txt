@@ -1,0 +1,16 @@
+Family#name
+Family#individuals
+Family#laboratory
+Individual#gender
+Individual#family
+Individual#Father
+Individual#name
+Individual#Mother
+Individual#samples
+Sequencer#name
+Sequencer#runs
+Sequencer#laboratory
+Run#name
+Run#date
+Run#sequenced
+Run#sequencer

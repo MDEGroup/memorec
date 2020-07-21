@@ -1,0 +1,11 @@
+package#IProject
+package#IFolder
+package#IFile
+package#IResource
+package#DocManager
+package#DocumentedProject
+package#Document
+package#DocInput
+package#DocOutput
+package#DocResource
+package#DocFormat

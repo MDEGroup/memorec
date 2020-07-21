@@ -1,0 +1,12 @@
+Posao#se_sastoji_od
+Posao#opposite_se_sastoji_od
+Posao#opposite_radi_na
+Posao#opposite_nadgleda
+Posao#naziv
+Posao#pocetak
+Posao#kraj
+Angazovani#radi_na
+Angazovani#ime
+Angazovani#prezime
+Angazovani#uloga
+Angazovani#pol

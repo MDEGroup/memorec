@@ -1,0 +1,3 @@
+UIElement#name
+UIElement#properties
+UIElement#children

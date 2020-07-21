@@ -1,0 +1,4 @@
+IndexedMap#firstKey
+IndexedMap#lastKey
+IndexedMap#prefix
+IndexedMap#keytype

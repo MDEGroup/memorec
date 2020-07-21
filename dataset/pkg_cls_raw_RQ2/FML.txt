@@ -1,0 +1,16 @@
+package#ViewDef
+package#VirtualModel
+package#ModelSlot
+package#EditionPattern
+package#PatternRole
+package#EditionScheme
+package#EditionSchemeType
+package#Parameter
+package#EditionAction
+package#BuiltInAction
+package#DeclarePatternRole
+package#DeleteAction
+package#AddEMFObjectIndividual
+package#MSTYPE
+package#VMTYPE
+package#PRTYPE

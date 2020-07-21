@@ -1,0 +1,17 @@
+simplerailctrl#EventWait
+simplerailctrl#TRACK
+simplerailctrl#POINT
+simplerailctrl#POSITION
+simplerailctrl#Node
+simplerailctrl#Transition
+simplerailctrl#EventContact
+simplerailctrl#SetSpeed
+simplerailctrl#SetPoint
+simplerailctrl#DIRECTION
+simplerailctrl#RailController
+simplerailctrl#SetSignal
+simplerailctrl#SIGNALCOLOR
+simplerailctrl#EventOccupied
+simplerailctrl#MOTORDIR
+simplerailctrl#CONDITION
+simplerailctrl#CONJUNCTION

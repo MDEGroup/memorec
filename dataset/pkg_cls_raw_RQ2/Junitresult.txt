@@ -1,0 +1,11 @@
+package#Testsuite
+package#Property
+package#Testcase
+package#Error
+package#Failure
+package#NegativeResult
+package#Testrun
+package#AbstractAggregatedTest
+package#Testsuites
+package#JunitResult
+package#Skipped

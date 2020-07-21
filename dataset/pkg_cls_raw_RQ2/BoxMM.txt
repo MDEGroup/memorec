@@ -1,0 +1,11 @@
+package#Box
+package#Slot
+package#InputSlot
+package#OutputSlot
+package#SettingSlot
+package#BoxInstance
+package#Connection
+package#SlotInstance
+package#NamedElement
+package#Package
+package#ProcessSlot

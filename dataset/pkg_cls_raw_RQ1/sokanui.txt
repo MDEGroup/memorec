@@ -1,0 +1,9 @@
+sokanui#Root
+sokanui#RootPackage
+sokanui#RootFolder
+sokanui#IdentifiableElement
+sokanui#Container
+sokanui#Package
+sokanui#Folder
+sokanui#Artifact
+sokanui#ResourceSet

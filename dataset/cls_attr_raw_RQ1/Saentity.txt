@@ -1,0 +1,7 @@
+Entity#name
+Entity#labels
+Entity#attributes
+Attribute#name
+Attribute#dataType
+Attribute#dataClass
+Attribute#description

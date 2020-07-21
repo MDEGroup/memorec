@@ -1,0 +1,11 @@
+executionmodel#ExecutionInfo
+executionmodel#ExecutionInfoManager
+executionmodel#ExecutionStep
+executionmodel#ResponsibilityNodeToExecutionStateMapEntry
+executionmodel#Dependency
+executionmodel#Adapter
+executionmodel#ExecutionContext
+executionmodel#EStringToEObjectMapEntry
+executionmodel#EStringToEJavaObjectMapEntry
+executionmodel#SimplePathNodeToExecutionStateMapEntry
+executionmodel#EvaluationStep

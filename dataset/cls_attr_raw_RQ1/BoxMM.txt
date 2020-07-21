@@ -1,0 +1,10 @@
+Box#settings
+Box#inputs
+Box#outputs
+Box#instances
+Box#connections
+Box#container
+Box#processes
+Connection#input
+Connection#output
+Connection#box

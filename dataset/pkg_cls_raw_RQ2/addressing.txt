@@ -1,0 +1,14 @@
+package#AttributedQNameType
+package#AttributedUnsignedLongType
+package#AttributedURIType
+package#DocumentRoot
+package#EndpointReferenceType
+package#FaultCodesOpenEnumType
+package#FaultCodesType
+package#MetadataType
+package#ProblemActionType
+package#ReferenceParametersType
+package#RelatesToType
+package#RelationshipType
+package#RelationshipTypeObject
+package#RelationshipTypeOpenEnum

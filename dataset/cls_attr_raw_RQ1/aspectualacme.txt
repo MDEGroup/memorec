@@ -1,0 +1,10 @@
+System#components
+System#connectors
+System#attachments
+AspectualConnector#baseRole
+AspectualConnector#crosscuttingRole
+AspectualConnector#glues
+Glue#prefixRole
+Glue#suffixRole
+Glue#glueType
+Glue#aspectualConnector

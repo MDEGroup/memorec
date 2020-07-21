@@ -1,0 +1,7 @@
+package#Component
+package#Handler
+package#InputPort
+package#OutputPort
+package#Port
+package#Property
+package#ComponentType

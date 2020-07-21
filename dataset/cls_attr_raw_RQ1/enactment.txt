@@ -1,0 +1,5 @@
+Enactment#resource
+Enactment#sessionId
+Enactment#startTime
+Enactment#expireTime
+Enactment#finishTime

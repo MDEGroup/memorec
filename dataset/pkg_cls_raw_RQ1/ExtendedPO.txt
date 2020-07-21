@@ -1,0 +1,12 @@
+epo#Item
+epo#USAddress
+epo#SKU
+epo#Date
+epo#PurchaseOrder
+epo#Address
+epo#OrderStatus
+epo#Supplier
+epo#Customer
+epo#GlobalAddress
+epo#GlobalLocation
+epo#CanadianAddress

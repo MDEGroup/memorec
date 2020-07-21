@@ -1,0 +1,11 @@
+package#Shop
+package#Employee
+package#CoffeeMachine
+package#Manager
+package#CashRegister
+package#StoreRoom
+package#SackOfBeans
+package#BoxOfCups
+package#DistributorType
+package#Distributor
+package#Account

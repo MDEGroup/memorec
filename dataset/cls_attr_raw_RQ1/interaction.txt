@@ -1,0 +1,13 @@
+Interaction#participants
+Interaction#messages
+Interaction#executions
+Interaction#stateInvariants
+Interaction#interactionUses
+Interaction#ends
+Interaction#combinedFragments
+InteractionUse#type
+InteractionUse#interaction
+InteractionUse#coveredParticipants
+CombinedFragment#operator
+CombinedFragment#coveredParticipants
+CombinedFragment#ownedOperands

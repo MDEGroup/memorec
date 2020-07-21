@@ -1,0 +1,15 @@
+node#EReference1
+node#incoming
+node#outgoing
+node#name
+edge#target
+edge#EReference0
+edge#source
+startnode#EReference1
+startnode#incoming
+startnode#outgoing
+startnode#name
+endnode#EReference1
+endnode#incoming
+endnode#outgoing
+endnode#name

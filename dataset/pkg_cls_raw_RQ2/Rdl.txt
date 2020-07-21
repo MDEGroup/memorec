@@ -1,0 +1,17 @@
+package#AssignmentType
+package#DataInputAssociationType
+package#DataInputType
+package#DefinitionsType
+package#DocumentRoot
+package#EndEventType
+package#ExclusiveGatewayType
+package#FromType
+package#InputSetType
+package#IoSpecificationType
+package#ItemDefinitionType
+package#ProcessType
+package#PropertyType
+package#SequenceFlowType
+package#StartEventType
+package#TaskType
+package#ToType

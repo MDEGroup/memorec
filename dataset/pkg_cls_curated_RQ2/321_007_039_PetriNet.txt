@@ -1,0 +1,7 @@
+package#Element
+package#PetriNet
+package#Place
+package#Transition
+package#Arc
+package#PlaceToTransArc
+package#TransToPlaceArc

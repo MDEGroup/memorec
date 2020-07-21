@@ -1,0 +1,3 @@
+statechart01#State
+statechart01#Transition
+statechart01#Variable

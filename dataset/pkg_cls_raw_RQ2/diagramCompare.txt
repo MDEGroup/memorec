@@ -1,0 +1,7 @@
+package#Show
+package#Hide
+package#NodeChange
+package#CoordinatesChange
+package#EdgeChange
+package#DiagramDiff
+package#DiagramChange

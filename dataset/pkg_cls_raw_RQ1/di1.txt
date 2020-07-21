@@ -1,0 +1,11 @@
+di#BPMNDiagram
+di#BPMNEdge
+di#BPMNLabel
+di#BPMNLabelStyle
+di#BPMNPlane
+di#BPMNShape
+di#DocumentRoot
+di#MessageVisibleKind
+di#MessageVisibleKindObject
+di#ParticipantBandKind
+di#ParticipantBandKindObject

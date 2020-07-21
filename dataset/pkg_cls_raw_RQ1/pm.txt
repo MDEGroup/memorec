@@ -1,0 +1,11 @@
+emf#PMConfig
+emf#VoltageDomain
+emf#VoltageSource
+emf#PowerDomain
+emf#PDSupplyDirective
+emf#PDomainInstance
+emf#YesNoDef
+emf#PowerSourceInstance
+emf#PowerSourcePin
+emf#CONNECT_DIRECTIVE
+emf#HG_CLASS

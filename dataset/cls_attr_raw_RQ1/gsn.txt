@@ -1,0 +1,9 @@
+Goal#subGoals
+Goal#strategies
+Goal#goalContexts
+Goal#assumptions
+Goal#goalSolutions
+Strategy#goals
+Strategy#justifications
+Strategy#strategyContexts
+Strategy#strategySolutions

@@ -1,0 +1,10 @@
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#validateJava
+DocumentRoot#validateXml
+XmlValidateType#SchemaFiles
+XmlValidateType#SchemaCatalogs
+XmlValidateType#schemaType
+XmlValidateType#failOnWarning
+XmlValidateType#namespaceAware

@@ -1,0 +1,13 @@
+Node#module
+Node#outTransitions
+Node#inTransitions
+Node#isStart
+Node#isEnd
+Node#isFail
+Transition#probability
+Transition#_from
+Transition#_to
+Transition#module
+Module#nodes
+Module#transitions
+Module#isAutonomous

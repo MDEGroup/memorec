@@ -1,0 +1,15 @@
+featureDiagram#FeatureDiagram
+featureDiagram#Feature
+featureDiagram#PrimitiveFeature
+featureDiagram#ConstraintEdge
+featureDiagram#Operator
+featureDiagram#Opt
+featureDiagram#Mandatory
+featureDiagram#Or
+featureDiagram#Alternative
+featureDiagram#Card
+featureDiagram#Constraint
+featureDiagram#Require
+featureDiagram#Mutex
+featureDiagram#FeatureElement
+featureDiagram#Attribute

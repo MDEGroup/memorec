@@ -1,0 +1,12 @@
+uml2#AssociationChange
+uml2#ExtendChange
+uml2#GeneralizationSetChange
+uml2#ExecutionSpecificationChange
+uml2#IntervalConstraintChange
+uml2#MessageChange
+uml2#StereotypePropertyChange
+uml2#StereotypeApplicationChange
+uml2#StereotypeReferenceChange
+uml2#ProfileApplicationChange
+uml2#DirectedRelationshipChange
+uml2#UMLDiff

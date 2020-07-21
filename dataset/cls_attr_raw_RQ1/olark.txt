@@ -1,0 +1,3 @@
+LiveChatManager#siteId
+LiveChatManager#enabled
+LiveChatManager#provider

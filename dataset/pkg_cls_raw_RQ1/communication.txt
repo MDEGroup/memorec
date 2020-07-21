@@ -1,0 +1,6 @@
+communication#Communication
+communication#MappingRule
+communication#Protocol
+communication#Serializer
+communication#String2StringMap
+communication#Path

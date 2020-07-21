@@ -1,0 +1,5 @@
+AdaptWithBinding#parameterIndex
+AdaptWithBinding#concreteModel
+AdaptWithBinding#conceptModel
+AdaptWithBinding#appliedBinding
+AdaptWithBinding#templateData

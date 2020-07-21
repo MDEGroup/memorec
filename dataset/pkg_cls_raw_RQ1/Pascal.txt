@@ -1,0 +1,16 @@
+Pascal#Program
+Pascal#Variable
+Pascal#Type
+Pascal#Parameter
+Pascal#Instruction
+Pascal#Calculation
+Pascal#Control
+Pascal#Assignment
+Pascal#Block
+Pascal#Conditional
+Pascal#Loop
+Pascal#Procedure
+Pascal#Function
+Pascal#For
+Pascal#While
+Pascal#Repeat

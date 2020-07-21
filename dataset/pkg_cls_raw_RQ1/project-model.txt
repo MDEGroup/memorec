@@ -1,0 +1,10 @@
+model#JoomlaExtensionProject
+model#BasicExtensionModel
+model#ExtensionResource
+model#MediaResource
+model#LanguageResource
+model#IPath
+model#IProject
+model#ManifestVersion
+model#ExtensionType
+model#ResourceType

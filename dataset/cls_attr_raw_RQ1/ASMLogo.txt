@@ -1,0 +1,4 @@
+ProcDeclaration#name
+ProcDeclaration#args
+ProcDeclaration#procCall
+ProcDeclaration#instructions

@@ -1,0 +1,7 @@
+package#SPOSAnnotation
+package#SLemmaAnnotation
+package#SALT_SEMANTIC_NAMES
+package#SCatAnnotation
+package#STypeAnnotation
+package#SWordAnnotation
+package#SSentenceAnnotation

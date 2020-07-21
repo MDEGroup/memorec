@@ -1,0 +1,8 @@
+OntoDSL#DslMediation
+OntoDSL#DslRelator
+OntoDSL#DslModel
+OntoDSL#Cardinality
+OntoDSL#LiteralOptionalCardinality
+OntoDSL#LiteralAtLeastOneCardinality
+OntoDSL#LiteralAnyCardinality
+OntoDSL#LiteralCardinality

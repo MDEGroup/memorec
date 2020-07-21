@@ -1,0 +1,10 @@
+package#Variable
+package#NamedElement
+package#TransformationDefinition
+package#TraceInterface
+package#TransformationDefinitionParameter
+package#LocatedElement
+package#ClassUse
+package#Expression
+package#Statement
+package#TypedWithClass

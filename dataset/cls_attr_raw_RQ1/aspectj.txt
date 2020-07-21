@@ -1,0 +1,15 @@
+Aspect#priviliged
+Aspect#extend
+Aspect#defaultExtends
+FieldPattern#modifiers
+FieldPattern#declaringType
+FieldPattern#fieldType
+FieldPattern#fieldname
+ConstructorPattern#modifiers
+ConstructorPattern#declaringType
+ConstructorPattern#parameters
+MethodPattern#modifiers
+MethodPattern#returnType
+MethodPattern#declaringType
+MethodPattern#parameters
+MethodPattern#methodname

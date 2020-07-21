@@ -1,0 +1,8 @@
+package#Diagram
+package#Shape
+package#Square
+package#Triangle
+package#Unknown
+package#Connection
+package#DashedConnection
+package#AbstractConnection

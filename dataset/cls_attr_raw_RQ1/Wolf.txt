@@ -1,0 +1,11 @@
+Model#name
+Model#importSection
+Model#specifications
+ConstructorParam#isReference
+ConstructorParam#type
+ConstructorParam#name
+AttributeDef#receiver
+AttributeDef#name
+AttributeDef#params
+AttributeDef#returnType
+AttributeDef#body

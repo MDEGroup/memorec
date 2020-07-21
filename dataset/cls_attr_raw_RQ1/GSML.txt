@@ -1,0 +1,12 @@
+Course#Name
+Course#gradings
+Course#gradingschemes
+Course#gradingscheme
+Course#gradingScheme
+Task#Name
+Task#MinRequirement
+Task#MinRequirementType
+Grading#Semester
+Grading#gradingscheme
+Grading#tasks
+Grading#has

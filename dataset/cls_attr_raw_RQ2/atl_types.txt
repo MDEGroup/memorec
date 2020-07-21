@@ -1,0 +1,17 @@
+MapType#multivalued
+MapType#keyType
+MapType#valueType
+EnumType#multivalued
+EnumType#name
+EnumType#eenum
+Metaclass#multivalued
+Metaclass#name
+Metaclass#klass
+HelperAnnotation#helper
+HelperAnnotation#name
+HelperAnnotation#type
+BindingAnnotation#rule
+BindingAnnotation#binding
+BindingAnnotation#name
+BindingAnnotation#sourceType
+BindingAnnotation#targetType

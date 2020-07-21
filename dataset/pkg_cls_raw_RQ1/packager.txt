@@ -1,0 +1,4 @@
+lnxpacker#PackageDescriptor
+lnxpacker#DescriptionField
+lnxpacker#FieldType
+lnxpacker#PackageComponent

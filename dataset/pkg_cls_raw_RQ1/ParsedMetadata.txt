@@ -1,0 +1,8 @@
+parsedmetadata#AnnotatedClass
+parsedmetadata#AnnotatedMethod
+parsedmetadata#NamedEntity
+parsedmetadata#ParsedModel
+parsedmetadata#Annotation
+parsedmetadata#AnnotatedEntity
+parsedmetadata#AnnotatedField
+parsedmetadata#AnnotatedParameter

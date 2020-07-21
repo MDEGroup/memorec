@@ -1,0 +1,7 @@
+XMLNamespaceDocumentRoot#mixed
+XMLNamespaceDocumentRoot#xMLNSPrefixMap
+XMLNamespaceDocumentRoot#xSISchemaLocation
+XMLNamespaceDocumentRoot#base
+XMLNamespaceDocumentRoot#id
+XMLNamespaceDocumentRoot#lang
+XMLNamespaceDocumentRoot#space

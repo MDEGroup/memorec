@@ -1,0 +1,7 @@
+GeoPoint#longitude
+GeoPoint#latitude
+GeoPoint#elevation
+GeoPoint#linearFeature
+Location#simpleLocation
+Location#creationTime
+Location#destructionTime

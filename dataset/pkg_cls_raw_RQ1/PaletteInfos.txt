@@ -1,0 +1,5 @@
+paletteinfos#PaletteInfos
+paletteinfos#PaletteInfo
+paletteinfos#TagCreationInfo
+paletteinfos#TagCreationTemplate
+paletteinfos#TagCreationAttribute

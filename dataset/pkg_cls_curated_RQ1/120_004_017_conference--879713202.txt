@@ -1,0 +1,8 @@
+conference#Conference
+conference#Person
+conference#Talk
+conference#Topic
+conference#TALK_TYPE
+conference#GENDER
+conference#Site
+conference#Room

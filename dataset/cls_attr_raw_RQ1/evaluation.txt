@@ -1,0 +1,4 @@
+IEvaluationFactory#id
+IEvaluationFactory#name
+IEvaluationFactory#evaluators
+IEvaluationFactory#verifiers

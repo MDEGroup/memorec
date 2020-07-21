@@ -1,0 +1,8 @@
+RepositoryDef#name
+RepositoryDef#store
+RepositoryDef#overrideUUID
+RepositoryDef#supportingAudits
+RepositoryDef#supportingBranches
+RepositoryDef#supportingEcore
+RepositoryDef#ensureReferentialIntegrity
+RepositoryDef#allowInterruptRunningQueries

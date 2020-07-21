@@ -1,0 +1,4 @@
+repository#Repository
+repository#Connection
+repository#Attribute
+repository#IObjectDescriptor

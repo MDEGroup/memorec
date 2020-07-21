@@ -1,0 +1,8 @@
+PeopleActivityRT#inputVariable
+PeopleActivityRT#outputVariable
+PeopleActivityRT#isSkipable
+PeopleActivityRT#dontShareComments
+PeopleActivityRT#remoteTask
+RemoteTask#partnerLink
+RemoteTask#operation
+RemoteTask#responseOperation

@@ -1,0 +1,6 @@
+OWLCLSpec#constrainedMetamodel
+OWLCLSpec#constraints
+OWLCLSpec#types
+Constraint#constrainedMetaclass
+Constraint#constraintDescription
+Constraint#errorMsg

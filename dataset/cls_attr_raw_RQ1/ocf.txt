@@ -1,0 +1,3 @@
+RootFile#fullPath
+RootFile#mediaType
+RootFile#publication

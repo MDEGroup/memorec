@@ -1,0 +1,10 @@
+PropertyRule#visibility
+PropertyRule#isDerived
+PropertyRule#name
+PropertyRule#type
+PropertyRule#multiplicity
+PropertyRule#modifiers
+PropertyRule#default
+ModifierSpecification#value
+ModifierSpecification#redefines
+ModifierSpecification#subsets

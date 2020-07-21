@@ -1,0 +1,7 @@
+TabularData#columnCount
+TabularData#columnHeaderList
+TabularData#rowCount
+TabularData#rowHeaderList
+Value#data
+Value#index
+Value#constraints

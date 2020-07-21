@@ -1,0 +1,7 @@
+package#Project
+package#Build
+package#Resource
+package#MailingList
+package#Person
+package#Developer
+package#Contributor

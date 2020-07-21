@@ -1,0 +1,11 @@
+package#PaletteConfiguration
+package#ToolConfiguration
+package#StackConfiguration
+package#ChildConfiguration
+package#DrawerConfiguration
+package#Configuration
+package#IconDescriptor
+package#ToolKind
+package#ElementDescriptor
+package#SeparatorConfiguration
+package#LeafConfiguration

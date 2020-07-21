@@ -1,0 +1,13 @@
+IfExp#condition
+IfExp#thenExpression
+IfExp#elseExpression
+Variable#initExpression
+Variable#letExp
+Variable#bindParameter
+ExpressionInOcl#bodyExpression
+ExpressionInOcl#context
+ExpressionInOcl#resultVariable
+ExpressionInOcl#parameterVariable
+TupleLiteralPart#tupleLiteralExp
+TupleLiteralPart#attribute
+TupleLiteralPart#value

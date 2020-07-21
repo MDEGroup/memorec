@@ -1,0 +1,14 @@
+Action#byActor
+Action#cause
+Action#enactment
+Action#result
+Action#input
+ServiceInvocation#serviceURI
+ServiceInvocation#enactingAgent
+ServiceInvocation#correlatedAction
+StateOfWorld#partialStateDescription
+StateOfWorld#atom
+StateOfWorld#description
+MatchmakerResult#serviceURI
+MatchmakerResult#reliability
+MatchmakerResult#performance

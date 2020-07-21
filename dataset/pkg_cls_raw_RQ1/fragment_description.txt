@@ -1,0 +1,6 @@
+description#FacetType
+description#Facet
+description#FacetValue
+description#FragmentDescription
+description#Property
+description#DerivationState

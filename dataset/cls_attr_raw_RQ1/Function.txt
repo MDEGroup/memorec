@@ -1,0 +1,11 @@
+TerminalExpression#variable
+TerminalExpression#value
+TerminalExpression#functioncall
+FunctionDefinition#name
+FunctionDefinition#parameters
+FunctionDefinition#exp
+IfStatement#iftype
+IfStatement#left
+IfStatement#right
+IfStatement#whentrue
+IfStatement#whenfalse

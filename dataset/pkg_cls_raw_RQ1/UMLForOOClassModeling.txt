@@ -1,0 +1,17 @@
+UMLForOOClassModeling#VisibilityKind
+UMLForOOClassModeling#ScopeKind
+UMLForOOClassModeling#MultiplicityType
+UMLForOOClassModeling#ModelElement
+UMLForOOClassModeling#Feature
+UMLForOOClassModeling#NameSpace
+UMLForOOClassModeling#GeneralizableElement
+UMLForOOClassModeling#Classifier
+UMLForOOClassModeling#Class
+UMLForOOClassModeling#StructuralFeature
+UMLForOOClassModeling#Attribute
+UMLForOOClassModeling#BehavioralFeature
+UMLForOOClassModeling#Operation
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double

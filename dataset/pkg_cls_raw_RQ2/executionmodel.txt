@@ -1,0 +1,11 @@
+package#ExecutionInfo
+package#ExecutionInfoManager
+package#ExecutionStep
+package#ResponsibilityNodeToExecutionStateMapEntry
+package#Dependency
+package#Adapter
+package#ExecutionContext
+package#EStringToEObjectMapEntry
+package#EStringToEJavaObjectMapEntry
+package#SimplePathNodeToExecutionStateMapEntry
+package#EvaluationStep

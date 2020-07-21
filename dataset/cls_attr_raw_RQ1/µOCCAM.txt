@@ -1,0 +1,16 @@
+Replicator#name
+Replicator#base
+Replicator#count
+DyadicOperator#plus
+DyadicOperator#minus
+DyadicOperator#star
+DyadicOperator#slash
+DyadicOperator#or
+DyadicOperator#inverseSlash
+DyadicOperator#and
+DyadicOperator#eq
+DyadicOperator#ne
+DyadicOperator#lt
+DyadicOperator#gt
+DyadicOperator#le
+DyadicOperator#ge

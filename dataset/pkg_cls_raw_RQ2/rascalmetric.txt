@@ -1,0 +1,5 @@
+package#RascalMetrics
+package#Measurement
+package#IntegerMeasurement
+package#RealMeasurement
+package#BooleanMeasurement

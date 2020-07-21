@@ -1,0 +1,8 @@
+package#Intent
+package#Extra
+package#Callback
+package#Permissions
+package#NamedElement
+package#Model
+package#ExtraType
+package#IntentType

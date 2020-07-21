@@ -1,0 +1,3 @@
+cache#CacheEntry
+cache#CacheEntryAttribute
+cache#CacheIndex

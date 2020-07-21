@@ -1,0 +1,6 @@
+Requirement#text
+Requirement#attributes
+Requirement#location
+Requirement#parent
+Requirement#children
+Requirement#coverLink

@@ -1,0 +1,12 @@
+KShapeLayout#xpos
+KShapeLayout#ypos
+KShapeLayout#width
+KShapeLayout#height
+KShapeLayout#insets
+KEdgeLayout#bendPoints
+KEdgeLayout#sourcePoint
+KEdgeLayout#targetPoint
+KInsets#top
+KInsets#bottom
+KInsets#left
+KInsets#right

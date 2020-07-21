@@ -1,0 +1,13 @@
+StateMachine#name
+StateMachine#actionclients
+StateMachine#serviceclients
+StateMachine#actionsstates
+ActionClient#name
+ActionClient#actionname
+ActionClient#actiontype
+ServiceClient#name
+ServiceClient#servicename
+ServiceClient#servicesrv
+ActionState#name
+ActionState#clientname
+ActionState#transitions

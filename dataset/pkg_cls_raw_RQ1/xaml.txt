@@ -1,0 +1,9 @@
+xaml#XamlDocument
+xaml#AnnotatedObject
+xaml#XamlNode
+xaml#XamlElement
+xaml#XamlAttribute
+xaml#Annotation
+xaml#Comment
+xaml#Node
+xaml#Document

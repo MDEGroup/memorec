@@ -1,0 +1,12 @@
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#metadata
+MetaData#groupId
+MetaData#artifactId
+MetaData#version
+MetaData#versioning
+Versioning#release
+Versioning#latest
+Versioning#versions
+Versioning#lastUpdated

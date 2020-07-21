@@ -1,0 +1,5 @@
+analysis#ErrorFunction
+analysis#ThresholdErrorFunction
+analysis#ReferenceScenarioDataMap
+analysis#SimpleErrorFunction
+analysis#ErrorResult

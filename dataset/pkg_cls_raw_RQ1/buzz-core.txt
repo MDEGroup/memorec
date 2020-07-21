@@ -1,0 +1,10 @@
+core#BuzzAccount
+core#TwitterConsumer
+core#BuzzAccounts
+core#TwitterUserLink
+core#FacebookUserLink
+core#FacebookPageLink
+core#FacebookConsumer
+core#SocialLink
+core#BuzzApp
+core#FacebookLink

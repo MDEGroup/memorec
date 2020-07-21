@@ -1,0 +1,12 @@
+components#ComponentDiagram
+components#Component
+components#Connector
+components#Port
+components#FmiTypes
+components#PortKind
+components#NamedElement
+components#EventBComponent
+components#FMUComponent
+components#FMUPort
+components#EventBPort
+components#Variable

@@ -1,0 +1,7 @@
+package#XplManager
+package#XplNetworkState
+package#IXplNetworkStateListener
+package#InetAddress
+package#IXplDeviceDiscoveryListener
+package#XplDeviceIdentity
+package#XplDiscoveredDevice

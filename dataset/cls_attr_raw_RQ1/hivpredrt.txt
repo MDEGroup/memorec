@@ -1,0 +1,12 @@
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#hIVPredRTInput
+DocumentRoot#hIVPredRTOutput
+HIVPredRTOutputType#mutNotInDataset
+HIVPredRTOutputType#mutOutsideModelBoundaries
+HIVPredRTOutputType#mutPlusMutOutsideModelBoundaries
+HIVPredRTOutputType#mutPlusWtOutsideModelBoundaries
+HIVPredRTOutputType#result
+HIVPredRTOutputType#errorMessage
+HIVPredRTOutputType#warningMessage

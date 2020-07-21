@@ -1,0 +1,3 @@
+Attribute#attributeName
+Attribute#type
+Attribute#property

@@ -1,0 +1,7 @@
+package#Authority
+package#Identifier
+package#IdentifierSet
+package#NameSpace
+package#SimpleIdentifier
+package#Set
+package#Pattern

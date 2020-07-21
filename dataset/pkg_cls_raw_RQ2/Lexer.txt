@@ -1,0 +1,9 @@
+package#LexicalState
+package#Macro
+package#JFlexOptions
+package#Spec
+package#JFlexSpec
+package#StartingState
+package#State
+package#SimpleRule
+package#Rule

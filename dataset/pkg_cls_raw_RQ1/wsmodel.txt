@@ -1,0 +1,11 @@
+wsmodel#WProject
+wsmodel#WWorkspace
+wsmodel#WNamedElement
+wsmodel#WDependencyType
+wsmodel#WDependency
+wsmodel#WPackageFragmentRoot
+wsmodel#WPackageFragment
+wsmodel#WCompilationUnit
+wsmodel#WType
+wsmodel#WMethod
+wsmodel#WField

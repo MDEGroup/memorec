@@ -1,0 +1,10 @@
+smach#SMACHStateOutcomes
+smach#SMACHGoalTypes
+smach#SMACHStateMachine
+smach#SMACHTransition
+smach#SMACHState
+smach#ActionState
+smach#ServiceState
+smach#FinalState
+smach#InitStraightState
+smach#InitActionState

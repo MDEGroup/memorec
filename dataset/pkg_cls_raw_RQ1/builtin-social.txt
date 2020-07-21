@@ -1,0 +1,11 @@
+builtin#Person
+builtin#Article
+builtin#Blog
+builtin#Book
+builtin#ExternalProfile
+builtin#Movie
+builtin#TvEpisode
+builtin#TvShow
+builtin#Video
+builtin#Website
+builtin#Activity

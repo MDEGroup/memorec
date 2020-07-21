@@ -1,0 +1,11 @@
+Migration#entityChanges
+Migration#source
+Migration#destination
+EntityChange#sourceEntity
+EntityChange#destinationEntity
+EntityChange#attributeChanges
+EntityChange#relationChanges
+EntityChange#featureChanges
+FeatureChange#sourceExpression
+FeatureChange#sourceFeature
+FeatureChange#destinationFeature

@@ -1,0 +1,9 @@
+News#Element
+News#Newspaper
+News#News
+News#Category
+News#Date
+News#DayKind
+PrimitiveTypes#String
+PrimitiveTypes#Integer
+PrimitiveTypes#Boolean

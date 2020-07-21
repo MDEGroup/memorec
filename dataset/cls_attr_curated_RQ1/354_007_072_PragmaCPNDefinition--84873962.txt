@@ -1,0 +1,6 @@
+OntologyDocument#iri
+OntologyDocument#path
+OntologyDocument#ontology
+PragmaticsOntology#documents
+PragmaticsOntology#net
+PragmaticsOntology#manager

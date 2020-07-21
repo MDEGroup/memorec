@@ -1,0 +1,7 @@
+Case#name
+Case#extensions
+Case#includes
+Case#extends
+Actor#name
+Actor#inheritances
+Actor#uses

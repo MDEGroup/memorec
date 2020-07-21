@@ -1,0 +1,8 @@
+Place#net
+Place#name
+Place#src
+Place#dst
+Transition#net
+Transition#src
+Transition#dst
+Transition#name

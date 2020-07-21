@@ -1,0 +1,10 @@
+package#ModelElement
+package#Classifier
+package#Operation
+package#Service
+package#BusinessObject
+package#ServiceOperation
+package#BusinessObjectOperation
+package#BusinessRule
+package#Flow
+package#Service2BusinessObjectFlow

@@ -1,0 +1,3 @@
+University#name
+University#students
+University#collects

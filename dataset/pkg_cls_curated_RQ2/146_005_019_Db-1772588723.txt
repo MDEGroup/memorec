@@ -1,0 +1,9 @@
+package#NamedElement
+package#DatabaseModel
+package#Table
+package#Column
+package#ForeignKey
+package#DataType
+package#Tag
+package#Taggable
+package#Configuration

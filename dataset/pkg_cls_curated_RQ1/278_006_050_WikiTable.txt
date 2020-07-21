@@ -1,0 +1,9 @@
+WikiTable#LocatedElement
+WikiTable#Table
+WikiTable#Caption
+WikiTable#Row
+WikiTable#Cell
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double
+PrimitiveTypes#Integer
+PrimitiveTypes#String

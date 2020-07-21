@@ -1,0 +1,8 @@
+XsdType#xsdType
+XsdType#length
+XsdType#pattern
+XsdType#totalDigits
+XsdType#fractionDigits
+CodeValue#value
+CodeValue#description
+CodeValue#type

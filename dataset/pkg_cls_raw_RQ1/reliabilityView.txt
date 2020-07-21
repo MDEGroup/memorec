@@ -1,0 +1,9 @@
+view#TransitionView
+view#Rectangle
+view#PortView
+view#ViewObject
+view#ViewLink
+view#Point
+view#FailureView
+view#SystemView
+view#Anchor

@@ -1,0 +1,10 @@
+package#Build
+package#BuildType
+package#BuildTypeObject
+package#Bundle
+package#Component
+package#Dependency
+package#Detail
+package#DownloadSite
+package#DownloadSiteElement
+package#TStamp

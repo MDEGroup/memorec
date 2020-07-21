@@ -1,0 +1,6 @@
+Structure#methods
+Structure#invariants
+Structure#name
+Method#signature
+Method#ensures
+Method#requirements

@@ -1,0 +1,6 @@
+Address#name
+Address#street
+Address#city
+ContentList#name
+ContentList#address
+ContentList#price

@@ -1,0 +1,17 @@
+package#Command
+package#Argument
+package#CommandContainer
+package#ArgumentContainer
+package#ArgumentHandler
+package#CommandHandler
+package#CommandManager
+package#CommandOutput
+package#PrintStreamOutput
+package#CommandInterpreterOutput
+package#CommandInput
+package#CommandInterpreterInput
+package#CommandListInput
+package#IStatus
+package#CommandInterpreter
+package#PrintStream
+package#Iterator

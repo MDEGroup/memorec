@@ -1,0 +1,6 @@
+PathExp#name
+PathExp#states
+PathExp#transitions
+Transition#name
+Transition#source
+Transition#target

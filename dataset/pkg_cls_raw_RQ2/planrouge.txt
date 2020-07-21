@@ -1,0 +1,13 @@
+package#Intervention
+package#Horodatage
+package#InterventionType
+package#Position
+package#GpsPoint
+package#PositionCivil
+package#Agent
+package#Victime
+package#Categorie
+package#ContainerRoot
+package#Bilan
+package#Urgence
+package#Complementaire

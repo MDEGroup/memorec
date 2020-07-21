@@ -1,0 +1,17 @@
+KeySpace#name
+KeySpace#columnFamilies
+KeySpace#replicationFactor
+KeySpace#replicaPlacementStrategy
+ColumnFamily#keyspace
+ColumnFamily#name
+ColumnFamily#columns
+ColumnFamily#primaryKey
+DynamicColumnFamily#keyspace
+DynamicColumnFamily#name
+DynamicColumnFamily#columns
+DynamicColumnFamily#primaryKey
+DynamicColumnFamily#partitionKey
+StaticColumnFamily#keyspace
+StaticColumnFamily#name
+StaticColumnFamily#columns
+StaticColumnFamily#primaryKey

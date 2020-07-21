@@ -1,0 +1,12 @@
+eBC#Model
+eBC#Import
+eBC#FunctionalUnit
+eBC#BoardDeclaration
+eBC#Wiring
+eBC#Flow
+eBC#FlowTypes
+eBC#Dependency
+eBC#DependencyType
+eBC#FunctionalUnitRef
+eBC#Part
+eBC#NativeType

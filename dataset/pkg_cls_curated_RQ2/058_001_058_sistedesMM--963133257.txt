@@ -1,0 +1,11 @@
+package#Person
+package#Edition
+package#University
+package#Publication
+package#Article
+package#InProceedings
+package#Journal
+package#Book
+package#Publisher
+package#Editor
+package#SistedesMember

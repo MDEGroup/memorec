@@ -1,0 +1,10 @@
+scm#ChangeSet
+scm#ChangeSet
+scm#ScmArtifact
+scm#ScmUser
+scm#ScmRepository
+scm#ChangeType
+scm#CvsArtifact
+scm#CvsConnector
+scm#ScmConnector
+scm#CvsRepository

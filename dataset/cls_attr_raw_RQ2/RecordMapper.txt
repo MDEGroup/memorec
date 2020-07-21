@@ -1,0 +1,10 @@
+RecordMappperFile#imports
+RecordMappperFile#records
+RecordMappperFile#eums
+Record#type
+Record#name
+Record#fields
+Type#type
+Type#length
+Type#record
+Type#enumeration

@@ -1,0 +1,17 @@
+package#Superclass
+package#SubClass 1
+package#SubClass 2
+package#SubClass 1a
+package#SubClass 1b
+package#SuperClass
+package#Class
+package#Attribute Occurrence
+package#Attribute Definition
+package#Datatype
+package#Iteration Rule
+package#Initialization Rule
+package#Attribute Extension
+package#Attribute Occurrence
+package#Iteration Rule
+package#ClassInstance
+package#Attribute Instance

@@ -1,0 +1,9 @@
+Automata#current
+Automata#initial
+Automata#states
+Automata#transitions
+Automata#finals
+Transition#token
+Transition#source
+Transition#target
+Transition#name

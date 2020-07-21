@@ -1,0 +1,4 @@
+PetriNet#places
+PetriNet#transitions
+PetriNet#arcs
+PetriNet#types

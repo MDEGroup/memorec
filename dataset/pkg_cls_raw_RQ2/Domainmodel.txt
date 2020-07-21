@@ -1,0 +1,9 @@
+package#DomainModel
+package#AbstractElement
+package#Import
+package#PackageDeclaration
+package#Entity
+package#Feature
+package#DateFeatureRef
+package#Property
+package#Operation

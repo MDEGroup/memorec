@@ -1,0 +1,7 @@
+EclipsePlugIn#Application
+EclipsePlugIn#ExtensionPoint
+EclipsePlugIn#Description
+EclipsePlugIn#Extension
+EclipsePlugIn#PlugIn
+EclipsePlugIn#Librairy
+EclipsePlugIn#Class

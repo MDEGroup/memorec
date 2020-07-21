@@ -1,0 +1,6 @@
+q4bpmn#Property
+q4bpmn#PropertyNature
+q4bpmn#NamedEntity
+q4bpmn#PropertyModel
+q4bpmn#OperatorType
+q4bpmn#ClassType

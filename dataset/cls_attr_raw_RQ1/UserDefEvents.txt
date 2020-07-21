@@ -1,0 +1,10 @@
+CompareOperation#rhop
+CompareOperation#lhop
+CompareOperation#type
+LogicalOperation#lhop
+LogicalOperation#rhop
+LogicalOperation#type
+DNDM#variables
+DNDM#triggers
+DNDM#values
+DNDM#name

@@ -1,0 +1,9 @@
+package#RentalAgency
+package#Customer
+package#Address
+package#StreetType
+package#RentalObject
+package#License
+package#Rental
+package#Car
+package#Device

@@ -1,0 +1,8 @@
+objectDsl#NamespaceDefinition
+objectDsl#NamespaceDeclaration
+objectDsl#ImportDeclaration
+objectDsl#Import
+objectDsl#Object
+objectDsl#Attribute
+objectDsl#DataType
+objectDsl#ObjectReference

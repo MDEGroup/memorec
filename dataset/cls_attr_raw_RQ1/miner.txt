@@ -1,0 +1,16 @@
+Process#name
+Process#activities
+Process#instances
+ProcessInstance#name
+ProcessInstance#events
+ProcessInstance#commits
+Activity#id
+Activity#name
+Activity#type
+Activity#appClass
+Event#activity
+Event#date
+Event#lifecycleStatus
+Commit#id
+Commit#date
+Commit#events

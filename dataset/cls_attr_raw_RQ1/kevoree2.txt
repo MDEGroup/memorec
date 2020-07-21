@@ -1,0 +1,3 @@
+Architecture#channels
+Architecture#bindings
+Architecture#groups

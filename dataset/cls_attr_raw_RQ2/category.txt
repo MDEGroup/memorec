@@ -1,0 +1,13 @@
+Category#categories
+Category#status
+Category#metaDescription
+Category#metaKeywords
+Category#metaTitle
+Category#availableSortBy
+Category#defaultSortBy
+Category#anchor
+Category#includeInMenu
+Category#catalogName
+Category#defaultMixin
+Category#uName
+Category#parentUName

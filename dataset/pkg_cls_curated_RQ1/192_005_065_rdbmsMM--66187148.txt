@@ -1,0 +1,6 @@
+rdbmsMM#Schema
+rdbmsMM#Table
+rdbmsMM#Column
+rdbmsMM#Key
+rdbmsMM#ForeignKey
+rdbmsMM#dummy

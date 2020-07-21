@@ -1,0 +1,17 @@
+package#AbstractSyntax
+package#Import
+package#ASUnit
+package#ASProgram
+package#ASStatement
+package#Definition
+package#ConcreteNodeDefinition
+package#InterfaceNodeDefinition
+package#Cardinality
+package#PLUS
+package#STAR
+package#QUESTIONMARK
+package#NodeFeature
+package#Attribute
+package#Containment
+package#InternalReference
+package#ExternalReference

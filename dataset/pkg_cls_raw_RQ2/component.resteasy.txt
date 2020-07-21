@@ -1,0 +1,5 @@
+package#DocumentRoot
+package#ProxyType
+package#RESTBindingType
+package#BasicAuthenticationType
+package#NTLMAuthenticationType

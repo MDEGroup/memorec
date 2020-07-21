@@ -1,0 +1,6 @@
+aBase#Value
+aBase#IntValue
+aBase#RealValue
+aBase#StringValue
+aBase#BooleanValue
+aBase#BOOLEAN

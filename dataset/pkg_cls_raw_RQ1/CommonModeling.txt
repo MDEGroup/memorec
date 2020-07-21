@@ -1,0 +1,10 @@
+modeling#Annotatable
+modeling#Annotation
+modeling#EStringMapEntry
+modeling#EFile
+modeling#EContainmentMapEntry
+modeling#EReferenceMapEntry
+modeling#ELocale
+modeling#Extendable
+modeling#XAnnotatable
+modeling#EURL

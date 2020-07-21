@@ -1,0 +1,9 @@
+GenModel2#generatorDirectory
+GenModel2#generatorPluginClass
+GenModel2#generatorPluginID
+GenModel2#generatorPluginVariables
+GenModel2#generatorUIDirectory
+GenModel2#generatorUIPluginClass
+GenModel2#generatorUIPluginID
+GenModel2#generatorUIPluginVariables
+GenModel2#generatorProjectTypes

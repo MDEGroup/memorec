@@ -1,0 +1,7 @@
+Domain#name
+Domain#creationDate
+Domain#description
+Domain#color
+BusinessInformation#name
+BusinessInformation#description
+BusinessInformation#tags

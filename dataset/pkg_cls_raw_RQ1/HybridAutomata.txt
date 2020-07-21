@@ -1,0 +1,3 @@
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer

@@ -1,0 +1,6 @@
+Entity#name
+Entity#superType
+Entity#feautres
+Feature#many
+Feature#name
+Feature#type

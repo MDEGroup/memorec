@@ -1,0 +1,4 @@
+tutorial#DomainModelFile
+tutorial#Import
+tutorial#Entity
+tutorial#Property

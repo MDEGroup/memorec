@@ -1,0 +1,16 @@
+synccharts#Action
+synccharts#Assignment
+synccharts#ComplexExpression
+synccharts#Effect
+synccharts#Emission
+synccharts#Expression
+synccharts#OperatorType
+synccharts#Region
+synccharts#Signal
+synccharts#SignalReference
+synccharts#State
+synccharts#StateType
+synccharts#Transition
+synccharts#TransitionType
+synccharts#ValueType
+synccharts#ValuedObject

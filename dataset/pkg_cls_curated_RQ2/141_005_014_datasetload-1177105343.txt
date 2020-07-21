@@ -1,0 +1,7 @@
+package#DataSource
+package#TableGroup
+package#Table
+package#TableRow
+package#DataSourceJdbc
+package#EAttribute
+package#TableRowKey

@@ -1,0 +1,8 @@
+DependenciesDsl#projectName
+DependenciesDsl#dependencies
+DependenciesDsl#repositoryPath
+Dependency#group
+Dependency#artifact
+Dependency#version
+Dependency#start
+Dependency#restrict

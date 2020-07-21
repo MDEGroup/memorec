@@ -1,0 +1,4 @@
+xml_pois_structure#EClass0
+xml_pois_structure#EDataType0
+xml_pois_structure#EEnum0
+xml_pois_structure#EClass1

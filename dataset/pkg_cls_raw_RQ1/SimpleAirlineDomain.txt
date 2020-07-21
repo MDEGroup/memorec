@@ -1,0 +1,9 @@
+SimpleAirlineDomain#Airport
+SimpleAirlineDomain#Flight
+SimpleAirlineDomain#Airline
+SimpleAirlineDomain#Passenger
+SimpleAirlineDomain#Genre
+SimpleAirlineDomain#Time
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

@@ -1,0 +1,8 @@
+package#ExtendedPetriNet
+package#Place
+package#GeometryLabel
+package#AnimationLabel
+package#Token
+package#Arc
+package#Identity
+package#InputPlace

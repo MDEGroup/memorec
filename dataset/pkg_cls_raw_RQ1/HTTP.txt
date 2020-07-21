@@ -1,0 +1,10 @@
+http#HTTPBinding
+http#HTTPOperation
+http#HTTPUrlReplacement
+http#HTTPUrlEncoded
+http#HTTPAddress
+http#IHTTPAddress
+http#IHTTPBinding
+http#IHTTPOperation
+http#IHTTPUrlEncoded
+http#IHTTPUrlReplacement

@@ -1,0 +1,15 @@
+ros#Node
+ros#Package
+ros#Topic
+ros#Publisher
+ros#StandardMessageType
+ros#Subscriber
+ros#Service
+ros#ServiceServer
+ros#ServiceClient
+ros#Parameter
+ros#Action
+ros#ActionServer
+ros#ActionClient
+ros#Architecture
+ros#ParameterTypes

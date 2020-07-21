@@ -1,0 +1,12 @@
+TopRegion#states
+TopRegion#regions
+TopRegion#transitions
+Region#name
+Region#states
+Region#regions
+Region#transitions
+Transition#source
+Transition#target
+Transition#triggers
+Transition#guard
+Transition#behaviour

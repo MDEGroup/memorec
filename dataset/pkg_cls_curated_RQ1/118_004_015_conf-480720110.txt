@@ -1,0 +1,16 @@
+conf#System
+conf#Session
+conf#Location
+conf#Admin
+conf#Conference
+conf#Laboratory
+conf#Researcher
+conf#Publication
+conf#Person
+conf#Chapter
+conf#RevisionNote
+conf#SteeringComitee
+conf#ProgramComitee
+conf#Contribution
+conf#Evaluation
+conf#RevisionProcess

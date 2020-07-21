@@ -1,0 +1,6 @@
+Project#repository
+Project#name
+Project#properties
+Repository#provider
+Repository#name
+Repository#properties

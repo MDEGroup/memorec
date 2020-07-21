@@ -1,0 +1,13 @@
+package#XFormsDocumentRoot
+package#GroupType
+package#InputType
+package#LabelType
+package#ToggleType
+package#TriggerType
+package#SwitchType
+package#CaseType
+package#HintType
+package#SelectType
+package#ItemType
+package#AbstractInputType
+package#ButtonType

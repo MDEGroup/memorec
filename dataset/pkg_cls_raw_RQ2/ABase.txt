@@ -1,0 +1,6 @@
+package#Value
+package#IntValue
+package#RealValue
+package#StringValue
+package#BooleanValue
+package#BOOLEAN

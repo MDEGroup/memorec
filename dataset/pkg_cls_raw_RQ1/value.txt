@@ -1,0 +1,11 @@
+value#Error
+value#FloatValue
+value#IdentifierValue
+value#IntegerValue
+value#NumericValue
+value#StringValue
+value#TabularData
+value#TimeValue
+value#Value
+value#ValueSet
+value#Number

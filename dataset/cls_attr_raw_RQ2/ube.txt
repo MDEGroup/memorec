@@ -1,0 +1,6 @@
+Entity#name
+Entity#abstract
+Entity#features
+Feature#name
+Feature#kind
+Feature#type

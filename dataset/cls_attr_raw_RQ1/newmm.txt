@@ -1,0 +1,7 @@
+Entity#ownedAttribute
+Entity#specialization
+Entity#generalization
+model#propertys
+model#entitys
+model#types
+model#generalizations

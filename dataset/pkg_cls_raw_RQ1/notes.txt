@@ -1,0 +1,11 @@
+notes#NoteDocument
+notes#Namedelement
+notes#Section
+notes#Part
+notes#BulletPoint
+notes#TextPart
+notes#SimpleText
+notes#EmphasisedText
+notes#Bold
+notes#Italic
+notes#TypeWriter

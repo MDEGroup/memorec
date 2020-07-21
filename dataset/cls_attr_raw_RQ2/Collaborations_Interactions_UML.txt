@@ -1,0 +1,17 @@
+Collaboration#interaction
+Collaboration#ownedEltAss
+Collaboration#ownedEltClass
+ClassifierRole#associationEndRole
+ClassifierRole#receiverMess
+ClassifierRole#senderMess
+ClassifierRole#availableFeature
+ClassifierRole#base
+Message#message
+Message#activator
+Message#interaction
+Message#receiver
+Message#sender
+Message#specification
+Operation#message
+Operation#classifierRole
+Operation#owner

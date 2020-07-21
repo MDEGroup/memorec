@@ -1,0 +1,3 @@
+Preference#name
+Preference#type
+Preference#defaultValue

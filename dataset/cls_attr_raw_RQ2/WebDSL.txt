@@ -1,0 +1,12 @@
+RepeatableElement#name
+RepeatableElement#identifier
+RepeatableElement#children
+RepeatableElement#itemName
+Section#name
+Section#identifier
+Section#children
+Section#itemName
+InvertedSection#name
+InvertedSection#identifier
+InvertedSection#children
+InvertedSection#itemName

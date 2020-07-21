@@ -1,0 +1,3 @@
+package#BaseCamelBinding
+package#CamelSqlBindingType
+package#DocumentRoot

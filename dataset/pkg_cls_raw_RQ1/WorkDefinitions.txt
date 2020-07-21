@@ -1,0 +1,9 @@
+WorkDefinitions#WorkDefinition
+WorkDefinitions#ProcessPerformer
+WorkDefinitions#Role
+WorkDefinitions#WorkProduct
+WorkDefinitions#Lifecycle
+WorkDefinitions#Phase
+WorkDefinitions#Iteration
+WorkDefinitions#Activity
+WorkDefinitions#Step

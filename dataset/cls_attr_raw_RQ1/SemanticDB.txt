@@ -1,0 +1,13 @@
+ResourceTreeNode#name
+ResourceTreeNode#children
+ResourceTreeNode#parent
+ResourceTreeNode#exists
+ResourceTreeNode#templateID
+ResourceTreeNode#persistentProperties
+ResourceTreeNode#localOnly
+ResourceTreeNode#type
+ResourceTreeNode#sessionProperties
+ResourceTreeNode#path
+ResourceTreeNode#queryPart
+ResourceTreeNode#remoteURI
+ResourceTreeNode#dynamicContentProviderID

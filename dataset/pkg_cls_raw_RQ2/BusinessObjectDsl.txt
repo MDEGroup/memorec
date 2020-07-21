@@ -1,0 +1,9 @@
+package#Model
+package#Package
+package#Import
+package#BusinessObject
+package#Enumeration
+package#EnumLiteral
+package#Attribute
+package#Type
+package#SimpleType

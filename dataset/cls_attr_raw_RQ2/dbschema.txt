@@ -1,0 +1,13 @@
+Column#name
+Column#type
+Column#size
+Column#primary
+AttributeColumn#name
+AttributeColumn#type
+AttributeColumn#size
+AttributeColumn#primary
+ForeignKeyColumn#name
+ForeignKeyColumn#type
+ForeignKeyColumn#size
+ForeignKeyColumn#primary
+ForeignKeyColumn#referencedColumn

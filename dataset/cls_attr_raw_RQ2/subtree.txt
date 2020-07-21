@@ -1,0 +1,8 @@
+Subtree#incoming
+Subtree#outgoing
+Subtree#root
+Edge#source
+Edge#target
+Edge#sourceNode
+Edge#targetNode
+Edge#type

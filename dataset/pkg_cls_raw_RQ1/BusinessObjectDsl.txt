@@ -1,0 +1,9 @@
+businessObjectDsl#Model
+businessObjectDsl#Package
+businessObjectDsl#Import
+businessObjectDsl#BusinessObject
+businessObjectDsl#Enumeration
+businessObjectDsl#EnumLiteral
+businessObjectDsl#Attribute
+businessObjectDsl#Type
+businessObjectDsl#SimpleType

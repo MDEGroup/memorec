@@ -1,0 +1,7 @@
+robmod#Component
+robmod#Handler
+robmod#InputPort
+robmod#OutputPort
+robmod#Port
+robmod#Property
+robmod#ComponentType

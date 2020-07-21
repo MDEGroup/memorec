@@ -1,0 +1,17 @@
+sqlDSL#SModel
+sqlDSL#SSettings
+sqlDSL#SDBEngine
+sqlDSL#SArtifact
+sqlDSL#STable
+sqlDSL#STableMember
+sqlDSL#SColumn
+sqlDSL#SJoinColumn
+sqlDSL#SColumnProps
+sqlDSL#SExtDeclaredSQLType
+sqlDSL#SInlinedSQLType
+sqlDSL#SSimpleTypes
+sqlDSL#SIndex
+sqlDSL#SEnum
+sqlDSL#SEnumLiteral
+sqlDSL#SString
+sqlDSL#SDecimal

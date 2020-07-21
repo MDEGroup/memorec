@@ -1,0 +1,3 @@
+Memory#InstructionMemory
+Memory#DataMemory
+Memory#Registers

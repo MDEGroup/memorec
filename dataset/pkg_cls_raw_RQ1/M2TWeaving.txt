@@ -1,0 +1,5 @@
+M2TWeaving#WeavingModel
+M2TWeaving#WeavingModelContent
+M2TWeaving#WeavingLink
+M2TWeaving#TextElement
+M2TWeaving#SearchStrategy

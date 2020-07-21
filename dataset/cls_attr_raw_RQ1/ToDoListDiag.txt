@@ -1,0 +1,15 @@
+Task#name
+Task#status
+Task#importanceLevel
+Task#parentFolders
+Task#description
+Task#id
+Folder#tasks
+Folder#subFolders
+Folder#name
+Folder#id
+Folder#parent
+ToDoListManager#rootFolder
+ToDoListManager#folderManagerListener
+ToDoListManager#folders
+ToDoListManager#tasks

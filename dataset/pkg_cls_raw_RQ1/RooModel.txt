@@ -1,0 +1,6 @@
+roo#RooModel
+roo#Project
+roo#PersistenceSetup
+roo#javaVersion
+roo#providerType
+roo#databaseType

@@ -1,0 +1,5 @@
+package#EClass
+package#eLiterals
+package#EEnum
+package#EAttribute
+package#EReference

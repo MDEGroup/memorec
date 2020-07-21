@@ -1,0 +1,12 @@
+State#stateMachine
+State#associationStateStatedst
+State#associationStateStatesrc
+StateMachine#rootFolder
+StateMachine#state
+StateMachine#transition
+RootFolder#name
+RootFolder#rootFolders
+RootFolder#stateMachine
+AssociationStateState#transition
+AssociationStateState#dstTransition
+AssociationStateState#srcTransition

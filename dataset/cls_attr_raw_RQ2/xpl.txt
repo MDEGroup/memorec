@@ -1,0 +1,14 @@
+XplManager#networkState
+XplManager#networkStateListeners
+XplManager#networkAddress
+XplManager#deviceDiscoveryListeners
+XplManager#discoveredDevices
+XplDeviceIdentity#vendorID
+XplDeviceIdentity#deviceID
+XplDeviceIdentity#instanceID
+XplDiscoveredDevice#vendorID
+XplDiscoveredDevice#deviceID
+XplDiscoveredDevice#instanceID
+XplDiscoveredDevice#discoveryTime
+XplDiscoveredDevice#lastHeartbeatTime
+XplDiscoveredDevice#timedout

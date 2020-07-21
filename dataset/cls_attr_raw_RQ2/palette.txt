@@ -1,0 +1,13 @@
+Entry#toolTip
+Entry#largeIcon
+Entry#content
+Entry#name
+Entry#entries
+Entry#id
+Entry#icon
+Entry#context
+Entry#scope
+Entry#visible
+Entry#type
+Entry#initializer
+Entry#dataContext

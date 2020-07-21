@@ -1,0 +1,16 @@
+Action#effects
+Action#trigger
+Action#triggersAndEffects
+State#id
+State#label
+State#type
+State#signals
+State#regions
+State#outgoingTransitions
+State#isInitial
+State#isFinal
+State#bodyText
+Transition#type
+Transition#priority
+Transition#targetState
+Transition#isHistory

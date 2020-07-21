@@ -1,0 +1,13 @@
+package#Diagram
+package#FlabotFileModel
+package#VisualModel
+package#Adapter
+package#ConnectionBendpoint
+package#ConnectionVisualModel
+package#NodeVisualModel
+package#Folder
+package#Color
+package#Dimension
+package#Point
+package#EStringToEObjectMapEntry
+package#VisualDiagramJump

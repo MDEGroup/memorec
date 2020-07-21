@@ -1,0 +1,7 @@
+package#CompositeFormManager
+package#CompositeFormDescriptor
+package#CompositeFormPartDescriptor
+package#CompositeForm
+package#CompositeFormPart
+package#ICompositeFormPartFactory
+package#ICompositeFormPartOperations

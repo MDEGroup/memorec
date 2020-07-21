@@ -1,0 +1,5 @@
+webpage#MyWeb
+webpage#WebPage
+webpage#Category
+webpage#Article
+webpage#calendar

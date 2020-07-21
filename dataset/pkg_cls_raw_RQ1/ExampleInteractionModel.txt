@@ -1,0 +1,7 @@
+exampleinteractionmodel#Home
+exampleinteractionmodel#User
+exampleinteractionmodel#Order
+exampleinteractionmodel#LineItem
+exampleinteractionmodel#UserFull
+exampleinteractionmodel#Customer
+exampleinteractionmodel#Email

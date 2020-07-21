@@ -1,0 +1,10 @@
+uitf#TestCase
+uitf#TestSuite
+uitf#Variable
+uitf#UISUT
+uitf#UIControlVariable
+uitf#Statement
+uitf#UserInstructionEnum
+uitf#UIControl
+uitf#AssertInState
+uitf#TriggeredTransition

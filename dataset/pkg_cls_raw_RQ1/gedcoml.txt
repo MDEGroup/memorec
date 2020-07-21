@@ -1,0 +1,16 @@
+gedcoml#Projectdescription
+gedcoml#Family
+gedcoml#BekanntePerson
+gedcoml#FamilyBook
+gedcoml#FamilyImport
+gedcoml#PostAddress
+gedcoml#Sexus
+gedcoml#Address
+gedcoml#Married
+gedcoml#Note
+gedcoml#Author
+gedcoml#Source
+gedcoml#Others
+gedcoml#PersonRef
+gedcoml#UnbekanntePerson
+gedcoml#Person

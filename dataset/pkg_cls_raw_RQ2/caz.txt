@@ -1,0 +1,7 @@
+package#ArgumentDiagram
+package#Claim
+package#Argument
+package#Evidence
+package#Assumption
+package#Context
+package#Justification

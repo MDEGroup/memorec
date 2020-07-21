@@ -1,0 +1,5 @@
+package#ISpielProvider
+package#IStateAnalyzer
+package#IDataBaseWrapper
+package#IDisplayProvider
+package#EDisplay

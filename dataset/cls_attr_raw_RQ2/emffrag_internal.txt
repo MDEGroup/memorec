@@ -1,0 +1,5 @@
+FInternalObject#id
+FInternalObject#extensions
+FInternalObject#accessed
+FInternalObject#loaded
+FInternalObject#indexes

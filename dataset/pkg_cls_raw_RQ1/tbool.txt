@@ -1,0 +1,4 @@
+tbool#ClassTemplate
+tbool#PhNamedElementName
+tbool#IfClassMembers
+tbool#ForClassMembers

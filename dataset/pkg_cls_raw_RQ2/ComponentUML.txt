@@ -1,0 +1,8 @@
+package#String
+package#Boolean
+package#Integer
+package#Entity
+package#AssociationEnd
+package#Association
+package#Method
+package#Attribute

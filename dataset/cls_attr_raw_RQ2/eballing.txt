@@ -1,0 +1,13 @@
+Board#fields
+Board#selectedField
+Board#status
+Board#figureList
+Board#score
+Board#size
+Board#emptyFields
+Field#figure
+Field#x
+Field#y
+FigureList#figures
+FigureList#figureSort
+FigureList#figureBuffer

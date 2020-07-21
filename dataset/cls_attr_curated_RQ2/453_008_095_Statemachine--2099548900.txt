@@ -1,0 +1,8 @@
+State#initial
+State#final
+State#id
+State#name
+State#actions
+Transition#sourceState
+Transition#targetState
+Transition#event

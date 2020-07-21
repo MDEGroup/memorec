@@ -1,0 +1,8 @@
+class_diagramm_simple#Class
+class_diagramm_simple#ModifierType
+class_diagramm_simple#Package
+class_diagramm_simple#Attribute
+class_diagramm_simple#DataType
+class_diagramm_simple#Association
+class_diagramm_simple#Method
+class_diagramm_simple#Parameter

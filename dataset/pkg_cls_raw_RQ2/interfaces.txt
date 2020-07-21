@@ -1,0 +1,15 @@
+package#IControlDashboard
+package#IDisplay
+package#IFuelometer
+package#IGauge
+package#IGaugeAnalogicDisplay
+package#IGaugeDigitalDisplay
+package#IGaugeDisplay
+package#IGaugeMonotonic
+package#IGaugeValue
+package#IGaugeVariant
+package#ILocTracker
+package#IOdometer
+package#ISpeedometer
+package#Observer
+package#Exception

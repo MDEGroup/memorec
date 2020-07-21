@@ -1,0 +1,6 @@
+FiniteTransition#trigger
+FiniteTransition#guard
+FiniteTransition#action
+FiniteState#name
+FiniteState#position
+FiniteState#isInit

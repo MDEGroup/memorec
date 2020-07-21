@@ -1,0 +1,4 @@
+InterfaceEthernet#id
+InterfaceEthernet#ip
+InterfaceEthernet#portNumber
+InterfaceEthernet#server

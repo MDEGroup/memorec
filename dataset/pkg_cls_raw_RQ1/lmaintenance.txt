@@ -1,0 +1,7 @@
+lmaintenance#CondDescType
+lmaintenance#DocumentRoot
+lmaintenance#TExtensionMopEnum
+lmaintenance#TMOP
+lmaintenance#TMopEnum
+lmaintenance#TMopEnumObject
+lmaintenance#TRestrName1stL

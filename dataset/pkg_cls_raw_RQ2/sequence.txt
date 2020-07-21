@@ -1,0 +1,10 @@
+package#DNASequence
+package#MolecularPhylogeny
+package#MultipleSequenceAlignment
+package#NucleotideSequence
+package#NucleotideSequenceFeature
+package#PeptideSequence
+package#PeptideSequenceFeature
+package#RNASequence
+package#Sequence
+package#SimpleSequence

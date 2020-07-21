@@ -1,0 +1,15 @@
+package#Integer
+package#String
+package#Boolean
+package#Double
+package#AWKProgram
+package#File
+package#Record
+package#Field
+package#Script
+package#Rule
+package#Pattern
+package#Action
+package#Instruction
+package#InitialRule
+package#FinalRule

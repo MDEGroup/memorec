@@ -1,0 +1,8 @@
+Calendar#Calendar
+Calendar#Profile
+Calendar#Event
+Calendar#Contact
+Calendar#Person
+Calendar#Group
+Calendar#Image
+Calendar#String

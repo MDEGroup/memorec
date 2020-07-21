@@ -1,0 +1,11 @@
+package#AIService
+package#AI
+package#ActorAI
+package#NPCAI
+package#CharacterAI
+package#PetAI
+package#MonsterAI
+package#Desire
+package#AttackDesire
+package#CastDesire
+package#AbstractDesire

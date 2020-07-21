@@ -1,0 +1,12 @@
+ModelType#compose
+ModelType#isComposedBy
+ModelType#classes
+ModelType#modelOperations
+ModelType#dse
+ModelOperation#pre
+ModelOperation#post
+ModelOperation#modelElementOperations
+LanguageCompositionOperator#source
+LanguageCompositionOperator#target
+LanguageCompositionOperator#isTransient
+LanguageCompositionOperator#adaptations

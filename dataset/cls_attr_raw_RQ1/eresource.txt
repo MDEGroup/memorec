@@ -1,0 +1,12 @@
+CDOResourceNode#folder
+CDOResourceNode#name
+CDOResourceNode#path
+CDOResource#resourceSet
+CDOResource#uRI
+CDOResource#contents
+CDOResource#modified
+CDOResource#loaded
+CDOResource#trackingModification
+CDOResource#errors
+CDOResource#warnings
+CDOResource#timeStamp

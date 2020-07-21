@@ -1,0 +1,11 @@
+package#CreatePackage
+package#CreateProperty
+package#CreateType
+package#DeletePackages
+package#DeleteProperties
+package#DeleteTypes
+package#Mapping
+package#Mappings
+package#PackageMapping
+package#PropertyMapping
+package#TypeMapping

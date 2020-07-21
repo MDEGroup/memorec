@@ -1,0 +1,17 @@
+CounterActor#valuesAfter
+CounterActor#valuesBefore
+CounterActor#name
+CounterActor#model
+Value#type
+Value#asBefore
+Value#asAfter
+Value#ID
+Value#inSet
+NormalActor#valuesAfter
+NormalActor#valuesBefore
+NormalActor#name
+NormalActor#model
+Actor#valuesAfter
+Actor#valuesBefore
+Actor#name
+Actor#model

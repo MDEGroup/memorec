@@ -1,0 +1,6 @@
+package#ImplementationSettings
+package#Property
+package#WaveDevSettings
+package#ImplIdToSettingsMap
+package#FileToCRCMap
+package#PortRepToGeneratorMap

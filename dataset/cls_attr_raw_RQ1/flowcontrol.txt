@@ -1,0 +1,10 @@
+FlowElement#out
+FlowElement#in
+FlowElement#diagram
+FlowDiagram#elements
+FlowDiagram#transitions
+FlowDiagram#parameterMappings
+FlowDiagram#start
+FlowDiagram#end
+FlowDiagram#strict
+FlowDiagram#rollback

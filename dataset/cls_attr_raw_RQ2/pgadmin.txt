@@ -1,0 +1,12 @@
+Catalogo#descripcion
+Catalogo#fecRegistro
+Catalogo#idCatalogo
+Catalogo#nombre
+Catalogo#catalogoDetalles
+CatalogoDetalle#codigo
+CatalogoDetalle#descripcion
+CatalogoDetalle#estado
+CatalogoDetalle#fechaCambio
+CatalogoDetalle#idCatalogoDetalle
+CatalogoDetalle#valor
+CatalogoDetalle#idCatalogo

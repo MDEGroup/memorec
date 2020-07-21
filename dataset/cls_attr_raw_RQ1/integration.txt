@@ -1,0 +1,8 @@
+ProcessComponentInteraction#initiatorProcessComponent
+ProcessComponentInteraction#processComponent
+ProcessComponentInteraction#uses
+ProcessComponentInteraction#methodCalls
+ProcessComponentInteraction#subscriptions
+Attribute#use
+Attribute#val
+Attribute#type

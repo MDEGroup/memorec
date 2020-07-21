@@ -1,0 +1,14 @@
+KDMEntity#name
+KDMEntity#inbound
+KDMEntity#outbound
+KDMEntity#owner
+KDMEntity#group
+KDMEntity#model
+KDMRelationship#to
+KDMRelationship#from
+KDMRelationship#model
+Stereotype#baseClass
+Stereotype#name
+Stereotype#family
+Stereotype#extendedElement
+Stereotype#tag

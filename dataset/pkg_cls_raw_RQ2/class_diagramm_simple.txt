@@ -1,0 +1,8 @@
+package#Class
+package#ModifierType
+package#Package
+package#Attribute
+package#DataType
+package#Association
+package#Method
+package#Parameter

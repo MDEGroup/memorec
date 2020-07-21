@@ -1,0 +1,10 @@
+rdb#DB
+rdb#Table
+rdb#Column
+rdb#Rectangle
+rdb#Relation
+rdb#Point
+rdb#RelationKind
+rdb#View
+rdb#ERDInfo
+rdb#UserComment

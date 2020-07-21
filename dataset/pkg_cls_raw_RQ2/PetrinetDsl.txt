@@ -1,0 +1,8 @@
+package#PetriNet
+package#Resource
+package#Place
+package#Storage
+package#Transaction
+package#AssureStatement
+package#TakeStatement
+package#PutStatement

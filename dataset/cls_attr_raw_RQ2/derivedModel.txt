@@ -1,0 +1,14 @@
+DerivedOPRModel#queryDefinitions
+DerivedOPRModel#contents
+DerivedOPRModel#undefinedServiceTasks
+DerivedOPRModel#incorrectEntriesInChecklist
+TaskJobCrs#queryDefinition
+TaskJobCrs#tasks
+TaskJobCrs#jobs
+DataConnection#queryDefinition
+DataConnection#source
+DataConnection#targets
+EntryTaskJobCrs#queryDefinition
+EntryTaskJobCrs#jobs
+EntryTaskJobCrs#task
+EntryTaskJobCrs#entry

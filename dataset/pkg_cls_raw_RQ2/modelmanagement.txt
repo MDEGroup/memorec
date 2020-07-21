@@ -1,0 +1,8 @@
+package#Package
+package#NamedElement
+package#Application
+package#PackageOwner
+package#Module
+package#ProcessComponent
+package#ProcessComponentInsideCompany
+package#ProcessComponentOutsideCompany

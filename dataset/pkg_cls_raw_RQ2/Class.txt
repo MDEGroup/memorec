@@ -1,0 +1,8 @@
+package#Boolean
+package#Integer
+package#String
+package#NamedElt
+package#Classifier
+package#DataType
+package#Class
+package#Attribute

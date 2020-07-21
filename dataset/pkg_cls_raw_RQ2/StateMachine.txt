@@ -1,0 +1,9 @@
+package#NamedElement
+package#StateMachine
+package#State
+package#StateMachineDescription
+package#Region
+package#AbstractState
+package#Transition
+package#InitialState
+package#FinalState

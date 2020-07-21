@@ -1,0 +1,16 @@
+package#ActivitiesType
+package#ActivityType
+package#ConnectorGraphicsInfosType
+package#ConnectorGraphicsInfoType
+package#DocumentRoot
+package#PackageHeaderType
+package#PackageType
+package#ParticipantType
+package#ParticipantTypeType
+package#ProcessHeaderType
+package#RedefinableHeaderType
+package#TransitionsType
+package#TransitionType
+package#WorkflowProcessesType
+package#WorkflowProcessType
+package#XpdlParticipantsType

@@ -1,0 +1,3 @@
+Mapping#sourceType
+Mapping#targetType
+Mapping#attributeMap

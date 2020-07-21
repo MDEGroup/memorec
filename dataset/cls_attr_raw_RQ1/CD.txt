@@ -1,0 +1,12 @@
+Clase#atributos
+Clase#metodos
+Clase#relacionesFuente
+Clase#relacionesDestino
+Clase#aspecto
+Metodo#visibilidad
+Metodo#tipoDevuelto
+Metodo#parametros
+Relacion#destino
+Relacion#fuente
+Relacion#cardFuente
+Relacion#cardDestino

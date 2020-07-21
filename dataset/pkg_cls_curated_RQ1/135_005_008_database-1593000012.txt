@@ -1,0 +1,4 @@
+database#Schema
+database#Table
+database#Column
+database#ForeignKey

@@ -1,0 +1,9 @@
+Moml-simplified#ClassType
+Moml-simplified#DirectorType
+Moml-simplified#EntityType
+Moml-simplified#LinkType
+Moml-simplified#LocationType
+Moml-simplified#PortType
+Moml-simplified#PropertyType
+Moml-simplified#RelationType
+Moml-simplified#VertexType

@@ -1,0 +1,13 @@
+package#SLA
+package#Provider
+package#Customer
+package#Constraint
+package#SLO
+package#Penalty
+package#DataLocationConstraint
+package#PerformanceConstraint
+package#Obligation
+package#DataLocationObligation
+package#DataLocationPenalty
+package#Subject
+package#Condition

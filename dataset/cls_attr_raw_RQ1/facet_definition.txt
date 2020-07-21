@@ -1,0 +1,9 @@
+FacetType#name
+FacetType#multiValue
+FacetType#description
+FacetType#values
+FacetType#container
+FacetValue#name
+FacetValue#description
+FacetValue#value
+FacetValue#children

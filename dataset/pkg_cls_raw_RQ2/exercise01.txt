@@ -1,0 +1,7 @@
+package#Customer
+package#Order
+package#Product
+package#OrderState
+package#Shoe
+package#Shirt
+package#Wearable

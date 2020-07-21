@@ -1,0 +1,3 @@
+Modification#sourceEObjectUri
+Modification#sourceStart
+Modification#replacementText

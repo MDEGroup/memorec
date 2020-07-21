@@ -1,0 +1,3 @@
+FlowDiagram#nodes
+FlowDiagram#edges
+FlowDiagram#isFinalMandatory

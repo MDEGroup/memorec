@@ -1,0 +1,10 @@
+XpectJavaModel#testOrSuite
+XpectJavaModel#setups
+XpectJavaModel#tests
+XpectJavaModel#methods
+XjmClass#jvmClass
+XjmClass#javaClass
+XjmClass#parameterAdapters
+XjmMethod#test
+XjmMethod#jvmMethod
+XjmMethod#javaMethod

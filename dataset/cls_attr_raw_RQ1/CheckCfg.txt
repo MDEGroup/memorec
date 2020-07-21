@@ -1,0 +1,6 @@
+CheckConfiguration#label
+CheckConfiguration#catalogConfigurations
+CheckConfiguration#name
+ConfiguredCheck#severity
+ConfiguredCheck#check
+ConfiguredCheck#parameterConfigurations

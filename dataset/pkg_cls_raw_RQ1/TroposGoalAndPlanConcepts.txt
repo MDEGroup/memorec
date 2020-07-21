@@ -1,0 +1,11 @@
+GoalAndPlanConcepts#Actor
+GoalAndPlanConcepts#Decomposition
+GoalAndPlanConcepts#Contribution
+GoalAndPlanConcepts#Goal
+GoalAndPlanConcepts#MeansEnd
+GoalAndPlanConcepts#Resource
+GoalAndPlanConcepts#Plan
+GoalAndPlanConcepts#BooleanDecomposition
+GoalAndPlanConcepts#BooleanDecLink
+GoalAndPlanConcepts#AndDecLink
+GoalAndPlanConcepts#OrDecLink

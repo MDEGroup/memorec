@@ -1,0 +1,5 @@
+FileVersion#timestamp
+FileVersion#path
+FileVersion#checksum
+FileVersion#syncPoint
+FileVersion#syncChecksum

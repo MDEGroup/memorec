@@ -1,0 +1,11 @@
+MGraph#name
+MGraph#nodes
+MGraph#edges
+MEdge#name
+MEdge#inComing
+MEdge#outGoing
+MEdge#graph
+MNode#name
+MNode#graph
+MNode#from
+MNode#to

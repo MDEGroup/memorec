@@ -1,0 +1,6 @@
+Connector#source
+Connector#target
+Connector#port
+Port#portType
+Port#portEncoding
+Port#myConnection

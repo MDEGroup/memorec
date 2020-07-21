@@ -1,0 +1,12 @@
+package#Conference
+package#Talk
+package#Person
+package#Track
+package#Subject
+package#Day
+package#Location
+package#Day
+package#Story
+package#Task
+package#Participant
+package#Attitude

@@ -1,0 +1,16 @@
+package#ArchiveType
+package#ArgumentPair
+package#Classpath
+package#ExcludeType
+package#External
+package#FilesetType
+package#IncludeType
+package#JndiConnection
+package#LaunchConfiguration
+package#Module
+package#Port
+package#Project
+package#Property
+package#Publisher
+package#PublisherData
+package#ServerRuntime

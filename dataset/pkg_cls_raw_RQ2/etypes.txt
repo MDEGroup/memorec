@@ -1,0 +1,5 @@
+package#Blob
+package#Clob
+package#ModelElement
+package#Annotation
+package#Lob

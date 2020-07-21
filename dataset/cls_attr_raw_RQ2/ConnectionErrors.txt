@@ -1,0 +1,4 @@
+Error#description
+Error#name
+Error#connectionRule
+Error#missingStates

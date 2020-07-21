@@ -1,0 +1,10 @@
+eclipsecon#Schedule
+eclipsecon#TimeSlot
+eclipsecon#Tutorial
+eclipsecon#Conference
+eclipsecon#Participant
+eclipsecon#Presenter
+eclipsecon#Handout
+eclipsecon#HandoutKind
+eclipsecon#Resource
+eclipsecon#Profile

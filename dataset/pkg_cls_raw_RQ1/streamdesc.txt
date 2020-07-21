@@ -1,0 +1,8 @@
+streamdesc#StreamDescription
+streamdesc#SlidingWindow
+streamdesc#ElementSlidingWindow
+streamdesc#TimeSlidingWindow
+streamdesc#KeySpec
+runtime#StreamedFragment
+runtime#Annotation
+runtime#IsProxyAnnotation

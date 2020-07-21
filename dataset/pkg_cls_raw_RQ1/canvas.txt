@@ -1,0 +1,9 @@
+model#Iconic
+model#HintProvider
+model#HelpHintProvider
+model#NotesContent
+model#CanvasModel
+model#CanvasModelSticky
+model#CanvasModelBlock
+model#CanvasModelImage
+model#CanvasModelConnection

@@ -1,0 +1,13 @@
+ServerComputer#interfaces
+ServerComputer#ipconfigs
+ServerComputer#connections
+ServerComputer#name
+ServerComputer#group
+StaticIPConfig#ipAddress
+StaticIPConfig#netmask
+StaticIPConfig#networkAddress
+StaticIPConfig#gateway
+StaticIPConfig#broadcast
+AbstractInterface#ipconfig
+AbstractInterface#configType
+AbstractInterface#name

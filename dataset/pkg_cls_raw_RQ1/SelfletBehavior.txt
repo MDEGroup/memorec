@@ -1,0 +1,13 @@
+selfletbehavior#Behavior
+selfletbehavior#State
+selfletbehavior#Init
+selfletbehavior#Final
+selfletbehavior#Intermediate
+selfletbehavior#Invocation
+selfletbehavior#Elementary
+selfletbehavior#Complex
+selfletbehavior#Selflet
+selfletbehavior#Service
+selfletbehavior#Condition
+selfletbehavior#Action
+selfletbehavior#FileReference

@@ -1,0 +1,5 @@
+Person#firstName
+Person#lastName
+Person#gender
+Person#isMarried
+Person#phone

@@ -1,0 +1,3 @@
+DomainPropertiesSynchronizer#contexts
+DomainPropertiesSynchronizer#genNodes
+DomainPropertiesSynchronizer#actions

@@ -1,0 +1,13 @@
+MessageHeaderItem#name
+MessageHeaderItem#title
+MessageHeaderItem#order
+MessageHeaderItem#itemLength
+MessageHeaderItem#dataType
+MessageHeaderItem#dataLength
+MessageHeaderItem#dataScale
+MessageHeaderItem#dataPattern
+MessageHeaderItem#isMandatory
+MessageHeaderItem#defaultValue
+MessageHeaderPart#name
+MessageHeaderPart#order
+MessageHeaderPart#items

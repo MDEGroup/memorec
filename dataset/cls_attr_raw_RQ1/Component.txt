@@ -1,0 +1,6 @@
+Component#name
+Component#version
+Component#specBuilder
+Component#outputAlias
+Component#inputAlias
+Component#always

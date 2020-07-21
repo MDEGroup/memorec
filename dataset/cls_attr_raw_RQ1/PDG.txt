@@ -1,0 +1,7 @@
+ExpressionNode#name
+ExpressionNode#expression
+ExpressionNode#dataDependenceNodes
+ExpressionNode#controlDependenceNodes
+Expression#name
+Expression#isIdentifier
+Expression#innerExpressions

@@ -1,0 +1,14 @@
+IdentifiedObject#aliasName
+IdentifiedObject#Names
+IdentifiedObject#name
+Name#NameType
+Name#name
+Name#IdentifiedObject
+Location#PowerSystemResources
+Location#PositionPoints
+Location#CoordinateSystem
+PositionPoint#xPosition
+PositionPoint#zPosition
+PositionPoint#Location
+PositionPoint#sequenceNumber
+PositionPoint#yPosition

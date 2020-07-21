@@ -1,0 +1,11 @@
+ODPIV#InvariantSchema
+ODPIV#InformationObjectTemplate
+ODPIV#InformationObjectType
+ODPIV#InformationObject
+ODPIV#State
+ODPIV#StateChange
+ODPIV#DynamicSchema
+ODPIV#StaticSchema
+ODPIV#Action
+ODPIV#ActionType
+ODPIV#ActionTemplate

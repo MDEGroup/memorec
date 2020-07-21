@@ -1,0 +1,4 @@
+Module#input
+Module#output
+Module#instances
+Module#types

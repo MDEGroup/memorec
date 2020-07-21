@@ -1,0 +1,17 @@
+package#DcdComponentPlacement
+package#DcdComponentInstantiation
+package#DcdPartitioning
+package#DcdComponentInstantiationRef
+package#DcdConnectInterface
+package#DcdUsesPort
+package#DcdProvidesPort
+package#DcdConnections
+package#CompositePartOfDevice
+package#DcdDocumentRoot
+package#DeployOnDevice
+package#DeviceConfiguration
+package#DeviceManagerSoftPkg
+package#DevicePkgFile
+package#DomainManager
+package#FileSystemName
+package#FileSystemNames

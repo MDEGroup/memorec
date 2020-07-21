@@ -1,0 +1,11 @@
+Session#training
+Session#date
+Session#trainer
+Session#Trainees
+TrainingOrganization#name
+TrainingOrganization#people
+TrainingOrganization#sessions
+TrainingOrganization#training
+Trainer#firstname
+Trainer#lastname
+Trainer#canProvide

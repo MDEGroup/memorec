@@ -1,0 +1,6 @@
+Embedder#firstEmbedded
+Embedder#secondEmbedded
+Embedder#thirdEmbedded
+Embedder#fourthEmbedded
+Embedder#fifthEmbedded
+Embedder#alsoEmbeddable

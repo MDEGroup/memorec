@@ -1,0 +1,13 @@
+CamelSqlBindingType#contextMapper
+CamelSqlBindingType#messageComposer
+CamelSqlBindingType#query
+CamelSqlBindingType#dataSourceRef
+CamelSqlBindingType#batch
+CamelSqlBindingType#placeholder
+CamelSqlBindingType#initialDelay
+CamelSqlBindingType#period
+CamelSqlBindingType#timerName
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#bindingSql

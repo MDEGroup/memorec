@@ -1,0 +1,10 @@
+package#HTTPBinding
+package#HTTPOperation
+package#HTTPUrlReplacement
+package#HTTPUrlEncoded
+package#HTTPAddress
+package#IHTTPAddress
+package#IHTTPBinding
+package#IHTTPOperation
+package#IHTTPUrlEncoded
+package#IHTTPUrlReplacement

@@ -1,0 +1,13 @@
+fiber#Model
+fiber#Type
+fiber#ClassType
+fiber#SimpleType
+fiber#TypeId
+fiber#Class
+fiber#Attribute
+fiber#AttributeManyReference
+fiber#Enumeration
+fiber#EnumerationLiteral
+fiber#Service
+fiber#Method
+fiber#Parameter

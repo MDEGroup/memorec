@@ -1,0 +1,13 @@
+xforms#XFormsDocumentRoot
+xforms#GroupType
+xforms#InputType
+xforms#LabelType
+xforms#ToggleType
+xforms#TriggerType
+xforms#SwitchType
+xforms#CaseType
+xforms#HintType
+xforms#SelectType
+xforms#ItemType
+xforms#AbstractInputType
+xforms#ButtonType

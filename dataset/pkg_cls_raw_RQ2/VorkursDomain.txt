@@ -1,0 +1,14 @@
+package#RegistrationSystem
+package#Person
+package#Address
+package#Notebook
+package#Nationality
+package#Contact
+package#TeachingAssistant
+package#Subject
+package#Qualification
+package#Gender
+package#Student
+package#ProgrammingLanguage
+package#Room
+package#OperatingSystem

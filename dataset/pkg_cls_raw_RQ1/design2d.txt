@@ -1,0 +1,3 @@
+design2d#DesignStyle
+design2d#ClassDesignStyle
+design2d#PluginDesignStyle

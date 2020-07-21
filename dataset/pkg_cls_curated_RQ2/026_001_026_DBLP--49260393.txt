@@ -1,0 +1,15 @@
+package#Record
+package#Article
+package#Author
+package#Journal
+package#Book
+package#InCollection
+package#InProceedings
+package#MastersThesis
+package#Proceedings
+package#PhDThesis
+package#Www
+package#Editor
+package#Organization
+package#Publisher
+package#School

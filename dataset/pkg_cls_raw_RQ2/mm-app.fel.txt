@@ -1,0 +1,10 @@
+package#ModelRoot
+package#Model
+package#ModelOperation
+package#NamedElement
+package#Class
+package#InheritanceType
+package#ReferenceType
+package#ClassSerialization
+package#Property
+package#PropertySerialization

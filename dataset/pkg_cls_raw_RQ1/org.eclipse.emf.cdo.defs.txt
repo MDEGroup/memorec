@@ -1,0 +1,13 @@
+defs#CDOViewDef
+defs#CDOTransactionDef
+defs#CDOAuditDef
+defs#CDOSessionDef
+defs#CDOPackageRegistryDef
+defs#CDOEagerPackageRegistryDef
+defs#CDOLazyPackageRegistryDef
+defs#EPackageDef
+defs#EDynamicPackageDef
+defs#EGlobalPackageDef
+defs#CDOClientProtocolFactoryDef
+defs#CDOResourceDef
+defs#ResourceMode

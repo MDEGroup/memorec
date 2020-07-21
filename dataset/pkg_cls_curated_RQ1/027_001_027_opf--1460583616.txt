@@ -1,0 +1,12 @@
+opf#Package
+opf#Metadata
+opf#Manifest
+opf#Item
+opf#Spine
+opf#Guide
+opf#Reference
+opf#Itemref
+opf#Tours
+opf#Role
+opf#Type
+opf#Meta

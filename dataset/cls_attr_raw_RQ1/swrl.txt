@@ -1,0 +1,15 @@
+BuiltInAtom#builtInAtom
+BuiltInAtom#args
+BuiltInAtom#builtIn
+IndividualPropertyAtom#propertyPredicate
+IndividualPropertyAtom#argument1
+IndividualPropertyAtom#argument2
+DatavaluedPropertyAtom#propertyPredicate
+DatavaluedPropertyAtom#argument2
+DatavaluedPropertyAtom#argument1
+DataRangeAtom#dataType
+DataRangeAtom#oneOf
+DataRangeAtom#argument1
+DataValue#conceptType
+DataValue#literal
+DataValue#type

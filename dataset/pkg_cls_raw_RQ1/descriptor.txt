@@ -1,0 +1,13 @@
+descriptor#DescriptorLibrary
+descriptor#TriggerDesc
+descriptor#ConditionDesc
+descriptor#ConditionalStepDesc
+descriptor#DomainObjectDesc
+descriptor#QueryDesc
+descriptor#BuildingBlockDesc
+descriptor#Property
+descriptor#Value
+descriptor#StepDesc
+descriptor#Classifier
+descriptor#NamedElement
+descriptor#DataType

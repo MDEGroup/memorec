@@ -1,0 +1,17 @@
+Net#places
+Net#transitions
+Net#arcs
+Place#net
+Place#name
+Place#in
+Place#out
+Transition#net
+Transition#name
+Transition#in
+Transition#out
+PTArc#net
+PTArc#s
+PTArc#d
+TPArc#net
+TPArc#s
+TPArc#d

@@ -1,0 +1,9 @@
+Graph#GraphNodes
+Graph#Start
+Graph#End
+Node#Name
+Node#OutGoingEdges
+Node#IncomingEdges
+Edge#Value
+Edge#Target
+Edge#Source

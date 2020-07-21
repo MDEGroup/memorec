@@ -1,0 +1,5 @@
+emftasks#SimpleTask
+emftasks#Status
+emftasks#Priority
+emftasks#Category
+emftasks#TaskCollection

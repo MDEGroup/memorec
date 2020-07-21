@@ -1,0 +1,3 @@
+WorkSequence#linkType
+WorkSequence#predecessor
+WorkSequence#successor

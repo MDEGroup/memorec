@@ -1,0 +1,11 @@
+JavaProject#JavaProject
+JavaProject#PackageFragment
+JavaProject#CompilationUnit
+JavaProject#ImportDeclaration
+JavaProject#Type
+JavaProject#Field
+JavaProject#Method
+JavaProject#JavaElement
+JavaProject#MEMBER_KIND
+JavaProject#NamedElement
+JavaProject#PackageDeclaration

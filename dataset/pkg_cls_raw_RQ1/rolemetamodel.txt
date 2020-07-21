@@ -1,0 +1,9 @@
+rolemetamodel#RoleModel
+rolemetamodel#Role
+rolemetamodel#Type
+rolemetamodel#Enum
+rolemetamodel#Literal
+rolemetamodel#RoleFeature
+rolemetamodel#Attribute
+rolemetamodel#Reference
+rolemetamodel#PrimitiveType

@@ -1,0 +1,3 @@
+Entity#attributes
+Entity#parameters
+Entity#ports

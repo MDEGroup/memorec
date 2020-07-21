@@ -1,0 +1,4 @@
+ModelRegistration#accessor
+ModelRegistration#kind
+ModelRegistration#serialization
+ModelRegistration#uri

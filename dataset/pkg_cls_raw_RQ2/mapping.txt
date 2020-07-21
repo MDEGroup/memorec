@@ -1,0 +1,13 @@
+package#MappingContainer
+package#Mapping
+package#PartnerActivityToAtomicActionMapping
+package#ProcessToCompositeActionMapping
+package#SequenceToSequenceMapping
+package#IfToIfThenElseMapping
+package#WhileToRepeatWhileMapping
+package#RepeatUntilToRepeatUntilMapping
+package#FlowToSplitJoinMapping
+package#ForToRepeatWhileMapping
+package#ScopeToCompositeActionMapping
+package#ElseIfToIfThenElseMapping
+package#ElseToElseMapping

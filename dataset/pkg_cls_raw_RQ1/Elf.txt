@@ -1,0 +1,5 @@
+elf#Model
+elf#namespaceDeclaration
+elf#signatureDeclaration
+elf#sigDefinitions
+elf#TempType

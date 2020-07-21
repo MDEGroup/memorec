@@ -1,0 +1,15 @@
+package#System
+package#Component
+package#Connector
+package#Attachment
+package#Role
+package#Port
+package#Element
+package#Property
+package#AspectualConnector
+package#CrosscuttingRole
+package#BaseRole
+package#Glue
+package#AttachmentDeclaration
+package#Binding
+package#AspectualComponent

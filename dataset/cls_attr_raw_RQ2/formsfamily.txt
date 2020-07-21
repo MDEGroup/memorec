@@ -1,0 +1,13 @@
+BasicItem#text
+BasicItem#explanation
+BasicItem#itemType
+BasicItem#dependentOf
+Group#items
+Group#name
+Group#form
+LikertScale#text
+LikertScale#explanation
+LikertScale#options
+GuttmanScale#text
+GuttmanScale#explanation
+GuttmanScale#options

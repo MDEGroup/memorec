@@ -1,0 +1,15 @@
+abapmapping#AbapClassImplementationAnnotation
+abapmapping#AbapAssociationImplementationAnnotation
+abapmapping#AbapAssociationEndImplementationAnnotation
+abapmapping#AbapSignatureImplementationAnnotation
+abapmapping#AbapClassKind
+abapmapping#AbapSignatureKind
+abapdictionary#XsdType
+abapdictionary#UnstructuredAbapType
+abapdictionary#CodeValue
+abapdictionary#Code
+abapdictionary#DataElement
+abapdictionary#AbapType
+abapdictionary#AbapStructureType
+abapdictionary#AbapStructureField
+abapdictionary#AbapPrimtiveType

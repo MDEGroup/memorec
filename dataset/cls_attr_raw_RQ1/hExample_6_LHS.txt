@@ -1,0 +1,6 @@
+model#containsA
+model#containsB
+model#containsC
+A#name
+A#refB
+A#contC

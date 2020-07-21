@@ -1,0 +1,7 @@
+adata#Run
+adata#Parameter
+adata#DataPoint
+adata#Catalog
+adata#Measurement
+adata#ScaleType
+adata#ParameterSet

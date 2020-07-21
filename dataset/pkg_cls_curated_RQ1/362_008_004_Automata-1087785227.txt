@@ -1,0 +1,6 @@
+automata#Automata
+automata#State
+automata#Transition
+automata#Initial
+automata#Final
+automata#Current

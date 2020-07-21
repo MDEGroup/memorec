@@ -1,0 +1,16 @@
+AnyType#mixed
+AnyType#any
+AnyType#anyAttribute
+SimpleAnyType#mixed
+SimpleAnyType#any
+SimpleAnyType#anyAttribute
+SimpleAnyType#rawValue
+SimpleAnyType#value
+SimpleAnyType#instanceType
+XMLTypeDocumentRoot#mixed
+XMLTypeDocumentRoot#xMLNSPrefixMap
+XMLTypeDocumentRoot#xSISchemaLocation
+XMLTypeDocumentRoot#cDATA
+XMLTypeDocumentRoot#comment
+XMLTypeDocumentRoot#processingInstruction
+XMLTypeDocumentRoot#text

@@ -1,0 +1,13 @@
+Policy#roles
+Policy#rules
+Policy#resources
+Policy#users
+Policy#contexts
+Permission#role
+Permission#actions
+Permission#name
+Delegation#delegator
+Delegation#delegatee
+Delegation#isActive
+Delegation#isMonotonic
+Delegation#duration

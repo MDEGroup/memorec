@@ -1,0 +1,10 @@
+formular#Formular
+formular#Frage
+formular#AntwortTyp
+formular#Freitext
+formular#Auswahl
+formular#Option
+formular#Datum
+formular#Zahl
+formular#Gruppe
+formular#Entscheidung

@@ -1,0 +1,8 @@
+package#Board
+package#Field
+package#Status
+package#FigureList
+package#Figure
+package#Score
+package#PointsValues
+package#FiguresType

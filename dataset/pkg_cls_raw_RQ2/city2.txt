@@ -1,0 +1,5 @@
+package#City
+package#House
+package#Mansion
+package#Appartment
+package#Mayor

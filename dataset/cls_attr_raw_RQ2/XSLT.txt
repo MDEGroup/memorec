@@ -1,0 +1,5 @@
+XSLTProvides#stylesheet
+XSLTProvides#transformerFactoryMin
+XSLTProvides#transformerFactoryMax
+XSLTProvides#outputAttachmentName
+XSLTProvides#xsltEngineFactoryClassName

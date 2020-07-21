@@ -1,0 +1,16 @@
+package#FeatureInstance
+package#InstanceObject
+package#ConnectionInstanceEnd
+package#ConnectionInstance
+package#FlowElementInstance
+package#SystemOperationMode
+package#ModeInstance
+package#ModeTransitionInstance
+package#ConnectionKind
+package#ConnectionReference
+package#ComponentInstance
+package#FlowSpecificationInstance
+package#EndToEndFlowInstance
+package#FeatureCategory
+package#SystemInstance
+package#InstanceReferenceValue

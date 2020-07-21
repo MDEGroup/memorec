@@ -1,0 +1,17 @@
+documentation#Documentation
+documentation#Section
+documentation#Subsection
+documentation#Subsubsection
+documentation#TextFragmentContainer
+documentation#Paragraph
+documentation#Fragment
+documentation#Line
+documentation#List
+documentation#ListItem
+documentation#NamedElement
+documentation#Table
+documentation#TableHeader
+documentation#TableRow
+documentation#Image
+documentation#TermEntry
+documentation#XML

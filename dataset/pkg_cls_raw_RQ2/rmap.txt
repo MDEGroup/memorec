@@ -1,0 +1,16 @@
+package#BranchPoint
+package#DocumentRoot
+package#Locator
+package#Matcher
+package#Provider
+package#Redirect
+package#Repository
+package#ResourceMap
+package#SearchPath
+package#Transform
+package#URIMatcher
+package#VersionConverter
+package#VersionSelectorType
+package#ConflictPolicy
+package#TransformMismatchException
+package#IComponentReader

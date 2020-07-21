@@ -1,0 +1,7 @@
+JDTJavaClassifier#simpleName
+JDTJavaClassifier#packageName
+JDTJavaClassifier#enclosingTypeNames
+JDTJavaClassifier#path
+JDTJavaClassifier#cachedFields
+JDTJavaClassifier#hasCachedFields
+JDTJavaClassifier#projectName

@@ -1,0 +1,10 @@
+epla2#Structure
+epla2#Workspace
+epla2#Project
+epla2#Bric
+epla2#Target
+epla2#BuildSpec
+epla2#CommandBuildSpec
+epla2#Developer
+epla2#AdaBuildSpec
+epla2#URI

@@ -1,0 +1,4 @@
+BusinessRole#characterisedby
+BusinessRole#typ
+BusinessRole#task
+BusinessRole#fille

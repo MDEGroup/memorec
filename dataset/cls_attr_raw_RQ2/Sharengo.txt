@@ -1,0 +1,9 @@
+ServiceOperation#name
+ServiceOperation#BOFlows
+ServiceOperation#rules
+Flow#name
+Flow#source
+Flow#target
+Service2BusinessObjectFlow#name
+Service2BusinessObjectFlow#source
+Service2BusinessObjectFlow#target

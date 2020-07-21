@@ -1,0 +1,5 @@
+package#Target
+package#TargetType
+package#SocialSchemaCatalog
+package#TargetTypeAdded
+package#TargetTypeRemoved

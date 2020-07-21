@@ -1,0 +1,9 @@
+dfa#Dfa
+dfa#NamedElement
+dfa#State
+dfa#InitialState
+dfa#FinalState
+dfa#Transition
+dfa#Language
+dfa#Symbol
+dfa#RegularState

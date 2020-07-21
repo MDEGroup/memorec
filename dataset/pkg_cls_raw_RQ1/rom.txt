@@ -1,0 +1,13 @@
+rom#Locale
+rom#IStatus
+rom#JCoDestination
+rom#ObjectNotFoundException
+rom#ObjectLoadingException
+rom#LocalizedString
+rom#RepositoryObjectKey
+rom#RepositoryObjectType
+rom#RepositoryObject
+rom#RepositoryObjectCollection
+rom#PackageType
+rom#PackagePermittedObjectTypes
+rom#RepositoryPackage

@@ -1,0 +1,11 @@
+sistedesMM#Person
+sistedesMM#Edition
+sistedesMM#University
+sistedesMM#Publication
+sistedesMM#Article
+sistedesMM#InProceedings
+sistedesMM#Journal
+sistedesMM#Book
+sistedesMM#Publisher
+sistedesMM#Editor
+sistedesMM#SistedesMember

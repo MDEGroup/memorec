@@ -1,0 +1,3 @@
+BusinessEntity#businessContacts
+BusinessEntity#businessServices
+BusinessEntity#identifierBag

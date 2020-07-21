@@ -1,0 +1,11 @@
+junitresult#Testsuite
+junitresult#Property
+junitresult#Testcase
+junitresult#Error
+junitresult#Failure
+junitresult#NegativeResult
+junitresult#Testrun
+junitresult#AbstractAggregatedTest
+junitresult#Testsuites
+junitresult#JunitResult
+junitresult#Skipped

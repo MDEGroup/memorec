@@ -1,0 +1,8 @@
+package#Model
+package#Type
+package#Datatype
+package#Entity
+package#Attribute
+package#HibernateAnnotation
+package#HibernateAnnotationTypes
+package#HibernateCascadeTypes

@@ -1,0 +1,10 @@
+sequence#DNASequence
+sequence#MolecularPhylogeny
+sequence#MultipleSequenceAlignment
+sequence#NucleotideSequence
+sequence#NucleotideSequenceFeature
+sequence#PeptideSequence
+sequence#PeptideSequenceFeature
+sequence#RNASequence
+sequence#Sequence
+sequence#SimpleSequence

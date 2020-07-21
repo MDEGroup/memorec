@@ -1,0 +1,17 @@
+MetaH#METAHFile
+MetaH#METAHEntry
+MetaH#Package
+MetaH#PackageImplementation
+MetaH#Data
+MetaH#Attribute
+MetaH#ProcessDeclaration
+MetaH#ProcessImplementation
+MetaH#ProcessAttribute
+MetaH#Process
+MetaH#Port
+MetaH#Connection
+MetaH#MacroDeclaration
+MetaH#MacroImplementation
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

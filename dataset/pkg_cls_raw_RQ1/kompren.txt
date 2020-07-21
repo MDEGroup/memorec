@@ -1,0 +1,8 @@
+slicer#Slicer
+slicer#Constraint
+slicer#Radius
+slicer#SlicedClass
+slicer#SlicedProperty
+slicer#OppositeCreation
+slicer#SlicedElement
+slicer#VarDecl

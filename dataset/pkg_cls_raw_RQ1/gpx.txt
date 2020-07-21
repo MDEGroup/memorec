@@ -1,0 +1,16 @@
+gpx#BoundsType
+gpx#DegreesType
+gpx#DgpsStationType
+gpx#DocumentRoot
+gpx#EmailType
+gpx#FixType
+gpx#FixTypeObject
+gpx#GpxType
+gpx#LatitudeType
+gpx#LongitudeType
+gpx#RteptType
+gpx#RteType
+gpx#TrkptType
+gpx#TrksegType
+gpx#TrkType
+gpx#WptType

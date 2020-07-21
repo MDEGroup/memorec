@@ -1,0 +1,6 @@
+clientes#Ente
+clientes#TipoDoc
+clientes#Pais
+clientes#Cuenta
+clientes#Banco
+clientes#Cliente

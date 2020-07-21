@@ -1,0 +1,17 @@
+package#ScribbleProgram
+package#IncludeDecl
+package#InstGlobalProtocolDecl
+package#TypeDecl
+package#GlobalProtocolDecl
+package#GlobalInteractionBlock
+package#GlobalInteraction
+package#Spawn
+package#Do
+package#Interruptible
+package#Continue
+package#Recursion
+package#Parallel
+package#Choice
+package#Message
+package#MessageSignature
+package#PayloadType

@@ -1,0 +1,14 @@
+haxeDSL#DomainModel
+haxeDSL#HxAbstractElement
+haxeDSL#HxImportDecl
+haxeDSL#DeclPackageNamespace
+haxeDSL#HxPackageDecl
+haxeDSL#HxModifier
+haxeDSL#HxVisibility
+haxeDSL#HxClassDecl
+haxeDSL#HxMember
+haxeDSL#HxVariable
+haxeDSL#HxMemberVariable
+haxeDSL#HxTypeRef
+haxeDSL#HxMethod
+haxeDSL#HxBoolean

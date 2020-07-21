@@ -1,0 +1,8 @@
+package#Calendar
+package#Profile
+package#Event
+package#Contact
+package#Person
+package#Group
+package#Image
+package#String

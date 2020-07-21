@@ -1,0 +1,12 @@
+backbone#Application
+backbone#NamedElement
+backbone#Model
+backbone#Attribute
+backbone#Reference
+backbone#Operation
+backbone#Parameter
+backbone#Collection
+backbone#Router
+backbone#RouterMapping
+backbone#View
+backbone#CardinalityKind

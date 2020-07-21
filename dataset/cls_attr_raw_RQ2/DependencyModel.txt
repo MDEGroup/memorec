@@ -1,0 +1,15 @@
+DependencyNode#artifact
+DependencyNode#children
+DependencyNode#selected
+DependencyNode#parent
+DependencyNode#inheritedScope
+DependencyNode#managedVersionConstraint
+DependencyNode#managedScope
+DependencyNode#conflictNode
+DependencyNode#declaredDependency
+DependencyNode#optional
+DependencyNode#conflictVersionConstraint
+DependencyNode#cycleNode
+DependencyModel#artifacts
+DependencyModel#dependencyTrees
+DependencyModel#rootArtifacts

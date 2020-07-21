@@ -1,0 +1,16 @@
+package#ContextMapperType
+package#DocumentRoot
+package#EndpointConfigType
+package#InterceptorsType
+package#InterceptorType
+package#MessageComposerType
+package#MtomType
+package#PropertiesType
+package#PropertyType
+package#ProxyType
+package#SOAPBindingType
+package#SoapHeadersType
+package#SoapHeadersTypeObject
+package#WsdlPortType
+package#BasicAuthenticationType
+package#NTLMAuthenticationType

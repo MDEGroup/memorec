@@ -1,0 +1,9 @@
+cartesiancoordinatesystem#CartesianCoordinateSystem
+cartesiancoordinatesystem#Axis
+cartesiancoordinatesystem#Point
+cartesiancoordinatesystem#Segment
+cartesiancoordinatesystem#AxeX
+cartesiancoordinatesystem#AxeY
+cartesiancoordinatesystem#AxeZ
+cartesiancoordinatesystem#Axe
+cartesiancoordinatesystem#Element

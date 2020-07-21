@@ -1,0 +1,10 @@
+ConfigFileType#description
+ConfigFileType#id
+ConfigFileType#path
+ConfigSetType#description
+ConfigSetType#configFileRef
+ConfigSetType#id
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#muleIdeConfig

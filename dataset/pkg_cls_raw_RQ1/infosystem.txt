@@ -1,0 +1,7 @@
+base#MonitoringProbe
+base#ResizingAction
+base#SoftwareDependency
+base#VirtualMachineImage
+base#VirtualMachineImageType
+base#VirtualMachineImageTypeObject
+base#UserApplication

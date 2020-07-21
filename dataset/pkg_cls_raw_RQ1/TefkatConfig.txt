@@ -1,0 +1,6 @@
+TefkatConfig#Configuration
+TefkatConfig#TransformationTask
+TefkatConfig#ExecutionMode
+TefkatConfig#Model
+TefkatConfig#URIMapEntry
+TefkatConfig#Property

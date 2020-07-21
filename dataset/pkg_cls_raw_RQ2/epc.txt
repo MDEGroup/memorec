@@ -1,0 +1,14 @@
+package#EPCDiagram
+package#FlowConnector
+package#ControlFlow
+package#OrganizationalFlow
+package#OrganizationalUnit
+package#ProcessObject
+package#Function
+package#BasicFunction
+package#ComplexFunction
+package#LogicalOperator
+package#Event
+package#And
+package#Or
+package#Xor

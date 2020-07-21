@@ -1,0 +1,12 @@
+package#AssociationChange
+package#ExtendChange
+package#GeneralizationSetChange
+package#ExecutionSpecificationChange
+package#IntervalConstraintChange
+package#MessageChange
+package#StereotypePropertyChange
+package#StereotypeApplicationChange
+package#StereotypeReferenceChange
+package#ProfileApplicationChange
+package#DirectedRelationshipChange
+package#UMLDiff

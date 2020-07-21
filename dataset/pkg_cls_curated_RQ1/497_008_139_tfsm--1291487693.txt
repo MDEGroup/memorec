@@ -1,0 +1,11 @@
+tfsmextended#TFSM
+tfsmextended#State
+tfsmextended#Transition
+tfsmextended#NamedElement
+tfsmextended#Guard
+tfsmextended#TemporalGuard
+tfsmextended#EventGuard
+tfsmextended#FSMEvent
+tfsmextended#FSMClock
+tfsmextended#TimedSystem
+tfsmextended#EvaluateGuard

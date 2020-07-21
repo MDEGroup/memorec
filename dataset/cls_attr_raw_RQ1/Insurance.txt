@@ -1,0 +1,8 @@
+Product#name
+Product#description
+Product#avgDamages
+Product#occurrences
+Product#earnings
+Product#cost
+Product#selling
+Product#connected

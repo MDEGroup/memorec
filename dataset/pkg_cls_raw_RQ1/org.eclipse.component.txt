@@ -1,0 +1,7 @@
+component#ComponentDependsType
+component#ComponentRefType
+component#ComponentType
+component#DocumentRoot
+component#PackageType
+component#PluginType
+component#TypeType

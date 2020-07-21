@@ -1,0 +1,11 @@
+sec#Rule
+sec#ScriptRule
+sec#LogonRule
+sec#SignatureRule
+sec#Pattern
+sec#Script
+sec#JavaScript
+sec#GenericScript
+sec#Configuration
+sec#Rules
+sec#CA

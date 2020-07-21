@@ -1,0 +1,7 @@
+statemachine_mk2#StateMachine
+statemachine_mk2#State
+statemachine_mk2#Transition
+statemachine_mk2#Final_state
+statemachine_mk2#Event
+statemachine_mk2#Composite_state
+statemachine_mk2#SimpleState

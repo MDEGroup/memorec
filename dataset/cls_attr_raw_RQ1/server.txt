@@ -1,0 +1,14 @@
+Authority#profiles
+Authority#groups
+Authority#credential
+Credential#enabled
+Credential#expired
+Credential#locked
+BasicCredential#login
+BasicCredential#password
+BasicCredential#passwordExpired
+VCardProfile#firstName
+VCardProfile#lastName
+VCardProfile#email
+VCardProfile#url
+VCardProfile#imageUrl

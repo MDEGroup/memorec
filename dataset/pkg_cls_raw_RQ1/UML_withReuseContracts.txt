@@ -1,0 +1,12 @@
+UMLWithReuseContrats#ReuseContract
+UMLWithReuseContrats#Dependency
+UMLWithReuseContrats#ProviderClause
+UMLWithReuseContrats#Package
+UMLWithReuseContrats#ReuserClause
+UMLWithReuseContrats#CompositeProvider
+UMLWithReuseContrats#BasicProvider
+UMLWithReuseContrats#CompositeReuser
+UMLWithReuseContrats#BasicReuser
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

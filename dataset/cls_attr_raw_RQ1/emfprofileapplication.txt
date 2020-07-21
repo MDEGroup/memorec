@@ -1,0 +1,6 @@
+ProfileImport#nsURI
+ProfileImport#location
+ProfileImport#profile
+StereotypeApplication#appliedTo
+StereotypeApplication#profileApplication
+StereotypeApplication#extension

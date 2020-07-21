@@ -1,0 +1,3 @@
+strategymodel#StateDiagramTraceInferenceStrategy
+strategymodel#SimpleExecutionConditionTraceInferenceStrategy
+strategymodel#ExecutionConditionGeneralLogFilterStrategy

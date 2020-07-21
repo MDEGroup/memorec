@@ -1,0 +1,8 @@
+Image#name
+Image#type
+Image#hAlign
+Image#altText
+Image#caption
+Internal#altText
+Internal#link
+Internal#anchor

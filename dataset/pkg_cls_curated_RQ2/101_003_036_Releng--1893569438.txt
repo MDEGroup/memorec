@@ -1,0 +1,7 @@
+package#Server
+package#BuildJob
+package#BuildType
+package#Promotion
+package#Criterion
+package#Repository
+package#CompositeRepository

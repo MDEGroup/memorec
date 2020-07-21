@@ -1,0 +1,13 @@
+package#AlignmentConfiguration
+package#DetectorBin
+package#DetectorProperties
+package#DetectorRoi
+package#Module
+package#MotorPosition
+package#Parameters
+package#ScanCollected
+package#ScanMode
+package#SampleWeight
+package#StitchParameters
+package#Resolution
+package#TomoExperiment

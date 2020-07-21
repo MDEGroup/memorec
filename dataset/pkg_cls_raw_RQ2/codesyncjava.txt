@@ -1,0 +1,11 @@
+package#JavaUnknownTypesPackage
+package#JavaSrcDirPackage
+package#JavaPackage
+package#JavaClass
+package#JavaInterface
+package#JavaDataType
+package#JavaOperation
+package#JavaProperty
+package#JavaGeneralization
+package#JavaInterfaceRealization
+package#JavaAnnotation

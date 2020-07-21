@@ -1,0 +1,11 @@
+journeymodel#Journey
+journeymodel#Touchpoint
+journeymodel#Calendar
+journeymodel#EStatus
+journeymodel#EChannel
+journeymodel#EType
+journeymodel#EInitiator
+journeymodel#EEvaluation
+journeymodel#EEnum0
+journeymodel#JourneySet
+journeymodel#JourneyDiff

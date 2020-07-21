@@ -1,0 +1,9 @@
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#letterBody
+LetterBodyType#mixed
+LetterBodyType#salutation
+LetterBodyType#quantity
+LetterBodyType#productName
+LetterBodyType#shipDate

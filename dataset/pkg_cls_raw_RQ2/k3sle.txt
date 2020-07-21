@@ -1,0 +1,13 @@
+package#Model
+package#ModelType
+package#ModelOperation
+package#Subtyping
+package#DSE
+package#Inheritance
+package#Merge
+package#LanguageCompositionOperator
+package#AdaptationOperator
+package#Rename
+package#Slicer
+package#Pruner
+package#FreeSlicer

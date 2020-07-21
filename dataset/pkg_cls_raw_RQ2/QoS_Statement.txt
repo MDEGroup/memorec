@@ -1,0 +1,10 @@
+package#QoSStatement
+package#SingleQoSStatement
+package#CoumpoundQoSStatement
+package#Parameter
+package#QoSContraint
+package#QualificationKind
+package#QoSCharacteristic
+package#Boolean
+package#Integer
+package#String

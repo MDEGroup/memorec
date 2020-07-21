@@ -1,0 +1,16 @@
+package#Action
+package#Assignment
+package#ComplexExpression
+package#Effect
+package#Emission
+package#Expression
+package#OperatorType
+package#Region
+package#Signal
+package#SignalReference
+package#State
+package#StateType
+package#Transition
+package#TransitionType
+package#ValueType
+package#ValuedObject

@@ -1,0 +1,12 @@
+captah#Sensor
+captah#NamedElement
+captah#DataEncoding
+captah#Component
+captah#Widget
+captah#Instance
+captah#Model
+captah#Composite
+captah#Connector
+captah#Port
+captah#SensorType
+captah#Dashboard

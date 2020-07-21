@@ -1,0 +1,17 @@
+Entity#entityType
+Entity#presentation
+Entity#definition
+Entity#comment
+Entity#property
+Entity#propertyLink
+Entity#entityCode
+Entity#entityCodeNamespace
+Entity#isAnonymous
+Entity#isDefined
+Presentation#degreeOfFidelity
+Presentation#isPreferred
+Presentation#matchIfNoContext
+Presentation#representationalForm
+PropertyLink#propertyLink
+PropertyLink#sourceProperty
+PropertyLink#targetProperty

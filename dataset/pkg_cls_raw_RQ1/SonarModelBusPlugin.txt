@@ -1,0 +1,7 @@
+Sonar#Extension Manager
+Sonar#Extension
+Sonar#EClass0
+Sonar#SonarPlugin
+Sonar ModelBus Plugin#ModelBusPlugin
+Sonar ModelBus Plugin#MetrinoAdapter
+Sonar ModelBus Plugin#ModelBusAdapter

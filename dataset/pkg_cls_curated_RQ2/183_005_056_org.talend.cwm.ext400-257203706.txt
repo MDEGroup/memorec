@@ -1,0 +1,16 @@
+package#TdTable
+package#TdView
+package#TdCatalog
+package#TdSchema
+package#TdColumn
+package#TdSqlDataType
+package#TdTrigger
+package#TdProcedure
+package#TdProviderConnection
+package#TdDataManager
+package#TdDataProvider
+package#TdSoftwareSystem
+package#TdMachine
+package#TdXMLElement
+package#TdXMLContent
+package#TdXMLDocument

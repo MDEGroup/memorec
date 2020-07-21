@@ -1,0 +1,6 @@
+Shape#x
+Shape#y
+Shape#width
+Shape#height
+Shape#sourceLinks
+Shape#targetLinks

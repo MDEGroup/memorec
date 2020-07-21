@@ -1,0 +1,6 @@
+petrinet#PetriNet
+petrinet#Arc
+petrinet#Node
+petrinet#Transition
+petrinet#Place
+petrinet#Token

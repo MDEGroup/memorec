@@ -1,0 +1,32 @@
+Angazovani_Radnik#radina
+Angazovani_Radnik#ime
+Angazovani_Radnik#prezime
+Angazovani_Radnik#plata
+Visokokvalifikovani_Radnik#radina
+Visokokvalifikovani_Radnik#ime
+Visokokvalifikovani_Radnik#prezime
+Visokokvalifikovani_Radnik#plata
+Visokokvalifikovani_Radnik#naziv skole
+Visokokvalifikovani_Radnik#stepen
+Visokokvalifikovani_Radnik#drzavni?
+Visa_Skola#radina
+Visa_Skola#ime
+Visa_Skola#prezime
+Visa_Skola#plata
+Visa_Skola#naziv skole
+Visa_Skola#stepen
+Visa_Skola#drzavni?
+Fakultetski_Obrazovan#radina
+Fakultetski_Obrazovan#ime
+Fakultetski_Obrazovan#prezime
+Fakultetski_Obrazovan#plata
+Fakultetski_Obrazovan#naziv skole
+Fakultetski_Obrazovan#stepen
+Fakultetski_Obrazovan#drzavni?
+Fizikalac#radina
+Fizikalac#ime
+Fizikalac#prezime
+Fizikalac#plata
+Posao#podposao
+Posao#naziv
+Posao#tezina

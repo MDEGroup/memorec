@@ -1,0 +1,8 @@
+package#AdapterCBESensorType
+package#SensorBaseType
+package#SensorConfigType
+package#SensorPropertyType
+package#SensorType
+package#SensorTypeObject
+package#SingleFileSensorType
+package#StaticParserSensorType

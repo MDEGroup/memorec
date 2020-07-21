@@ -1,0 +1,9 @@
+package#BindingType
+package#ConfigType
+package#ConnectorType
+package#DiscoveryGroupType
+package#DocumentRoot
+package#PropertiesType
+package#PropertyType
+package#HornetQContextMapperType
+package#HornetQMessageComposerType

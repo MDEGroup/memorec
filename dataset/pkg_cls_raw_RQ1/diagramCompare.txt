@@ -1,0 +1,7 @@
+extensions#Show
+extensions#Hide
+extensions#NodeChange
+extensions#CoordinatesChange
+extensions#EdgeChange
+extensions#DiagramDiff
+extensions#DiagramChange

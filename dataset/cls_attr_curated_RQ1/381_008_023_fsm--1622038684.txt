@@ -1,0 +1,12 @@
+State#outgoing
+State#incoming
+State#stateMachine
+State#initialTime
+State#finalTime
+Transition#target
+Transition#source
+Transition#trigger
+Transition#stateMachine
+Transition#initialTime
+Transition#finalTime
+Transition#time

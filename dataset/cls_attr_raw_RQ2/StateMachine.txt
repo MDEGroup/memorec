@@ -1,0 +1,16 @@
+StateMachine#name
+StateMachine#states
+StateMachine#transitions
+StateMachine#regions
+State#incomingTransitions
+State#outcomingTransitions
+State#name
+StateMachineDescription#name
+StateMachineDescription#states
+StateMachineDescription#transitions
+Region#name
+Region#states
+Region#transitions
+Transition#guard
+Transition#from
+Transition#to

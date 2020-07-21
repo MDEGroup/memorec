@@ -1,0 +1,11 @@
+Module#name
+Module#inputs
+Module#outputs
+Module#period
+Output#name
+Output#sink
+Output#activates
+Output#inhibitedBy
+Input#source
+Input#suppressedBy
+Input#name

@@ -1,0 +1,15 @@
+StockItem#categorie
+StockItem#produkt
+StockItem#schuif
+StockItem#aantal
+StockItem#datum
+StockItem#info
+Categorie#stockitems
+Categorie#naam
+Categorie#produkten
+Schuif#diepvries
+Schuif#stockitem
+Schuif#nummer
+Produkt#categories
+Produkt#stockitems
+Produkt#naam

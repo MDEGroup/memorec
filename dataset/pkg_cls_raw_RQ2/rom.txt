@@ -1,0 +1,13 @@
+package#Locale
+package#IStatus
+package#JCoDestination
+package#ObjectNotFoundException
+package#ObjectLoadingException
+package#LocalizedString
+package#RepositoryObjectKey
+package#RepositoryObjectType
+package#RepositoryObject
+package#RepositoryObjectCollection
+package#PackageType
+package#PackagePermittedObjectTypes
+package#RepositoryPackage

@@ -1,0 +1,5 @@
+PetriNet#PetriNetRoot
+PetriNet#Element
+PetriNet#Place
+PetriNet#Transition
+PetriNet#Arc

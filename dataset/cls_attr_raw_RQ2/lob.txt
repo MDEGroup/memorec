@@ -1,0 +1,4 @@
+Person#id
+Person#name
+Person#address
+Person#photo

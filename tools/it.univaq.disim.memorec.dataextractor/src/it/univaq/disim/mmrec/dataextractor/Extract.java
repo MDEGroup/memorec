@@ -1,6 +1,7 @@
 package it.univaq.disim.mmrec.dataextractor;
 
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -26,14 +27,26 @@ import org.eclipse.emf.ecore.xmi.impl.EcoreResourceFactoryImpl;
 import org.eclipse.ocl.ParserException;
 
 public class Extract {
+	private static final String basePath = "../../dataset/";
+	private static final String INPUT_FOLDER = basePath + "METAMODELS_RAW/";
+	private static final String PACKAGE_CLASS_FOLDER_RQ1 = basePath + "pkg_cls_raw_RQ1/";
+	private static final String PACKAGE_CLASS_FOLDER_RQ2 = basePath + "pkg_cls_raw_RQ2/";
+	private static final String CLASS_ATTRIBUTE_FOLDER_RQ1 = basePath + "cls_attr_raw_RQ1/";
+	private static final String CLASS_ATTRIBUTE_FOLDER_RQ2 = basePath + "cls_attr_raw_RQ2/";
 	
-	private static final String INPUT_FOLDER = "METAMODELS_RAW/";
-	private static final String PACKAGE_CLASS_FOLDER_RQ1 = "pkg_cls_raw_RQ1/";
-//	private static final String PACKAGE_CLASS_FOLDER_RQ2 = "pkg_cls_curated_RQ2/";
-	private static final String CLASS_ATTRIBUTE_FOLDER_RQ1 = "cls_attr_raw_RQ1/";
-//	private static final String CLASS_ATTRIBUTE_FOLDER_RQ2 = "cls_attr_curated_RQ2/";
 	public static void main(String[] args) throws IOException, ParserException {
+		
+		File directory = new File(Paths.get(PACKAGE_CLASS_FOLDER_RQ1).toUri());
+		if (! directory.exists()) directory.mkdir();
+		directory = new File(Paths.get(PACKAGE_CLASS_FOLDER_RQ2).toUri());
+		if (! directory.exists()) directory.mkdir();
+		directory = new File(Paths.get(CLASS_ATTRIBUTE_FOLDER_RQ1).toUri());
+		if (! directory.exists()) directory.mkdir();
+		directory = new File(Paths.get(CLASS_ATTRIBUTE_FOLDER_RQ2).toUri());
+		if (! directory.exists()) directory.mkdir();
+
 		System.out.println("START");
+		
 		try (Stream<Path> paths = Files.walk(Paths.get(INPUT_FOLDER))) {
 			List<Path> pathStream = paths.filter(Files::isRegularFile).collect(Collectors.toList());
 
@@ -54,33 +67,37 @@ public class Extract {
 				Path path = Paths
 						.get(entry.getKey().toString().replace(INPUT_FOLDER, CLASS_ATTRIBUTE_FOLDER_RQ1).replace(".ecore", ".txt"));
 				try (BufferedWriter writer = Files.newBufferedWriter(path)) {
-					writer.write(entry.getValue().trim());
+					if (!entry.getValue().trim().equals(""))
+						writer.write(entry.getValue().trim());
 				}
 			}
 			
-//			for (Entry<Path, String> entry : cls_attr_RQ2_Map.entrySet()) {
-//				Path path = Paths.get(
-//						entry.getKey().toString().replace(INPUT_FOLDER, CLASS_ATTRIBUTE_FOLDER_RQ2).replace(".ecore", ".txt"));
-//				try (BufferedWriter writer = Files.newBufferedWriter(path)) {
-//					writer.write(entry.getValue().trim());
-//				}
-//			}
+			for (Entry<Path, String> entry : cls_attr_RQ2_Map.entrySet()) {
+				Path path = Paths.get(
+						entry.getKey().toString().replace(INPUT_FOLDER, CLASS_ATTRIBUTE_FOLDER_RQ2).replace(".ecore", ".txt"));
+				try (BufferedWriter writer = Files.newBufferedWriter(path)) {
+					if (!entry.getValue().trim().equals(""))
+						writer.write(entry.getValue().trim());
+				}
+			}
 
 			for (Entry<Path, String> entry : pkg_cls_RQ1_Map.entrySet()) {
 				Path path = Paths
 						.get(entry.getKey().toString().replace(INPUT_FOLDER, PACKAGE_CLASS_FOLDER_RQ1).replace(".ecore", ".txt"));
 				try (BufferedWriter writer = Files.newBufferedWriter(path)) {
-					writer.write(entry.getValue().trim());
+					if (!entry.getValue().trim().equals(""))
+						writer.write(entry.getValue().trim());
 				}
 			}
 			
-//			for (Entry<Path, String> entry : pkg_cls_RQ2_Map.entrySet()) {
-//				Path path = Paths
-//						.get(entry.getKey().toString().replace(INPUT_FOLDER, PACKAGE_CLASS_FOLDER_RQ2).replace(".ecore", ".txt"));
-//				try (BufferedWriter writer = Files.newBufferedWriter(path)) {
-//					writer.write(entry.getValue().trim());
-//				}
-//			}
+			for (Entry<Path, String> entry : pkg_cls_RQ2_Map.entrySet()) {
+				Path path = Paths
+						.get(entry.getKey().toString().replace(INPUT_FOLDER, PACKAGE_CLASS_FOLDER_RQ2).replace(".ecore", ".txt"));
+				try (BufferedWriter writer = Files.newBufferedWriter(path)) {
+					if (!entry.getValue().trim().equals(""))
+						writer.write(entry.getValue().trim());
+				}
+			}
 
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -157,9 +174,8 @@ public class Extract {
 					if (next instanceof EClass) {
 						EClass eClass = (EClass) next;
 						if (eClass.getEAllStructuralFeatures().size()>2)
-							for (EStructuralFeature sf : eClass.getEAllStructuralFeatures()) {
+							for (EStructuralFeature sf : eClass.getEAllStructuralFeatures()) 
 								builder = builder + eClass.getName() + "#" + sf.getName() + System.lineSeparator();
-							}
 					}
 				}
 			}
@@ -186,14 +202,12 @@ public class Extract {
 					if (next instanceof EClass) {
 						EClass eClass = (EClass) next;
 						if (eClass.getEStructuralFeatures().size()>2)
-							for (EStructuralFeature sf : eClass.getEStructuralFeatures()) {
-								builder = builder + eClass.getName() + "#" + sf.getName() + System.lineSeparator();
-							}
+							for (EStructuralFeature sf : eClass.getEStructuralFeatures()) 
+								builder = builder + eClass.getName() + "#" + sf.getName() + System.lineSeparator();	
 					}
 				}
 			}
 			return builder;
-
 		} catch (Exception e) {
 			System.err.println("ERROR: " + path + " " + e.getMessage());
 			e.printStackTrace();

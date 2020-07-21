@@ -1,0 +1,8 @@
+tuscany2#DocumentRoot
+tuscany2#DWRBinding
+tuscany2#HTTPBinding
+tuscany2#JSONRPCBinding
+tuscany2#OSGiImplementation
+tuscany2#OSGiProperty
+tuscany2#RMIBinding
+tuscany2#WidgetImplementation

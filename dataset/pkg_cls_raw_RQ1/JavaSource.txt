@@ -1,0 +1,5 @@
+JavaSource#JavaSource
+JavaSource#NamedElement
+JavaSource#ClassDeclaration
+JavaSource#MethodDefinition
+JavaSource#MethodInvocation

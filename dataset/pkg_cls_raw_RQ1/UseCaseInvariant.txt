@@ -1,0 +1,5 @@
+usecaseinvariant#CounterActor
+usecaseinvariant#Value
+usecaseinvariant#UseCaseModel
+usecaseinvariant#NormalActor
+usecaseinvariant#Actor

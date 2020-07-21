@@ -1,0 +1,14 @@
+package#Rule
+package#Transformation
+package#InputPattern
+package#OutputPattern
+package#InputPatternElement
+package#OutputPatternElement
+package#Binding
+package#Model
+package#PrimitiveBinding
+package#NavigationBinding
+package#OutputpatternElementBinding
+package#ResolveBinding
+package#SourceModel
+package#TargetModel

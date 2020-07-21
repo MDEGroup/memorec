@@ -1,0 +1,14 @@
+ComponentDef#isBasic
+ComponentDef#facets
+ComponentDef#receptacles
+ComponentDef#supports
+ComponentDef#emits
+ComponentDef#publishes
+ComponentDef#consumes
+UsesDef#multiple
+UsesDef#uses
+UsesDef#ud_home
+HomeDef#manages
+HomeDef#factories
+HomeDef#finders
+HomeDef#key

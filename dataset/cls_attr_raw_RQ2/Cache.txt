@@ -1,0 +1,3 @@
+Cache#expressionsMap
+Cache#irMap
+Cache#typesMap

@@ -1,0 +1,15 @@
+package#UseCaseModel
+package#UseCase
+package#AlternativeFlow
+package#FlowOfEvents
+package#Step
+package#Agent
+package#Statement
+package#Condition
+package#BasicFlow
+package#Actor
+package#Subject
+package#Action
+package#ConditionalStatement
+package#LoopStatement
+package#Include

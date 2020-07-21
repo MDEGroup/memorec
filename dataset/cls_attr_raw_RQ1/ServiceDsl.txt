@@ -1,0 +1,9 @@
+ServiceModel#methods
+ServiceModel#dtoReferences
+ServiceModel#crudServices
+Parameter#type
+Parameter#method
+Parameter#collection
+AssociationMethod#main
+AssociationMethod#part
+AssociationMethod#rolename

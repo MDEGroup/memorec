@@ -1,0 +1,15 @@
+package#AbapClassImplementationAnnotation
+package#AbapAssociationImplementationAnnotation
+package#AbapAssociationEndImplementationAnnotation
+package#AbapSignatureImplementationAnnotation
+package#AbapClassKind
+package#AbapSignatureKind
+package#XsdType
+package#UnstructuredAbapType
+package#CodeValue
+package#Code
+package#DataElement
+package#AbapType
+package#AbapStructureType
+package#AbapStructureField
+package#AbapPrimtiveType

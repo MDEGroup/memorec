@@ -1,0 +1,11 @@
+tp3#LivreRecettes
+tp3#Recette
+tp3#Ingredient
+tp3#Cout
+tp3#Nature
+tp3#Vin
+tp3#Compose
+tp3#Localisation
+tp3#Bouteille
+tp3#Named
+tp3#ValuedNamed

@@ -1,0 +1,3 @@
+Model#package
+Model#name
+Model#packages

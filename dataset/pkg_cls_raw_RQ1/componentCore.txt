@@ -1,0 +1,9 @@
+componentcore#WorkbenchComponent
+componentcore#ComponentResource
+componentcore#IPath
+componentcore#ComponentType
+componentcore#Property
+componentcore#ReferencedComponent
+componentcore#URI
+componentcore#DependencyType
+componentcore#ProjectComponents

@@ -1,0 +1,7 @@
+ComponentUseType#sourceClass
+ComponentUseType#name
+ComponentUseType#version
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#componentUse

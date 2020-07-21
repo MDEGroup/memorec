@@ -1,0 +1,8 @@
+Table#database
+Table#columns
+Table#key
+Column#dataType
+Column#null
+Column#defaultValue
+Column#owner
+Column#keyOf

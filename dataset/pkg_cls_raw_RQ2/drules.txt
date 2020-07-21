@@ -1,0 +1,6 @@
+package#R4EDesignRuleCollection
+package#R4EDesignRule
+package#R4EDesignRuleArea
+package#R4EDesignRuleViolation
+package#R4EDesignRuleRank
+package#R4EDesignRuleClass

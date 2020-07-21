@@ -1,0 +1,5 @@
+wrspmDomainmodel#DomainModel
+wrspmDomainmodel#Part
+wrspmDomainmodel#AnyText
+wrspmDomainmodel#Entity
+wrspmDomainmodel#Definition

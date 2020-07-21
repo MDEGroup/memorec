@@ -1,0 +1,11 @@
+fin#FinModelFile
+fin#Element
+fin#Import
+fin#Konto
+fin#MONAT
+fin#Buchungsart
+fin#Intervall
+fin#Kategorie
+fin#Buchungsintervall
+fin#Buchung
+fin#Kontakt

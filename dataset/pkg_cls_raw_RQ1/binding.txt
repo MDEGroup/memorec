@@ -1,0 +1,5 @@
+binding#Binding
+binding#Section
+binding#Editor
+binding#Action
+binding#ActionKind

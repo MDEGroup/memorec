@@ -1,0 +1,6 @@
+petriNet#PetriNet
+petriNet#Transition
+petriNet#Node
+petriNet#Place
+petriNet#Arc
+petriNet#ArcKind

@@ -1,0 +1,17 @@
+MultiplicityType#lower
+MultiplicityType#upper
+MultiplicityType#isOrdered
+MultiplicityType#isUnique
+Feature#ownerScope
+Feature#visibility
+Feature#owner
+GeneralizableElement#isRoot
+GeneralizableElement#isLeaf
+GeneralizableElement#isAbstract
+StructuralFeature#multiplicity
+StructuralFeature#isChangeable
+StructuralFeature#targetScope
+Operation#isRoot
+Operation#isLeaf
+Operation#isAbstract
+Operation#specification

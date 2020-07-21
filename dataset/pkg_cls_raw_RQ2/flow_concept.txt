@@ -1,0 +1,10 @@
+package#FlowDiagram
+package#Node
+package#Task
+package#FinalTask
+package#ParallelSplit
+package#Synchronization
+package#ExclusiveChoice
+package#SimpleMerge
+package#MultiChoice
+package#FlowEdge

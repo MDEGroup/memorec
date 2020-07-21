@@ -1,0 +1,13 @@
+AnalysedElement#name
+AnalysedElement#outgoingRelationships
+AnalysedElement#incomingRelationships
+AnalysedElement#idAnalyzedElement
+AnalysedElement#containedElements
+AnalysedElement#properties
+AnalysedElement#parent
+Type#qualifiedName
+Type#source
+Type#binary
+Relationship#target
+Relationship#source
+Relationship#relationShipId

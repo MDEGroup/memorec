@@ -1,0 +1,7 @@
+ToolConfiguration#preValidationQuery
+ToolConfiguration#kind
+ToolConfiguration#elementDescriptors
+Configuration#id
+Configuration#label
+Configuration#description
+Configuration#icon

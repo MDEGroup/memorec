@@ -1,0 +1,3 @@
+InteractionTransition#outgoingTransitions
+InteractionTransition#action
+InteractionTransition#concreteTransition

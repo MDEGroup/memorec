@@ -1,0 +1,4 @@
+Frage#antwortTyp
+Frage#abhaengigVon
+Frage#text
+Frage#erklaerung

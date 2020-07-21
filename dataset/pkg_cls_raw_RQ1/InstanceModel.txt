@@ -1,0 +1,6 @@
+instancemodel#AbstractInstance
+instancemodel#DiagramInstance
+instancemodel#NodeInstance
+instancemodel#LabelInstance
+instancemodel#EdgeInstance
+instancemodel#Visibility

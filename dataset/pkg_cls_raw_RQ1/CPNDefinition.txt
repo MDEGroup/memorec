@@ -1,0 +1,10 @@
+cpndefinition#CPN
+cpndefinition#Place
+cpndefinition#Arc
+cpndefinition#Transition
+cpndefinition#Page
+cpndefinition#ArcExpression
+cpndefinition#CPNInscription
+cpndefinition#Guard
+cpndefinition#InitialMarking
+cpndefinition#Sort

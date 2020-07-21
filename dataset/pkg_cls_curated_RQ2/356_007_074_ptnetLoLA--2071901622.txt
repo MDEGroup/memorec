@@ -1,0 +1,17 @@
+package#Place
+package#PtNet
+package#Transition
+package#Node
+package#Marking
+package#PlaceReference
+package#RefMarkedPlace
+package#Annotation
+package#Arc
+package#ArcToPlace
+package#ArcToTransition
+package#NodeType
+package#TransitionExt
+package#PlaceExt
+package#ArcToPlaceExt
+package#ArcToTransitionExt
+package#Confidentiality

@@ -1,0 +1,12 @@
+CreatePackage#oldPackages
+CreatePackage#newName
+CreatePackage#typeMappings
+CreateType#oldTypes
+CreateType#newName
+CreateType#propertyMappings
+DeletePackage#oldPackages
+DeletePackage#oldName
+DeletePackage#deleteTypes
+DeleteType#oldTypes
+DeleteType#oldName
+DeleteType#propertyMappings

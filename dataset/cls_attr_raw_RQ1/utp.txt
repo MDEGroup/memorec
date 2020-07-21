@@ -1,0 +1,7 @@
+TestContext#arbiter
+TestContext#base_StructuredClassifier
+TestContext#scheduler
+CodingRule#base_Property
+CodingRule#base_ValueSpecification
+CodingRule#base_Namespace
+CodingRule#coding

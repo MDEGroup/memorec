@@ -1,0 +1,17 @@
+proofprocess#Intent
+proofprocess#Term
+proofprocess#Loc
+proofprocess#Trace
+proofprocess#ProofStep
+proofprocess#ProofInfo
+proofprocess#ProofFeatureDef
+proofprocess#ProofFeatureType
+proofprocess#ProofFeature
+proofprocess#ProofElem
+proofprocess#ProofEntry
+proofprocess#ProofSeq
+proofprocess#ProofParallel
+proofprocess#ProofDecor
+proofprocess#Attempt
+proofprocess#Proof
+proofprocess#ProofStore

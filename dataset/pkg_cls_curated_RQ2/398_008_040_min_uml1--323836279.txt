@@ -1,0 +1,15 @@
+package#ModelElement
+package#StateMachine
+package#ActivityGraph
+package#Partition
+package#StateVertex
+package#State
+package#CompositeState
+package#ActionState
+package#Pseudostate
+package#ObjectFlowState
+package#FinalState
+package#Transition
+package#Guard
+package#BooleanExpression
+package#PseudostateKind

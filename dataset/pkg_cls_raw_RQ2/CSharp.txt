@@ -1,0 +1,14 @@
+package#Member
+package#TypedAttribute
+package#Field
+package#Property
+package#MethodBase
+package#Constructor
+package#Method
+package#Type
+package#Parameter
+package#Assembly
+package#Integer
+package#String
+package#Boolean
+package#Double

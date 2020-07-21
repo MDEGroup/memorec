@@ -1,0 +1,15 @@
+TalendItem#id
+TalendItem#label
+TalendItem#author
+TalendItem#version
+TalendItem#comment
+TalendItem#assignments
+TalendItem#repository
+BusinessAssignment#businessItem
+BusinessAssignment#talendItem
+BusinessAssignment#comment
+BusinessItem#name
+BusinessItem#businessProcess
+BusinessItem#assignments
+BusinessItem#vAlignment
+BusinessItem#hAlignment

@@ -1,0 +1,13 @@
+Arc#source
+Arc#target
+Arc#page
+Node#sourceArc
+Node#targetArc
+Node#pragmatics
+Page#petriNet
+Page#object
+Page#arc
+PetriNet#kind
+PetriNet#page
+PetriNet#monitors
+PetriNet#timeType

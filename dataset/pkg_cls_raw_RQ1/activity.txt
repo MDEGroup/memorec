@@ -1,0 +1,7 @@
+activity#Node
+activity#Edge
+activity#StartNode
+activity#EndNode
+activity#ForkNode
+activity#JoinNode
+activity#DecisionNode

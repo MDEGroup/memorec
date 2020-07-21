@@ -1,0 +1,12 @@
+package#KGraphElement
+package#KLabeledGraphElement
+package#KGraphData
+package#KNode
+package#KEdge
+package#KPort
+package#KLabel
+package#EMapPropertyHolder
+package#IPropertyToObjectMap
+package#IProperty
+package#IPropertyHolder
+package#PersistentEntry

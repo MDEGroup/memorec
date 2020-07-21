@@ -1,0 +1,13 @@
+researchvc#Researcher
+researchvc#Paper
+researchvc#Paragraph
+researchvc#ReviewNote
+researchvc#Write
+researchvc#Review
+researchvc#PublicationStructure
+researchvc#Named
+researchvc#Counted
+researchvc#Labelled
+researchvc#Skill
+researchvc#Keyword
+researchvc#PaperKeyword

@@ -1,0 +1,9 @@
+preferences#ModelElementPattern
+preferences#InstrumentationConfig
+preferences#InstrumentationMode
+preferences#Pattern
+preferences#LibraryPattern
+preferences#PackagePattern
+preferences#SourcePattern
+preferences#ContainerPattern
+preferences#ContainerType

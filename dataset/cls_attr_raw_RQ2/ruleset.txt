@@ -1,0 +1,5 @@
+Rule#name
+Rule#message
+Rule#filterPredicate
+Rule#checkPredicate
+Rule#priority

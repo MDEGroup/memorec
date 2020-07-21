@@ -1,0 +1,9 @@
+IOAutomaton#Automaton
+IOAutomaton#State
+IOAutomaton#Transition
+IOAutomaton#Activation
+IOAutomaton#ReturnValue
+IOAutomaton#Input
+IOAutomaton#Output
+IOAutomaton#Object
+IOAutomaton#Operation

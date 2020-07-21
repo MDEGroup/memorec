@@ -1,0 +1,16 @@
+sourcecleaner#Configuration
+sourcecleaner#Project
+sourcecleaner#LocatedElement
+sourcecleaner#Source
+sourcecleaner#Java
+sourcecleaner#Manifest
+sourcecleaner#Extension
+sourcecleaner#Build
+sourcecleaner#Dependency
+sourcecleaner#ClassPath
+sourcecleaner#Export
+sourcecleaner#ExtensionPoint
+sourcecleaner#ExtensionAttribute
+sourcecleaner#Plugin
+sourcecleaner#Schema
+sourcecleaner#ExtensionReference

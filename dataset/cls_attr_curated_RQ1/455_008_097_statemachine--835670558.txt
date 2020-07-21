@@ -1,0 +1,14 @@
+Transition#label
+Transition#sourceLabel
+Transition#targetLabel
+Transition#source
+Transition#to_state
+Transition#guardLabel
+Transition#actionLabel
+Transition#guardExpression
+Transition#actionStatement
+State#label
+State#successors
+State#reachable
+State#id
+State#to_transitions

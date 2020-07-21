@@ -1,0 +1,7 @@
+editor#InformationSystem
+editor#Domain
+editor#SubDomain
+editor#Status
+editor#Color
+editor#Area
+editor#BusinessInformation

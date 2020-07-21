@@ -1,0 +1,11 @@
+package#IdentifiedElement
+package#ModelingLanguageAssociations
+package#SettingsSpecification
+package#PropertyToTypesAssociation
+package#ModelingLanguage
+package#Category
+package#PropertyToCategoriesAssociation
+package#PropertyAssociation
+package#ServiceDescriptor
+package#ModelInterface
+package#ScopeProvider

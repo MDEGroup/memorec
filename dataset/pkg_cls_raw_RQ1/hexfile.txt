@@ -1,0 +1,3 @@
+hexfile#HexFile
+hexfile#Entry
+hexfile#AddressType

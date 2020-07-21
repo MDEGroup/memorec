@@ -1,0 +1,7 @@
+Model#attrs
+Model#db
+Model#whereEntry
+Database#url
+Database#port
+Database#dbName
+Database#name

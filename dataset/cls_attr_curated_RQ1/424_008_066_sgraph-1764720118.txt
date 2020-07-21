@@ -1,0 +1,17 @@
+Vertex#parentRegion
+Vertex#incomingTransitions
+Vertex#outgoingTransitions
+Transition#target
+Transition#source
+Transition#priority
+Scope#declarations
+Scope#events
+Scope#variables
+State#subRegions
+State#orthogonal
+State#substatechart
+State#substatechartId
+State#submachine
+State#simple
+State#composite
+State#leaf

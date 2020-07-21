@@ -1,0 +1,5 @@
+package#SimpleTask
+package#Status
+package#Priority
+package#Category
+package#TaskCollection

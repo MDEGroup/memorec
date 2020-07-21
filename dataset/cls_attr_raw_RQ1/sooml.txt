@@ -1,0 +1,13 @@
+Package#classes
+Package#packages
+Package#parentPackage
+Class#stateMachine
+Class#operations
+Class#features
+StateMachine#class
+StateMachine#states
+StateMachine#initialState
+Transition#actions
+Transition#guard
+Transition#event
+Transition#target

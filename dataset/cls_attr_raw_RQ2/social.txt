@@ -1,0 +1,9 @@
+Target#targetType
+Target#title
+Target#images
+Target#uri
+Target#typeName
+PersonLike#firstName
+PersonLike#lastName
+PersonLike#username
+PersonLike#gender

@@ -1,0 +1,13 @@
+ObjectTemplateExp#bindsTo
+ObjectTemplateExp#where
+ObjectTemplateExp#part
+ObjectTemplateExp#referredClass
+CollectionTemplateExp#bindsTo
+CollectionTemplateExp#where
+CollectionTemplateExp#member
+CollectionTemplateExp#kind
+CollectionTemplateExp#referredCollectionType
+CollectionTemplateExp#rest
+PropertyTemplateItem#objContainer
+PropertyTemplateItem#value
+PropertyTemplateItem#referredProperty

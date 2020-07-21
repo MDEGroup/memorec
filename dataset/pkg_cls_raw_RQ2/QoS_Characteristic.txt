@@ -1,0 +1,15 @@
+package#QoSCharacteristic
+package#BooleanExpression
+package#MappingExpression
+package#StatisticalAttributekindKind
+package#Parameter
+package#DataType
+package#Domain
+package#DirectionKind
+package#Numeric
+package#Set
+package#Enumeration
+package#StringSet
+package#Boolean
+package#Integer
+package#String

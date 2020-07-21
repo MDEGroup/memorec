@@ -1,0 +1,8 @@
+package#NamedElement
+package#LudoModell
+package#LudoGame
+package#Cube
+package#Player
+package#GameingPieces
+package#Board
+package#Color

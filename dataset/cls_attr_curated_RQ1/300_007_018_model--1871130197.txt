@@ -1,0 +1,15 @@
+Arc#source
+Arc#target
+Arc#page
+Page#petriNet
+Page#object
+Page#arc
+PetriNet#type
+PetriNet#page
+PetriNet#fusionGroups
+ToolInfo#tool
+ToolInfo#version
+ToolInfo#parent
+ParameterAssignment#parameter
+ParameterAssignment#value
+ParameterAssignment#instance

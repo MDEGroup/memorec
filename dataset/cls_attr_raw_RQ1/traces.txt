@@ -1,0 +1,11 @@
+TraceRecord#name
+TraceRecord#traces
+TraceRecord#models
+Trace#timestamp
+Trace#ruleName
+Trace#elements
+Trace#ruleInfo
+TraceElement#traceType
+TraceElement#value
+TraceElement#typeName
+TraceElement#element

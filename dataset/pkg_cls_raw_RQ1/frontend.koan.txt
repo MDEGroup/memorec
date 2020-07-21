@@ -1,0 +1,14 @@
+koan#KoanTransformation
+koan#KoanRule
+koan#Matcher
+koan#ForAllMatcher
+dep#Variable
+dep#NamedElement
+dep#TransformationDefinition
+dep#TraceInterface
+dep#TransformationDefinitionParameter
+dep#LocatedElement
+dep#ClassUse
+dep#Expression
+dep#Statement
+dep#TypedWithClass

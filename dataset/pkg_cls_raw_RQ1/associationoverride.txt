@@ -1,0 +1,4 @@
+associationoverride#Address
+associationoverride#Employee
+associationoverride#Person
+associationoverride#Student

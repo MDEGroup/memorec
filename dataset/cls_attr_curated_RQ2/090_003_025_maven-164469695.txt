@@ -1,0 +1,7 @@
+MapEntry#artifactId
+MapEntry#groupId
+MapEntry#name
+MapEntry#aliases
+MavenProvider#mappings
+MavenProvider#scopes
+MavenProvider#transitive

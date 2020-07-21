@@ -1,0 +1,7 @@
+umlState#StateRule
+umlState#SubmachineRule
+umlState#QualifiedName
+umlState#EntryRule
+umlState#DoRule
+umlState#ExitRule
+umlState#BehaviorKind

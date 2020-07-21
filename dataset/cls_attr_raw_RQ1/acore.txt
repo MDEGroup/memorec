@@ -1,0 +1,14 @@
+AClass#subClasses
+AClass#implementedInterfaces
+AClass#associations
+AClass#compositions
+AClass#aggregations
+ACoreRoot#title
+ACoreRoot#classes
+ACoreRoot#interfaces
+ABasicClass#operations
+ABasicClass#attributes
+ABasicClass#name
+AClassChild#name
+AClassChild#accessright
+AClassChild#dataType

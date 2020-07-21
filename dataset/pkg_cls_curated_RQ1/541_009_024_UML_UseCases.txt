@@ -1,0 +1,15 @@
+UseCases#Classifier
+UseCases#Instance
+UseCases#Actor
+UseCases#UseCase
+UseCases#UseCaseInstance
+UseCases#RelationShip
+UseCases#Include
+UseCases#Extend
+UseCases#BooleanExpression
+UseCases#ModelElement
+UseCases#ExtensionPoint
+UseCases#LocationReference
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

@@ -1,0 +1,11 @@
+ModelDescription#modelVariables
+ModelDescription#typeDefinitions
+ModelDescription#unitDefinitions
+ModelDescription#defaultExperiment
+ModelDescription#implementation
+Graph#components
+Graph#EReference0
+Graph#connections
+Component#inputs
+Component#outputs
+Component#fmu

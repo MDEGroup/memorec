@@ -1,0 +1,8 @@
+ProcessUnitType#property
+ProcessUnitType#description
+ProcessUnitType#disabled
+ProcessUnitType#uniqueID
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#processUnit

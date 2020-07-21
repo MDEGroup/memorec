@@ -1,0 +1,3 @@
+resourcedesc#WorkspaceDescriptor
+resourcedesc#ResourceDescriptor
+resourcedesc#ProjectDescriptor

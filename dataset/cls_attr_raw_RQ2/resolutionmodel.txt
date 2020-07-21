@@ -1,0 +1,14 @@
+RMResolutionElement#transformations
+RMResolutionElement#requiredComponents
+RMResolutionElement#requiredConnections
+RMResolutionElement#feature
+RMResolutionElement#name
+RMResolutionElement#description
+RMResolutionElement#executedWhenFeatureIsSelected
+RMTransfImplementation#name
+RMTransfImplementation#description
+RMTransfImplementation#classNamespace
+RMTransfImplementation#className
+RMTransfProperty#name
+RMTransfProperty#description
+RMTransfProperty#value

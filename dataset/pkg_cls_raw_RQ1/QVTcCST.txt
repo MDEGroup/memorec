@@ -1,0 +1,16 @@
+cst#AreaCS
+cst#AssignmentCS
+cst#BottomPatternCS
+cst#DirectionCS
+cst#DomainCS
+cst#EnforcementOperationCS
+cst#GuardPatternCS
+cst#MappingCS
+cst#ParamDeclarationCS
+cst#PatternCS
+cst#QueryCS
+cst#RealizeableVariableCS
+cst#RealizedVariableCS
+cst#TopLevelCS
+cst#TransformationCS
+cst#UnrealizedVariableCS

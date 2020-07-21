@@ -1,0 +1,10 @@
+kompose#Matcher
+kompose#Context
+kompose#Merger
+kompose#Composer
+kompose#Engine
+kompose#Modes
+kompose#String
+kompose#ConflictResolver
+kompose#Signature
+kompose#Match

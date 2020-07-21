@@ -1,0 +1,11 @@
+package#JavaProject
+package#PackageFragment
+package#CompilationUnit
+package#ImportDeclaration
+package#Type
+package#Field
+package#Method
+package#JavaElement
+package#MEMBER_KIND
+package#NamedElement
+package#PackageDeclaration

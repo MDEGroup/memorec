@@ -1,0 +1,5 @@
+SimpleClass#Classifier
+SimpleClass#Class
+SimpleClass#PrimitiveDataType
+SimpleClass#Association
+SimpleClass#Attribute

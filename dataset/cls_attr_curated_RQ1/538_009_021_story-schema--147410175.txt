@@ -1,0 +1,17 @@
+StorySchemaCatalog#storyTypes
+StorySchemaCatalog#actionTypes
+StorySchemaCatalog#aggregationTypes
+StorySchemaCatalog#generatedPackageName
+StorySchemaCatalog#xmiUrl
+StorySchemaCatalog#ecoreUrl
+StorySchemaCatalog#ePackage
+StorySchemaCatalog#eFactory
+ActionType#resolvedSubjectTypes
+ActionType#status
+ActionType#subjectTypes
+ActionLike#tenses
+ActionLike#pastTense
+ActionLike#pluralPastTense
+ActionLike#presentTense
+ActionLike#pluralPresentTense
+ActionLike#imperativeTense

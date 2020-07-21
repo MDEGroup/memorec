@@ -1,0 +1,4 @@
+Component#name
+Component#contains
+Component#input
+Component#output

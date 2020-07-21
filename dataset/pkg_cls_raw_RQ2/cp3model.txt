@@ -1,0 +1,7 @@
+package#CP3Dep
+package#CP3Repo
+package#CP3Project
+package#CP3Class
+package#CP3AbstractItem
+package#CP3Method
+package#CP3Field

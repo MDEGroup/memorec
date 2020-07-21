@@ -1,0 +1,16 @@
+rdbms#column
+rdbms#columns
+rdbms#DocumentRoot
+rdbms#foreignKey
+rdbms#foreignKeys
+rdbms#hasForeignKeys
+rdbms#key
+rdbms#key2
+rdbms#oID
+rdbms#RDBMS
+rdbms#referencedColumns
+rdbms#referencedKeys
+rdbms#schema
+rdbms#schemas
+rdbms#table
+rdbms#tables

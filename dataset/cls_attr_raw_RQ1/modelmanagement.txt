@@ -1,0 +1,10 @@
+Package#associations
+Package#classes
+Package#parameterizedClasses
+Package#owner
+Package#configurability
+Package#bindings
+ProcessComponent#providedInterfaces
+ProcessComponent#eventProducers
+ProcessComponent#initiatedInteractions
+ProcessComponent#interactions

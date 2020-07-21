@@ -1,0 +1,14 @@
+Measure#ModelKind
+Measure#RootMeasureSet
+Measure#Category
+Measure#Metric
+Measure#ElementKind
+Measure#MeasureSet
+Measure#Measure
+Measure#IntegerMeasure
+Measure#DoubleMeasure
+Measure#PercentageMeasure
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#Double

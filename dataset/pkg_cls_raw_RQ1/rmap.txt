@@ -1,0 +1,16 @@
+rmap#BranchPoint
+rmap#DocumentRoot
+rmap#Locator
+rmap#Matcher
+rmap#Provider
+rmap#Redirect
+rmap#Repository
+rmap#ResourceMap
+rmap#SearchPath
+rmap#Transform
+rmap#URIMatcher
+rmap#VersionConverter
+rmap#VersionSelectorType
+rmap#ConflictPolicy
+rmap#TransformMismatchException
+rmap#IComponentReader

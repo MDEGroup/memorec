@@ -1,0 +1,7 @@
+ResourceDescriptor#uri
+ResourceDescriptor#referencedResources
+ResourceDescriptor#referrerResources
+ResourceDescriptor#project
+ProjectDescriptor#resources
+ProjectDescriptor#workspace
+ProjectDescriptor#name

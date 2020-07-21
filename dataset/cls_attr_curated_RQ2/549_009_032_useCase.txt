@@ -1,0 +1,6 @@
+UseCase#name
+UseCase#include
+UseCase#extend
+Association#name
+Association#actor
+Association#useCase

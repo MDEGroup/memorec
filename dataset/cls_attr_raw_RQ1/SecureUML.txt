@@ -1,0 +1,9 @@
+Role#roleHierarchy
+Role#subjectAssignment
+Role#permissionAssignment
+Permission#role
+Permission#constraintAssignment
+Permission#actionAssignment
+Action#permission
+Action#resource
+Action#actionHyerarchy

@@ -1,0 +1,13 @@
+ExtensionProgram#base
+ExtensionProgram#extension
+ExtensionProgram#statements
+ExtensionDeclaration#name
+ExtensionDeclaration#nsuri
+ExtensionDeclaration#nsprefix
+ExtensionDeclaration#targeturl
+BaseDeclaration#name
+BaseDeclaration#nsuri
+BaseDeclaration#sourceurl
+DefinitionPart#rolename
+DefinitionPart#construct
+DefinitionPart#annotation

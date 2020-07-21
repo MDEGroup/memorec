@@ -1,0 +1,12 @@
+IfExpCS#condition
+IfExpCS#thenExpression
+IfExpCS#elseExpression
+IndexExpCS#firstIndexes
+IndexExpCS#secondIndexes
+IndexExpCS#atPre
+NavigatingArgCS#navigatingExp
+NavigatingArgCS#role
+NavigatingArgCS#prefix
+NavigatingArgCS#name
+NavigatingArgCS#ownedType
+NavigatingArgCS#init

@@ -1,0 +1,8 @@
+emffrag#IndexedMap
+emffrag#Iterator
+emffrag#IndexedList
+emffrag#KeyType
+emffrag#ContainmentIndexedMap
+emffrag#Root
+emffrag#Statistics
+emffrag#Extension

@@ -1,0 +1,17 @@
+rdfs#RDFSResource
+rdfs#RDFSClass
+rdfs#RDFSLiteral
+rdfs#RDFSDatatype
+rdfs#RDFXMLLiteral
+rdfs#RDFProperty
+rdfs#RDFList
+rdfs#RDFSContainer
+rdfs#RDFAlt
+rdfs#RDFBag
+rdfs#RDFSeq
+rdfs#RDFSContainerMembershipProperty
+rdfs#RDFStatement
+rdfs#Ontology
+rdfs#PlainLiteral
+rdfs#TypedLiteral
+rdfs#Namespace

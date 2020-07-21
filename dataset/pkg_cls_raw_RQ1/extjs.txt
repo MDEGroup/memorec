@@ -1,0 +1,11 @@
+basic#TypeItem
+basic#Alias
+basic#Widget
+basic#Plugin
+basic#ExtJSProject
+basic#TypeItemArray
+basic#Layout
+basic#Feature
+basic#File
+basic#Event
+basic#Parameter

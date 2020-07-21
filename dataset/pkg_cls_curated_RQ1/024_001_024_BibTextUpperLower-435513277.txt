@@ -1,0 +1,7 @@
+BibText#LocatedElement
+BibText#BibTextFile
+BibText#BibTextEntry
+BibText#Article
+BibText#Attribute
+BibText#Year
+BibText#Author

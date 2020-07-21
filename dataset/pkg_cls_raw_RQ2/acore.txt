@@ -1,0 +1,10 @@
+package#AClass
+package#AInterface
+package#ACoreRoot
+package#AAttribute
+package#AOperation
+package#ABasicClass
+package#AParameter
+package#AClassChild
+package#AccessType
+package#AccessTypeObject

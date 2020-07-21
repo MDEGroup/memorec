@@ -1,0 +1,7 @@
+qvtimperative#ImperativeModel
+qvtimperative#Mapping
+qvtimperative#MappingCall
+qvtimperative#MappingCallBinding
+qvtimperative#MiddlePropertyAssignment
+qvtimperative#MiddlePropertyCallExp
+qvtimperative#VariablePredicate

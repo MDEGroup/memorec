@@ -1,0 +1,5 @@
+Assignment#label
+Assignment#targetId
+Assignment#targetUrl
+Assignment#src
+Assignment#type

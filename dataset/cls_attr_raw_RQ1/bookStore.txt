@@ -1,0 +1,15 @@
+Book#authors
+Book#name
+Book#isbn
+Book#category
+Book#ratings
+Book#chapters
+Chapter#name
+Chapter#pages
+Chapter#book
+ContainsChapter#container
+ContainsChapter#containee
+ContainsChapter#startPage
+Sells#price
+Sells#sellsSubject
+Sells#sellsObject

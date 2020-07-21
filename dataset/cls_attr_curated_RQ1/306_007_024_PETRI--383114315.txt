@@ -1,0 +1,4 @@
+Arc#multiplicity
+Arc#readOnly
+Arc#predecessor
+Arc#successor

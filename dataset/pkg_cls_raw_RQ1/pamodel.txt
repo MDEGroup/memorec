@@ -1,0 +1,9 @@
+pamodel#PAnnotatedEModelElement
+pamodel#PAnnotatedModel
+pamodel#PAnnotatedEPackage
+pamodel#PAnnotatedEClass
+pamodel#PAnnotatedEStructuralFeature
+pamodel#PAnnotatedEAttribute
+pamodel#PAnnotatedEReference
+pamodel#PAnnotatedETypedElement
+pamodel#PAnnotatedEDataType

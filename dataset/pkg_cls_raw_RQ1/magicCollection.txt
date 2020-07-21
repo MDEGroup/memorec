@@ -1,0 +1,6 @@
+collection#Collection
+collection#Deck
+collection#Container
+collection#CollectionElement
+collection#CardInstance
+collection#CardCondition

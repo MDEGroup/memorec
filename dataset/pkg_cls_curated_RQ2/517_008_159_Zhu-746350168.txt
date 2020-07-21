@@ -1,0 +1,10 @@
+package#StateMachine
+package#TopRegion
+package#Region
+package#Transitions
+package#Transition
+package#States
+package#StatesSeparated
+package#State
+package#Triggers
+package#TriggersSeparated

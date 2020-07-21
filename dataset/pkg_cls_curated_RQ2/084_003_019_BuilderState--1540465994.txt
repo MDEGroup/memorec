@@ -1,0 +1,9 @@
+package#ResourceDescription
+package#EObjectDescription
+package#UserDataEntry
+package#EURI
+package#EStringArray
+package#ReferenceDescription
+package#QualifiedName
+package#IEObjectDescription
+package#IReferenceDescription

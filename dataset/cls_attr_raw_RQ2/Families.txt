@@ -1,0 +1,6 @@
+Family#name
+Family#nuclear
+Family#migrant
+Family#lotteryNumbers
+Family#members
+Family#familyFriends

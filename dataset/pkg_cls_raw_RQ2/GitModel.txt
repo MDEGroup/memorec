@@ -1,0 +1,9 @@
+package#SourceRepository
+package#Commit
+package#Ref
+package#Diff
+package#ChangeType
+package#JavaDiff
+package#RevCompilationUnit
+package#ParentRelation
+package#EmfFragSourceRepository

@@ -1,0 +1,3 @@
+UnresolvedClass#unresolvedAttribute
+UnresolvedClass#unresolvedReference
+UnresolvedClass#unresolvedProperty

@@ -1,0 +1,8 @@
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+ComponentUML#Entity
+ComponentUML#AssociationEnd
+ComponentUML#Association
+ComponentUML#Method
+ComponentUML#Attribute

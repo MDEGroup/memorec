@@ -1,0 +1,6 @@
+sync#SynchronizationState
+sync#ReconciliationDecision
+sync#SyncItem
+sync#SynchronizationResult
+sync#ClassSyncItem
+sync#StructuralFeatureSyncItem

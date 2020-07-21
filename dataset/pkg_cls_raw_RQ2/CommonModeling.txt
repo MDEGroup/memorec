@@ -1,0 +1,10 @@
+package#Annotatable
+package#Annotation
+package#EStringMapEntry
+package#EFile
+package#EContainmentMapEntry
+package#EReferenceMapEntry
+package#ELocale
+package#Extendable
+package#XAnnotatable
+package#EURL

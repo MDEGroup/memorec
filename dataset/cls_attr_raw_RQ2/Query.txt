@@ -1,0 +1,3 @@
+SelectQueryAction#source
+SelectQueryAction#result
+SelectQueryAction#predicate

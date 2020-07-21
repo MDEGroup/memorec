@@ -1,0 +1,9 @@
+Port#connector
+Port#type
+Port#kind
+EventBComponent#composed
+EventBComponent#timeVariableName
+EventBComponent#machine
+FMUComponent#fmu
+FMUComponent#variables
+FMUComponent#path

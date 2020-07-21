@@ -1,0 +1,7 @@
+ShpLayerDescriptor#map
+ShpLayerDescriptor#title
+ShpLayerDescriptor#path
+ShpLayerDescriptor#name
+Style#strokeColor
+Style#fillColor
+Style#strokeWidth

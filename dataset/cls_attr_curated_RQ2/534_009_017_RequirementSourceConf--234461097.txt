@@ -1,0 +1,9 @@
+RequirementSource#contents
+RequirementSource#name
+RequirementSource#properties
+RequirementSource#connectorId
+RequirementSource#mappings
+RequirementSource#dataModelURI
+RequirementSource#defaultScope
+RequirementSource#repositoryURI
+RequirementSource#destinationURI

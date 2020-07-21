@@ -1,0 +1,4 @@
+UMLClass#umlName
+UMLClass#superclasses
+UMLClass#generalizations
+UMLClass#attributes

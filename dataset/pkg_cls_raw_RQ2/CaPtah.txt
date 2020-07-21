@@ -1,0 +1,12 @@
+package#Sensor
+package#NamedElement
+package#DataEncoding
+package#Component
+package#Widget
+package#Instance
+package#Model
+package#Composite
+package#Connector
+package#Port
+package#SensorType
+package#Dashboard

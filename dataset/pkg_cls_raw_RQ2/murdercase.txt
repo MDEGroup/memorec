@@ -1,0 +1,5 @@
+package#House
+package#Person
+package#Room
+package#Door
+package#Object

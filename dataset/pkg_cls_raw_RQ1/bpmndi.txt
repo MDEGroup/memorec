@@ -1,0 +1,8 @@
+bpmdi#BPMNPlane
+bpmdi#BPMNShape
+bpmdi#BPMNLabel
+bpmdi#BPMNLabelStyle
+bpmdi#ParticipantBandKind
+bpmdi#BPMNEdge
+bpmdi#MessageVisibleKind
+bpmdi#BPMNDiagram

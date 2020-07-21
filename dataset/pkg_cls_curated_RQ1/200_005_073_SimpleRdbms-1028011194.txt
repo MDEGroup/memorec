@@ -1,0 +1,6 @@
+SimpleRDBMS#Table
+SimpleRDBMS#Column
+SimpleRDBMS#Key
+SimpleRDBMS#ForeignKey
+SimpleRDBMS#RModelElement
+SimpleRDBMS#Schema

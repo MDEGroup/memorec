@@ -1,0 +1,15 @@
+IdentifiedElement#id
+IdentifiedElement#name
+IdentifiedElement#description
+FormalConstraintLanguage#libraries
+FormalConstraintLanguage#interpreter
+FormalConstraintLanguage#persister
+FormalConstraintLanguage#viewer
+FormalConstraintLanguage#libraryDirectory
+FormalLanguageLibrary#expression
+FormalLanguageLibrary#default
+FormalLanguageLibrary#language
+FormalLanguageExpression#usedLibraries
+FormalLanguageExpression#usedLibraryNames
+FormalLanguageExpression#usedLibraryIds
+FormalLanguageExpression#type

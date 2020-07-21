@@ -1,0 +1,4 @@
+simpleUML#Model
+simpleUML#UMLClass
+simpleUML#UMLAttribute
+simpleUML#Generalization

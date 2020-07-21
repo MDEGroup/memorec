@@ -1,0 +1,15 @@
+SimplifiedMiningMart#ModelElement
+SimplifiedMiningMart#Classifier
+SimplifiedMiningMart#StructuralFeature
+SimplifiedMiningMart#Class
+SimplifiedMiningMart#DataType
+SimplifiedMiningMart#Attribute
+SimplifiedMiningMart#Concept
+SimplifiedMiningMart#ColumnSet
+SimplifiedMiningMart#Column
+SimplifiedMiningMart#FeatureAttribute
+SimplifiedMiningMart#Value
+SimplifiedMiningMart#RoleRestriction
+SimplifiedMiningMart#Integer
+SimplifiedMiningMart#String
+SimplifiedMiningMart#DomainDataType

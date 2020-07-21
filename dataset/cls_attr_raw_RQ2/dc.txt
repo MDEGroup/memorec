@@ -1,0 +1,10 @@
+Font#name
+Font#size
+Font#isBold
+Font#isItalic
+Font#isUnderline
+Font#isStrikeThrough
+Bounds#x
+Bounds#y
+Bounds#width
+Bounds#height

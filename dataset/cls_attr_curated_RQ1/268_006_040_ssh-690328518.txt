@@ -1,0 +1,13 @@
+Sheet#text
+Sheet#image
+Sheet#table
+Sheet#name
+Image#title
+Image#imagePos
+Image#width
+Image#height
+Table#title
+Table#header
+Table#row
+Table#nbColumns
+Table#tablePos

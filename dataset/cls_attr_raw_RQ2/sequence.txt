@@ -1,0 +1,14 @@
+DNASequence#sequence
+DNASequence#sample
+DNASequence#qualityScores
+NucleotideSequence#sequence
+NucleotideSequence#sample
+NucleotideSequence#qualityScores
+PeptideSequence#sequence
+PeptideSequence#sample
+PeptideSequence#residues
+PeptideSequence#transcript
+RNASequence#sequence
+RNASequence#sample
+RNASequence#qualityScores
+RNASequence#peptideSequences

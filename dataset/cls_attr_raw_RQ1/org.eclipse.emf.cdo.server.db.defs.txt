@@ -1,0 +1,12 @@
+DBStoreDef#mappingStrategy
+DBStoreDef#dbAdapter
+DBStoreDef#dbConnectionProvider
+MappingStrategyDef#forceNamesWithID
+MappingStrategyDef#maxTableNameLength
+MappingStrategyDef#maxFieldNameLength
+MappingStrategyDef#objectTypeCacheSize
+MappingStrategyDef#qualifiedNames
+MappingStrategyDef#tableNamePrefix
+HorizontalMappingStrategyDef#auditing
+HorizontalMappingStrategyDef#branching
+HorizontalMappingStrategyDef#withRanges

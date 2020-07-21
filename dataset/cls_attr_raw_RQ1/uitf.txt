@@ -1,0 +1,9 @@
+TestCase#itsUISUT
+TestCase#itsStatement
+TestCase#id
+UISUT#itsVariable
+UISUT#itsUICtrl
+UISUT#objectURI
+Statement#itsVariable
+Statement#description
+Statement#kind

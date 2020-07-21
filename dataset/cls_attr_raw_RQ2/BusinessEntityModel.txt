@@ -1,0 +1,17 @@
+BusinessRole#characterisedby
+BusinessRole#typ
+BusinessRole#task
+BusinessRole#fille
+ArtifactRole#characterisedby
+ArtifactRole#typ
+ArtifactRole#task
+ArtifactRole#fille
+PerformerRole#characterisedby
+PerformerRole#typ
+PerformerRole#task
+PerformerRole#fille
+PerformerRole#perform
+OrganisationalUnit#characterisedby
+OrganisationalUnit#typ
+OrganisationalUnit#task
+OrganisationalUnit#fille

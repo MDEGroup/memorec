@@ -1,0 +1,5 @@
+org.ossmeter.metricprovider.rascal#RascalMetrics
+org.ossmeter.metricprovider.rascal#Measurement
+org.ossmeter.metricprovider.rascal#IntegerMeasurement
+org.ossmeter.metricprovider.rascal#RealMeasurement
+org.ossmeter.metricprovider.rascal#BooleanMeasurement

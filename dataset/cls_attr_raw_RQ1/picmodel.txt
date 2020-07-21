@@ -1,0 +1,8 @@
+ConfigWord#address
+ConfigWord#size
+ConfigWord#defaultValue
+ConfigWord#fields
+ConfigWord#implMask
+ConfigField#literals
+ConfigField#size
+ConfigField#start

@@ -1,0 +1,17 @@
+package#Model
+package#Type
+package#Server
+package#Config
+package#rootConfig
+package#hostNameConfig
+package#portConfig
+package#logConfig
+package#sqldbConfig
+package#resourceConfig
+package#DomainModel
+package#Entity
+package#Attribute
+package#StringAttribute
+package#NumberAttribute
+package#ImageAttribute
+package#Relationship

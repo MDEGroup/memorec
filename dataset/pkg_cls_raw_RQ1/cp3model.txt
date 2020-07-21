@@ -1,0 +1,7 @@
+cp3model#CP3Dep
+cp3model#CP3Repo
+cp3model#CP3Project
+cp3model#CP3Class
+cp3model#CP3AbstractItem
+cp3model#CP3Method
+cp3model#CP3Field

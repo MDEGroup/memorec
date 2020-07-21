@@ -1,0 +1,17 @@
+dgs#Dgs
+dgs#Header
+dgs#Event
+dgs#An
+dgs#Cn
+dgs#Dn
+dgs#Ae
+dgs#Ce
+dgs#De
+dgs#Cg
+dgs#St
+dgs#Attributes
+dgs#Attribute
+dgs#Value
+dgs#Array
+dgs#Map
+dgs#Mapping

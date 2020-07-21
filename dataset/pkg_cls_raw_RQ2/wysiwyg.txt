@@ -1,0 +1,5 @@
+package#SynchronizerContainer
+package#DomainPropertiesSynchronizer
+package#AbstractAction
+package#MethodCallAction
+package#FigurePropertySynchAction

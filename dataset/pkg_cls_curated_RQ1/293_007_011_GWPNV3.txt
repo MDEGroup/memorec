@@ -1,0 +1,6 @@
+PetriNet#Place
+PetriNet#Transition
+PetriNet#Net
+PetriNet#Arc
+PetriNet#PTArc
+PetriNet#TPArc

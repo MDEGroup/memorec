@@ -1,0 +1,8 @@
+TimeLine#NamedElement
+TimeLine#TimeLine
+TimeLine#Mesure
+TimeLine#Value
+TimeLine#BoolValue
+TimeLine#IntValue
+TimeLine#RealValue
+TimeLine#StringValue

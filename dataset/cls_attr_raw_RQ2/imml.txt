@@ -1,0 +1,15 @@
+interfaceModel#application
+interfaceModel#domain
+interfaceModel#interaction
+domainFunction#name
+domainFunction#preCondition
+domainFunction#postCondition
+domainFunction#states
+domainFunction#controls
+domainFunction#operands
+Control#name
+Control#changeFrom
+Control#changeTo
+functionInteraction#name
+functionInteraction#structures
+functionInteraction#function

@@ -1,0 +1,4 @@
+banner#Banner
+banner#BannerCatalog
+banner#BannerCollection
+banner#ImageBase

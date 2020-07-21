@@ -1,0 +1,3 @@
+BinaryOperatorExpression#leftOperand
+BinaryOperatorExpression#rightOperand
+BinaryOperatorExpression#operator

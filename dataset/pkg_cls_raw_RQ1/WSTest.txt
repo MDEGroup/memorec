@@ -1,0 +1,6 @@
+wSTest#Model
+wSTest#ClientModel
+wSTest#DataModel
+wSTest#Entity
+wSTest#Field_Def
+wSTest#Type

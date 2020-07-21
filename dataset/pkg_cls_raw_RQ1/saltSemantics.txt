@@ -1,0 +1,7 @@
+saltSemantics#SPOSAnnotation
+saltSemantics#SLemmaAnnotation
+saltSemantics#SALT_SEMANTIC_NAMES
+saltSemantics#SCatAnnotation
+saltSemantics#STypeAnnotation
+saltSemantics#SWordAnnotation
+saltSemantics#SSentenceAnnotation

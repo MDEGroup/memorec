@@ -1,0 +1,7 @@
+MessageHeaderItem#name
+MessageHeaderItem#title
+MessageHeaderItem#order
+MessageHeaderItem#itemLength
+MessageHeaderPart#name
+MessageHeaderPart#order
+MessageHeaderPart#items

@@ -1,0 +1,6 @@
+drules#R4EDesignRuleCollection
+drules#R4EDesignRule
+drules#R4EDesignRuleArea
+drules#R4EDesignRuleViolation
+drules#R4EDesignRuleRank
+drules#R4EDesignRuleClass

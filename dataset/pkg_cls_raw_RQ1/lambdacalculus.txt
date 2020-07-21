@@ -1,0 +1,8 @@
+lambdacalculus#Root
+lambdacalculus#Expr
+lambdacalculus#Ref
+lambdacalculus#Abstr
+lambdacalculus#Appl
+lambdacalculus#Var
+lambdacalculus#FreeVar
+lambdacalculus#BoundVar

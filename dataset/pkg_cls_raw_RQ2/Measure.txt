@@ -1,0 +1,14 @@
+package#ModelKind
+package#RootMeasureSet
+package#Category
+package#Metric
+package#ElementKind
+package#MeasureSet
+package#Measure
+package#IntegerMeasure
+package#DoubleMeasure
+package#PercentageMeasure
+package#String
+package#Boolean
+package#Integer
+package#Double

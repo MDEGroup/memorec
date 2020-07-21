@@ -1,0 +1,3 @@
+OOClass#name
+OOClass#supers
+OOClass#features

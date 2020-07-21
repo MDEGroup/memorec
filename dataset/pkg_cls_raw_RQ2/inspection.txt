@@ -1,0 +1,9 @@
+package#Description
+package#WSILDocument
+package#Inspection
+package#ItemWithAbstracts
+package#Link
+package#Name
+package#Reference
+package#Service
+package#TypeOfAbstract

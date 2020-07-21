@@ -1,0 +1,7 @@
+kevoree#Group
+kevoree#Node
+kevoree#Component
+kevoree#Channel
+kevoree#Port
+kevoree#Architecture
+kevoree#Binding

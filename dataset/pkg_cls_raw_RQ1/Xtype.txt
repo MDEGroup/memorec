@@ -1,0 +1,5 @@
+xtype#XFunctionTypeRef
+xtype#XComputedTypeReference
+xtype#IJvmTypeReferenceProvider
+xtype#XImportSection
+xtype#XImportDeclaration

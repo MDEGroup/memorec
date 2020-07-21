@@ -1,0 +1,6 @@
+Box#contains
+Box#Name
+Box#Color
+Room#contains
+Room#Name
+Room#boxes

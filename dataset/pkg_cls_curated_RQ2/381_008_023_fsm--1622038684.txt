@@ -1,0 +1,11 @@
+package#NamedElement
+package#StateMachine
+package#State
+package#FinalState
+package#InitialState
+package#Transition
+package#TimedTransition
+package#Trigger
+package#Pseudostate
+package#Fork
+package#Join

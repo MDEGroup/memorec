@@ -1,0 +1,4 @@
+Contact#nom
+Contact#prenom
+Contact#num_fixes
+Contact#num_portables

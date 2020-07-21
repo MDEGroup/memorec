@@ -1,0 +1,14 @@
+package#Entity
+package#Activity
+package#Object
+package#Timepoint
+package#Relation
+package#Decision
+package#Agent
+package#Creates
+package#Modifies
+package#Before
+package#Uses
+package#Performs
+package#ActivityStatus
+package#Succesor

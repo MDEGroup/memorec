@@ -1,0 +1,13 @@
+package#CXFContext
+package#CXFDataModel
+package#Java2WSContext
+package#Java2WSDataModel
+package#WSDL2JavaContext
+package#WSDL2JavaDataModel
+package#Frontend
+package#DataBinding
+package#URL
+package#Definition
+package#Map
+package#IMethod
+package#CXFInstall

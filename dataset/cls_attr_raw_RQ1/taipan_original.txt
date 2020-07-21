@@ -1,0 +1,15 @@
+Aquatory#ports
+Aquatory#routes
+Aquatory#ships
+Port#location
+Port#buildings
+Port#register
+Route#source
+Route#destination
+Route#description
+Route#reliability
+Ship#name
+Ship#destination
+Ship#route
+Ship#cargo
+Ship#aquatory

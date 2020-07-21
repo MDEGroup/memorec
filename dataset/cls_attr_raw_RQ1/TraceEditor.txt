@@ -1,0 +1,8 @@
+TraceLink#sources
+TraceLink#targets
+TraceLink#type
+TraceLink#transformation
+Dashboard#sourceArtefacts
+Dashboard#targetArtefacts
+Dashboard#traceLinks
+Dashboard#transformations

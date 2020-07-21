@@ -1,0 +1,11 @@
+scr#Component
+scr#Implementation
+scr#Property
+scr#Properties
+scr#Service
+scr#Provide
+scr#Reference
+scr#Policy
+scr#Cardinality
+scr#ConfigurationPolicy
+scr#JavaType

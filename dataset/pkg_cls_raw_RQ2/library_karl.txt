@@ -1,0 +1,7 @@
+package#Library
+package#Customer
+package#Borrowable
+package#Author
+package#CD
+package#Magazine
+package#Book

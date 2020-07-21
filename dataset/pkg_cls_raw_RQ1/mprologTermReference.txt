@@ -1,0 +1,15 @@
+mprologTermReference#Model
+mprologTermReference#Clause
+mprologTermReference#Head
+mprologTermReference#Term
+mprologTermReference#Body
+mprologTermReference#Variable
+mprologTermReference#Functor
+mprologTermReference#QuotedAtom
+mprologTermReference#List
+mprologTermReference#InfixExpression
+mprologTermReference#Operator
+mprologTermReference#TermReference
+mprologTermReference#FunctorReference
+mprologTermReference#VariableReference
+mprologTermReference#Parenthesis

@@ -1,0 +1,16 @@
+Entity#outgoingLinks
+Entity#incomingLinks
+Entity#id
+Entity#childEntities
+Entity#childLinks
+Entity#childPorts
+Entity#childRelations
+Port#outgoingLinks
+Port#incomingLinks
+Port#id
+Relation#outgoingLinks
+Relation#incomingLinks
+Relation#id
+Linkable#outgoingLinks
+Linkable#incomingLinks
+Linkable#id

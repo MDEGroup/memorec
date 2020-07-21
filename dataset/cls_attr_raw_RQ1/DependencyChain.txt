@@ -1,0 +1,13 @@
+DependencyChain#type
+DependencyChain#replacedBy
+DependencyChain#rootNodesVector
+DependencyChain#innerNodesVector
+DependencyChain#leafNodesVector
+DependencyChain#virtualNodesVector
+DependencyChain#vectorUtil
+DependencyChain#requiresInitialRun
+InstanceNode#predecessors
+InstanceNode#successors
+InstanceNode#annotation
+InstanceNode#annotation2
+InstanceNode#annotation3

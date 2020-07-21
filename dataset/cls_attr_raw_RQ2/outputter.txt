@@ -1,0 +1,12 @@
+OutputterConfigType#singleFileOutputterType
+OutputterConfigType#standardOutOutputterType
+OutputterConfigType#loggingAgentOutputterType
+OutputterConfigType#notificationOutputterType
+OutputterConfigType#type
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#loggingAgentOutputterType
+DocumentRoot#notificationOutputterType
+DocumentRoot#singleFileOutputterType
+DocumentRoot#standardOutOutputterType

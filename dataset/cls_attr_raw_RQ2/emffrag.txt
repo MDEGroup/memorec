@@ -1,0 +1,12 @@
+IndexedMap#firstKey
+IndexedMap#lastKey
+IndexedMap#prefix
+IndexedMap#keytype
+IndexedList#firstKey
+IndexedList#lastKey
+IndexedList#prefix
+IndexedList#keytype
+ContainmentIndexedMap#firstKey
+ContainmentIndexedMap#lastKey
+ContainmentIndexedMap#prefix
+ContainmentIndexedMap#keytype

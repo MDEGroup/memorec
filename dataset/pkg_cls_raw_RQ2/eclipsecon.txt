@@ -1,0 +1,10 @@
+package#Schedule
+package#TimeSlot
+package#Tutorial
+package#Conference
+package#Participant
+package#Presenter
+package#Handout
+package#HandoutKind
+package#Resource
+package#Profile

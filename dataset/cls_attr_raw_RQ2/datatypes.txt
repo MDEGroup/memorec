@@ -1,0 +1,17 @@
+TypesLibrary#types
+TypesLibrary#name
+TypesLibrary#includes
+RosIDLReference#name
+RosIDLReference#typesLibrary
+RosIDLReference#namespace
+RosIDLReference#rosPackage
+VectorType#name
+VectorType#typesLibrary
+VectorType#template
+CustomType#name
+CustomType#typesLibrary
+CustomType#fields
+Field#name
+Field#type
+Field#description
+Field#measureUnit

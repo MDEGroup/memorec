@@ -1,0 +1,5 @@
+di#ContainerShape
+di#Shape
+di#Link
+di#Diagram
+di#DiNode

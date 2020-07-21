@@ -1,0 +1,7 @@
+DebugScript#path
+DebugScript#session
+DebugScript#paths
+DebugCommand#path
+DebugCommand#session
+DebugCommand#command
+DebugCommand#paths

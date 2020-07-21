@@ -1,0 +1,7 @@
+X5Fact#id
+X5Fact#clientapp
+X5Fact#client
+X5Fact#timestamp
+X5Fact#schema
+X5Fact#body
+X5Fact#references

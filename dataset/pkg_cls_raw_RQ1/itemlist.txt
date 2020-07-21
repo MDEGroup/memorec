@@ -1,0 +1,5 @@
+itemlist#Item
+itemlist#Box
+itemlist#Room
+itemlist#ItemType
+itemlist#Storage

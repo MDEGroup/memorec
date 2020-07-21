@@ -1,0 +1,6 @@
+x5#X5Request
+x5#X5Response
+x5#X5Fact
+x5#EStringToEStringMapEntry
+x5#X5FactResponse
+x5#DeliveryStatus

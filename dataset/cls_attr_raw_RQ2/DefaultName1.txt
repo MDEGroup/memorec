@@ -1,0 +1,8 @@
+Cars#mileage
+Cars#has a
+Cars#has
+Cars#model
+Buses#mileage
+Buses#has a
+Buses#has
+Buses#capacity

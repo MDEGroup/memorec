@@ -1,0 +1,11 @@
+LocalJoomlaServer#id
+LocalJoomlaServer#teamId
+LocalJoomlaServer#name
+LocalJoomlaServer#majorVersion
+LocalJoomlaServer#exactVersion
+LocalJoomlaServer#installDir
+LocalJoomlaServer#baseUrl
+LocalJoomlaServer#adminUserCredentials
+DeploymentRuntime#server
+DeploymentRuntime#deployedExtensions
+DeploymentRuntime#httpSession

@@ -1,0 +1,13 @@
+package#SegmentModel
+package#Import
+package#Release
+package#TypeExtension
+package#ImageFunction
+package#ComplexFunction
+package#Segment
+package#Qualifier
+package#Field
+package#FieldMapping
+package#Attribute
+package#Format
+package#LocalType

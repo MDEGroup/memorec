@@ -1,0 +1,13 @@
+Parameters#inBeamPosition
+Parameters#outOfBeamPosition
+Parameters#exposureTime
+Parameters#start
+Parameters#stop
+Parameters#step
+Parameters#darkFieldInterval
+Parameters#flatFieldInterval
+Parameters#imagesPerDark
+Parameters#imagesPerFlat
+Parameters#minI
+Parameters#title
+Parameters#flyScan

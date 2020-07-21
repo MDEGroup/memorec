@@ -1,0 +1,13 @@
+Actor#useCase
+Actor#goal
+Actor#user
+UseCase#context
+UseCase#service
+UseCase#user
+UseCase#actor
+Service#useCase
+Service#goal
+Service#task
+Context#preCondition
+Context#postCondition
+Context#useCase

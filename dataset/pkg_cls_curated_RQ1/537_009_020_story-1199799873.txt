@@ -1,0 +1,17 @@
+story#Catalog
+story#CatalogElement
+story#StoryBase
+story#StoryContainer
+story#Protagonist
+story#Role
+story#Actor
+story#User
+story#System
+story#Persona
+story#Epic
+story#Theme
+story#Story
+story#Scenario
+story#ConditionalProtagonist
+story#Goal
+story#Parameter

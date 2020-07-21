@@ -1,0 +1,4 @@
+CorrelatedMapSet#mapUnits
+CorrelatedMapSet#mapFeatures
+CorrelatedMapSet#correlatedMaps
+CorrelatedMapSet#correlatedMapFeatures

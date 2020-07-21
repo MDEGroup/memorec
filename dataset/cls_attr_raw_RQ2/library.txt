@@ -1,0 +1,9 @@
+Library#name
+Library#writers
+Library#books
+Writer#firstName
+Writer#lastName
+Writer#books
+Book#title
+Book#pages
+Book#writers

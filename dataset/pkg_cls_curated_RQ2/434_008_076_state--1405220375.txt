@@ -1,0 +1,16 @@
+package#State
+package#Region
+package#StateMachine
+package#NamedElement
+package#Vertex
+package#Transition
+package#TransitionKind
+package#FinalState
+package#Constraint
+package#Trigger
+package#Behaviour
+package#StateModel
+package#OpaqueExpression
+package#Event
+package#PseudoState
+package#PseudoStateKind

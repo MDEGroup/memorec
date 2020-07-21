@@ -1,0 +1,7 @@
+waqtsalat#Pray
+waqtsalat#CalculationMethod
+waqtsalat#AdjustingMethod
+waqtsalat#PrayName
+waqtsalat#TimeFormat
+waqtsalat#JuristicMethod
+waqtsalat#Calendar

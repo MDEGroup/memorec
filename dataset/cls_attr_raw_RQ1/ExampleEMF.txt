@@ -1,0 +1,7 @@
+Position#location
+Position#title
+Position#pay
+Position#managedBy
+Person#name
+Person#livesIn
+Person#email

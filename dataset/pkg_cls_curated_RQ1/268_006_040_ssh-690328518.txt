@@ -1,0 +1,10 @@
+spreadsheet#SpreadsheetFile
+spreadsheet#Sheet
+spreadsheet#Text
+spreadsheet#Title
+spreadsheet#Image
+spreadsheet#Point
+spreadsheet#Table
+spreadsheet#Header
+spreadsheet#Cell
+spreadsheet#Row

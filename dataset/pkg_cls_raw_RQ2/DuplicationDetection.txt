@@ -1,0 +1,6 @@
+package#BaseAdapter
+package#DuplicationDetection
+package#HashDuplicationDetection
+package#Message
+package#SubscriptionMessageHashes
+package#HashWithDate

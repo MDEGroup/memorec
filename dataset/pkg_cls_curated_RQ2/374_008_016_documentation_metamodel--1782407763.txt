@@ -1,0 +1,11 @@
+package#StateMachine
+package#Transition
+package#Trigger
+package#Behavior
+package#Region
+package#Pseudostate
+package#PseudostateKind
+package#FinalState
+package#Vertex
+package#Activity
+package#State

@@ -1,0 +1,7 @@
+RobotMLExtension#Array
+RobotMLExtension#Vector
+RobotMLExtension#Map
+RobotMLExtension#Alias
+RobotMLExtension#Union
+RobotMLExtension#Parameters
+RobotMLExtension#Define

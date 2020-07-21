@@ -1,0 +1,13 @@
+taipan#Aquatory
+taipan#Port
+taipan#RouteType
+taipan#Ship
+taipan#Item
+taipan#LargeItem
+taipan#SmallItems
+taipan#EmptyBox
+taipan#Warship
+taipan#Route
+taipan#RouteSlot
+taipan#ItemSpace
+taipan#ItemType

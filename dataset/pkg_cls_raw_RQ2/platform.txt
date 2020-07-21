@@ -1,0 +1,6 @@
+package#Platform
+package#Processor
+package#Memory
+package#Property
+package#Robot
+package#Device

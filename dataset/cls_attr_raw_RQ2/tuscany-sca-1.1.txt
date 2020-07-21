@@ -1,0 +1,17 @@
+DocumentRoot#bindingDwr
+DocumentRoot#bindingHttp
+DocumentRoot#bindingJsonrpc
+DocumentRoot#bindingRmi
+DocumentRoot#implementationOsgi
+DocumentRoot#implementationWidget
+DocumentRoot#osgiProperty
+OSGiImplementation#any
+OSGiImplementation#bundleSymbolicName
+OSGiImplementation#bundleVersion
+OSGiImplementation#anyAttribute1
+OSGiProperty#value
+OSGiProperty#name
+OSGiProperty#value1
+WidgetImplementation#any
+WidgetImplementation#location
+WidgetImplementation#anyAttribute1

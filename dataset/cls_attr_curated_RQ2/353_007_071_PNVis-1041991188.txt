@@ -1,0 +1,8 @@
+Arc#finished
+Arc#keepanm
+Arc#idnt
+Place#tokens
+Place#canchange
+Place#shape
+Place#activities
+Place#geo

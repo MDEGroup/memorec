@@ -1,0 +1,7 @@
+AWKProgram#name
+AWKProgram#input
+AWKProgram#output
+AWKProgram#script
+Rule#r_script
+Rule#pattern
+Rule#action

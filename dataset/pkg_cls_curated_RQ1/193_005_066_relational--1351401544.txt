@@ -1,0 +1,7 @@
+relational#Database
+relational#Schema
+relational#Table
+relational#ForeignKey
+relational#Column
+relational#Type
+relational#ModelElement

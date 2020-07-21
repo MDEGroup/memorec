@@ -1,0 +1,14 @@
+Componente#name
+Componente#elementoOculto
+Componente#elementoVisual
+Componente#componentePredeterminado
+Titulo#name
+Titulo#orden
+Titulo#enlace
+Subtitulo#name
+Subtitulo#orden
+Subtitulo#enlace
+Imagen#name
+Imagen#orden
+Imagen#alto
+Imagen#ancho

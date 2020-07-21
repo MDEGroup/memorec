@@ -1,0 +1,4 @@
+petri#PetriNet
+petri#NamedElement
+petri#Place
+petri#Transition

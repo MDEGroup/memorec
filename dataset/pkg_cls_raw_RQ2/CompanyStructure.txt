@@ -1,0 +1,10 @@
+package#Company
+package#CorporateHQ
+package#Store
+package#CorporateHQBackOffice
+package#StoreBackOffice
+package#Employee
+package#CashRegister
+package#Boolean
+package#Integer
+package#String

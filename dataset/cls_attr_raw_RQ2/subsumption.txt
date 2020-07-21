@@ -1,0 +1,17 @@
+Module#name
+Module#inputs
+Module#outputs
+Module#period
+Output#name
+Output#sink
+Output#activates
+Output#inhibitedBy
+Input#source
+Input#suppressedBy
+Input#name
+Suppressor#controlledBy
+Suppressor#time
+Suppressor#suppress
+Inhibitor#controlledBy
+Inhibitor#time
+Inhibitor#inhibits

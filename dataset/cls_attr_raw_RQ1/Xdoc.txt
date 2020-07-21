@@ -1,0 +1,15 @@
+Document#subtitle
+Document#authors
+Document#chapters
+Document#langDefs
+Document#glossary
+Document#parts
+ImageRef#name
+ImageRef#path
+ImageRef#clazz
+ImageRef#style
+ImageRef#caption
+ImageRef#image
+GlossaryEntry#name
+GlossaryEntry#alias
+GlossaryEntry#description

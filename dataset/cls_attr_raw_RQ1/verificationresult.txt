@@ -1,0 +1,5 @@
+VerificationResult#success
+VerificationResult#message
+VerificationResult#verifier
+VerificationResult#rule
+VerificationResult#evaluationResult

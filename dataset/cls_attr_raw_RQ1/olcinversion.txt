@@ -1,0 +1,3 @@
+OclEquation#left
+OclEquation#right
+OclEquation#isSource

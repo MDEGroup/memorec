@@ -1,0 +1,14 @@
+XClazz#Abstract
+XClazz#DefaultDomainKey
+XClazz#ImplementSerializable
+XClazz#Imports
+XClazz#IsPersistent
+XClazz#Methods
+XClazz#MethodVisibility
+XClazz#Name
+XClazz#PackageName
+XClazz#PrimaryKey
+XClazz#Serializable
+XClazz#SubImports
+XClazz#SuperClassName
+XClazz#SuperClassPackage

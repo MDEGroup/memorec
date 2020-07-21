@@ -1,0 +1,13 @@
+esql#CommunicationArea
+esql#Cursor
+esql#CursorRecord
+esql#CursorTerm
+esql#CursorType
+esql#DescriptorArea
+esql#ESqlObject
+esql#ESqlTerm
+esql#Statement
+esql#StatementTerm
+esql#ESqlManager
+esql#ESqlFactory
+esql#FetchPositioning

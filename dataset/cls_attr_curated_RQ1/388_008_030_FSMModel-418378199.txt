@@ -1,0 +1,10 @@
+Transition#source
+Transition#target
+Transition#guard
+Transition#trigger
+Transition#actions
+StateMachineDefinition#declarationBlock
+StateMachineDefinition#transitions
+StateMachineDefinition#states
+StateMachineDefinition#initialStates
+StateMachineDefinition#finalStates

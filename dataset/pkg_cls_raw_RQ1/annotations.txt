@@ -1,0 +1,11 @@
+annotations#NamedObject
+annotations#Annotatable
+annotations#Annotation
+annotations#StringAnnotation
+annotations#ReferenceAnnotation
+annotations#BooleanAnnotation
+annotations#IntAnnotation
+annotations#FloatAnnotation
+annotations#ContainmentAnnotation
+annotations#ImportAnnotation
+annotations#TypedStringAnnotation

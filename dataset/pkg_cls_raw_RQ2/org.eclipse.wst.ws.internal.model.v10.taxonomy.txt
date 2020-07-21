@@ -1,0 +1,4 @@
+package#Category
+package#DocumentRoot
+package#Name
+package#Taxonomy

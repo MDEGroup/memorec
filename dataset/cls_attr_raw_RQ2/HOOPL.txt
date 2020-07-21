@@ -1,0 +1,7 @@
+Property#name
+Property#type
+Property#initial
+Expresion#condition
+Expresion#then
+Expresion#else
+Expresion#sentences

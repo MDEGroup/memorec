@@ -1,0 +1,8 @@
+package#Feature
+package#ContainmentAssociation
+package#FeatureModel
+package#Constraint
+package#ConstraintType
+package#Instance
+package#Attribute
+package#SimpleAttribute

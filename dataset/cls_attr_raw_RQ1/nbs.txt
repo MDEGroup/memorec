@@ -1,0 +1,12 @@
+Part#price
+Part#manufacturer
+Part#id
+Part#name
+Bicycle#parts
+Bicycle#customerData
+Bicycle#parameters
+Bicycle#price
+Bicycle#deliveryDate
+CustomerData#name
+CustomerData#address
+CustomerData#parameters

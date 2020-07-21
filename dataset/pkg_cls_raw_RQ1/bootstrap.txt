@@ -1,0 +1,15 @@
+bootstrap#Site
+bootstrap#Page
+bootstrap#MainPage
+bootstrap#Section
+bootstrap#Widget
+bootstrap#Form
+bootstrap#Table
+bootstrap#Text
+bootstrap#Video
+bootstrap#Gallery
+bootstrap#ImagesBlock
+bootstrap#FormWidget
+bootstrap#TextArea
+bootstrap#Spinner
+bootstrap#CheckBox

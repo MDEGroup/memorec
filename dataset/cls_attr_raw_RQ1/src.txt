@@ -1,0 +1,13 @@
+Class#name
+Class#parent
+Class#attrs
+Association#name
+Association#src
+Association#dest
+Attribute#name
+Attribute#is_primary
+Attribute#type
+Attribute#ptype
+ClassDiagram#class
+ClassDiagram#ass
+ClassDiagram#ptypes

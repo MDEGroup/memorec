@@ -1,0 +1,7 @@
+package#WorkbenchModule
+package#WorkbenchModuleResource
+package#ModuleType
+package#URI
+package#ProjectModules
+package#DependentModule
+package#DependencyType

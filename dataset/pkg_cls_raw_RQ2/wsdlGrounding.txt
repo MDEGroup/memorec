@@ -1,0 +1,7 @@
+package#WsdlGrounding
+package#WsdlAtomicProcessGrounding
+package#WsdlOperationRef
+package#WsdlMessageMap
+package#WsdlInputMessageMap
+package#WsdlOutputMessageMap
+package#GD

@@ -1,0 +1,14 @@
+epc#EPCDiagram
+epc#FlowConnector
+epc#ControlFlow
+epc#OrganizationalFlow
+epc#OrganizationalUnit
+epc#ProcessObject
+epc#Function
+epc#BasicFunction
+epc#ComplexFunction
+epc#LogicalOperator
+epc#Event
+epc#And
+epc#Or
+epc#Xor

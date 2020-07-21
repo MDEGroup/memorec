@@ -1,0 +1,7 @@
+study#Effect
+study#ExperimentalBatch
+study#Factor
+study#Representation
+study#Study
+study#StudyFeature
+study#Variate

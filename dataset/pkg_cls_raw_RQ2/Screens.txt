@@ -1,0 +1,12 @@
+package#Screen
+package#Dashboard
+package#ListScreen
+package#DetailsScreen
+package#Entity
+package#EntityProperty
+package#TextProperty
+package#BoolProperty
+package#RefProperty
+package#IntProperty
+package#FloatProperty
+package#EnumProperty

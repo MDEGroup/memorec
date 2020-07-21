@@ -1,0 +1,17 @@
+RootMeasureSet#modelType
+RootMeasureSet#categories
+RootMeasureSet#measureSets
+Category#name
+Category#desc
+Category#metrics
+Category#root
+Metric#name
+Metric#desc
+Metric#preferredValue
+Metric#category
+MeasureSet#elementName
+MeasureSet#elementType
+MeasureSet#measures
+MeasureSet#root
+MeasureSet#subsets
+MeasureSet#parent

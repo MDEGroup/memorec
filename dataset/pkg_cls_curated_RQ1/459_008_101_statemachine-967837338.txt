@@ -1,0 +1,15 @@
+statechart#StateMachineRoot
+statechart#StateMachine
+statechart#State
+statechart#CompositeState
+statechart#Action
+statechart#Transition
+statechart#Event
+statechart#Guard
+statechart#TransitionAction
+statechart#StateVertex
+statechart#StateAction
+statechart#DO
+statechart#ENTRY
+statechart#EXIT
+statechart#Label

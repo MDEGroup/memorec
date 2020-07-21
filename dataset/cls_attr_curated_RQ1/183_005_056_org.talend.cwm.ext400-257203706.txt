@@ -1,0 +1,15 @@
+TdSqlDataType#javaDataType
+TdSqlDataType#nullable
+TdSqlDataType#unsignedAttribute
+TdSqlDataType#caseSensitive
+TdSqlDataType#autoIncrement
+TdSqlDataType#localTypeName
+TdSqlDataType#searchable
+TdProviderConnection#login
+TdProviderConnection#password
+TdProviderConnection#connectionString
+TdProviderConnection#driverClassName
+TdXMLElement#xsdElementDeclaration
+TdXMLElement#ownedDocument
+TdXMLElement#javaType
+TdXMLElement#xmlContent

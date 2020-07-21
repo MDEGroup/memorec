@@ -1,0 +1,4 @@
+DataGraph#resourceSet
+DataGraph#rootResource
+DataGraph#eChangeSummary
+DataGraph#eRootObject

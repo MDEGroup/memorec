@@ -1,0 +1,9 @@
+JavaCompiler#classNameParameter
+JavaCompiler#classpathParameter
+JavaCompiler#workingDirectoryParameter
+JavaJar#classNameParameter
+JavaJar#workingDirectoryParameter
+JavaJar#outputFileParameter
+ZipFile#workingDirectoryParameter
+ZipFile#inputFileParameter
+ZipFile#outputFileParameter

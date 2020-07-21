@@ -1,0 +1,6 @@
+training#Session
+training#Person
+training#TrainingOrganization
+training#Training
+training#Trainer
+training#Trainee

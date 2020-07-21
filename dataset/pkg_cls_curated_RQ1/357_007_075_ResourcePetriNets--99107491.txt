@@ -1,0 +1,7 @@
+resourcePetriNet#Place
+resourcePetriNet#PetriNet
+resourcePetriNet#Transition
+resourcePetriNet#InputArc
+resourcePetriNet#OutputArc
+resourcePetriNet#Resource
+resourcePetriNet#GenericPlace

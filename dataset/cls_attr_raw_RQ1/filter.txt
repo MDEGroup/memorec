@@ -1,0 +1,15 @@
+AbstractFilterRuleType#attributeName
+AbstractFilterRuleType#attributeNamePath
+AbstractFilterRuleType#attributeValue
+AbstractFilterRuleType#implementationClass
+AbstractFilterRuleType#negation
+FilterRuleBlockType#group
+FilterRuleBlockType#abstractFilterRule
+FilterRuleBlockType#filterRuleBlock
+FilterRuleBlockType#name
+FilterRuleBlockType#negation
+FilterRuleBlockType#operator
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#filter

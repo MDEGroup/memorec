@@ -1,0 +1,3 @@
+cdk5#CDK5Provides
+cdk5#CDK5Consumes
+cdk5#RetryPolicy

@@ -1,0 +1,4 @@
+accession#Accession
+accession#GeneBank
+accession#Passport
+accession#RelatedAccessions

@@ -1,0 +1,6 @@
+package#Script
+package#PackageDeclare
+package#ImportDeclare
+package#BatchDsl
+package#BatchParameter
+package#BatchStatement

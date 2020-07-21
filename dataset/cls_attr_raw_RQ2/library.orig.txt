@@ -1,0 +1,13 @@
+Book#title
+Book#author
+Book#library
+Person#name
+Person#givenName
+Person#familyName
+Person#loans
+Library#books
+Library#loans
+Library#name
+Loan#person
+Loan#books
+Loan#dueDate

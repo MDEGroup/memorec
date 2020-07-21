@@ -1,0 +1,7 @@
+DaoMethod#name
+DaoMethod#paramters
+DaoMethod#returnValue
+SearchMethod#name
+SearchMethod#paramters
+SearchMethod#returnValue
+SearchMethod#attributeName

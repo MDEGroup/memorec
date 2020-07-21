@@ -1,0 +1,3 @@
+ICdeMemberExe#executionPerformance
+ICdeMemberExe#resourceNeeded
+ICdeMemberExe#executionDetails

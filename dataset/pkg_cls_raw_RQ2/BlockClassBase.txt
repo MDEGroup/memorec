@@ -1,0 +1,7 @@
+package#ModelElement
+package#ModelElementCore
+package#ModelElementRole
+package#Name
+package#ModelelementStereotypeRole
+package#ModelelementClassdiagramRole
+package#ModelelementBlockdiagramRole

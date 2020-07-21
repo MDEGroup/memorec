@@ -1,0 +1,5 @@
+Class#attribute
+Class#general
+Class#generalOpposite
+Class#reverse
+Class#forward

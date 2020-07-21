@@ -1,0 +1,10 @@
+ActorMapping#description
+ActorMapping#users
+ActorMapping#groups
+ActorMapping#roles
+ActorMapping#memberships
+ActorMapping#name
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#actorMappings

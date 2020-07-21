@@ -1,0 +1,4 @@
+petrinet_tgg_rule#AnnotatedPetriNet
+petrinet_tgg_rule#AnnotatedArc
+petrinet_tgg_rule#AnnotatedNode
+petrinet_tgg_rule#AnnotatedToken

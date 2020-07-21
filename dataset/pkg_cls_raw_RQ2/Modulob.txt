@@ -1,0 +1,17 @@
+package#Delegate
+package#Interface
+package#Method
+package#Notification
+package#Parameter
+package#Entity
+package#Annotation
+package#ConfigOption
+package#ConfigValue
+package#Feature
+package#ValueObject
+package#StringValue
+package#IntegerValue
+package#FloatValue
+package#Advice
+package#Enum
+package#EnumLiteral

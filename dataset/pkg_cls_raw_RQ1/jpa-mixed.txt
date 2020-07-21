@@ -1,0 +1,3 @@
+org.eclipse.emf.texo.test.model.schemaconstructs.mixed#DocumentRoot
+org.eclipse.emf.texo.test.model.schemaconstructs.mixed#LetterBodyType
+org.eclipse.emf.texo.test.model.schemaconstructs.mixed#SalutationType

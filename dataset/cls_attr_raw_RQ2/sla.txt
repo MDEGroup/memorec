@@ -1,0 +1,7 @@
+TimedWindowValueConstraint#penalties
+TimedWindowValueConstraint#time
+TimedWindowValueConstraint#unit
+TimedWindowValueConstraint#value
+TimedWindowValueConstraint#aggregationMethod
+TimedWindowValueConstraint#metricTypeNames
+TimedWindowValueConstraint#structuralReferences

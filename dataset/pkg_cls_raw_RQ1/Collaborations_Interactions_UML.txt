@@ -1,0 +1,16 @@
+ExtendedUMLCorePackage#Package
+ExtendedUMLCorePackage#ProviderClause
+ExtendedUMLCorePackage#CollaborationPackage
+ExtendedUMLCorePackage#Collaboration
+ExtendedUMLCorePackage#InteractionPackage
+ExtendedUMLCorePackage#Interaction
+ExtendedUMLCorePackage#AssociationRole
+ExtendedUMLCorePackage#ClassifierRole
+ExtendedUMLCorePackage#AssociationEndRole
+ExtendedUMLCorePackage#Message
+ExtendedUMLCorePackage#Request
+ExtendedUMLCorePackage#Operation
+ExtendedUMLCorePackage#Interface
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

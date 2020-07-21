@@ -1,0 +1,11 @@
+fsm#NamedElement
+fsm#StateMachine
+fsm#State
+fsm#FinalState
+fsm#InitialState
+fsm#Transition
+fsm#TimedTransition
+fsm#Trigger
+fsm#Pseudostate
+fsm#Fork
+fsm#Join

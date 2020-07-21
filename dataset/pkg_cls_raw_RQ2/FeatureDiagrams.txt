@@ -1,0 +1,10 @@
+package#Node
+package#Attribute
+package#Root
+package#Child
+package#XORGroup
+package#ORGroup
+package#Integer
+package#String
+package#Boolean
+package#Double

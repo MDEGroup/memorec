@@ -1,0 +1,9 @@
+ArchiveRepoComponent#archiveURL
+ArchiveRepoComponent#archiveName
+ArchiveRepoComponent#archiveOffset
+ArchiveRepoComponent#p2Repository
+ArchiveRepoComponent#localArchiveURL
+BundleData#id
+BundleData#jar
+BundleData#offset
+BundleData#url

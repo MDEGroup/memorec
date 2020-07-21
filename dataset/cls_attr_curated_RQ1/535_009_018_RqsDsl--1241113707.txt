@@ -1,0 +1,13 @@
+TAnnotation#num
+TAnnotation#id
+TAnnotation#type
+TAnnotation#a
+TAnnotation#b
+TAnnotation#text
+RAnnotation#num
+RAnnotation#id
+RAnnotation#type
+RAnnotation#aa
+RAnnotation#ab
+RAnnotation#ba
+RAnnotation#bb

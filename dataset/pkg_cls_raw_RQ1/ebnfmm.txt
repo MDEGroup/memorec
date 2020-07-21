@@ -1,0 +1,14 @@
+ebnfmm#EBNFDescription
+ebnfmm#NonTerminal
+ebnfmm#Symbol
+ebnfmm#Terminal
+ebnfmm#Control
+ebnfmm#Optional
+ebnfmm#Repetition
+ebnfmm#NonTerminalReference
+ebnfmm#Group
+ebnfmm#SpecialSequence
+ebnfmm#Except
+ebnfmm#Choice
+ebnfmm#SymbolWithFactor
+ebnfmm#Container

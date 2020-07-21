@@ -1,0 +1,16 @@
+Event#localKey
+Event#asserter
+Event#content
+Event#encoding
+Event#pointOfView
+Event#timestamp
+Event#language
+PlanExecution#plan
+PlanExecution#enactment
+PlanExecution#action
+ServiceInvocation#service
+ServiceInvocation#agent
+ServiceInvocation#parameters
+ActionFailure#reason
+ActionFailure#action
+ActionFailure#responsible

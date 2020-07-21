@@ -1,0 +1,5 @@
+emfexample#Applicant
+emfexample#City
+emfexample#Position
+emfexample#Person
+emfexample#Supervisor

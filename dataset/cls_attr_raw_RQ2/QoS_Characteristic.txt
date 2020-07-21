@@ -1,0 +1,8 @@
+QoSCharacteristic#invariant
+QoSCharacteristic#parallel_and_composition
+QoSCharacteristic#parallel_or_composition
+QoSCharacteristic#sequential_composition
+QoSCharacteristic#values
+QoSCharacteristic#statisticalAttribute
+QoSCharacteristic#parameter
+QoSCharacteristic#domain

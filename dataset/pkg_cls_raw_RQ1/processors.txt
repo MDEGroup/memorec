@@ -1,0 +1,10 @@
+global#TransformSiteToGlobal
+global#Site
+global#ItemSelector
+global#Exclude
+global#Include
+global#QueryImport
+global#MonitorQueryImport
+global#EventQueryImport
+global#AePullConfiguration
+global#PropertyEntry

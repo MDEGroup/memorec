@@ -1,0 +1,6 @@
+Home#EReference0
+Home#currentUser
+Home#customers
+UserFull#uid
+UserFull#fullName
+UserFull#email

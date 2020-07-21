@@ -1,0 +1,6 @@
+SemanticResourceDB#ResourceTreeNode
+SemanticResourceDB#SemanticDB
+SemanticResourceDB#TreeRoot
+SemanticResourceDB#PersistentProperties
+SemanticResourceDB#TreeNodeType
+SemanticResourceDB#SessionProperties

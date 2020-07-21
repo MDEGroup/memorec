@@ -1,0 +1,5 @@
+package#ConfigFileRefType
+package#ConfigFileType
+package#ConfigSetType
+package#DocumentRoot
+package#MuleIdeConfigType

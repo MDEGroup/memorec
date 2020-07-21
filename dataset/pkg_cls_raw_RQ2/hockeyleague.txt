@@ -1,0 +1,15 @@
+package#Arena
+package#Defence
+package#Forward
+package#Goalie
+package#GoalieStats
+package#HockeyleagueObject
+package#League
+package#Player
+package#PlayerStats
+package#Team
+package#DefencePositionKind
+package#ForwardPositionKind
+package#HeightKind
+package#ShotKind
+package#WeightKind

@@ -1,0 +1,8 @@
+dbmap#DBMapData
+dbmap#DBMapperTableEntry
+dbmap#AbstractDBDataMapTable
+dbmap#AbstaceDBInOutTable
+dbmap#VarTable
+dbmap#InputTable
+dbmap#OutputTable
+dbmap#FilterEntry

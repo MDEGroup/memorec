@@ -1,0 +1,10 @@
+package#RootFolder
+package#CompoundComponent
+package#PrimitiveComponent
+package#BaseComponent
+package#InputPort
+package#LocalPort
+package#OutputPort
+package#PortBase
+package#Signal
+package#AssociationPortBase_PortBase

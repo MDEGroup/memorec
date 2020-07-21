@@ -1,0 +1,4 @@
+MapWidget#actualZoomLevel
+MapWidget#actualLat
+MapWidget#actualLong
+MapWidget#items

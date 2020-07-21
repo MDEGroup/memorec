@@ -1,0 +1,13 @@
+hedl#EntityModel
+hedl#Option
+hedl#Commentable
+hedl#NamedElement
+hedl#Type
+hedl#Entity
+hedl#Constraint
+hedl#UniqueConstraint
+hedl#Enum
+hedl#EnumLiteral
+hedl#JavaType
+hedl#Property
+hedl#OptionType

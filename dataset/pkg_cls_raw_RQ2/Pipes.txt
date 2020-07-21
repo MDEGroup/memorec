@@ -1,0 +1,9 @@
+package#Wall
+package#Opening
+package#FlowSegment
+package#LocalPlacement
+package#Axis2Placement3D
+package#GUIDElement
+package#Model
+package#Direction
+package#Product

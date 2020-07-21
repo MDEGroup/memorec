@@ -1,0 +1,7 @@
+Book#title
+Book#pages
+Book#category
+Book#author
+Library#name
+Library#writers
+Library#books

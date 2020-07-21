@@ -1,0 +1,15 @@
+minuml1#ModelElement
+minuml1#StateMachine
+minuml1#ActivityGraph
+minuml1#Partition
+minuml1#StateVertex
+minuml1#State
+minuml1#CompositeState
+minuml1#ActionState
+minuml1#Pseudostate
+minuml1#ObjectFlowState
+minuml1#FinalState
+minuml1#Transition
+minuml1#Guard
+minuml1#BooleanExpression
+minuml1#PseudostateKind

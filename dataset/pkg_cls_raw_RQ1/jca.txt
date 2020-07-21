@@ -1,0 +1,16 @@
+jca#Connector
+jca#ResourceAdapter
+jca#AuthenticationMechanism
+jca#AuthenticationMechanismType
+jca#ConfigProperty
+jca#SecurityPermission
+jca#License
+jca#TransactionSupportKind
+jca#InboundResourceAdapter
+jca#OutboundResourceAdapter
+jca#MessageAdapter
+jca#ConnectionDefinition
+jca#AdminObject
+jca#MessageListener
+jca#ActivationSpec
+jca#RequiredConfigPropertyType

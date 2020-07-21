@@ -1,0 +1,10 @@
+package#Bendpoint
+package#Connector
+package#DefinitionType
+package#Diagram
+package#DocumentRoot
+package#Node
+package#SourceConnectorType
+package#Style
+package#TargetConnectorType
+package#View

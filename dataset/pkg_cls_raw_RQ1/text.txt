@@ -1,0 +1,8 @@
+Text#Model
+Text#Directory
+Text#File
+Text#Block
+Text#Line
+Text#NamedElement
+Text#Content
+Text#EmptyLine

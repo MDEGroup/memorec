@@ -1,0 +1,15 @@
+class_diagramm#Package
+class_diagramm#DataType
+class_diagramm#Method
+class_diagramm#Attribute
+class_diagramm#Parameter
+class_diagramm#Class
+class_diagramm#Association
+class_diagramm#RefAttribute
+class_diagramm#RefAssociation
+class_diagramm#RefMethod
+class_diagramm#RefParameter
+class_diagramm#RefPackage
+class_diagramm#ModifierType
+class_diagramm#RefDataType
+class_diagramm#RefClass

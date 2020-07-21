@@ -1,0 +1,16 @@
+nexus#ebene
+nexus#gestalt
+nexus#eins
+nexus#zwei
+nexus#drei
+nexus#ebenenfarbe
+nexus#schatten
+nexus#ebenenstatus
+nexus#positioniert
+nexus#spiel
+nexus#Spieler
+nexus#Nexus
+nexus#awtColor
+nexus#spielerStates
+nexus#Zug
+nexus#Zugliste

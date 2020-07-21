@@ -1,0 +1,15 @@
+extlibrary#Book
+extlibrary#Library
+extlibrary#Writer
+extlibrary#BookCategory
+extlibrary#Item
+extlibrary#Lendable
+extlibrary#CirculatingItem
+extlibrary#Periodical
+extlibrary#AudioVisualItem
+extlibrary#BookOnTape
+extlibrary#VideoCassette
+extlibrary#Borrower
+extlibrary#Person
+extlibrary#Employee
+extlibrary#Addressable

@@ -1,0 +1,6 @@
+pDL1#Process
+pDL1#ProcessElement
+pDL1#WorkDefinition
+pDL1#WorkSequence
+pDL1#Guidance
+pDL1#WorkSequenceType

@@ -1,0 +1,13 @@
+editormodel#Diagram
+editormodel#FlabotFileModel
+editormodel#VisualModel
+editormodel#Adapter
+editormodel#ConnectionBendpoint
+editormodel#ConnectionVisualModel
+editormodel#NodeVisualModel
+editormodel#Folder
+editormodel#Color
+editormodel#Dimension
+editormodel#Point
+editormodel#EStringToEObjectMapEntry
+editormodel#VisualDiagramJump

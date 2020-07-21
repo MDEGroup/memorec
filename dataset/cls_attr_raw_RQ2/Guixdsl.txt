@@ -1,0 +1,3 @@
+DslGuiModule#documentation
+DslGuiModule#name
+DslGuiModule#hint

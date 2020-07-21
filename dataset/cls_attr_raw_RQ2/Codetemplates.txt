@@ -1,0 +1,10 @@
+Codetemplate#name
+Codetemplate#id
+Codetemplate#description
+Codetemplate#context
+Codetemplate#keywordContext
+Codetemplate#body
+Variable#name
+Variable#type
+Variable#expectingParameters
+Variable#parameters

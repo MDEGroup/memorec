@@ -1,0 +1,6 @@
+FSmachine#Root
+FSmachine#AbstractObject
+FSmachine#AbstractConection
+FSmachine#State
+FSmachine#ReasonConnection
+FSmachine#TimeConnection

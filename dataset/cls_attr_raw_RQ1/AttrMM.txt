@@ -1,0 +1,11 @@
+AttributionElementWithID#id
+AttributionElementWithID#name
+AttributionElementWithID#description
+Attribution#attrExtensions
+Attribution#attrDefinitions
+Attribution#attrSemanticRules
+Attribution#attrDataTypes
+Attribution#version
+AttrOccurrence#definedBy
+AttrOccurrence#calculatedBy
+AttrOccurrence#containedIn

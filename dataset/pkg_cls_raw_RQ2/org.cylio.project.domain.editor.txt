@@ -1,0 +1,7 @@
+package#InformationSystem
+package#Domain
+package#SubDomain
+package#Status
+package#Color
+package#Area
+package#BusinessInformation

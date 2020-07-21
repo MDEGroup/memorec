@@ -1,0 +1,16 @@
+CityLibrary#address
+CityLibrary#borrowables
+CityLibrary#customers
+Borrowable#title
+Borrowable#copiesAvailable
+Borrowable#library
+CD#title
+CD#copiesAvailable
+CD#library
+Magazine#title
+Magazine#copiesAvailable
+Magazine#library
+Book#title
+Book#copiesAvailable
+Book#library
+Book#authors

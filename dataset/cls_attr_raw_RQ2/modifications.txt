@@ -1,0 +1,11 @@
+Modification#sourceEObjectUri
+Modification#sourceStart
+Modification#replacementText
+Substitution#sourceEObjectUri
+Substitution#sourceStart
+Substitution#replacementText
+Substitution#sourceLength
+Addition#sourceEObjectUri
+Addition#sourceStart
+Addition#replacementText
+Addition#addAfterPosition

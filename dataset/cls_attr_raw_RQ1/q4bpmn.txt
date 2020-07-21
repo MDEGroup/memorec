@@ -1,0 +1,8 @@
+Property#value
+Property#unit
+Property#nature
+Property#operator
+Property#PropertyClass
+Property#isHard
+Property#metrics
+Property#relatedTo

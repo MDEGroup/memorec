@@ -1,0 +1,8 @@
+knowledge#AbstractKnowledge
+knowledge#KnowledgeNode
+knowledge#KnowledgeElement
+knowledge#Leaf
+knowledge#Ensemble
+knowledge#Process
+knowledge#AbstractElement
+knowledge#DEECoModel

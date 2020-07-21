@@ -1,0 +1,4 @@
+geo#Country
+geo#Location
+geo#Room
+geo#Site

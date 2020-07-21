@@ -1,0 +1,16 @@
+package#Configuration
+package#Project
+package#LocatedElement
+package#Source
+package#Java
+package#Manifest
+package#Extension
+package#Build
+package#Dependency
+package#ClassPath
+package#Export
+package#ExtensionPoint
+package#ExtensionAttribute
+package#Plugin
+package#Schema
+package#ExtensionReference

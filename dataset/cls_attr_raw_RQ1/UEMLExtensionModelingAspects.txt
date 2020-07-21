@@ -1,0 +1,15 @@
+Activity#resourceRole
+Activity#child
+Activity#parent
+Activity#hasOutput
+Activity#hasInput
+Activity#activityType
+Resource#carries
+Resource#plays
+Resource#resourceType
+ResourceRole#resourcePlays
+ResourceRole#roleQualifier
+ResourceRole#in
+AssociationConnector#origin
+AssociationConnector#target
+AssociationConnector#classAssociation

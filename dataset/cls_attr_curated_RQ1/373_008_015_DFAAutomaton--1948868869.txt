@@ -1,0 +1,10 @@
+Automaton#name
+Automaton#states
+Automaton#transitions
+Automaton#alphabet
+State#name
+State#isInitial
+State#isFinal
+Transition#src
+Transition#tar
+Transition#symbol

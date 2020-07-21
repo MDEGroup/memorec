@@ -1,0 +1,10 @@
+package#CheckerMessage
+package#MessageCategory
+package#MessageGroup
+package#CheckerConfig
+package#CheckerMode
+package#MessageStateMap
+package#MessageState
+package#CheckerEnvironmentInstance
+package#CheckerInstance
+package#CheckerVersion

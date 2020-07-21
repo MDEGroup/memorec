@@ -1,0 +1,6 @@
+rttresolutionmodels#RTTTransfImplementation
+rttresolutionmodels#RTTTransfProperty
+rttresolutionmodels#RTTTransfConnection
+rttresolutionmodels#RTTConnection
+rttresolutionmodels#RTTRequiredComponents
+rttresolutionmodels#RTTRequiredConnections

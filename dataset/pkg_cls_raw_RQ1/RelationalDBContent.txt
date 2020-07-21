@@ -1,0 +1,9 @@
+RelationalDBContent#NamedElement
+RelationalDBContent#DataBase
+RelationalDBContent#Table
+RelationalDBContent#Tuple
+RelationalDBContent#TupleElement
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double

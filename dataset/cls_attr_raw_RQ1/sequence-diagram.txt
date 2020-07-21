@@ -1,0 +1,16 @@
+SDModel#umlInteraction
+SDModel#lifelines
+SDModel#messages
+SDModel#gates
+SDBehaviorSpec#umlExecutionSpec
+SDBehaviorSpec#umlStart
+SDBehaviorSpec#umlFinish
+SDFrame#frameContainer
+SDFrame#regions
+SDFrame#coveredLifeLines
+SDAbstractMessage#umlMessage
+SDAbstractMessage#model
+SDAbstractMessage#messageNumber
+SDGateMessage#fromNotToGate
+SDGateMessage#gate
+SDGateMessage#normalEnd

@@ -1,0 +1,8 @@
+textadventure#Adventure
+textadventure#Room
+textadventure#Item
+textadventure#RoomConnector
+textadventure#Key
+textadventure#Door
+textadventure#Stairs
+textadventure#AdventureElement

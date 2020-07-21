@@ -1,0 +1,4 @@
+package#PetriNet
+package#NamedElement
+package#Place
+package#Transition

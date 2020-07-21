@@ -1,0 +1,14 @@
+FLWOR#for
+FLWOR#let
+FLWOR#where
+FLWOR#orderBy
+FLWOR#return
+XPath#functionCall
+XPath#for
+XPath#let
+For#var
+For#flwor
+For#expression
+Let#var
+Let#flwor
+Let#expression

@@ -1,0 +1,14 @@
+DBMapData#VarTables
+DBMapData#InputTables
+DBMapData#OutputTables
+DBMapperTableEntry#name
+DBMapperTableEntry#expression
+DBMapperTableEntry#type
+DBMapperTableEntry#nullable
+DBMapperTableEntry#join
+DBMapperTableEntry#operator
+AbstractDBDataMapTable#name
+AbstractDBDataMapTable#minimized
+AbstractDBDataMapTable#readonly
+AbstractDBDataMapTable#DBMapperTableEntries
+AbstractDBDataMapTable#tableName

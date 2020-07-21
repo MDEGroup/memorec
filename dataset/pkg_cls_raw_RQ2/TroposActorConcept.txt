@@ -1,0 +1,7 @@
+package#Actor
+package#Goal
+package#SoftGoal
+package#HardGoal
+package#Dependency
+package#Plan
+package#Resource

@@ -1,0 +1,12 @@
+Activity#nodes
+Activity#edges
+Activity#groups
+ActivityEdge#source
+ActivityEdge#target
+ActivityEdge#guard
+ControlFlow#source
+ControlFlow#target
+ControlFlow#guard
+ObjectFlow#source
+ObjectFlow#target
+ObjectFlow#guard

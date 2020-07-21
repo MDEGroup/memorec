@@ -1,0 +1,13 @@
+FieldDefinition#Index
+FieldDefinition#Name
+FieldDefinition#FieldType
+FieldDefinition#rule
+AggregationField#AggregationType
+AggregationField#aggregatedfields
+AggregationField#fields
+Rule#index
+Rule#ResultValue
+Rule#DefaultValue
+ComparisonRule#comparisonfield
+ComparisonRule#ComparisonValue
+ComparisonRule#Operator

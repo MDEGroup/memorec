@@ -1,0 +1,7 @@
+Dfa#language
+Dfa#regularStates
+Dfa#initialState
+Dfa#finalStates
+Symbol#literal
+Symbol#description
+Symbol#direction

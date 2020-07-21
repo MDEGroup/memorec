@@ -1,0 +1,16 @@
+compare#Comparison
+compare#MatchResource
+compare#Match
+compare#Diff
+compare#ResourceAttachmentChange
+compare#ReferenceChange
+compare#AttributeChange
+compare#Conflict
+compare#Equivalence
+compare#DifferenceKind
+compare#DifferenceSource
+compare#DifferenceState
+compare#ConflictKind
+compare#EIterable
+compare#IEqualityHelper
+compare#Diagnostic

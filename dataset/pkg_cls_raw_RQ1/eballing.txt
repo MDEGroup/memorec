@@ -1,0 +1,8 @@
+ecliballs#Board
+ecliballs#Field
+ecliballs#Status
+ecliballs#FigureList
+ecliballs#Figure
+ecliballs#Score
+ecliballs#PointsValues
+ecliballs#FiguresType

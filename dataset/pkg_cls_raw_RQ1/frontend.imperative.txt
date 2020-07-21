@@ -1,0 +1,13 @@
+imperative#ImperativeTransformation
+imperative#MethodDefinition
+imperative#MethodSelf
+imperative#MethodParameter
+dep#Variable
+dep#NamedElement
+dep#TransformationDefinition
+dep#TransformationDefinitionParameter
+dep#LocatedElement
+dep#ClassUse
+dep#Expression
+dep#Statement
+dep#TypedWithClass

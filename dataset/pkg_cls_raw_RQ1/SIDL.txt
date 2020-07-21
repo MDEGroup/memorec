@@ -1,0 +1,11 @@
+sidl#Class
+sidl#Specification
+sidl#Interface
+sidl#Package
+sidl#Method
+sidl#Argument
+sidl#SIDLType
+sidl#ArrayType
+sidl#SimpleType
+sidl#SimpleTypeEnum
+sidl#ModeEnum

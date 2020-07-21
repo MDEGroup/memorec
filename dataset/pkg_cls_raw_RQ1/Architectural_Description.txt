@@ -1,0 +1,9 @@
+ArchitecturalDescription#Architecture
+ArchitecturalDescription#ArchitectureDescription
+ArchitecturalDescription#ArchitectureView
+ArchitecturalDescription#ArchitectureViewPoint
+ArchitecturalDescription#MainView
+ArchitecturalDescription#ModelElement
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

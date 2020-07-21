@@ -1,0 +1,10 @@
+Model#name
+Model#packages
+Model#persistenceModel
+Entity#name
+Entity#properties
+Entity#references
+EntityReference#listDestination
+EntityReference#singleDestination
+EntityReference#name
+EntityReference#inverseName

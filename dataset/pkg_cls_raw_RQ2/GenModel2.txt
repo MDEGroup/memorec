@@ -1,0 +1,4 @@
+package#GenModel2
+package#GenBase2
+package#GenClass2
+package#GenPackage2

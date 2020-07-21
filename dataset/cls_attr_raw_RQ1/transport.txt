@@ -1,0 +1,9 @@
+LoadUnloadEdgeLabel#activationTime
+LoadUnloadEdgeLabel#deactivationTime
+LoadUnloadEdgeLabel#activatedRate
+PacketStyleTransportSystem#packetTransportLabel
+PacketStyleTransportSystem#loadingEdges
+PacketStyleTransportSystem#unloadingEdges
+PipeStyleTransportSystem#inTransportEdges
+PipeStyleTransportSystem#outTransportEdges
+PipeStyleTransportSystem#maxCapacity

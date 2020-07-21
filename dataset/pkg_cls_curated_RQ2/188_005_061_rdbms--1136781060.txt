@@ -1,0 +1,17 @@
+package#Database
+package#Table
+package#Column
+package#ForeignKey
+package#Constraints
+package#CheckCon
+package#PKeyAndUnique
+package#PrimaryKeyCon
+package#UniqueCon
+package#Action
+package#DeferrableAct
+package#DeferredAct
+package#SystemDataType
+package#ModelElement
+package#UserDefinedDataType
+package#DataType
+package#ReferencingType

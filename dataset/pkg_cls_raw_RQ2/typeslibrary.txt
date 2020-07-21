@@ -1,0 +1,13 @@
+package#NativeTypesLibrary
+package#NativeTypeKind
+package#TypeInstance
+package#NativeType
+package#ComplexNamedType
+package#SimpleNamedType
+package#Type
+package#UserDefinedType
+package#UserDefinedTypeRef
+package#UserDefinedTypesLibrary
+package#TypesLibraryUser
+package#TypesLibrary
+package#TypesLibraryKind

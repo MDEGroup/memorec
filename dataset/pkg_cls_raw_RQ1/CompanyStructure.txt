@@ -1,0 +1,10 @@
+CompanyStructure#Company
+CompanyStructure#CorporateHQ
+CompanyStructure#Store
+CompanyStructure#CorporateHQBackOffice
+CompanyStructure#StoreBackOffice
+CompanyStructure#Employee
+CompanyStructure#CashRegister
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

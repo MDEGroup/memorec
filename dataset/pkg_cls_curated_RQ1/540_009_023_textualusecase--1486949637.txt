@@ -1,0 +1,15 @@
+textualusecase#UseCaseModel
+textualusecase#UseCase
+textualusecase#AlternativeFlow
+textualusecase#FlowOfEvents
+textualusecase#Step
+textualusecase#Agent
+textualusecase#Statement
+textualusecase#Condition
+textualusecase#BasicFlow
+textualusecase#Actor
+textualusecase#Subject
+textualusecase#Action
+textualusecase#ConditionalStatement
+textualusecase#LoopStatement
+textualusecase#Include

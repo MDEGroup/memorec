@@ -1,0 +1,11 @@
+AnnotatedSimpleFeature#type
+AnnotatedSimpleFeature#valueString
+AnnotatedSimpleFeature#annotations
+Feature#type
+Feature#valueString
+Feature#values
+Feature#unit
+Feature#supportingEvidence
+FeatureSet#type
+FeatureSet#valueString
+FeatureSet#features

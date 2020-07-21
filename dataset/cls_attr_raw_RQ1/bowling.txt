@@ -1,0 +1,7 @@
+Player#name
+Player#dateOfBirth
+Player#height
+Player#isProfessional
+Game#matchup
+Game#player
+Game#frames

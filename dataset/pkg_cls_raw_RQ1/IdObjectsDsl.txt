@@ -1,0 +1,10 @@
+idObjectsDsl#Model
+idObjectsDsl#Package
+idObjectsDsl#Entity
+idObjectsDsl#EntityReference
+idObjectsDsl#Persistence
+idObjectsDsl#PersistencePackage
+idObjectsDsl#PersistenceEntity
+idObjectsDsl#PersistenceProperty
+idObjectsDsl#PersistencePropertyConfig
+idObjectsDsl#EntityProperty

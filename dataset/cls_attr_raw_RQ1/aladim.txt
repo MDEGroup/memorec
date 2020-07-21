@@ -1,0 +1,15 @@
+interfaceModel#application
+interfaceModel#interactionSpaces
+interfaceModel#domainFunctions
+interfaceModel#reactions
+interfaceModel#actions
+interfaceModel#navigations
+transitionAction#taFrom
+transitionAction#taTo
+transitionAction#name
+transitionReaction#trFrom
+transitionReaction#trTo
+transitionReaction#name
+transitionNavigation#name
+transitionNavigation#tnFrom
+transitionNavigation#tnTo

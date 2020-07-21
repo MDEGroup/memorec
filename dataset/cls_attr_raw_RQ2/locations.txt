@@ -1,0 +1,8 @@
+Country#name
+Country#cities
+Country#code
+City#name
+City#country
+City#coordinates
+City#region
+City#postalCode

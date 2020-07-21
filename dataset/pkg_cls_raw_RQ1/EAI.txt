@@ -1,0 +1,6 @@
+EAI#FCMSource
+EAI#EAISource
+EAI#FCMSink
+EAI#EAISink
+EAI#EAIResource
+EAI#EAIQueue

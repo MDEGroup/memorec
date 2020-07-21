@@ -1,0 +1,9 @@
+dpd#Author
+dpd#ChildHwDevice
+dpd#DeviceClass
+dpd#DevicePkg
+dpd#DevicePkgRef
+dpd#DocumentRoot
+dpd#HwDeviceRegistration
+dpd#LocalFile
+dpd#PropertyFile

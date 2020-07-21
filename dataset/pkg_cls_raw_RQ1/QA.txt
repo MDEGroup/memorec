@@ -1,0 +1,13 @@
+qa#QAContainer
+qa#Question
+qa#Answer
+qa#TextAnswer
+qa#NumberAnswer
+qa#YesNoAnswer
+qa#QATest
+qa#QASection
+qa#QAPart
+qa#OptionAnswer
+qa#ExpressionAnswer
+qa#QAContainerOptions
+qa#NextRule

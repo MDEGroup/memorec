@@ -1,0 +1,16 @@
+package#IProject
+package#IFolder
+package#IFile
+package#IResource
+package#IProgressMonitor
+package#CoreException
+package#ManagedProject
+package#BuildProcess
+package#BuildResource
+package#InputResource
+package#OutputResource
+package#BuildManager
+package#BuildNatureConfig
+package#BuilderConfig
+package#BuilderPosition
+package#BuildNatureContainer

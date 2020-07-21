@@ -1,0 +1,15 @@
+evilsystem#System
+evilsystem#SimpleType
+evilsystem#Entity
+evilsystem#NamedObject
+evilsystem#Attribute
+evilsystem#Function
+evilsystem#Parameter
+evilsystem#Service
+evilsystem#PackageElement
+evilsystem#Type
+evilsystem#TypeReference
+evilsystem#Component
+evilsystem#Platform
+evilsystem#MethodType
+evilsystem#NamedQuery

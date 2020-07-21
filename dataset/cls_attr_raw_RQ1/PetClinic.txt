@@ -1,0 +1,17 @@
+AbstractPerson#firstName
+AbstractPerson#lastName
+AbstractPerson#address
+AbstractPerson#city
+AbstractPerson#telephone
+AbstractPerson#homepage
+AbstractPerson#email
+AbstractPerson#birthday
+Pet#sendReminders
+Pet#name
+Pet#weight
+Pet#type
+Pet#owner
+Visit#description
+Visit#visitDate
+Visit#pet
+Visit#vet

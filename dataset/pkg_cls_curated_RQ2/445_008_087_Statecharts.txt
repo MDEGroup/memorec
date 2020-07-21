@@ -1,0 +1,12 @@
+package#Integer
+package#String
+package#Boolean
+package#Double
+package#BooleanExpression
+package#StateMachine
+package#State
+package#CompositeState
+package#Transition
+package#StateVertex
+package#Guard
+package#Event

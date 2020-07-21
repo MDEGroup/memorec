@@ -1,0 +1,16 @@
+package#CloudMLElement
+package#NamedElement
+package#Property
+package#WithProperties
+package#Resource
+package#Provider
+package#DeploymentModel
+package#ArtefactPort
+package#Artefact
+package#NodePort
+package#Node
+package#ArtefactPortInstance
+package#ArtefactInstance
+package#NodePortInstance
+package#NodeInstance
+package#Composite

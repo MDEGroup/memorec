@@ -1,0 +1,6 @@
+PartnerLinkType#name
+PartnerLinkType#ID
+PartnerLinkType#role
+Role#ID
+Role#name
+Role#portType

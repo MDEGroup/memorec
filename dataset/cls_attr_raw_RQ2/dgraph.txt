@@ -1,0 +1,9 @@
+Node#graph
+Node#label
+Node#outgoing
+Node#incoming
+Edge#graph
+Edge#label
+Edge#weight
+Edge#source
+Edge#target

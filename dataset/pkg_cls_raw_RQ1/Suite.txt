@@ -1,0 +1,5 @@
+suite#PatternReference
+suite#SpecReference
+suite#Suite
+suite#SuiteFile
+suite#Reference

@@ -1,0 +1,13 @@
+DataBase#name
+DataBase#SGBDname
+DataBase#tables
+Table#name
+Table#database
+Table#columns
+Table#key
+Column#name
+Column#dataType
+Column#null
+Column#defaultValue
+Column#owner
+Column#keyOf

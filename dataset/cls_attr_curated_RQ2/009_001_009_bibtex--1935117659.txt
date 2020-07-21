@@ -1,0 +1,9 @@
+BibtexEntry#Text
+BibtexEntry#Title
+BibtexEntry#Author
+BibtexEntry#Journal
+BibtexEntry#Volume
+BibtexEntry#Pages
+BibtexEntry#Year
+BibtexEntry#Tags
+BibtexEntry#publicationFilePath

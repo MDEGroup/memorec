@@ -1,0 +1,9 @@
+Identifiable#id
+Identifiable#literal
+Identifiable#tags
+PluginDependence#plugin
+PluginDependence#minVersion
+PluginDependence#maxVersion
+PreferencesNode#parent
+PreferencesNode#children
+PreferencesNode#attributes

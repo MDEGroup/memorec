@@ -1,0 +1,15 @@
+setup#Preferences
+setup#LinkLocation
+setup#ToolInstallation
+setup#ToolPreference
+setup#EclipseVersion
+setup#DirectorCall
+setup#InstallableUnit
+setup#P2Repository
+setup#Configuration
+setup#Project
+setup#Branch
+setup#ApiBaseline
+setup#GitClone
+setup#Setup
+setup#URI

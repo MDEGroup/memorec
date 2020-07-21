@@ -1,0 +1,8 @@
+egt#Vertex
+egt#Image
+egt#ColorRegistry
+egt#Colors
+egt#Edge
+egt#DiEdge
+egt#GraphModel
+egt#SingleEdge

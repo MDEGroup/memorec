@@ -1,0 +1,13 @@
+Table#Name
+Table#DbTableRoot
+Table#TableColumn
+Column#Name
+Column#ColumnTable
+Column#Type
+Column#IsPrimaryKey
+ForeignKey#SourceTable
+ForeignKey#TargetTable
+ForeignKey#SourceColumn
+ForeignKey#TargetColumn
+ForeignKey#DbFkRoot
+ForeignKey#Name

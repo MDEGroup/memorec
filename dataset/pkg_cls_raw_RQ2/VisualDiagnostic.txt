@@ -1,0 +1,3 @@
+package#VisualDiagnostic
+package#Figure
+package#NamedElement

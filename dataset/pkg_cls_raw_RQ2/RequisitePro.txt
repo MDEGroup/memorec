@@ -1,0 +1,10 @@
+package#DescribedElt
+package#NamedElt
+package#ContainerElt
+package#Project
+package#Package
+package#ContainedElt
+package#TypedElt
+package#Document
+package#Attribute
+package#Requirement

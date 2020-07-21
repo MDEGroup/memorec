@@ -1,0 +1,17 @@
+ChangeOrderCount#name
+ChangeOrderCount#value
+ChangeOrderCount#type
+ChangeOrderCount#brokenLines
+ChangeOrderCount#fixedLines
+ChangeOrderCount#repairEffort
+ArtifactIdentifier#resourceName
+ArtifactIdentifier#baselinedLineCount
+ArtifactIdentifier#currentLineCount
+ArtifactIdentifier#criticalDefectChangeOrders
+ArtifactIdentifier#normalDefectChangeOrders
+ArtifactIdentifier#improvementChangeOrders
+ArtifactIdentifier#newFeatureChangeOrders
+ArtifactIdentifier#totalChangeOrders
+ArtifactCommit#artifactIdentifiers
+ArtifactCommit#commitIdentifier
+ArtifactCommit#usageTime

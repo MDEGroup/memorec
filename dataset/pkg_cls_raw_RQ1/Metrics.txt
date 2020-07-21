@@ -1,0 +1,10 @@
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Double
+Metrics#Metric
+Metrics#MetricValue
+Metrics#StringMetricValue
+Metrics#BooleanMetricValue
+Metrics#IntegerMetricValue
+Metrics#DoubleMetricValue

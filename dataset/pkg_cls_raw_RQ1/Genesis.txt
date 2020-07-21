@@ -1,0 +1,9 @@
+genesis#Model
+genesis#Section
+genesis#CommonsenseKnowledge
+genesis#ReflexiveKnowledge
+genesis#ReflexiveDescription
+genesis#Perspective
+genesis#Story
+genesis#Description
+genesis#Sentence

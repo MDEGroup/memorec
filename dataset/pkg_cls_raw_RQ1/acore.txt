@@ -1,0 +1,10 @@
+acore#AClass
+acore#AInterface
+acore#ACoreRoot
+acore#AAttribute
+acore#AOperation
+acore#ABasicClass
+acore#AParameter
+acore#AClassChild
+acore#AccessType
+acore#AccessTypeObject

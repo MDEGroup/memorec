@@ -1,0 +1,11 @@
+schema#StoryType
+schema#StorySchemaCatalog
+schema#ActionType
+schema#Story
+schema#Action
+schema#AggregationType
+schema#Aggregation
+schema#Tenses
+schema#ActionLike
+schema#ActionTypeStatus
+schema#TargetTypeRef

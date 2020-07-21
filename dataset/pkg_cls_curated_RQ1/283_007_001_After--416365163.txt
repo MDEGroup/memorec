@@ -1,0 +1,6 @@
+lit_petriNets#Net
+lit_petriNets#Place
+lit_petriNets#Transition
+lit_petriNets#Arc
+lit_petriNets#PTArc
+lit_petriNets#TPArc

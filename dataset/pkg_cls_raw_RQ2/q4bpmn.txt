@@ -1,0 +1,6 @@
+package#Property
+package#PropertyNature
+package#NamedEntity
+package#PropertyModel
+package#OperatorType
+package#ClassType

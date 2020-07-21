@@ -1,0 +1,11 @@
+User#name
+User#email
+User#calendar
+Appointment#start
+Appointment#end
+Appointment#private
+Appointment#title
+Appointment#notes
+Appointment#type
+Appointment#calendar
+Appointment#calendars

@@ -1,0 +1,6 @@
+package#PICConfigurationModel
+package#ConfigWord
+package#ConfigField
+package#ConfigLiteral
+package#PICConfigurationValueModel
+package#ConfigurationSelection

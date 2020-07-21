@@ -1,0 +1,16 @@
+EG_MOF#ExecutionGraph
+EG_MOF#Node
+EG_MOF#Start
+EG_MOF#End
+EG_MOF#Control
+EG_MOF#Basic
+EG_MOF#Branch
+EG_MOF#Loop
+EG_MOF#Fork
+EG_MOF#Join
+EG_MOF#Acquire
+EG_MOF#Release
+EG_MOF#Split
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer

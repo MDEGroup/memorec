@@ -1,0 +1,4 @@
+cityobjectgroup#CityObjectGroupMemberType
+cityobjectgroup#CityObjectGroupParentType
+cityobjectgroup#CityObjectGroupType
+cityobjectgroup#DocumentRoot

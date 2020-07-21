@@ -1,0 +1,11 @@
+LocatedElement#location
+LocatedElement#commentsBefore
+LocatedElement#commentsAfter
+Element#type
+Element#metamodel
+Element#toDelete
+Element#slots
+Element#persistedSourceElement
+Slot#name
+Slot#isAssignment
+Slot#value

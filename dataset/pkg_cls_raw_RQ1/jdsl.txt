@@ -1,0 +1,11 @@
+jdsl#NamedElement
+jdsl#CMSEnum
+jdsl#TypeEnum
+jdsl#AccessLevelEnum
+jdsl#ContentModel
+jdsl#ContentType
+jdsl#Property
+jdsl#Role
+jdsl#User
+jdsl#Version
+jdsl#CMS

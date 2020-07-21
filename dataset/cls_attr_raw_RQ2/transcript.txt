@@ -1,0 +1,8 @@
+FeatureHybridizationResult#expressionStudy
+FeatureHybridizationResult#hybridization
+FeatureHybridizationResult#arrayFeature
+FeatureHybridizationResult#sample
+FeatureHybridizationResult#observation
+PCRReporter#arrayFeatures
+PCRReporter#primer1
+PCRReporter#primer2

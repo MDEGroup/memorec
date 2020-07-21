@@ -1,0 +1,7 @@
+EMFExpression#id
+EMFExpression#expression
+EMFExpression#variables
+EMFVariable#name
+EMFVariable#value
+EMFVariable#talendType
+EMFVariable#nullable

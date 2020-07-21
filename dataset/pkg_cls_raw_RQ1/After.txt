@@ -1,0 +1,9 @@
+uml_20_to_21_triggersToEvents#System
+uml_20_to_21_triggersToEvents#Transition
+uml_20_to_21_triggersToEvents#Trigger
+uml_20_to_21_triggersToEvents#Event
+uml_20_to_21_triggersToEvents#CallEvent
+uml_20_to_21_triggersToEvents#SignalEvent
+uml_20_to_21_triggersToEvents#TimeEvent
+uml_20_to_21_triggersToEvents#ChangeEvent
+uml_20_to_21_triggersToEvents#AnyRecieveEvent

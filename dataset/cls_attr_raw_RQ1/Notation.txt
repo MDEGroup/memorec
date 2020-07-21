@@ -1,0 +1,9 @@
+View#viewType
+View#persistentChildren
+View#viewDetails
+View#diagrammableElement
+View#sourceEdges
+View#targetEdges
+MindMapNode#expanded
+MindMapNode#hasChildren
+MindMapNode#side

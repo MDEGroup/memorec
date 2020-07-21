@@ -1,0 +1,17 @@
+Inheritance#depth
+Inheritance#fragments
+Inheritance#indexes
+Type#depth
+Type#fragments
+Type#indexes
+Type#name
+Fragment#baseInheritance
+Fragment#derivedInheritance
+Fragment#operations
+Fragment#properties
+Operation#name
+Operation#index
+Operation#implementation
+Property#name
+Property#index
+Property#implementation

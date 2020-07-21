@@ -1,0 +1,10 @@
+package#State
+package#Transition
+package#StateMachineDefinition
+package#AbstractTrigger
+package#AbstractAction
+package#AbstractGuard
+package#Guard
+package#Trigger
+package#IntegerAssignement
+package#DeclarationBlock

@@ -1,0 +1,14 @@
+Table#schema
+Table#column
+Table#key
+Table#foreignKey
+Column#type
+Column#owner
+Column#key
+Column#foreignKey
+Key#owner
+Key#column
+Key#refersToOpposite
+ForeignKey#column
+ForeignKey#owner
+ForeignKey#refersTo

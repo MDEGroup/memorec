@@ -1,0 +1,3 @@
+XImport#static
+XImport#extension
+XImport#importedNamespace

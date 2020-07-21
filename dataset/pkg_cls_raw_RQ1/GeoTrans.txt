@@ -1,0 +1,7 @@
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+GeoTrans#GeoTransfos
+GeoTrans#GeoTransfo
+GeoTrans#Param

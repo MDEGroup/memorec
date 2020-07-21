@@ -1,0 +1,10 @@
+FileTransferProvides#writeDirectory
+FileTransferProvides#copyMode
+FileTransferProvides#filePattern
+FileTransferProvides#readDirectory
+FileTransferProvides#backupDirectory
+FileTransferConsumes#readDirectory
+FileTransferConsumes#backupDirectory
+FileTransferConsumes#transferMode
+FileTransferConsumes#filePattern
+FileTransferConsumes#pollingPeriod

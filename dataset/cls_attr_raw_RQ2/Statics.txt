@@ -1,0 +1,17 @@
+Package#name
+Package#line
+Package#filename
+Package#children
+Class#name
+Class#line
+Class#filename
+Class#attributes
+Class#methods
+Method#name
+Method#line
+Method#filename
+Method#returnType
+Method#parameters
+CodeElement#name
+CodeElement#line
+CodeElement#filename

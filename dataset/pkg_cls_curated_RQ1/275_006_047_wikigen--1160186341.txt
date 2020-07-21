@@ -1,0 +1,5 @@
+wikigen#GenLatexDocument
+wikigen#URI
+wikigen#GenHtmlDocument
+wikigen#HtmlProfile
+wikigen#Article

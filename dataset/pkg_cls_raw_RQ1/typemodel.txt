@@ -1,0 +1,6 @@
+typemodel#User
+typemodel#Calendar
+typemodel#Appointment
+typemodel#AppointmentType
+typemodel#ICalendarManagement
+typemodel#IUserManagement

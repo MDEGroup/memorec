@@ -1,0 +1,11 @@
+package#BusinessAccountType
+package#ContractType
+package#DocumentRoot
+package#GetBusinessAccountDataAreaType
+package#GetBusinessAccountType
+package#GetContractDataAreaType
+package#GetContractType
+package#ShowBusinessAccountDataAreaType
+package#ShowBusinessAccountType
+package#ShowContractDataAreaType
+package#ShowContractType

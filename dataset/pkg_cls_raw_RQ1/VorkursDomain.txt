@@ -1,0 +1,14 @@
+VorkursModel#RegistrationSystem
+VorkursModel#Person
+VorkursModel#Address
+VorkursModel#Notebook
+VorkursModel#Nationality
+VorkursModel#Contact
+VorkursModel#TeachingAssistant
+VorkursModel#Subject
+VorkursModel#Qualification
+VorkursModel#Gender
+VorkursModel#Student
+VorkursModel#ProgrammingLanguage
+VorkursModel#Room
+VorkursModel#OperatingSystem

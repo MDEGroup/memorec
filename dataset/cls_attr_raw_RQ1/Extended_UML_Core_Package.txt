@@ -1,0 +1,14 @@
+AssociationEnd#isNavigable
+AssociationEnd#isOrdered
+AssociationEnd#aggregation
+AssociationEnd#multiplicity
+AssociationEnd#changeable
+AssociationEnd#TargetScope
+AssociationEnd#rfIntegrety
+AssociationEnd#rlIntegrety
+Class#isActive
+Class#mutliplicity
+Class#key
+Attribute#initialValue
+Attribute#isKey
+Attribute#isUnique

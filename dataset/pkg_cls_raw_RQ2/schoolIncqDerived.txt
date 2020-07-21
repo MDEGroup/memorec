@@ -1,0 +1,7 @@
+package#Course
+package#School
+package#SchoolClass
+package#SpecialisationCourse
+package#Student
+package#Teacher
+package#Year

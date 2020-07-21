@@ -1,0 +1,13 @@
+interface#Model
+interface#ModelType
+interface#ModelOperation
+interface#Subtyping
+interface#DSE
+composition#Inheritance
+composition#Merge
+composition#LanguageCompositionOperator
+composition#AdaptationOperator
+composition#Rename
+slicing#Slicer
+slicing#Pruner
+slicing#FreeSlicer

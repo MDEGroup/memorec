@@ -1,0 +1,3 @@
+ConstrainMax#counter
+ConstrainMax#property
+ConstrainMax#value

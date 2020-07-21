@@ -1,0 +1,3 @@
+InfixExpression#leftTerm
+InfixExpression#rightTerm
+InfixExpression#ownedOperator

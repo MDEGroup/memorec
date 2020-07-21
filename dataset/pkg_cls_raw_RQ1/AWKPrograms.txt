@@ -1,0 +1,15 @@
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double
+AWKPrograms#AWKProgram
+AWKPrograms#File
+AWKPrograms#Record
+AWKPrograms#Field
+AWKPrograms#Script
+AWKPrograms#Rule
+AWKPrograms#Pattern
+AWKPrograms#Action
+AWKPrograms#Instruction
+AWKPrograms#InitialRule
+AWKPrograms#FinalRule

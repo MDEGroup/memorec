@@ -1,0 +1,9 @@
+Entity#attributes
+Entity#queries
+Entity#superClass
+Function#parameters
+Function#methodType
+Function#queries
+Service#functions
+Service#path
+Service#component

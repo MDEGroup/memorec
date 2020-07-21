@@ -1,0 +1,9 @@
+package#CommunicationDetail
+package#Contact
+package#ContactingDetail
+package#LegalEntity
+package#OrderedLegalEntity
+package#OrderedLegalEntitySet
+package#Organization
+package#Person
+package#Project

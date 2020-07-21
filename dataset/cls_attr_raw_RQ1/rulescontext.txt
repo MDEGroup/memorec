@@ -1,0 +1,5 @@
+RulesContext#name
+RulesContext#rulesContextImport
+RulesContext#globalPredicate
+RulesContext#ruleSet
+RulesContext#globalVariable

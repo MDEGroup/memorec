@@ -1,0 +1,11 @@
+ServiceDsl#ServiceModel
+ServiceDsl#ModelElement
+ServiceDsl#DtoReference
+ServiceDsl#CustomMethod
+ServiceDsl#MethodType
+ServiceDsl#CrudService
+ServiceDsl#SpecialMethod
+ServiceDsl#ServiceMethod
+ServiceDsl#Parameter
+ServiceDsl#AssociationMethod
+ServiceDsl#CollectionType

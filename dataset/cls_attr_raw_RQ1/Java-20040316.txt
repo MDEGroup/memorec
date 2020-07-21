@@ -1,0 +1,11 @@
+ClassMember#owner
+ClassMember#type
+ClassMember#isStatic
+ClassMember#isPublic
+JavaClass#members
+JavaClass#package
+JavaClass#typedElements
+JavaClass#parameters
+JavaClass#isAbstract
+JavaClass#isStatic
+JavaClass#isPublic

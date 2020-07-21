@@ -1,0 +1,14 @@
+Statemachine#refines
+Statemachine#nodes
+Statemachine#transitions
+Statemachine#instances
+Statemachine#selfName
+Statemachine#translation
+Transition#target
+Transition#source
+Transition#sourceContainer
+Transition#targetContainer
+Transition#operations
+State#refines
+State#invariants
+State#active

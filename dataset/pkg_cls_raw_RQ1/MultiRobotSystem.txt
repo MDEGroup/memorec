@@ -1,0 +1,13 @@
+multirobotsystem#System
+multirobotsystem#Agent
+multirobotsystem#Effector
+multirobotsystem#Sensor
+multirobotsystem#Transmitter
+multirobotsystem#TransitionFunction
+multirobotsystem#Behaviour
+multirobotsystem#Condition
+multirobotsystem#InputBuffer
+multirobotsystem#OutputBuffer
+multirobotsystem#IOElement
+multirobotsystem#OpaqueData
+multirobotsystem#InternalData

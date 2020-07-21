@@ -1,0 +1,9 @@
+package#ArrayFeature
+package#CDNAReporter
+package#FeatureHybridizationResult
+package#OligoReporter
+package#PCRReporter
+package#RNAComplex
+package#Reporter
+package#TranscriptExpressionArray
+package#TranscriptExpressionStudy

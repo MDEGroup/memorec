@@ -1,0 +1,15 @@
+Body#content
+Body#fileRef
+Body#useFileRef
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#message
+Message#properties
+Message#body
+Message#providerId
+Message#providerName
+Message#type
+Property#isheader
+Property#name
+Property#value

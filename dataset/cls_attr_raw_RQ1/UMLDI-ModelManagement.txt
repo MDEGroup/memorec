@@ -1,0 +1,17 @@
+ModelElement#namespace
+ModelElement#name
+ModelElement#visibility
+ModelElement#isSpecification
+GeneralizableElement#generalization
+GeneralizableElement#isRoot
+GeneralizableElement#isLeaf
+GeneralizableElement#isAbstract
+Generalization#parent
+Generalization#powertype
+Generalization#child
+Generalization#discriminator
+ElementImport#package
+ElementImport#importedElement
+ElementImport#visibility
+ElementImport#alias
+ElementImport#isSpecification

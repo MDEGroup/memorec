@@ -1,0 +1,14 @@
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#global
+DocumentRoot#import
+DocumentRoot#metadata
+DocumentRoot#metaentry
+DocumentRoot#onEntryScript
+DocumentRoot#onExitScript
+DocumentRoot#packageName
+DocumentRoot#priority
+DocumentRoot#ruleFlowGroup
+DocumentRoot#taskName
+DocumentRoot#version

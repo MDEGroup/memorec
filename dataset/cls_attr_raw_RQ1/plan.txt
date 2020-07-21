@@ -1,0 +1,17 @@
+ArtifactType#group
+ArtifactType#property
+ArtifactType#name
+ArtifactType#type
+ArtifactType#version
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#plan
+Plan#attributes
+Plan#group
+Plan#artifact
+Plan#atomic
+Plan#name
+Plan#provisioning
+Plan#scoped
+Plan#version

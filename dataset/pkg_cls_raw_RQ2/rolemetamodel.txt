@@ -1,0 +1,9 @@
+package#RoleModel
+package#Role
+package#Type
+package#Enum
+package#Literal
+package#RoleFeature
+package#Attribute
+package#Reference
+package#PrimitiveType

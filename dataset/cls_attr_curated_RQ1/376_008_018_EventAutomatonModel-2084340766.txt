@@ -1,0 +1,15 @@
+Automaton#states
+Automaton#tokens
+Automaton#initialState
+Automaton#symbolicTokenParameters
+Automaton#name
+Automaton#timers
+Automaton#trapState
+State#tokens
+State#acceptor
+State#id
+State#incomingTransitions
+State#outgoingTransitions
+AbstractTransition#to
+AbstractTransition#from
+AbstractTransition#actions

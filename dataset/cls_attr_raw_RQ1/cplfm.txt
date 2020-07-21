@@ -1,0 +1,8 @@
+ConstituentModel#name
+ConstituentModel#grid
+ConstituentModel#parallel
+ConstituentModel#field
+Coupler#name
+Coupler#connector
+Coupler#transformation
+Coupler#constituentModel

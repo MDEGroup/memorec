@@ -1,0 +1,8 @@
+services#BusinessService
+services#Provider
+services#Feature
+services#Stub
+services#ProviderType
+software#BusinessSoftwareService
+software#Application
+software#Project

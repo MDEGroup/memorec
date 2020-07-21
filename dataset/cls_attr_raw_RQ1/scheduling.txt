@@ -1,0 +1,13 @@
+Job#endTime
+Job#interval
+Job#jobState
+Job#name
+Job#repeat
+Job#startTime
+WorkFlowRun#ended
+WorkFlowRun#log
+WorkFlowRun#progress
+WorkFlowRun#progressMessage
+WorkFlowRun#progressTask
+WorkFlowRun#started
+WorkFlowRun#state

@@ -1,0 +1,3 @@
+Element#terminals
+Element#outputTerminals
+Element#inputTerminals

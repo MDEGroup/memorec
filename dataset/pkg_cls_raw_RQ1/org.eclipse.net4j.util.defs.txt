@@ -1,0 +1,12 @@
+defs#DefContainer
+defs#Def
+defs#ExecutorServiceDef
+defs#ThreadPoolDef
+defs#RandomizerDef
+defs#UserManagerDef
+defs#User
+defs#PasswordCredentialsProviderDef
+defs#CredentialsProviderDef
+defs#NegotiatorDef
+defs#ResponseNegotiatorDef
+defs#ChallengeNegotiatorDef

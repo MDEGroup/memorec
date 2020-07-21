@@ -1,0 +1,6 @@
+petrinet#Network
+petrinet#Node
+petrinet#ArcKind
+petrinet#Arc
+petrinet#Transition
+petrinet#Place

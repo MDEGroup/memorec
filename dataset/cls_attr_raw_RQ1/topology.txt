@@ -1,0 +1,3 @@
+TopologicalNode#ConnectivityNodes
+TopologicalNode#BaseVoltage
+TopologicalNode#Terminal

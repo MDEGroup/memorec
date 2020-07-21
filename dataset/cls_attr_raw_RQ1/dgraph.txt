@@ -1,0 +1,7 @@
+Node#label
+Node#outgoing
+Node#incoming
+Edge#label
+Edge#weight
+Edge#source
+Edge#target

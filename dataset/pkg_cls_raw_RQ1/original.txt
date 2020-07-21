@@ -1,0 +1,3 @@
+lit_petriNets/before#Net
+lit_petriNets/before#Place
+lit_petriNets/before#Transition

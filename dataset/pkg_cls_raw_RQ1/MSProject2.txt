@@ -1,0 +1,11 @@
+PrimitiveTypes#Integer
+PrimitiveTypes#Double
+PrimitiveTypes#String
+MSProject#MSPProject
+MSProject#MSPTask
+MSProject#MSPLink
+MSProject#MSPAssignment
+MSProject#MSPResource
+MSProject#MSPHumanResource
+MSProject#MSPMachine
+MSProject#Date

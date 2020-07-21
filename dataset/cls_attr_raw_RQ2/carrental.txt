@@ -1,0 +1,10 @@
+Car#plateNumber
+Car#horsePower
+Car#registration
+Car#brand
+Car#airConditionning
+Car#radioCD
+Bike#plateNumber
+Bike#horsePower
+Bike#frontTireSize
+Bike#backTireSize

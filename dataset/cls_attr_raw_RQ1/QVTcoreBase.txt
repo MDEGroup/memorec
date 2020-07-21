@@ -1,0 +1,10 @@
+Assignment#bottomPattern
+Assignment#value
+Assignment#isDefault
+BottomPattern#area
+BottomPattern#assignment
+BottomPattern#enforcementOperation
+BottomPattern#realizedVariable
+EnforcementOperation#enforcementMode
+EnforcementOperation#bottomPattern
+EnforcementOperation#operationCallExp

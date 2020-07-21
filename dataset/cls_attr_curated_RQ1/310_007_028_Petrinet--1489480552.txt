@@ -1,0 +1,8 @@
+PetriNet#name
+PetriNet#noeuds
+PetriNet#arcs
+Arc#name
+Arc#source
+Arc#target
+Arc#arcType
+Arc#weight

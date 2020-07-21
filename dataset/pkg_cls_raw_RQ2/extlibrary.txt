@@ -1,0 +1,15 @@
+package#Book
+package#Library
+package#Writer
+package#BookCategory
+package#Item
+package#Lendable
+package#CirculatingItem
+package#Periodical
+package#AudioVisualItem
+package#BookOnTape
+package#VideoCassette
+package#Borrower
+package#Person
+package#Employee
+package#Addressable

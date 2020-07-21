@@ -1,0 +1,11 @@
+UML2EcoreControl#CreatePackage
+UML2EcoreControl#CreateProperty
+UML2EcoreControl#CreateType
+UML2EcoreControl#DeletePackages
+UML2EcoreControl#DeleteProperties
+UML2EcoreControl#DeleteTypes
+UML2EcoreControl#Mapping
+UML2EcoreControl#Mappings
+UML2EcoreControl#PackageMapping
+UML2EcoreControl#PropertyMapping
+UML2EcoreControl#TypeMapping

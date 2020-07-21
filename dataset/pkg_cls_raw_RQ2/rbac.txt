@@ -1,0 +1,14 @@
+package#AccessControlModel
+package#Permission
+package#Group
+package#Subject
+package#Role
+package#Nameable
+package#FeatureOperation
+package#AttributeOperation
+package#DomainValueOperation
+package#Task
+package#ConfigurationOperation
+package#ConfigurationType
+package#ModificationType
+package#VisibilityRestriction

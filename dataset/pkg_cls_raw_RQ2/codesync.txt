@@ -1,0 +1,9 @@
+package#CodeSyncElement
+package#EStructuralFeatureToFeatureChangeEntry
+package#FeatureChange
+package#CodeSyncRoot
+package#AstCacheElement
+package#Serializable
+package#ScenarioElement
+package#MindMapElement
+package#MindMapRoot

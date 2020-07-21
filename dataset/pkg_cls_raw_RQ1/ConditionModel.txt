@@ -1,0 +1,17 @@
+conditionModel#Operation_Compare
+conditionModel#Unary_Operation
+conditionModel#Operation
+conditionModel#Expression
+conditionModel#Expression_Double
+conditionModel#Expression_Integer
+conditionModel#Expression_String
+conditionModel#Expression_ProcessRef
+conditionModel#Expression_Boolean
+conditionModel#Operation_Less_Equals
+conditionModel#Operation_Less
+conditionModel#Operation_Greater_Equals
+conditionModel#Operation_Greater
+conditionModel#Operation_Not_Equals
+conditionModel#Operation_Equals
+conditionModel#Operation_Unary
+conditionModel#Operation_NotUnary

@@ -1,0 +1,16 @@
+package#EFeature
+package#Feature
+package#Property
+package#Attribute
+package#Transaction
+package#GeometryAttribute
+package#Geometry
+package#EStructureInfo
+package#EFeatureInfo
+package#EFeatureAttributeInfo
+package#EFeatureGeometryInfo
+package#EStructuralFeature
+package#List
+package#EFeatureProperty
+package#EFeatureAttribute
+package#EFeatureGeometry

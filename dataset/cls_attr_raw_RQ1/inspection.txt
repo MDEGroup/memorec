@@ -1,0 +1,7 @@
+WSILDocument#mixed
+WSILDocument#xMLNSPrefixMap
+WSILDocument#xSISchemaLocation
+WSILDocument#inspection
+Inspection#groups
+Inspection#services
+Inspection#links

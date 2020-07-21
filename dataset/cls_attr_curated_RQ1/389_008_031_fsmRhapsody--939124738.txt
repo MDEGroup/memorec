@@ -1,0 +1,15 @@
+Region#subvertex
+Region#transitions
+Region#ownerState
+AbstractState#incoming
+AbstractState#outgoing
+AbstractState#ownerRegion
+State#doActivity
+State#entry
+State#exit
+State#ownedRegions
+Transition#trigger
+Transition#target
+Transition#source
+Transition#effect
+Transition#guard

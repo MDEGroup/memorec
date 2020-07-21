@@ -1,0 +1,11 @@
+package#TransitionRule
+package#EventRule
+package#CallOrSignalEventRule
+package#AnyReceiveEventRule
+package#TimeEventRule
+package#RelativeTimeEventRule
+package#AbsoluteTimeEventRule
+package#ChangeEventRule
+package#GuardRule
+package#EffectRule
+package#BehaviorKind

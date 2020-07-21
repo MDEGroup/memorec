@@ -1,0 +1,3 @@
+transactionmodel#ChangeTransaction
+transactionmodel#TransactionType
+transactionmodel#ChangeDescription

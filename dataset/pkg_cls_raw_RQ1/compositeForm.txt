@@ -1,0 +1,7 @@
+uibindings#CompositeFormManager
+uibindings#CompositeFormDescriptor
+uibindings#CompositeFormPartDescriptor
+uibindings#CompositeForm
+uibindings#CompositeFormPart
+uibindings#ICompositeFormPartFactory
+uibindings#ICompositeFormPartOperations

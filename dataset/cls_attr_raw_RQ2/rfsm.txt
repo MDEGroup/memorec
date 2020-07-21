@@ -1,0 +1,17 @@
+State#parent
+State#name
+State#subnodes
+State#transitions
+State#entry
+State#do
+State#exit
+Connector#parent
+Connector#name
+Connector#public
+Connector#history
+Transition#src
+Transition#tgt
+Transition#priority_number
+Transition#effect
+Transition#guard
+Transition#owner

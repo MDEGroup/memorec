@@ -1,0 +1,11 @@
+CompoundProfile#for
+CompoundProfile#profileTransition
+CompoundProfile#simpleProfile
+SimpleProfile#for
+SimpleProfile#compoundProfile
+SimpleProfile#uses
+SimpleProfile#provides
+ProfileTransition#operations
+ProfileTransition#from
+ProfileTransition#to
+ProfileTransition#compoundProfile

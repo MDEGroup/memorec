@@ -1,0 +1,15 @@
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#genericApplicationPropertyOfLandUse
+DocumentRoot#landUse
+LandUseType#class
+LandUseType#function
+LandUseType#usage
+LandUseType#lod0MultiSurface
+LandUseType#lod1MultiSurface
+LandUseType#lod2MultiSurface
+LandUseType#lod3MultiSurface
+LandUseType#lod4MultiSurface
+LandUseType#genericApplicationPropertyOfLandUseGroup
+LandUseType#genericApplicationPropertyOfLandUse

@@ -1,0 +1,7 @@
+EvaluationResult#id
+EvaluationResult#version
+EvaluationResult#success
+EvaluationResult#message
+EvaluationResult#variantModel
+EvaluationResult#selections
+EvaluationResult#evaluator

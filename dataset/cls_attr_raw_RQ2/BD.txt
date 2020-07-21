@@ -1,0 +1,4 @@
+Tabla#nombre
+Tabla#columnas
+Tabla#clavePrimaria
+Tabla#clavesAjenas

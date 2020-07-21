@@ -1,0 +1,3 @@
+ForeignKey#parent
+ForeignKey#child
+ForeignKey#isMany

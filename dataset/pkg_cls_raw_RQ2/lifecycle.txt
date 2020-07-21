@@ -1,0 +1,9 @@
+package#LifeCycle
+package#AbstractState
+package#State
+package#InitialState
+package#FinalState
+package#Transition
+package#LifecycleElement
+package#WorkProductUse
+package#WorkProductDefinition

@@ -1,0 +1,7 @@
+package#MonitoringProbe
+package#ResizingAction
+package#SoftwareDependency
+package#VirtualMachineImage
+package#VirtualMachineImageType
+package#VirtualMachineImageTypeObject
+package#UserApplication

@@ -1,0 +1,8 @@
+package#Review
+package#ReviewResult
+package#Patch
+package#Rating
+package#IFilePatch2
+package#IProgressMonitor
+package#ScopeItem
+package#Changeset

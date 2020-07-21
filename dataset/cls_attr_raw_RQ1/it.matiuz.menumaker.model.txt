@@ -1,0 +1,16 @@
+Menu#id
+Menu#description
+Menu#creationDate
+Menu#items
+Category#id
+Category#description
+Category#priority
+Item#id
+Item#description
+Item#creationDate
+Item#price
+Item#priceNotes
+Item#categoryId
+MenuItem#itemId
+MenuItem#menuId
+MenuItem#itemPosition

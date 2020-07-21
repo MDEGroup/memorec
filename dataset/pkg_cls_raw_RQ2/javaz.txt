@@ -1,0 +1,11 @@
+package#Javaz
+package#JavaClass
+package#JavaPackageX
+package#JavaParameter
+package#Method
+package#Field
+package#JavaElement
+package#JavaVisibilityKind
+package#JavaKind
+package#JavaParameterKind
+package#Block

@@ -1,0 +1,8 @@
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#configuration
+HiveType#configuration
+HiveType#export
+HiveType#factory
+HiveType#ref

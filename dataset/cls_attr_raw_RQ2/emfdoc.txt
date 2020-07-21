@@ -1,0 +1,3 @@
+DocumentationElement#documentation
+DocumentationElement#documentedElement
+DocumentationElement#text

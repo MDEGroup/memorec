@@ -1,0 +1,15 @@
+specio#IoPackage
+specio#Import
+specio#KudaSystem
+specio#ParamProfile
+specio#Item
+specio#Cursor
+specio#Fun
+specio#Proc
+specio#NameType
+specio#InParam
+specio#OutParam
+specio#ParamFull
+specio#Ltype
+specio#DefVal
+specio#GenParam

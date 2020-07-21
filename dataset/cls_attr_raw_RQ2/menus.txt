@@ -1,0 +1,6 @@
+Person#firstname
+Person#lastname
+Person#sex
+Person#partner
+Person#pregnant
+Person#dateOfBirth

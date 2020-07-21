@@ -1,0 +1,13 @@
+Column#index
+Column#hidden
+Column#span
+Row#index
+Row#hidden
+Row#span
+Row#cells
+ColOrRowElement#index
+ColOrRowElement#hidden
+ColOrRowElement#span
+Cell#index
+Cell#formula
+Cell#data

@@ -1,0 +1,14 @@
+Relation#isTopLevel
+Relation#variable
+Relation#operationalImpl
+Relation#when
+Relation#where
+RelationDomain#pattern
+RelationDomain#rootVariable
+RelationDomain#defaultAssignment
+RelationImplementation#relation
+RelationImplementation#impl
+RelationImplementation#inDirectionOf
+Key#identifies
+Key#part
+Key#transformation

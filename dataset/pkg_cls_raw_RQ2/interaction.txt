@@ -1,0 +1,16 @@
+package#NamedElement
+package#Interaction
+package#Participant
+package#Message
+package#Execution
+package#CreateParticipantMessage
+package#DestroyParticipantMessage
+package#ReturnMessage
+package#StateInvariant
+package#InteractionUse
+package#End
+package#InteractionFragment
+package#CombinedFragment
+package#Operand
+package#CallMessage
+package#CompoundEnd

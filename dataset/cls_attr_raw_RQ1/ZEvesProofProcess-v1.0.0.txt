@@ -1,0 +1,3 @@
+ZEvesTrace#usedLemmas
+ZEvesTrace#text
+ZEvesTrace#case

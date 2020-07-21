@@ -1,0 +1,9 @@
+HierarchicalSignalFlow#Port
+HierarchicalSignalFlow#Signal
+HierarchicalSignalFlow#Base
+HierarchicalSignalFlow#Compound
+HierarchicalSignalFlow#InputPort
+HierarchicalSignalFlow#OutputPort
+HierarchicalSignalFlow#LocalPort
+HierarchicalSignalFlow#Primitive
+HierarchicalSignalFlow#Asso_Port_Signal

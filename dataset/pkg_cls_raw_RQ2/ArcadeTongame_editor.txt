@@ -1,0 +1,10 @@
+package#Game
+package#Stage
+package#StagesConnection
+package#Element
+package#Opener
+package#Wall
+package#Sound
+package#Text
+package#In
+package#Out

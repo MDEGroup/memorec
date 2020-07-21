@@ -1,0 +1,15 @@
+ArgumentDiagram#version
+ArgumentDiagram#claims
+ArgumentDiagram#arguments
+ArgumentDiagram#assumptions
+ArgumentDiagram#justifications
+ArgumentDiagram#contexts
+ArgumentDiagram#evidence
+Claim#claimStrategies
+Claim#claimAssumptions
+Claim#claimContexts
+Claim#claimSolutions
+Claim#subClaims
+Argument#argumentJustification
+Argument#argumentEvidence
+Argument#argumentClaims

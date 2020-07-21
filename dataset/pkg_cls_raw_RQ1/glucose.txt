@@ -1,0 +1,11 @@
+glucose#Person
+glucose#Patient
+glucose#User
+glucose#AccessType
+glucose#StatusType
+glucose#calendar
+glucose#ClinicalDecision
+glucose#UserActionType
+glucose#GlucoseDecision
+glucose#IntensiveCareUnit
+glucose#CarbohydrateStatusType

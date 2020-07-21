@@ -1,0 +1,5 @@
+etypes#Blob
+etypes#Clob
+etypes#ModelElement
+etypes#Annotation
+etypes#Lob

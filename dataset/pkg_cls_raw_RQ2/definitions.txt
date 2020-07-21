@@ -1,0 +1,10 @@
+package#Argument
+package#Command
+package#Scope
+package#Constant
+package#Group
+package#Switch
+package#TypedArgument
+package#Namespace
+package#ComplexArgument
+package#ArgumentType

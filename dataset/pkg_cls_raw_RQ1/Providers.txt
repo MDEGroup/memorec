@@ -1,0 +1,5 @@
+providers#RuntimeMetadataProvider
+providers#RuntimeMetadata
+providers#JPFProvider
+providers#InstanceProvider
+providers#BundleProvider

@@ -1,0 +1,12 @@
+activityDiagram#activityDiagramContainer
+activityDiagram#Element
+activityDiagram#Activity
+activityDiagram#Action
+activityDiagram#ControlFlow
+activityDiagram#ForkNode
+activityDiagram#MergeNode
+activityDiagram#Node
+activityDiagram#DecisionNode
+activityDiagram#JoinNode
+activityDiagram#StartNode
+activityDiagram#EndNode

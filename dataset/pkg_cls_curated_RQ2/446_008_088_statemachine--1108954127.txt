@@ -1,0 +1,14 @@
+package#Region
+package#Node
+package#Transition
+package#State
+package#Pseudostate
+package#DataElement
+package#PseudoTypes
+package#DataTypes
+package#Variable
+package#Event
+package#IOTypes
+package#TriggerTypes
+package#Statechart
+package#FinalState

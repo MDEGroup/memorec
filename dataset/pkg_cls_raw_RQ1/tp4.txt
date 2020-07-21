@@ -1,0 +1,15 @@
+tp4#Infrastructure
+tp4#Calculateur
+tp4#Peripherique
+tp4#Categorie
+tp4#Nature
+tp4#Nomenclature
+tp4#Famille
+tp4#Interface
+tp4#Localisation
+tp4#Documentation
+tp4#VueDocumentation
+tp4#Processeur
+tp4#ElementEmbarque
+tp4#Trace
+tp4#ZLocalisation

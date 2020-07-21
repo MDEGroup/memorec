@@ -1,0 +1,13 @@
+ChangeSet#artifacts
+ChangeSet#author
+ChangeSet#id
+ChangeSet#message
+ChangeSet#date
+ChangeSet#repository
+ChangeSet#kind
+ScmArtifact#path
+ScmArtifact#changeType
+ScmArtifact#repository
+ScmUser#id
+ScmUser#email
+ScmUser#name

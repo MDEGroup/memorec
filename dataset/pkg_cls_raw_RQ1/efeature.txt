@@ -1,0 +1,16 @@
+efeature#EFeature
+efeature#Feature
+efeature#Property
+efeature#Attribute
+efeature#Transaction
+efeature#GeometryAttribute
+efeature#Geometry
+efeature#EStructureInfo
+efeature#EFeatureInfo
+efeature#EFeatureAttributeInfo
+efeature#EFeatureGeometryInfo
+efeature#EStructuralFeature
+efeature#List
+efeature#EFeatureProperty
+efeature#EFeatureAttribute
+efeature#EFeatureGeometry

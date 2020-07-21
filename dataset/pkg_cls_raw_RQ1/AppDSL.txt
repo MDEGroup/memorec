@@ -1,0 +1,6 @@
+appdsl#App
+appdsl#Scene
+appdsl#Menu
+appdsl#Item
+appdsl#NamedElement
+appdsl#ElementWithPosition

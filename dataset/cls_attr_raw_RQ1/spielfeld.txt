@@ -1,0 +1,11 @@
+Figur#name
+Figur#id
+Figur#zugsetNormal
+Figur#zugsetAngriff
+Figur#active
+Koordinate#ebene
+Koordinate#buchstabe
+Koordinate#zahl
+Zug#figur
+Zug#startPosition
+Zug#endPosition

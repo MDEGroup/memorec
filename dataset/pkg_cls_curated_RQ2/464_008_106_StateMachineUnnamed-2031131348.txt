@@ -1,0 +1,7 @@
+package#StateMachine
+package#StateVertex
+package#Transition
+package#InitialState
+package#SimpleState
+package#FinalState
+package#Event

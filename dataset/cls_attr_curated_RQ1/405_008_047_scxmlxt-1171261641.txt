@@ -1,0 +1,6 @@
+AbstractState#states
+AbstractState#transitions
+AbstractState#variables
+AbstractTransition#event
+AbstractTransition#condition
+AbstractTransition#action

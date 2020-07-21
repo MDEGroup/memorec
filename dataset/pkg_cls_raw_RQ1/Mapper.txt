@@ -1,0 +1,10 @@
+mapper#MapperData
+mapper#MapperTableEntry
+mapper#AbstractDataMapTable
+mapper#AbstractInOutTable
+mapper#UiProperties
+mapper#VarTable
+mapper#OutputTable
+mapper#InputTable
+mapper#SizeState
+mapper#Operator

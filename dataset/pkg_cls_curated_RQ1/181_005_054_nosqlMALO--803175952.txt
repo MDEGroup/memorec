@@ -1,0 +1,13 @@
+nosql#KeySpace
+nosql#ColumnFamily
+nosql#Column
+nosql#PrimitiveTypeType
+nosql#ReplicaPlacementStrategies
+nosql#DynamicColumnFamily
+nosql#StaticColumnFamily
+nosql#Type
+nosql#PrimitiveType
+nosql#DataStructureType
+nosql#MapType
+nosql#CollectionType
+nosql#CollectionTypeType

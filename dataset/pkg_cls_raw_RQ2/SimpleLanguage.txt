@@ -1,0 +1,13 @@
+package#Step
+package#Trigger
+package#ConditionalStep
+package#Task
+package#Query
+package#PropertyReference
+package#InformationObject
+package#Condition
+package#BuildingBlock
+package#DomainObjectReference
+package#PropertyAssignment
+package#UserService
+package#DomainObjectAssignment

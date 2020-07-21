@@ -1,0 +1,4 @@
+DirectedGraph#Graph
+DirectedGraph#GraphElement
+DirectedGraph#Node
+DirectedGraph#Edge

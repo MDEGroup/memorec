@@ -1,0 +1,13 @@
+BDDModel#Model
+BDDModel#Feature
+BDDModel#Scenario
+BDDModel#ScenarioSpecific
+BDDModel#ScenarioOutline
+BDDModel#Content
+BDDModel#Reference
+BDDModel#Word
+BDDModel#Example
+BDDModel#Background
+BDDModel#Behavior
+BDDModel#Sentence
+BDDModel#Value

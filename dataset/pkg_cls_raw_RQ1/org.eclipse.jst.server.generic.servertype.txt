@@ -1,0 +1,16 @@
+definition#ArchiveType
+definition#ArgumentPair
+definition#Classpath
+definition#ExcludeType
+definition#External
+definition#FilesetType
+definition#IncludeType
+definition#JndiConnection
+definition#LaunchConfiguration
+definition#Module
+definition#Port
+definition#Project
+definition#Property
+definition#Publisher
+definition#PublisherData
+definition#ServerRuntime

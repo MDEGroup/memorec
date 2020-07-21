@@ -1,0 +1,8 @@
+package#V__________DesktopRuleEngine_________V
+package#NewElementRules
+package#RuleValue
+package#AvailableRuleDefinitions
+package#RemusTransferType
+package#RuleAction
+package#RuleResult
+package#TransferWrapper

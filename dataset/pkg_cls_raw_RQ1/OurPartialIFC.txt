@@ -1,0 +1,13 @@
+OurPartialIFC#OurIFC
+OurPartialIFC#OurIfcRelAssociatesMaterial
+OurPartialIFC#OurIfcMaterialSelect
+OurPartialIFC#OurIfcElement
+OurPartialIFC#Identifiable
+OurPartialIFC#OurIfcElementType
+OurPartialIFC#OurIfcRoot
+OurPartialIFC#OurIfcRelDefinesByType
+OurPartialIFC#OurIfcMaterial
+OurPartialIFC#OurIfcMaterialLayer
+OurPartialIFC#OurIfcMaterialList
+OurPartialIFC#OurIfcMaterialLayerSet
+OurPartialIFC#OurIfcMaterialLayerSetUsage

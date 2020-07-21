@@ -1,0 +1,6 @@
+package#GroupAndArtifact
+package#MapEntry
+package#Mappings
+package#MavenProvider
+package#Scopes
+package#Scope

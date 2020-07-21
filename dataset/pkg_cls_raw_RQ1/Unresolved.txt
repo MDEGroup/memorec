@@ -1,0 +1,4 @@
+unresolved#UnresolvedClass
+unresolved#UnresolvedClassifier
+unresolved#UnresolvedDataType
+unresolved#UnresolvedEnum

@@ -1,0 +1,4 @@
+State#name
+State#next
+State#rnext
+State#rcontains

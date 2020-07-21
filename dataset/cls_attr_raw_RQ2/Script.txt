@@ -1,0 +1,14 @@
+NativeType#isVoid
+NativeType#referenced
+NativeType#multi
+NativeType#type
+TypeRef#isVoid
+TypeRef#referenced
+TypeRef#multi
+Interface#name
+Interface#superType
+Interface#singleton
+Interface#methods
+MethodDeclaration#returnType
+MethodDeclaration#name
+MethodDeclaration#args

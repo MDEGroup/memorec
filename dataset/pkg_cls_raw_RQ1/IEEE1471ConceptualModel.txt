@@ -1,0 +1,14 @@
+IEEE1471#Element
+IEEE1471#IEEE1471Model
+IEEE1471#System
+IEEE1471#Mission
+IEEE1471#Environment
+IEEE1471#Architecture
+IEEE1471#Rationale
+IEEE1471#ArchitecturalDescription
+IEEE1471#View
+IEEE1471#Model
+IEEE1471#Stakeholder
+IEEE1471#Concern
+IEEE1471#Viewpoint
+IEEE1471#LibraryViewpoint

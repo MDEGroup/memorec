@@ -1,0 +1,7 @@
+ToggleFilter#on
+ToggleFilter#satisfiesIfOff
+ToggleFilter#actualFilter
+IMethodProxy#allMethodsWithName
+IMethodProxy#constructor
+IMethodProxy#returnType
+IMethodProxy#parameters

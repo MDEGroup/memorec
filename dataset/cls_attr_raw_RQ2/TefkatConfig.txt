@@ -1,0 +1,8 @@
+TransformationTask#transformation
+TransformationTask#sourceModels
+TransformationTask#targetModels
+TransformationTask#trace
+TransformationTask#enabled
+TransformationTask#mode
+TransformationTask#properties
+TransformationTask#uriMap

@@ -1,0 +1,9 @@
+MTRANS#MetaClass
+MTRANS#MetaModel
+MTRANS#Module
+MTRANS#Rule
+MTRANS#Inheritance
+MTRANS#Expression
+MTRANS#Section
+MTRANS#Instruction
+MTRANS#Variable

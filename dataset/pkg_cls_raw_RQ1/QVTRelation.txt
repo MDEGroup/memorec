@@ -1,0 +1,8 @@
+qvtrelation#Relation
+qvtrelation#RelationDomain
+qvtrelation#DomainPattern
+qvtrelation#RelationImplementation
+qvtrelation#RelationCallExp
+qvtrelation#RelationalTransformation
+qvtrelation#Key
+qvtrelation#RelationDomainAssignment

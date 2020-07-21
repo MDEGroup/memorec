@@ -1,0 +1,14 @@
+PIF#Entity
+PIF#Activity
+PIF#Object
+PIF#Timepoint
+PIF#Relation
+PIF#Decision
+PIF#Agent
+PIF#Creates
+PIF#Modifies
+PIF#Before
+PIF#Uses
+PIF#Performs
+PIF#ActivityStatus
+PIF#Succesor

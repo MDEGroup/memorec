@@ -1,0 +1,6 @@
+kpi#AbstractKPIDefinition
+kpi#AbstractKPIBinding
+kpi#KPIParameterMapping
+kpi#DatabaseKPIBinding
+kpi#DatabaseKPIDefinition
+kpi#KPIField

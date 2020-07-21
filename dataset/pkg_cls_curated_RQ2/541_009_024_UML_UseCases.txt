@@ -1,0 +1,15 @@
+package#Classifier
+package#Instance
+package#Actor
+package#UseCase
+package#UseCaseInstance
+package#RelationShip
+package#Include
+package#Extend
+package#BooleanExpression
+package#ModelElement
+package#ExtensionPoint
+package#LocationReference
+package#Boolean
+package#Integer
+package#String

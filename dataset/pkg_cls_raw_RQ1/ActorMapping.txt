@@ -1,0 +1,8 @@
+actormapping#ActorMapping
+actormapping#ActorMappingsType
+actormapping#DocumentRoot
+actormapping#Groups
+actormapping#Membership
+actormapping#MembershipType
+actormapping#Roles
+actormapping#Users

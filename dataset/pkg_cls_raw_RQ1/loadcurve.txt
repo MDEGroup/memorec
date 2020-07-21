@@ -1,0 +1,3 @@
+loadcurve#DocumentRoot
+loadcurve#LoadCurve
+loadcurve#Measurement

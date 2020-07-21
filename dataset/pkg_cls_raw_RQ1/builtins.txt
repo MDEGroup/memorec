@@ -1,0 +1,10 @@
+builtins#TsAnyType
+builtins#TsBoolean
+builtins#TsBooleanObject
+builtins#TsCaseIgnoreIA5String
+builtins#TsCaseSensitiveDirectoryString
+builtins#TsCaseSensitiveIA5String
+builtins#TsInteger
+builtins#TsLocalId
+builtins#TsTimestamp
+builtins#TsURI

@@ -1,0 +1,6 @@
+RoleComposition#models
+RoleComposition#bindings
+RoleComposition#groundings
+RoleBinding#player
+RoleBinding#role
+RoleBinding#featureBindings

@@ -1,0 +1,4 @@
+lcoordinates#CoordType
+lcoordinates#DocumentRoot
+lcoordinates#TConndir
+lcoordinates#TConndirObject

@@ -1,0 +1,3 @@
+State#name
+State#transitions
+State#isInitial

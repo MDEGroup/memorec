@@ -1,0 +1,7 @@
+ResourceDeclaration#uri
+ResourceDeclaration#name
+ResourceDeclaration#contentType
+ResourceDeclaration#content
+StructuralFeatureAffectation#name
+StructuralFeatureAffectation#usedOperator
+StructuralFeatureAffectation#values

@@ -1,0 +1,7 @@
+oclstates#Module
+oclstates#Statemachine
+oclstates#Event
+oclstates#State
+oclstates#SimpleState
+oclstates#CompoundState
+oclstates#Transition

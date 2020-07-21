@@ -1,0 +1,12 @@
+package#Condition
+package#CompositeParDef
+package#ElementaryPartDef
+package#ElementaryActDef
+package#CompositeActDef
+package#ActCompositeMember
+package#ActivityDefinition
+package#PartDefinition
+package#PartCompositeMember
+package#String
+package#Boolean
+package#Integer

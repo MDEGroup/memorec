@@ -1,0 +1,10 @@
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+Repository#Subsystem
+Repository#Relation
+Repository#Class
+Repository#Feature
+Repository#Type
+Repository#Entity
+Repository#Routine

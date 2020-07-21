@@ -1,0 +1,11 @@
+package#Figur
+package#Koordinate
+package#Zugset
+package#Farbe
+package#StraightLine
+package#Zug
+package#Field
+package#EntityWithPosition
+package#Jump
+package#SelectablePosition
+package#ColoredSelectable

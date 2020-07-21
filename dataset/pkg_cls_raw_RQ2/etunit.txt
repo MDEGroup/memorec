@@ -1,0 +1,10 @@
+package#DocumentRoot
+package#ErrorType
+package#FailureType
+package#ISO8601DATETIMEPATTERN
+package#NameType
+package#PreString
+package#TestcaseType
+package#Testsuite
+package#TestsuitesType
+package#TestsuiteType

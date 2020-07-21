@@ -1,0 +1,6 @@
+duplicationdetection#BaseAdapter
+duplicationdetection#DuplicationDetection
+duplicationdetection#HashDuplicationDetection
+duplicationdetection#Message
+duplicationdetection#SubscriptionMessageHashes
+duplicationdetection#HashWithDate

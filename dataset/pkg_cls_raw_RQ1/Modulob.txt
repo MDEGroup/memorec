@@ -1,0 +1,17 @@
+modulob#Delegate
+modulob#Interface
+modulob#Method
+modulob#Notification
+modulob#Parameter
+modulob#Entity
+modulob#Annotation
+modulob#ConfigOption
+modulob#ConfigValue
+modulob#Feature
+modulob#ValueObject
+modulob#StringValue
+modulob#IntegerValue
+modulob#FloatValue
+modulob#Advice
+modulob#Enum
+modulob#EnumLiteral

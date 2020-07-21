@@ -1,0 +1,13 @@
+ComponentInfo#originalFamilyName
+ComponentInfo#pluginExtension
+ComponentInfo#version
+ComponentInfo#translatedFamilyName
+ComponentInfo#isTechnical
+ComponentInfo#PluginDependencies
+ComponentInfo#componentNames
+ComponentInfo#importType
+ComponentInfo#isVisibleInComponentDefinition
+ComponentInfo#uriString
+ComponentInfo#pathSource
+ComponentInfo#repositoryType
+ComponentInfo#sourceBundleName

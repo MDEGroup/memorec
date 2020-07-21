@@ -1,0 +1,9 @@
+R4EDesignRuleCollection#areas
+R4EDesignRuleCollection#version
+R4EDesignRuleCollection#folder
+R4EDesignRuleCollection#name
+R4EDesignRule#id
+R4EDesignRule#rank
+R4EDesignRule#class
+R4EDesignRule#title
+R4EDesignRule#description

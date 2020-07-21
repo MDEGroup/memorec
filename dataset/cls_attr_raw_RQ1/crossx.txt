@@ -1,0 +1,13 @@
+ModelInfo#symbols
+ModelInfo#lastChanged
+ModelInfo#modelname
+ModelInfo#resource
+ModelInfo#dslname
+Symbol#name
+Symbol#type
+Symbol#properties
+Symbol#subSymbols
+Symbol#owner
+ReferenceSymbolProperty#type
+ReferenceSymbolProperty#modelname
+ReferenceSymbolProperty#symbolname

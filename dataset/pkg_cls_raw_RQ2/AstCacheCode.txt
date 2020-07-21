@@ -1,0 +1,13 @@
+package#DocumentableElement
+package#TypedElement
+package#ModifiableElement
+package#ExtendedModifier
+package#Modifier
+package#Annotation
+package#AnnotationValue
+package#Class
+package#Attribute
+package#Operation
+package#Parameter
+package#EnumConstant
+package#AnnotationMember

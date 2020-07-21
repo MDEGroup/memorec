@@ -1,0 +1,6 @@
+DataBase#name
+DataBase#SGBDname
+DataBase#tables
+Table#name
+Table#database
+Table#tuples

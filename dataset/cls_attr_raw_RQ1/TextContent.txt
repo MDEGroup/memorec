@@ -1,0 +1,13 @@
+TextContent#id
+TextContent#inputtemplate
+TextContent#securityparent
+TextContent#name
+TextContent#components
+TextContent#references
+TextContent#listElements
+Component#group
+Component#name
+Component#value
+Reference#group
+Reference#name
+Reference#referredId

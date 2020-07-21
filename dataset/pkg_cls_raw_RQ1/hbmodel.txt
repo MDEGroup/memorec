@@ -1,0 +1,7 @@
+hbmodel#HbAnnotatedETypeElement
+hbmodel#HbAnnotatedEAttribute
+hbmodel#HbAnnotatedEClass
+hbmodel#HbAnnotatedEModelElement
+hbmodel#HbAnnotatedEPackage
+hbmodel#HbAnnotatedEReference
+hbmodel#HbAnnotatedEDataType

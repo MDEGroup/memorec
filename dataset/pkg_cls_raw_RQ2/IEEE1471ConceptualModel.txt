@@ -1,0 +1,14 @@
+package#Element
+package#IEEE1471Model
+package#System
+package#Mission
+package#Environment
+package#Architecture
+package#Rationale
+package#ArchitecturalDescription
+package#View
+package#Model
+package#Stakeholder
+package#Concern
+package#Viewpoint
+package#LibraryViewpoint

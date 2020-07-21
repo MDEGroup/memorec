@@ -1,0 +1,5 @@
+package#Palette
+package#Entry
+package#ContextType
+package#Initializer
+package#CompoundInitializer

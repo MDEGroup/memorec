@@ -1,0 +1,9 @@
+package#Course
+package#Task
+package#ConcreteTask
+package#TaskGroup
+package#MinRequirementType
+package#GradingScheme
+package#Grade
+package#GradingSystem
+package#Grading

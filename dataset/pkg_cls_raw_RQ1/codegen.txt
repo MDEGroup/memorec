@@ -1,0 +1,6 @@
+codegen#ImplementationSettings
+codegen#Property
+codegen#WaveDevSettings
+codegen#ImplIdToSettingsMap
+codegen#FileToCRCMap
+codegen#PortRepToGeneratorMap

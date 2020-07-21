@@ -1,0 +1,6 @@
+IfStatement#then
+IfStatement#else
+IfStatement#conditions
+Expression#sensorId
+Expression#value
+Expression#operator

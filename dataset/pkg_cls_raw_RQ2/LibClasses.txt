@@ -1,0 +1,10 @@
+package#OclAny
+package#Boolean
+package#String
+package#Real
+package#Integer
+package#UnlimitedNatural
+package#OclVoid
+package#OclInvalid
+package#'AllClasses'
+package#null

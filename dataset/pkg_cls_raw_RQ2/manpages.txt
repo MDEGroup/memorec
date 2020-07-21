@@ -1,0 +1,4 @@
+package#Documentation
+package#ManPageFolder
+package#StringToStringEntry
+package#InterpreterDocumentation

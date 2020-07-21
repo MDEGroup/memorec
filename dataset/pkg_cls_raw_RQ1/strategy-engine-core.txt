@@ -1,0 +1,10 @@
+core#StrategyEngine
+core#StrategyEngineConnection
+core#ConnectionState
+core#Strategy
+core#StrategyState
+core#ModuleURN
+core#DeployedStrategy
+core#StringToStringMapEntry
+core#Exception
+core#Object

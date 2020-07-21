@@ -1,0 +1,12 @@
+BinaryExpr#left
+BinaryExpr#op
+BinaryExpr#right
+IfThenElseExpr#cond
+IfThenElseExpr#then
+IfThenElseExpr#else
+QuantifiedExpr#quant
+QuantifiedExpr#args
+QuantifiedExpr#expr
+FilterMapExpr#map
+FilterMapExpr#args
+FilterMapExpr#filter

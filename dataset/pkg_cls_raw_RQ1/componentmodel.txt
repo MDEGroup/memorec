@@ -1,0 +1,9 @@
+componentmodel#Component
+componentmodel#PrimitiveComponent
+componentmodel#CompositeComponent
+componentmodel#InPort
+componentmodel#OutPort
+componentmodel#Port
+componentmodel#Property
+componentmodel#NumericProperty
+componentmodel#EnumProperty

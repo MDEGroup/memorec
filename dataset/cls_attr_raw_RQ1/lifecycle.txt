@@ -1,0 +1,6 @@
+LifeCycle#name
+LifeCycle#ownedState
+LifeCycle#ownedTransition
+Transition#guard
+Transition#source
+Transition#target

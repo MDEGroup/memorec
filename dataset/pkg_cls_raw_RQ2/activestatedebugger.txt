@@ -1,0 +1,9 @@
+package#ModelElementPattern
+package#InstrumentationConfig
+package#InstrumentationMode
+package#Pattern
+package#LibraryPattern
+package#PackagePattern
+package#SourcePattern
+package#ContainerPattern
+package#ContainerType

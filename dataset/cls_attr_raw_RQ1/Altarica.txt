@@ -1,0 +1,16 @@
+Node#isMain
+Node#name
+Node#ownedSpecifications
+FlowDeclaration#ownedFlows
+FlowDeclaration#domain
+FlowDeclaration#kind
+FlowDeclaration#attribute
+StateDeclaration#ownedStates
+StateDeclaration#domain
+StateDeclaration#attribute
+Transition#ownedExpresion
+Transition#event
+Transition#ownedAffectations
+IfThenElse#condition
+IfThenElse#then
+IfThenElse#else

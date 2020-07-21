@@ -1,0 +1,15 @@
+patterns#PatternSpecification
+patterns#Pattern
+patterns#POutputVariable
+patterns#PObject
+patterns#PFeature
+patterns#PAttribute
+patterns#PReference
+patterns#CollectionReference
+dep#NamedElement
+dep#TransformationDefinition
+dep#TransformationDefinitionParameter
+dep#LocatedElement
+dep#ClassUse
+dep#Variable
+dep#Expression

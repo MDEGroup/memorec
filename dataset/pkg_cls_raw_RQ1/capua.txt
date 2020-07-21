@@ -1,0 +1,14 @@
+capua#NamedObject
+capua#Uuid
+capua#AttributedObject
+capua#AttributeInstance
+capua#Attribute
+capua#ObjectCollection
+capua#Link
+capua#Heading
+capua#AttributeType
+capua#Document
+capua#ConceptTree
+capua#TrackingGroup
+capua#Paragraph
+capua#Sentence

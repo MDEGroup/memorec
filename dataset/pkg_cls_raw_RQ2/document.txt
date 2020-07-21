@@ -1,0 +1,15 @@
+package#URI
+package#IntentGenericElement
+package#IntentStructuredElement
+package#IntentSection
+package#IntentDocument
+package#GenericUnit
+package#UnitInstruction
+package#TypeLabel
+package#IntentReferenceInstruction
+package#LabelDeclaration
+package#LabelReferenceInstruction
+package#IntentReference
+package#DescriptionUnit
+package#DescriptionUnitInstruction
+package#DescriptionBloc

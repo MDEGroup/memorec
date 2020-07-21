@@ -1,0 +1,15 @@
+osm#DocumentRoot
+osm#OsmBound
+osm#OsmMember
+osm#OsmMembertype
+osm#OsmMembertypeObject
+osm#OsmNd
+osm#OsmNode
+osm#OsmRelation
+osm#OsmRole
+osm#OsmRoot
+osm#OsmTag
+osm#OsmTagkey
+osm#OsmTagvalue
+osm#OsmUser
+osm#OsmWay

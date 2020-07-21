@@ -1,0 +1,12 @@
+package#PetriNet
+package#Transition
+package#Node
+package#Place
+package#Arc
+package#ArcKind
+package#Node_dynamic
+package#Place_dynamic
+package#PetriNet_dynamic
+package#PNScenario
+package#PNTrace
+package#PNSimEvent

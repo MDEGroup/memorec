@@ -1,0 +1,17 @@
+Argument#strategy
+Argument#assumption
+Argument#context
+Argument#solution
+Argument#argument
+Argument#criteria
+Argument#justification
+Strategy#argument
+Strategy#justification
+Strategy#solution
+Strategy#criteria
+Strategy#assumption
+Strategy#contexts
+Strategy#strategies
+Solution#context
+Solution#evidence
+Solution#criteria

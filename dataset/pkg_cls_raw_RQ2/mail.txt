@@ -1,0 +1,4 @@
+package#MailProvides
+package#Scheme
+package#SendMode
+package#MailConsumes

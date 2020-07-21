@@ -1,0 +1,5 @@
+NCIChangeEvent#conceptcode
+NCIChangeEvent#conceptName
+NCIChangeEvent#editaction
+NCIChangeEvent#referencecode
+NCIChangeEvent#referencename

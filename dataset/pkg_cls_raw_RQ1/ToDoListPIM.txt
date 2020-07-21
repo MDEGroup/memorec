@@ -1,0 +1,7 @@
+todolistpim#Folder
+todolistpim#Task
+todolistpim#Status
+todolistpim#Importance
+todolistpim#ToDoListManager
+todolistpim#SortingType
+todolistpim#TaskFolderOrder

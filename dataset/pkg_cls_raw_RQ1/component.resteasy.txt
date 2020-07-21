@@ -1,0 +1,5 @@
+resteasy#DocumentRoot
+resteasy#ProxyType
+resteasy#RESTBindingType
+resteasy#BasicAuthenticationType
+resteasy#NTLMAuthenticationType

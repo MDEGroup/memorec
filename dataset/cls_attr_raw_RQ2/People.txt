@@ -1,0 +1,6 @@
+Person#children
+Person#parents
+Person#gender
+Person#name
+Person#father
+Person#mother

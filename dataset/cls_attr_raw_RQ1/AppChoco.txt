@@ -1,0 +1,17 @@
+Choco#id
+Choco#shortDescription
+Choco#description
+Choco#user
+User#id
+User#nickname
+User#shortNickname
+User#firstName
+User#lastName
+User#chocos
+User#office
+User#email
+User#level
+User#xp
+Office#id
+Office#shortDescription
+Office#description

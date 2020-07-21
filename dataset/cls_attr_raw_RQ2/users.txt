@@ -1,0 +1,13 @@
+User#name
+User#password
+User#roles
+User#permissions
+User#displayName
+User#type
+User#email
+Role#name
+Role#parent
+Role#permissions
+UserManagement#users
+UserManagement#roles
+UserManagement#permissions

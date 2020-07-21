@@ -1,0 +1,4 @@
+package#DesignPattern
+package#ObserverPattern
+package#MediatorPattern
+package#MediatedObserverPattern

@@ -1,0 +1,8 @@
+trustmetamodel#TrustRoot
+trustmetamodel#TrustRelationship
+trustmetamodel#Trustor
+trustmetamodel#Trustee
+trustmetamodel#TrustValue
+trustmetamodel#Metric
+trustmetamodel#Variable
+trustmetamodel#VariableValue

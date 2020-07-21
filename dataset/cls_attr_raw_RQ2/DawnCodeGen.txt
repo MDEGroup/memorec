@@ -1,0 +1,6 @@
+DawnGenerator#conflictColor
+DawnGenerator#localLockColor
+DawnGenerator#remoteLockColor
+DawnFragmentGenerator#fragmentName
+DawnFragmentGenerator#dawnEditorClassName
+DawnFragmentGenerator#dawnGenerator

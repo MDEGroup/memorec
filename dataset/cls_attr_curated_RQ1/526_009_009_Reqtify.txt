@@ -1,0 +1,8 @@
+Section#document
+Section#sectionChildren
+Section#sectionParent
+Section#requirements
+AbstractRequirement#section
+AbstractRequirement#isContained
+AbstractRequirement#coverLinks
+AbstractRequirement#attribute

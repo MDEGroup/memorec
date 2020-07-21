@@ -1,0 +1,15 @@
+flowcontrol#FlowElement
+flowcontrol#Activity
+flowcontrol#ControlElement
+flowcontrol#ConditionalActivity
+flowcontrol#Start
+flowcontrol#End
+flowcontrol#Transition
+flowcontrol#FlowDiagram
+flowcontrol#FlowControlSystem
+flowcontrol#ParameterMapping
+flowcontrol#ParameterProvider
+flowcontrol#ConditionalElement
+flowcontrol#CompoundActivity
+flowcontrol#Parameter
+flowcontrol#SimpleActivity

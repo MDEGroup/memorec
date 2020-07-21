@@ -1,0 +1,14 @@
+Transformation#name
+Transformation#packageName
+Transformation#imports
+Transformation#rules
+Rule#abstract
+Rule#name
+Rule#extends
+Rule#from
+Rule#where
+Rule#create
+Rule#mappings
+Assignment#fromRef
+Assignment#createAttRef
+Assignment#parent

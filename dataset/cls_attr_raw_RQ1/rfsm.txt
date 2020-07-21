@@ -1,0 +1,11 @@
+State#subnodes
+State#transitions
+State#entry
+State#do
+State#exit
+Transition#src
+Transition#tgt
+Transition#priority_number
+Transition#effect
+Transition#guard
+Transition#owner

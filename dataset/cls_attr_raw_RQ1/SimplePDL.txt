@@ -1,0 +1,6 @@
+WorkDefinition#linksToPredecessors
+WorkDefinition#linksToSuccessors
+WorkDefinition#name
+WorkSequence#linkType
+WorkSequence#predecessor
+WorkSequence#successor

@@ -1,0 +1,11 @@
+Model#name
+Model#description
+Model#tests
+Model#contraints
+Model#contains
+Constraint#measure
+Constraint#agent
+Constraint#attribute
+Constraint#qualifier
+Constraint#minValue
+Constraint#maxValue

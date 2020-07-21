@@ -1,0 +1,3 @@
+package#ComparableProperty
+package#SearchableProperty
+package#Property

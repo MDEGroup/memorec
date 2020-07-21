@@ -1,0 +1,16 @@
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double
+CWMRelationalData#QueryExpression
+CWMRelationalData#CheckConstraint
+CWMRelationalData#Column
+CWMRelationalData#ColumnSet
+CWMRelationalData#NamedColumnSet
+CWMRelationalData#QueryColumnSet
+CWMRelationalData#Table
+CWMRelationalData#View
+CWMRelationalData#Trigger
+CWMRelationalData#SQLDataType
+CWMRelationalData#SQLDistinctType
+CWMRelationalData#SQLSimpleType

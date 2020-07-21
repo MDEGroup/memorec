@@ -1,0 +1,6 @@
+Component#inputPorts
+Component#outputPorts
+Component#stateAutomaton
+TransitionSegment#sourceState
+TransitionSegment#targetState
+TransitionSegment#transitionSegmentSpecification

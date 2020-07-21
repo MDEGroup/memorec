@@ -1,0 +1,15 @@
+package#AbstractMappingCS
+package#AreaCS
+package#AssignmentCS
+package#BottomPatternCS
+package#DirectionCS
+package#DomainCS
+package#EnforcementOperationCS
+package#GuardPatternCS
+package#ParamDeclarationCS
+package#PatternCS
+package#QueryCS
+package#RealizeableVariableCS
+package#RealizedVariableCS
+package#TransformationCS
+package#UnrealizedVariableCS

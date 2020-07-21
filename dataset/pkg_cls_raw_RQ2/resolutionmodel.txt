@@ -1,0 +1,8 @@
+package#ResolutionModel
+package#RMResolutionElement
+package#RMAbstractTransformation
+package#RMRequiredComponents
+package#RMRequiredConnections
+package#RMTransfImplementation
+package#RMTransfProperty
+package#RMTransfConnection

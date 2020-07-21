@@ -1,0 +1,16 @@
+model#Project
+model#Configuration
+model#ConfigurationSlot
+model#Processor
+model#GenericConfigurationSlot
+model#GenericConfiguration
+model#Exception
+model#GenericMasterConfigurationSlot
+model#GenericMasterConfiguration
+model#DefaultGenericMasterConfiguration
+hd#ConfigurationSlot
+hd#StorageCommandGenerator
+hd#HDItemGenerator
+master#AtlantisConfigurationSlot
+master#Module
+master#ModuleProcessor

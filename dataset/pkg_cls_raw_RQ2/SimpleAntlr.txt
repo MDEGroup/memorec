@@ -1,0 +1,16 @@
+package#AntlrGrammar
+package#Options
+package#OptionValue
+package#Rule
+package#RuleElement
+package#Predicated
+package#RuleOptions
+package#RuleCall
+package#Keyword
+package#Wildcard
+package#Alternatives
+package#Group
+package#ElementWithCardinality
+package#NegatedElement
+package#UntilElement
+package#Skip

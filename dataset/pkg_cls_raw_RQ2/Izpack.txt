@@ -1,0 +1,15 @@
+package#Installer
+package#ISO3Code
+package#Locale
+package#Identification
+package#Author
+package#Constraint
+package#Uninstall
+package#Option
+package#Packaging
+package#Variable
+package#OS
+package#OverrideFlag
+package#Pack
+package#File
+package#Panel

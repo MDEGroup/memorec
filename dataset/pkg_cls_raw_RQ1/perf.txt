@@ -1,0 +1,5 @@
+perf#PerfCounter
+perf#StartTimeMeasure
+perf#StopTimeMeasure
+perf#MeasureTime
+perf#ConstrainMax

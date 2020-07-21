@@ -1,0 +1,12 @@
+package#ActorsList
+package#CriticsReviewType
+package#CustomerReviewType
+package#DocumentRoot
+package#GenreTypes
+package#GenreTypesObject
+package#MovieDBType
+package#MovieType
+package#RatingType
+package#RatingTypeObject
+package#RatingValues
+package#RatingValuesObject

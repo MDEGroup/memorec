@@ -1,0 +1,6 @@
+firewalll#Firewall
+firewalll#Regla
+firewalll#Condicion
+firewalll#CondicionPuerto
+firewalll#CondicionIP
+firewalll#IP

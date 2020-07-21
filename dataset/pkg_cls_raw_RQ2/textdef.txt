@@ -1,0 +1,10 @@
+package#TextualDSLVisualizer
+package#TextualVisualizationDescriptor
+package#Literal
+package#Value
+package#LiteralChoice
+package#AbstractColor
+package#StandardColor
+package#RGBColor
+package#ColorEnum
+package#ValueChoice

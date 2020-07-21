@@ -1,0 +1,10 @@
+package#XClazz
+package#XConverter
+package#XInterfaze
+package#XGroup
+package#XAssociation
+package#XMember
+package#XRealization
+package#XGeneralization
+package#XEnumerator
+package#XEnumValue

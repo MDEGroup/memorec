@@ -1,0 +1,9 @@
+KNode#children
+KNode#parent
+KNode#ports
+KNode#outgoingEdges
+KNode#incomingEdges
+KEdge#source
+KEdge#target
+KEdge#sourcePort
+KEdge#targetPort

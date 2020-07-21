@@ -1,0 +1,17 @@
+expression#IExpressionTerm
+expression#Var
+expression#BoolConst
+expression#IntConst
+expression#Operation
+expression#EOperator
+expression#EType
+component#Component
+component#Port
+component#InputPort
+component#OutputPort
+state#StateAutomaton
+state#State
+state#TransitionSegment
+state#TransitionSegmentSpecification
+state#DataStateVariable
+state#Action

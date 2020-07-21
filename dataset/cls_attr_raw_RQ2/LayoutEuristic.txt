@@ -1,0 +1,9 @@
+Config#name
+Config#defaultTextEditor
+Config#defaultBooleanEditor
+Config#defaultIntegerEditor
+Config#defaultEnumEditor
+Config#defaultReferenceEditor
+Config#defaultSectionLayout
+Config#defaultModelElementFactory
+Config#layoutKind

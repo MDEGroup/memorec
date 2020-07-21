@@ -1,0 +1,15 @@
+structuredText#Model
+structuredText#Item
+structuredText#Function
+structuredText#FunctionBlockBlock
+structuredText#FunctionBlock
+structuredText#VariableBlock
+structuredText#TypeBlock
+structuredText#TypeBlockTypes
+structuredText#UserTypes
+structuredText#ProgramTypes
+structuredText#SingleTypeDefinition
+structuredText#SingleTypeDefinitionTail
+structuredText#StructTypeDefinition
+structuredText#StructTypeDefinitionTail
+structuredText#VariableDefinition

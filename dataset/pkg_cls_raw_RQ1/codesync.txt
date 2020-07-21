@@ -1,0 +1,9 @@
+codesync#CodeSyncElement
+codesync#EStructuralFeatureToFeatureChangeEntry
+codesync#FeatureChange
+codesync#CodeSyncRoot
+codesync#AstCacheElement
+codesync#Serializable
+codesync#ScenarioElement
+codesync#MindMapElement
+codesync#MindMapRoot

@@ -1,0 +1,5 @@
+IdtFile#begindef
+IdtFile#def
+IdtFile#includes
+IdtFile#constant
+IdtFile#type

@@ -1,0 +1,14 @@
+Dfa#name
+Dfa#language
+Dfa#regularStates
+Dfa#initialState
+Dfa#finalStates
+InitialState#name
+InitialState#description
+InitialState#transitions
+Symbol#literal
+Symbol#description
+Symbol#direction
+RegularState#name
+RegularState#description
+RegularState#transitions

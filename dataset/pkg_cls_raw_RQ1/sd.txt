@@ -1,0 +1,9 @@
+sd#SdNamedElement
+sd#SdAbstractVariable
+sd#SdEquationVariable
+sd#SdModel
+sd#SdAuxVariable
+sd#SdStockVariable
+sd#SdFlowVariable
+sd#SdConnector
+sd#SdGeneratable

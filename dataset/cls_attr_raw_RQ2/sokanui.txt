@@ -1,0 +1,13 @@
+RootPackage#visibleTypes
+RootPackage#resourceSet
+RootPackage#packages
+RootFolder#visibleTypes
+RootFolder#resourceSet
+RootFolder#folders
+Folder#id
+Folder#elements
+Folder#subFolders
+Artifact#id
+Artifact#contents
+Artifact#indexRow
+Artifact#resourceSet

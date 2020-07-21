@@ -1,0 +1,10 @@
+FeatureDiagrams#Node
+FeatureDiagrams#Attribute
+FeatureDiagrams#Root
+FeatureDiagrams#Child
+FeatureDiagrams#XORGroup
+FeatureDiagrams#ORGroup
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double

@@ -1,0 +1,4 @@
+package#Model
+package#Attribute
+package#SimpleAttribute
+package#ArrayAttribute

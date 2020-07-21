@@ -1,0 +1,11 @@
+ModuleInstance#build
+ModuleInstance#type
+ModuleInstance#allTypes
+ModuleInstance#dependent
+ModuleInstance#depends
+ModuleInstance#contents
+ModuleInstance#container
+ModuleInstance#options
+ModuleInstance#afterDepends
+ModuleInstance#includeMember
+ModuleInstance#sources

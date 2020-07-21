@@ -1,0 +1,11 @@
+package#Researcher
+package#Paper
+package#Paragraph
+package#PublicationStructure
+package#Skill
+package#Position
+package#Collaboration
+package#Keyword
+package#PaperKeywords
+package#KnowledgeManager
+package#Role

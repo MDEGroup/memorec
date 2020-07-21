@@ -1,0 +1,4 @@
+Courses#Course
+Courses#Person
+Courses#Assignment
+Courses#Answer

@@ -1,0 +1,3 @@
+MapEntry#key
+MapEntry#value
+MapEntry#mapAttribute

@@ -1,0 +1,12 @@
+drools#DocumentRoot
+drools#GlobalType
+drools#ImportType
+drools#MetadataType
+drools#MetaentryType
+drools#OnEntryScriptType
+drools#OnExitScriptType
+drools#PackageNameType
+drools#PriorityType
+drools#RuleFlowGroupType
+drools#TaskNameType
+drools#VersionType

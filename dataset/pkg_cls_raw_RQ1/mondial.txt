@@ -1,0 +1,5 @@
+mondial#Mondial
+mondial#Continent
+mondial#Country
+mondial#Encompassed
+mondial#Border

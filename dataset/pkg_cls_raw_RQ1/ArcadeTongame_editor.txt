@@ -1,0 +1,10 @@
+ArcadeTongame_editor#Game
+ArcadeTongame_editor#Stage
+ArcadeTongame_editor#StagesConnection
+ArcadeTongame_editor#Element
+ArcadeTongame_editor#Opener
+ArcadeTongame_editor#Wall
+ArcadeTongame_editor#Sound
+ArcadeTongame_editor#Text
+ArcadeTongame_editor#In
+ArcadeTongame_editor#Out

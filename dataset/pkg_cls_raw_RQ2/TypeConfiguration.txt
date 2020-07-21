@@ -1,0 +1,15 @@
+package#TypeConfigContainer
+package#Type
+package#Relation
+package#Configuration
+package#CustomType
+package#Entry
+package#IType
+package#TType
+package#Attribute
+package#RegisteredAttribute
+package#StdAttribute
+package#AttributeType
+package#RelationsPredicatesMapping
+package#DecorationPredicate
+package#IPredicateLink

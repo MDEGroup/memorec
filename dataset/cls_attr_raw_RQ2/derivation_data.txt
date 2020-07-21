@@ -1,0 +1,5 @@
+FacetType#name
+FacetType#multiValue
+FacetType#description
+FacetType#container
+FacetType#derivationData

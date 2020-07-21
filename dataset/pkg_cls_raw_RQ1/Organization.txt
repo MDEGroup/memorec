@@ -1,0 +1,9 @@
+organization#CommunicationDetail
+organization#Contact
+organization#ContactingDetail
+organization#LegalEntity
+organization#OrderedLegalEntity
+organization#OrderedLegalEntitySet
+organization#Organization
+organization#Person
+organization#Project

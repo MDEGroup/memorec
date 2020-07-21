@@ -1,0 +1,10 @@
+lib#OclAny
+lib#Boolean
+lib#String
+lib#Real
+lib#Integer
+lib#UnlimitedNatural
+lib#OclVoid
+lib#OclInvalid
+lib#'AllClasses'
+lib#null

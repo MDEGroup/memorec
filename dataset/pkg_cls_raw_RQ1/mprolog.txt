@@ -1,0 +1,12 @@
+mprolog#Model
+mprolog#Clause
+mprolog#Head
+mprolog#Term
+mprolog#Body
+mprolog#Variable
+mprolog#Functor
+mprolog#QuotedAtom
+mprolog#List
+mprolog#InfixExpression
+mprolog#Operator
+mprolog#Parenthesis

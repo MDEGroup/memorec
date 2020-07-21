@@ -1,0 +1,15 @@
+Documentation#Book
+Documentation#Paragraph
+Documentation#Section
+Documentation#ParagraphValue
+Documentation#TextualValue
+Documentation#ItemizedListValue
+Documentation#ItemizedListValueItem
+Documentation#EmphasisValue
+Documentation#XRefValue
+Documentation#InformalTableValue
+Documentation#InformalTableValueGroup
+Documentation#InformalTableValueHead
+Documentation#InformalTableValueBody
+Documentation#InformalTableValueRow
+Documentation#InformalTableValueEntry

@@ -1,0 +1,11 @@
+package#Actor
+package#Decomposition
+package#Contribution
+package#Goal
+package#MeansEnd
+package#Resource
+package#Plan
+package#BooleanDecomposition
+package#BooleanDecLink
+package#AndDecLink
+package#OrDecLink

@@ -1,0 +1,12 @@
+richstring#ProcessedRichString
+richstring#Line
+richstring#LinePart
+richstring#Literal
+richstring#LineBreak
+richstring#ForLoopStart
+richstring#ForLoopEnd
+richstring#PrintedExpression
+richstring#IfConditionStart
+richstring#ElseIfCondition
+richstring#ElseStart
+richstring#EndIf

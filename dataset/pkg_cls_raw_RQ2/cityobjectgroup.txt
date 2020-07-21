@@ -1,0 +1,4 @@
+package#CityObjectGroupMemberType
+package#CityObjectGroupParentType
+package#CityObjectGroupType
+package#DocumentRoot

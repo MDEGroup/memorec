@@ -1,0 +1,11 @@
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#description
+DocumentRoot#name
+DocumentRoot#registry
+Registry#name
+Registry#description
+Registry#id
+Registry#location
+Registry#ref

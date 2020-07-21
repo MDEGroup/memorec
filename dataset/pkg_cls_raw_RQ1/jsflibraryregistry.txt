@@ -1,0 +1,5 @@
+jsflibraryregistry#JSFLibraryRegistry
+jsflibraryregistry#JSFLibrary
+jsflibraryregistry#PluginProvidedJSFLibrary
+jsflibraryregistry#ArchiveFile
+jsflibraryregistry#JSFVersion

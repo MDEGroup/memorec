@@ -1,0 +1,5 @@
+edatatypeColumn#Book
+edatatypeColumn#PagesType
+edatatypeColumn#PagesTypeObject
+edatatypeColumn#TitleType
+edatatypeColumn#WeightType

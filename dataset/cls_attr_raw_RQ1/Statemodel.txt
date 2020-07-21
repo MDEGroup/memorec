@@ -1,0 +1,6 @@
+State#type
+State#name
+State#element
+Transition#guard
+Transition#action
+Transition#state

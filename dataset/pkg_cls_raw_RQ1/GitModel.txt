@@ -1,0 +1,9 @@
+gitmodel#SourceRepository
+gitmodel#Commit
+gitmodel#Ref
+gitmodel#Diff
+gitmodel#ChangeType
+gitmodel#JavaDiff
+gitmodel#RevCompilationUnit
+gitmodel#ParentRelation
+gitmodel#EmfFragSourceRepository

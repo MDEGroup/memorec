@@ -1,0 +1,8 @@
+pml#Feature
+pml#Plugin
+pml#ExtensionPoint
+pml#Extension
+pml#JavaType
+pml#Operation
+pml#Parameter
+pml#PluginPackage

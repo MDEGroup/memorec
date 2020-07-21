@@ -1,0 +1,17 @@
+sad#AssemblyController
+sad#SadComponentInstantiation
+sad#SadComponentInstantiationRef
+sad#SadUsesPort
+sad#SadProvidesPort
+sad#SadConnectInterface
+sad#SadConnections
+sad#ComponentResourceFactoryRef
+sad#ExternalPorts
+sad#FindComponent
+sad#HostCollocation
+sad#Port
+sad#SadPartitioning
+sad#SadComponentPlacement
+sad#ResourceFactoryProperties
+sad#SadDocumentRoot
+sad#SoftwareAssembly

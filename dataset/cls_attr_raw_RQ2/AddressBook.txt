@@ -1,0 +1,14 @@
+Person#addresses
+Person#firstname
+Person#lastname
+Person#addressBook
+Address#street
+Address#zip
+Address#city
+Address#country
+Address#federalState
+Address#type
+Address#person
+Country#federalStates
+Country#name
+Country#addressBook

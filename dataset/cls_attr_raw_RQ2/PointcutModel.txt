@@ -1,0 +1,10 @@
+PmMethod#name
+PmMethod#project
+PmMethod#advisedBy
+PmAspect#name
+PmAspect#project
+PmAspect#advisedBy
+PmAspect#advisedElements
+PmElement#name
+PmElement#project
+PmElement#advisedBy

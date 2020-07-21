@@ -1,0 +1,7 @@
+smachDSL#PrimitivePackage
+smachDSL#Test
+smachDSL#StateMachine
+smachDSL#ActionClient
+smachDSL#ServiceClient
+smachDSL#ActionState
+smachDSL#Transition

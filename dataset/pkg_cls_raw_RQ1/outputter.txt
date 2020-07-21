@@ -1,0 +1,8 @@
+outputter#LoggingAgentOutputterTypeType
+outputter#NotificationOutputterTypeType
+outputter#OutputterConfigType
+outputter#OutputterType
+outputter#OutputterTypeObject
+outputter#SingleFileOutputterTypeType
+outputter#StandardOutOutputterTypeType
+outputter#DocumentRoot

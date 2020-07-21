@@ -1,0 +1,3 @@
+package#IntentIndex
+package#IntentIndexEntry
+package#INDEX_ENTRY_TYPE

@@ -1,0 +1,13 @@
+BuildProcess#inputs
+BuildProcess#outputs
+BuildProcess#project
+InputResource#path
+InputResource#directory
+InputResource#process
+OutputResource#path
+OutputResource#directory
+OutputResource#process
+BuilderConfig#nature
+BuilderConfig#builderID
+BuilderConfig#position
+BuilderConfig#postionArg

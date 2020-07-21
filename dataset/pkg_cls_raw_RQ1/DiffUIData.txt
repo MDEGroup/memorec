@@ -1,0 +1,6 @@
+diffuidata#UIComparison
+diffuidata#ComparisonSelection
+diffuidata#MatchAndFeature
+diffuidata#MatchToNbEntry
+diffuidata#TreePath
+diffuidata#IStructuredSelection

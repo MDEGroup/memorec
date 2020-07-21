@@ -1,0 +1,15 @@
+package#Named
+package#Nameable
+package#NamedObj
+package#Attribute
+package#IEntity
+package#Entity
+package#EntityRefOwner
+package#EntityRef
+package#Port
+package#Relation
+package#ComponentEntity
+package#ComponentPort
+package#EntityContainer
+package#CompositeEntity
+package#JavaClassRef

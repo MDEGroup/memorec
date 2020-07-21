@@ -1,0 +1,13 @@
+Service#name
+Service#description
+Service#step
+ResourceQueue#name
+ResourceQueue#description
+ResourceQueue#capacity
+ResourceQueue#offeredService
+Transition#from
+Transition#to
+Transition#prob
+Activity#repetitions
+Activity#serviceTime
+Activity#failMode

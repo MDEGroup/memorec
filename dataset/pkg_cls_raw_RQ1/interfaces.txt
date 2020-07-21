@@ -1,0 +1,15 @@
+interfaces#IControlDashboard
+interfaces#IDisplay
+interfaces#IFuelometer
+interfaces#IGauge
+interfaces#IGaugeAnalogicDisplay
+interfaces#IGaugeDigitalDisplay
+interfaces#IGaugeDisplay
+interfaces#IGaugeMonotonic
+interfaces#IGaugeValue
+interfaces#IGaugeVariant
+interfaces#ILocTracker
+interfaces#IOdometer
+interfaces#ISpeedometer
+interfaces#Observer
+interfaces#Exception

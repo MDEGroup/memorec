@@ -1,0 +1,15 @@
+State#name
+State#label
+State#type
+State#activity
+State#substates
+State#parentstate
+State#variables
+State#transitions
+Transition#name
+Transition#source
+Transition#target
+Transition#expression
+Variable#name
+Variable#type
+Variable#value

@@ -1,0 +1,7 @@
+threevaluedlogic#Formula
+threevaluedlogic#Constants
+threevaluedlogic#And
+threevaluedlogic#Or
+threevaluedlogic#Negation
+threevaluedlogic#Constant
+threevaluedlogic#Nested

@@ -1,0 +1,15 @@
+package#NamedElement
+package#Namespace
+package#Classifier
+package#Relationship
+package#DirectedRelationship
+package#Association_c
+package#MultiplicityElement_c
+package#Generalization
+package#UseCaseDiagram_c
+package#Actor
+package#System_c
+package#UseCase
+package#Extend_c
+package#Include
+package#ExtensionPoint

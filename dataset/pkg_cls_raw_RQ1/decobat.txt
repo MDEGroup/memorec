@@ -1,0 +1,12 @@
+decobat#Project
+decobat#ProjectCategory
+decobat#ProjectRevision
+decobat#Library
+decobat#LibraryCategory
+decobat#Product
+decobat#Supplier
+decobat#Service
+decobat#Plan
+decobat#Level
+decobat#Object
+decobat#Customer

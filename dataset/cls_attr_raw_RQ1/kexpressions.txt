@@ -1,0 +1,11 @@
+Signal#isInput
+Signal#isOutput
+Signal#combineOperator
+Signal#hostCombineOperator
+ValuedObject#name
+ValuedObject#type
+ValuedObject#initialValue
+ValuedObject#hostType
+TypeIdentifier#type
+TypeIdentifier#typeID
+TypeIdentifier#operator

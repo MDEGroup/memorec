@@ -1,0 +1,12 @@
+package#SimpleMapping
+package#SimpleTopNode
+package#SimpleCompartment
+package#SimpleLabelNode
+package#SimpleLinkMapping
+package#SimpleNode
+package#SimpleParentNode
+package#SimpleChildNode
+package#SimpleSubNode
+package#SimpleMappingElementWithFigure
+package#SimpleChildReference
+package#SimpleNodeReference

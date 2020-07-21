@@ -1,0 +1,7 @@
+emftools#ConfigurationObject
+emftools#ConfigurationContainer
+emftools#PropertiesObject
+emftools#EFactory
+emftools#EClass
+emftools#Properties
+emftools#IPath

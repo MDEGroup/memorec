@@ -1,0 +1,9 @@
+Customer#creationDate
+Customer#preferred
+Customer#has
+Employee#income
+Employee#qualification
+Employee#administrates
+Peson#name
+Peson#number
+Peson#address

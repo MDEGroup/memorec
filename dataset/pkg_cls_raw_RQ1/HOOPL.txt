@@ -1,0 +1,6 @@
+hoopl#Program
+hoopl#ObjectDefinition
+hoopl#Feature
+hoopl#Property
+hoopl#Message
+hoopl#Expresion

@@ -1,0 +1,5 @@
+package#SUCmodel
+package#UseCase
+package#Role
+package#HumanRole
+package#SystemRole

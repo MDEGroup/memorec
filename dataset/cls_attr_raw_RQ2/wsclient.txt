@@ -1,0 +1,13 @@
+ServiceRef#serviceInterface
+ServiceRef#serviceRefName
+ServiceRef#wsdlFile
+ServiceRef#jaxrpcMappingFile
+ServiceRef#portComponentRefs
+ServiceRef#handlers
+ServiceRef#serviceQname
+Handler#handlerName
+Handler#soapRoles
+Handler#portNames
+Handler#handlerClass
+Handler#initParams
+Handler#soapHeaders

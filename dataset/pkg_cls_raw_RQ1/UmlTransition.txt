@@ -1,0 +1,11 @@
+umlTransition#TransitionRule
+umlTransition#EventRule
+umlTransition#CallOrSignalEventRule
+umlTransition#AnyReceiveEventRule
+umlTransition#TimeEventRule
+umlTransition#RelativeTimeEventRule
+umlTransition#AbsoluteTimeEventRule
+umlTransition#ChangeEventRule
+umlTransition#GuardRule
+umlTransition#EffectRule
+umlTransition#BehaviorKind

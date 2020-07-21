@@ -1,0 +1,4 @@
+package#ClassTemplate
+package#PhNamedElementName
+package#IfClassMembers
+package#ForClassMembers

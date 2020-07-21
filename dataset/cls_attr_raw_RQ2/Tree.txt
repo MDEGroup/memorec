@@ -1,0 +1,13 @@
+BundleCandidate#location
+BundleCandidate#content
+BundleCandidate#dependencies
+BundleCandidate#version
+BundleCandidate#symbolicName
+BundleCandidate#nativeBundle
+BundleCandidate#manifest
+BundleCandidate#sourceBundle
+BundleCandidate#targetBundle
+BundleReference#versionRange
+BundleReference#optional
+BundleReference#target
+BundleReference#provided

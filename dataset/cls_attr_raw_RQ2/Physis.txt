@@ -1,0 +1,3 @@
+Attribute#name
+Attribute#type
+Attribute#multiplicity

@@ -1,0 +1,3 @@
+leaguetable#MatchResult
+leaguetable#LeagueTableRow
+leaguetable#LeagueTable

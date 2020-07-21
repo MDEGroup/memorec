@@ -1,0 +1,6 @@
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#base
+DocumentRoot#lang
+DocumentRoot#space

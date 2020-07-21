@@ -1,0 +1,8 @@
+package#LaunchConfiguration
+package#Attribute
+package#StringAttribute
+package#BooleanAttribute
+package#MapAttribute
+package#MapEntry
+package#ListAttribute
+package#ListEntry

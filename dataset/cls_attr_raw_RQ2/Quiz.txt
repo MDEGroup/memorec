@@ -1,0 +1,9 @@
+QuizGame#name
+QuizGame#author
+QuizGame#elements
+Quiz#type
+Quiz#name
+Quiz#text
+Quiz#score
+Quiz#elements
+Quiz#hint

@@ -1,0 +1,7 @@
+package#CondDescType
+package#DocumentRoot
+package#TExtensionMopEnum
+package#TMOP
+package#TMopEnum
+package#TMopEnumObject
+package#TRestrName1stL

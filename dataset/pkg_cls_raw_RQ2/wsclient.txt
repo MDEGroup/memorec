@@ -1,0 +1,5 @@
+package#ServiceRef
+package#PortComponentRef
+package#Handler
+package#WebServicesClient
+package#ComponentScopedRefs

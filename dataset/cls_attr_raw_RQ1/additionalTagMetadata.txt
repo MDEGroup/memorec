@@ -1,0 +1,3 @@
+AttributeData#name
+AttributeData#usage
+AttributeData#description

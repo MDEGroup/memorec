@@ -1,0 +1,4 @@
+Pray#name
+Pray#time
+Pray#playingAdhan
+Pray#adhanPlayer

@@ -1,0 +1,3 @@
+Employee#name
+Employee#worksIn
+Employee#worksWith

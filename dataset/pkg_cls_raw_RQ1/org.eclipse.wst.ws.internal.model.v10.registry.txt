@@ -1,0 +1,4 @@
+registry#Description
+registry#DocumentRoot
+registry#Name
+registry#Registry

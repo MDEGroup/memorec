@@ -1,0 +1,16 @@
+Researcher#name
+Researcher#forName
+Researcher#writes
+Researcher#reviews
+Researcher#res_papers
+Researcher#skills
+Researcher#res_position
+Researcher#collaborations
+Paper#paragraphs
+Paper#authors
+Paper#keywords
+Paper#citedBy
+PublicationStructure#researchers
+PublicationStructure#papers
+PublicationStructure#knowledgeMan
+PublicationStructure#positions

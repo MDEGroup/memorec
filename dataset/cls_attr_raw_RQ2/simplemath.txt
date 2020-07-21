@@ -1,0 +1,14 @@
+Additive#value
+Additive#left
+Additive#operator
+Additive#right
+Multiplicative#value
+Multiplicative#left
+Multiplicative#operator
+Multiplicative#right
+Negation#value
+Negation#operator
+Negation#body
+Potence#value
+Potence#exponent
+Potence#base

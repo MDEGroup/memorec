@@ -1,0 +1,9 @@
+MDAIntermediateStateMachine#Content
+MDAIntermediateStateMachine#State
+MDAIntermediateStateMachine#Automaton
+MDAIntermediateStateMachine#Transition
+MDAIntermediateStateMachine#Operation
+MDAIntermediateStateMachine#Message
+MDAIntermediateStateMachine#Participant
+MDAIntermediateStateMachine#Value
+MDAIntermediateStateMachine#MessageSequence

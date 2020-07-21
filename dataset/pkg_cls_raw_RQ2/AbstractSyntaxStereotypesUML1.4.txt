@@ -1,0 +1,12 @@
+package#Boolean
+package#Integer
+package#String
+package#ModelElement
+package#Constraint
+package#TaggedValue
+package#TagDefinition
+package#Multiplicity
+package#GeneralizableElement
+package#Stereotype
+package#Geometry
+package#Name

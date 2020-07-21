@@ -1,0 +1,4 @@
+egis#MapDescriptor
+egis#LayerDescriptor
+egis#ShpLayerDescriptor
+egis#Style

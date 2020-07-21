@@ -1,0 +1,9 @@
+Class#parent
+Class#child
+Class#dependency
+Dependency#supplier
+Dependency#client
+Dependency#stereotype
+Transition#trigger
+Transition#source
+Transition#target

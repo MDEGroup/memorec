@@ -1,0 +1,9 @@
+entityrelation#LogicalModel
+entityrelation#Entity
+entityrelation#Relation
+entityrelation#RelationElement
+entityrelation#Attribute
+entityrelation#NamedElement
+entityrelation#LogicalElement
+entityrelation#Cardinality
+entityrelation#Identifier

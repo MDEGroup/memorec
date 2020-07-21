@@ -1,0 +1,9 @@
+PaletteInfo#id
+PaletteInfo#tag
+PaletteInfo#displayLabel
+PaletteInfo#description
+PaletteInfo#expert
+PaletteInfo#hidden
+PaletteInfo#smallIcon
+PaletteInfo#largeIcon
+PaletteInfo#tagCreation

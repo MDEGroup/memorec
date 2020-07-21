@@ -1,0 +1,6 @@
+Column#type
+Column#isPrimaryKey
+Column#null
+Column#defaultValue
+Column#comment
+Column#table

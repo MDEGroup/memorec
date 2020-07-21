@@ -1,0 +1,7 @@
+EntityTG#Module
+EntityTG#Type
+EntityTG#Entity
+EntityTG#DataType
+EntityTG#Property
+EntityTG#Attribute
+EntityTG#Reference

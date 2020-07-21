@@ -1,0 +1,13 @@
+package#LocatedElement
+package#NamedElement
+package#PetriNet
+package#Element
+package#Place
+package#Transition
+package#Arc
+package#PlaceToTransition
+package#TransitionToPlace
+package#Execution
+package#Token
+package#Marking
+package#Movement

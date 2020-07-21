@@ -1,0 +1,10 @@
+Graph#Processes
+Graph#Start
+Graph#End
+Transaction#Value
+Transaction#Source
+Transaction#Target
+Process#Name
+Process#ImagePath
+Process#OutputPorts
+Process#InputPort

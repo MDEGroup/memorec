@@ -1,0 +1,14 @@
+package#DomainModel
+package#HxAbstractElement
+package#HxImportDecl
+package#DeclPackageNamespace
+package#HxPackageDecl
+package#HxModifier
+package#HxVisibility
+package#HxClassDecl
+package#HxMember
+package#HxVariable
+package#HxMemberVariable
+package#HxTypeRef
+package#HxMethod
+package#HxBoolean

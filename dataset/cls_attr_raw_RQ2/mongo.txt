@@ -1,0 +1,3 @@
+MongoCursor#dbCursor
+MongoCursor#objectBuilder
+MongoCursor#dbCollection

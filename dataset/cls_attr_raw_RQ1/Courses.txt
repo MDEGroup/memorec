@@ -1,0 +1,16 @@
+Course#name
+Course#members
+Course#id
+Course#credit
+Course#assignments
+Person#name
+Person#id
+Person#role
+Person#assignmentDelivery
+Assignment#name
+Assignment#description
+Assignment#mandatory
+Assignment#answer
+Answer#id
+Answer#text
+Answer#pass

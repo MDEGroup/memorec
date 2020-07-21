@@ -1,0 +1,11 @@
+Place#token
+Place#name
+Place#inhibitorArc
+Arc#weight
+Arc#toPlace
+Arc#transition
+Arc#place
+PetriNet#places
+PetriNet#arcs
+PetriNet#transitions
+PetriNet#name

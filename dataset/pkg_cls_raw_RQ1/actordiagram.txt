@@ -1,0 +1,12 @@
+actordiagram#LabelShape
+actordiagram#EntityShape
+actordiagram#EntityContainerShape
+actordiagram#EntityContainerDiagram
+actordiagram#PortShape
+actordiagram#PortAnchor
+actordiagram#PortGA
+actordiagram#RelationConnection
+actordiagram#RelationShape
+actordiagram#EPoint
+actordiagram#EDimension
+actordiagram#ERectangle

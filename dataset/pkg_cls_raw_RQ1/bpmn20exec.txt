@@ -1,0 +1,3 @@
+bpmn20exec#ProcessInstance
+bpmn20exec#Token
+bpmn20exec#ProcessState

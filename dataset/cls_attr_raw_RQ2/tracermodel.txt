@@ -1,0 +1,6 @@
+TracerItem#expression
+TracerItem#result
+TracerItem#parent
+TracerItem#children
+TracerItem#UUID
+TracerItem#modelInstanceElement

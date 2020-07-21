@@ -1,0 +1,7 @@
+manager#XplManager
+manager#XplNetworkState
+manager#IXplNetworkStateListener
+manager#InetAddress
+manager#IXplDeviceDiscoveryListener
+manager#XplDeviceIdentity
+manager#XplDiscoveredDevice

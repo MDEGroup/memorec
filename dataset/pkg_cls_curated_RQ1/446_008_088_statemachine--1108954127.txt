@@ -1,0 +1,14 @@
+statemachine#Region
+statemachine#Node
+statemachine#Transition
+statemachine#State
+statemachine#Pseudostate
+statemachine#DataElement
+statemachine#PseudoTypes
+statemachine#DataTypes
+statemachine#Variable
+statemachine#Event
+statemachine#IOTypes
+statemachine#TriggerTypes
+statemachine#Statechart
+statemachine#FinalState

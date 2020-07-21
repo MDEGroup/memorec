@@ -1,0 +1,14 @@
+Task#infoObjects
+Task#trigger
+Task#stepSequence
+Task#name
+Task#active
+BuildingBlock#descriptor
+BuildingBlock#propertyValues
+BuildingBlock#name
+DomainObjectReference#id
+DomainObjectReference#displayText
+DomainObjectReference#dataType
+UserService#tasks
+UserService#name
+UserService#libraries

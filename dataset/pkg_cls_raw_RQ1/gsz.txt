@@ -1,0 +1,8 @@
+gsz#ArgumentDiagram
+gsz#Goal
+gsz#Strategy
+gsz#Justification
+gsz#Context
+gsz#Assumption
+gsz#Solution
+gsz#Evidence

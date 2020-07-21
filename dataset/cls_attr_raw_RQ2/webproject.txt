@@ -1,0 +1,9 @@
+BasicLinkedList#name
+BasicLinkedList#dbName
+BasicLinkedList#db
+BasicLinkedList#tableName
+BasicLinkedList#table
+BasicLinkedList#rowId
+BasicLinkedList#row
+BasicLinkedList#rowValue
+BasicLinkedList#value

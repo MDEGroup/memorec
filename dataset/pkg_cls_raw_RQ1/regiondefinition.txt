@@ -1,0 +1,10 @@
+regiondefinition#DocumentRoot
+regiondefinition#Sequence
+regiondefinition#Region
+regiondefinition#RunMode
+regiondefinition#RUN_MODES
+regiondefinition#ACQUISITION_MODE
+regiondefinition#ENERGY_MODE
+regiondefinition#DETECTOR_MODE
+regiondefinition#Spectrum
+regiondefinition#STATUS

@@ -1,0 +1,12 @@
+svgd#NamedElement
+svgd#Form
+svgd#Rechteck
+svgd#Kreis
+svgd#SVGModel
+svgd#Linie
+svgd#Linienart
+svgd#Figure
+svgd#Import
+svgd#EmbedForm
+svgd#LinienStil
+svgd#FlaechenStil

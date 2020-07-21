@@ -1,0 +1,9 @@
+Build#component
+Build#dependency
+Build#detail
+Build#stream
+Build#tstamp
+Build#type
+DownloadSiteElement#description
+DownloadSiteElement#name
+DownloadSiteElement#summary

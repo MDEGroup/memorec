@@ -1,0 +1,5 @@
+uforthrt#Program
+uforthrt#MemoryLocation
+uforthrt#Variable
+uforthrt#Definition
+uforthrt#StackValue

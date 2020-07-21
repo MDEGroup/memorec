@@ -1,0 +1,15 @@
+LocatedElement#location
+LocatedElement#commentsBefore
+LocatedElement#commentsAfter
+Package#name
+Package#import
+Package#problem
+ConstraintDef#op
+ConstraintDef#left
+ConstraintDef#right
+IntExp#op
+IntExp#left
+IntExp#right
+Constraint#op
+Constraint#left
+Constraint#right

@@ -1,0 +1,10 @@
+DaoTypesModel#name
+DaoTypesModel#imports
+DaoTypesModel#compoName
+DaoTypesModel#packages
+SimpleType#name
+SimpleType#class
+SimpleType#obsoleteType
+CompositeType#name
+CompositeType#classes
+CompositeType#interface

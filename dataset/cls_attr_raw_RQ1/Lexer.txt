@@ -1,0 +1,15 @@
+JFlexOptions#className
+JFlexOptions#implements
+JFlexOptions#public
+JFlexOptions#userCode
+JFlexOptions#initCode
+JFlexOptions#throws
+JFlexOptions#ctorarg
+JFlexOptions#errorException
+JFlexOptions#bufferSize
+JFlexOptions#include
+JFlexOptions#columnCounting
+JFlexOptions#cup
+JFlexOptions#unicode
+JFlexOptions#classLexer
+JFlexOptions#lineCounting

@@ -1,0 +1,4 @@
+package#MapDescriptor
+package#LayerDescriptor
+package#ShpLayerDescriptor
+package#Style

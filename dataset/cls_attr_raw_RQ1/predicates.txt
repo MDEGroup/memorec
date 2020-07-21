@@ -1,0 +1,3 @@
+CompareNumberPredicate#input
+CompareNumberPredicate#expectedValue
+CompareNumberPredicate#operator

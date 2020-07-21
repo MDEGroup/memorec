@@ -1,0 +1,7 @@
+Application#exp
+Application#func
+Application#arg
+InfixApplication#exp
+InfixApplication#app1
+InfixApplication#infix
+InfixApplication#app2

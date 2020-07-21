@@ -1,0 +1,7 @@
+package#PrimitivePackage
+package#Test
+package#StateMachine
+package#ActionClient
+package#ServiceClient
+package#ActionState
+package#Transition

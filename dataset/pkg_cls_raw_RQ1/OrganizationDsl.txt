@@ -1,0 +1,10 @@
+model#OrganizationModel
+model#Organization
+model#OrganizationUnit
+model#OrganizationUnitType
+model#BusinessRole
+model#Person
+model#Worker
+model#Group
+model#Partnership
+model#OrganizationMember

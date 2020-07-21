@@ -1,0 +1,5 @@
+storedscript#StoredScriptRegistry
+storedscript#IStoredScript
+storedscript#StoredScript
+storedscript#ScriptMetadata
+storedscript#ScriptType

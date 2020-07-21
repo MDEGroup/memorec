@@ -1,0 +1,4 @@
+OrderInfo#name
+OrderInfo#type
+OrderInfo#gUIDs
+OrderInfo#timestamp

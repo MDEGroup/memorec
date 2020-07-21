@@ -1,0 +1,7 @@
+package#Place
+package#PetriNet
+package#Transition
+package#InputArc
+package#OutputArc
+package#Resource
+package#GenericPlace

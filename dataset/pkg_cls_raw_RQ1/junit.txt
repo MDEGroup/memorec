@@ -1,0 +1,10 @@
+notifier#TestCase
+notifier#Fixture
+notifier#Suite
+notifier#ParentRunner
+notifier#Runner
+notifier#RunNotifier
+notifier#JUnitCore
+notifier#Test
+notifier#Result
+notifier#Method

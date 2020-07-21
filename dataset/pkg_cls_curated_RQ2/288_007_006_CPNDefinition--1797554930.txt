@@ -1,0 +1,10 @@
+package#CPN
+package#Place
+package#Arc
+package#Transition
+package#Page
+package#ArcExpression
+package#CPNInscription
+package#Guard
+package#InitialMarking
+package#Sort

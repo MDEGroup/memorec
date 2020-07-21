@@ -1,0 +1,8 @@
+Communication#mappings
+Communication#protocols
+Communication#serializers
+Communication#defaultMapping
+MappingRule#mappedElement
+MappingRule#protocol
+MappingRule#serializer
+MappingRule#path

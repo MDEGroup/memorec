@@ -1,0 +1,4 @@
+Table#name
+Table#cols
+Table#pkey
+Table#fkeys

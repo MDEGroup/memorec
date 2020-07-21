@@ -1,0 +1,12 @@
+package#AbstractMapping
+package#Area
+package#Assignment
+package#BottomPattern
+package#CoreDomain
+package#CorePattern
+package#EnforcementOperation
+package#GuardPattern
+package#PropertyAssignment
+package#RealizedVariable
+package#VariableAssignment
+package#EnforcementMode

@@ -1,0 +1,9 @@
+state#Node
+state#Transition
+state#InitialNode
+state#FinalNode
+state#ConditionalNode
+state#State
+state#StateMachine
+state#Condition
+state#TimeoutTransition

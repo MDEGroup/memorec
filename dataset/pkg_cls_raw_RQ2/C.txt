@@ -1,0 +1,7 @@
+package#NamedElement
+package#CompilationUnit
+package#Method
+package#Struct
+package#Variable
+package#Statement
+package#Definition

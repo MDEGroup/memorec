@@ -1,0 +1,5 @@
+Schaltbild#elemente
+Schaltbild#Ausgaben
+Schaltbild#Eingaben
+Schaltbild#Eingang
+Schaltbild#Ausgang

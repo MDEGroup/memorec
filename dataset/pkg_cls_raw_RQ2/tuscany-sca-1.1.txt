@@ -1,0 +1,8 @@
+package#DocumentRoot
+package#DWRBinding
+package#HTTPBinding
+package#JSONRPCBinding
+package#OSGiImplementation
+package#OSGiProperty
+package#RMIBinding
+package#WidgetImplementation

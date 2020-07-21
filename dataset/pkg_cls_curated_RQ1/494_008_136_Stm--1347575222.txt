@@ -1,0 +1,9 @@
+stm#Statemachine
+stm#Event
+stm#Command
+stm#State
+stm#Transition
+stm#SelfEvent
+stm#GuardCall
+stm#Guard
+stm#Parameter

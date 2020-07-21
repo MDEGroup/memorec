@@ -1,0 +1,6 @@
+coaster#Model
+coaster#RollerCoaster
+coaster#Straight
+coaster#Corner
+coaster#Cart
+coaster#SignedInt

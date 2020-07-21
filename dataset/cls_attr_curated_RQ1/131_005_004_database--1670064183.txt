@@ -1,0 +1,9 @@
+Scheme#name
+Scheme#tables
+Scheme#columns
+Column#name
+Column#type
+Column#table
+Column#NotNull
+Column#PrimaryKey
+Column#fk

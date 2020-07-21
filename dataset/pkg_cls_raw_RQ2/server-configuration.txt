@@ -1,0 +1,9 @@
+package#AvailableServers
+package#LocalJoomlaServer
+package#MajorJoomlaVersion
+package#UserCredentials
+package#DeploymentDescriptor
+package#DeploymentRuntime
+package#JoomlaExtensionDeployment
+package#IJoomlaHttpSession
+package#File

@@ -1,0 +1,5 @@
+package#Book
+package#BookCategory
+package#BookCategoryObject
+package#Library
+package#Writer

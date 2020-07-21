@@ -1,0 +1,16 @@
+package#NamedElement
+package#Class
+package#Member
+package#Constructor
+package#Parameter
+package#FieldInitialisiation
+package#Method
+package#Field
+package#Expression
+package#ConstructorCall
+package#FieldAccess
+package#FieldAccessChild
+package#ParameterAccess
+package#This
+package#MethodCall
+package#Cast

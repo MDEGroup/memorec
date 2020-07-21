@@ -1,0 +1,16 @@
+Transition#nodes
+Transition#arcs
+Transition#name
+Transition#presetNodes
+Transition#postsetNodes
+Place#nodes
+Place#arcs
+Place#name
+Place#presetNodes
+Place#postsetNodes
+Place#tokenCount
+Node#nodes
+Node#arcs
+Node#name
+Node#presetNodes
+Node#postsetNodes

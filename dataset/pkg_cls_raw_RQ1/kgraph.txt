@@ -1,0 +1,12 @@
+kgraph#KGraphElement
+kgraph#KLabeledGraphElement
+kgraph#KGraphData
+kgraph#KNode
+kgraph#KEdge
+kgraph#KPort
+kgraph#KLabel
+kgraph#EMapPropertyHolder
+kgraph#IPropertyToObjectMap
+kgraph#IProperty
+kgraph#IPropertyHolder
+kgraph#PersistentEntry

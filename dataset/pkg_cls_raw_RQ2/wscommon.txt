@@ -1,0 +1,6 @@
+package#InitParam
+package#SOAPHeader
+package#SOAPRole
+package#PortName
+package#DescriptionType
+package#DisplayNameType

@@ -1,0 +1,8 @@
+ArtifactUsageName#isInput
+ArtifactUsageName#isOutput
+ArtifactUsageName#hasWorkPerArtifact
+ArtifactUsageName#artifactKind
+ArtifactUsageName#workDefinition
+WorkDefinition#artifactUsageNames
+WorkDefinition#goal
+WorkDefinition#precondition

@@ -1,0 +1,7 @@
+package#TraceabilityLink
+package#Attribute
+package#TraceableElement
+package#Model
+package#AnalyzedResource
+package#URIElement
+package#Property

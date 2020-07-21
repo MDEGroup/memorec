@@ -1,0 +1,12 @@
+umlProperty#PropertyRule
+umlProperty#VisibilityKind
+umlProperty#TypeRule
+umlProperty#QualifiedName
+umlProperty#MultiplicityRule
+umlProperty#BoundSpecification
+umlProperty#ModifiersRule
+umlProperty#ModifierSpecification
+umlProperty#ModifierKind
+umlProperty#RedefinesRule
+umlProperty#SubsetsRule
+umlProperty#DefaultValueRule

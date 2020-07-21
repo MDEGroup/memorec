@@ -1,0 +1,6 @@
+dbrouting#DocumentRoot
+dbrouting#Executor
+dbrouting#ResultSet
+dbrouting#ResultSetRowSelector
+dbrouting#ResultSetScopeType
+dbrouting#ResultSetScopeTypeObject

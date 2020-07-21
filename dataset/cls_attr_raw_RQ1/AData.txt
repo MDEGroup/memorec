@@ -1,0 +1,17 @@
+Run#model
+Run#started
+Run#finished
+Run#name
+Run#parameterSets
+Run#measurements
+Parameter#value
+Parameter#attribute
+Parameter#name
+DataPoint#period
+DataPoint#value
+DataPoint#measurement
+Measurement#type
+Measurement#value
+Measurement#name
+Measurement#entries
+Measurement#run

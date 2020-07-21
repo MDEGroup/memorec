@@ -1,0 +1,13 @@
+EntityLang#ast.Module
+EntityLang#ast.Property
+EntityLang#cf.Type
+EntityLang#ast.Entity
+EntityLang#ast.DataType
+EntityLang#lex.ID
+EntityLang#cf.Start
+EntityLang#cf.Property
+EntityLang#EClass0
+EntityLang#ns.Property
+EntityLang#ns.Module
+EntityLang#ns.Type
+EntityLang#EClass1

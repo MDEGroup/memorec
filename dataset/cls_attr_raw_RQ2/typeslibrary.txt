@@ -1,0 +1,13 @@
+NativeTypesLibrary#kind
+NativeTypesLibrary#name
+NativeTypesLibrary#nativeTypes
+TypeInstance#nativeType
+TypeInstance#length
+TypeInstance#precision
+TypeInstance#literals
+NativeType#name
+NativeType#spec
+NativeType#mapsTo
+UserDefinedTypesLibrary#kind
+UserDefinedTypesLibrary#name
+UserDefinedTypesLibrary#userDefinedTypes

@@ -1,0 +1,12 @@
+linkagemap#Chromosome
+linkagemap#CorrelatedLinkageMapSet
+linkagemap#CytogeneticMap
+linkagemap#Gene
+linkagemap#GeneticMap
+linkagemap#GenomicFeature
+linkagemap#GenomicMapStudy
+linkagemap#HapMap
+linkagemap#HaplotypeBlock
+linkagemap#LinkageMap
+linkagemap#MappedSpecies
+linkagemap#PhysicalMap

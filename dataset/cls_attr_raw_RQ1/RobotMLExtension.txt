@@ -1,0 +1,10 @@
+Array#size
+Array#dimension
+Array#type_template
+Array#base_DataType
+Vector#size
+Vector#type_template
+Vector#base_DataType
+Map#values_type
+Map#base_DataType
+Map#keys_type

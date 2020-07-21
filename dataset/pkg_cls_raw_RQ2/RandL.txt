@@ -1,0 +1,17 @@
+package#ServiceLevel
+package#Membership
+package#Gender
+package#ProgramPartner
+package#Earning
+package#Date
+package#Container_RandL
+package#Service
+package#Color
+package#TransactionReport
+package#Transaction
+package#TransactionReportLine
+package#CustomerCard
+package#Customer
+package#LoyaltyProgram
+package#LoyaltyAccount
+package#Burning

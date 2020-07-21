@@ -1,0 +1,7 @@
+statecharts#Statechart
+statecharts#State
+statecharts#HyperEdge
+statecharts#Basic
+statecharts#Compound
+statecharts#AND
+statecharts#OR

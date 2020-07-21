@@ -1,0 +1,4 @@
+Goal#requirements
+Goal#name
+Goal#depender
+Goal#dependee

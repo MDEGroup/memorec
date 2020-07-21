@@ -1,0 +1,10 @@
+domain#GraphElement
+domain#CodeElement
+domain#Product
+domain#ApiClass
+domain#Method
+domain#Field
+domain#Dependency
+domain#DependencyGraph
+domain#TransitiveDependency
+domain#DependencyType

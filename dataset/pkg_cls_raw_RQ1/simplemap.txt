@@ -1,0 +1,12 @@
+simplemappings#SimpleMapping
+simplemappings#SimpleTopNode
+simplemappings#SimpleCompartment
+simplemappings#SimpleLabelNode
+simplemappings#SimpleLinkMapping
+simplemappings#SimpleNode
+simplemappings#SimpleParentNode
+simplemappings#SimpleChildNode
+simplemappings#SimpleSubNode
+simplemappings#SimpleMappingElementWithFigure
+simplemappings#SimpleChildReference
+simplemappings#SimpleNodeReference

@@ -1,0 +1,7 @@
+CDOSessionDef#connectorDef
+CDOSessionDef#repositoryName
+CDOSessionDef#cdoPackageRegistryDef
+CDOSessionDef#legacySupportEnabled
+CDOResourceDef#cdoTransaction
+CDOResourceDef#resourceMode
+CDOResourceDef#path

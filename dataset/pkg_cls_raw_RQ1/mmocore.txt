@@ -1,0 +1,15 @@
+model#Identifiable
+model#Resource
+model#UrlResource
+model#Version
+model#Project
+model#Decorate
+model#ImageResource
+model#PluginDependence
+model#TextResource
+model#StringToStringMap
+model#PreferencesNode
+model#PreferencesContributor
+model#BeanContributor
+model#PropertiesContributor
+model#i18nString

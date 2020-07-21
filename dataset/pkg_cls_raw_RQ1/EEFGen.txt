@@ -1,0 +1,5 @@
+EEFGen#GenEditionContext
+EEFGen#HELP_STRATEGY
+EEFGen#EEFGenModelReference
+EEFGen#EEFGenModel
+EEFGen#GenViewsRepository

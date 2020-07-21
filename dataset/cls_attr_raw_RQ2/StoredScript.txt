@@ -1,0 +1,14 @@
+IStoredScript#uri
+IStoredScript#metadatas
+IStoredScript#scriptType
+IStoredScript#registry
+StoredScript#uri
+StoredScript#metadatas
+StoredScript#scriptType
+StoredScript#registry
+ScriptMetadata#key
+ScriptMetadata#value
+ScriptMetadata#script
+ScriptType#type
+ScriptType#extension
+ScriptType#registry

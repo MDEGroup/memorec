@@ -1,0 +1,10 @@
+Transition#trigger
+Transition#target
+Transition#effect
+Transition#source
+CompositeState#name
+CompositeState#owningCompositeState
+CompositeState#ownedSubState
+StateMachine#ownedState
+StateMachine#ownedTransition
+StateMachine#name

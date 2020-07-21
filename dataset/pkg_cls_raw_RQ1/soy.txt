@@ -1,0 +1,7 @@
+soy#Tag
+soy#Variable
+soy#TemplateTag
+soy#IfTag
+soy#Doclet
+soy#Param
+soy#NamedTag

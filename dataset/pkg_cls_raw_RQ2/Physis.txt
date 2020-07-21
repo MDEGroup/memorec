@@ -1,0 +1,6 @@
+package#Model
+package#DataModel
+package#Type
+package#SimpleType
+package#Entity
+package#Attribute

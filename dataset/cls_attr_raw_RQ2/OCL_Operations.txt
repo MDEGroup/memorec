@@ -1,0 +1,15 @@
+AttributeExp#isMarkedPre
+AttributeExp#source
+AttributeExp#attr
+NaviguationExp#isMarkedPre
+NaviguationExp#source
+NaviguationExp#assEnd
+NaviguationExp#qualifierValues
+ClassifierOperation#isMarkedPre
+ClassifierOperation#source
+ClassifierOperation#op
+ClassifierOperation#arguments
+OclExpression#propertyOperations
+OclExpression#naviguationExps
+OclExpression#classifierOperations
+OclExpression#oclOperations

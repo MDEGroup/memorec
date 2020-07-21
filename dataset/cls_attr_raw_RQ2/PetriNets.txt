@@ -1,0 +1,8 @@
+Place#name
+Place#postt
+Place#pret
+Place#cnet
+Transition#name
+Transition#prep
+Transition#postp
+Transition#cnet

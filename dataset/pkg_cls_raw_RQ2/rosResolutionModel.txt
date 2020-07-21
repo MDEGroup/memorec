@@ -1,0 +1,15 @@
+package#ROSTransfImplementation
+package#ROSTransfProperty
+package#ROSTransfConnection
+package#ROSAbstractConnection
+package#ROSTopicConnection
+package#ROSNewTopicConnection
+package#ROSExistingTopicConnection
+package#ROSServiceConnection
+package#ROSNewServiceConnection
+package#ROSExistingServiceConnection
+package#ROSActionConnection
+package#ROSNewActionConnection
+package#ROSExistingActionConnection
+package#ROSRequiredComponents
+package#ROSRequiredConnections

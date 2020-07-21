@@ -1,0 +1,9 @@
+StateMachine#states
+StateMachine#start
+StateMachine#events
+State#actions
+State#name
+State#transitions
+Transition#source
+Transition#target
+Transition#trigger

@@ -1,0 +1,4 @@
+Value#type
+Value#bagValue
+Value#sequenceValue
+Value#setValue

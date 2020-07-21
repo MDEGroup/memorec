@@ -1,0 +1,5 @@
+ErrorResult#errorByTimeStep
+ErrorResult#error
+ErrorResult#referenceByTime
+ErrorResult#modelByTime
+ErrorResult#validationError

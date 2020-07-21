@@ -1,0 +1,7 @@
+Aquatory#ports
+Aquatory#routes
+Aquatory#ships
+Ship#name
+Ship#destination
+Ship#route
+Ship#cargo

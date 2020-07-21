@@ -1,0 +1,12 @@
+package#WebApplication
+package#Entity
+package#Attribute
+package#DataType
+package#Relationship
+package#WebPage
+package#StaticPage
+package#DynamicPage
+package#Link
+package#Icon
+package#EntityPage
+package#IndexPage

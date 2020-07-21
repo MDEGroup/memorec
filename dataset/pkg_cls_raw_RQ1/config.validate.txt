@@ -1,0 +1,8 @@
+validate#DocumentRoot
+validate#JavaValidateType
+validate#XmlSchemaType
+validate#XmlSchemaTypeObject
+validate#XmlValidateType
+validate#SchemaFilesType
+validate#SchemaCatalogsType
+validate#FileEntryType

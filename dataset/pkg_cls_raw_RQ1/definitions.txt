@@ -1,0 +1,10 @@
+definitions#Argument
+definitions#Command
+definitions#Scope
+definitions#Constant
+definitions#Group
+definitions#Switch
+definitions#TypedArgument
+definitions#Namespace
+definitions#ComplexArgument
+definitions#ArgumentType

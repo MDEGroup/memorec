@@ -1,0 +1,6 @@
+package#Project
+package#Participant
+package#Workgroup
+package#Role
+package#Session
+package#MDEProcess

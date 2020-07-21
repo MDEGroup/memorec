@@ -1,0 +1,10 @@
+abstractcim#CimModel
+abstractcim#CimModelElement
+abstractcim#Interface
+abstractcim#IPInterface
+abstractcim#Router
+abstractcim#EthernetIPInterface
+abstractcim#ADSLIPInterface
+abstractcim#WifiInterface
+abstractcim#DHCPServer
+abstractcim#NATService

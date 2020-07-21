@@ -1,0 +1,13 @@
+package#IUmlType
+package#ICdeComponentSpec
+package#IUmlClass
+package#IUmlComponent
+package#ICdeServer
+package#ICdeComponent
+package#IUmlMember
+package#ICdeMember
+package#ICdeMemberExe
+package#Integer
+package#String
+package#Boolean
+package#Double

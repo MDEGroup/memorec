@@ -1,0 +1,7 @@
+MenuItem#id
+MenuItem#parentId
+MenuItem#label
+MenuItem#weight
+MenuItem#bundle
+MenuItem#iconName
+MenuItem#clientPath

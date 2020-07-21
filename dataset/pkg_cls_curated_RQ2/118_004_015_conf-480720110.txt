@@ -1,0 +1,16 @@
+package#System
+package#Session
+package#Location
+package#Admin
+package#Conference
+package#Laboratory
+package#Researcher
+package#Publication
+package#Person
+package#Chapter
+package#RevisionNote
+package#SteeringComitee
+package#ProgramComitee
+package#Contribution
+package#Evaluation
+package#RevisionProcess

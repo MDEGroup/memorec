@@ -1,0 +1,7 @@
+package#CP2Repository
+package#CP2Project
+package#CP2Class
+package#CP2Field
+package#C2CodeElement
+package#C2Methods
+package#CP2Dependency

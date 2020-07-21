@@ -1,0 +1,10 @@
+org.eclipse.emf.texo.test.model.samples.play#ActType
+org.eclipse.emf.texo.test.model.samples.play#DocumentRoot
+org.eclipse.emf.texo.test.model.samples.play#FmType
+org.eclipse.emf.texo.test.model.samples.play#PersonaeType
+org.eclipse.emf.texo.test.model.samples.play#PersonaGroupType
+org.eclipse.emf.texo.test.model.samples.play#PindexType
+org.eclipse.emf.texo.test.model.samples.play#PindexTypeObject
+org.eclipse.emf.texo.test.model.samples.play#PlayType
+org.eclipse.emf.texo.test.model.samples.play#SceneType
+org.eclipse.emf.texo.test.model.samples.play#SpeechType

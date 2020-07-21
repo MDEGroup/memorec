@@ -1,0 +1,10 @@
+IDevice#label
+IDevice#lastUpdatetime
+IDevice#batteryLevel
+ITProbeDevice#label
+ITProbeDevice#lastUpdatetime
+ITProbeDevice#batteryLevel
+ITProbeDevice#celsius
+ITProbeDevice#ratio
+ITProbeDevice#temperature
+ITProbeDevice#humidity

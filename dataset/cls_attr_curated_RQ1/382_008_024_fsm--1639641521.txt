@@ -1,0 +1,8 @@
+State#name
+State#entry
+State#exit
+Transition#Guard
+Transition#Effect
+Transition#target
+Transition#source
+Transition#src

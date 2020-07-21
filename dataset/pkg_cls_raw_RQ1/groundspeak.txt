@@ -1,0 +1,14 @@
+groundspeak#AttributesType
+groundspeak#AttributeType
+groundspeak#CacheType
+groundspeak#DocumentRoot
+groundspeak#FinderType
+groundspeak#LogsType
+groundspeak#LogType
+groundspeak#LogWptType
+groundspeak#LongDescriptionType
+groundspeak#OwnerType
+groundspeak#ShortDescriptionType
+groundspeak#TextType
+groundspeak#TravelbugsType
+groundspeak#TravelbugType

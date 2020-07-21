@@ -1,0 +1,3 @@
+Person#firstName
+Person#lastName
+Person#isEmployedBy

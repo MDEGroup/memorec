@@ -1,0 +1,4 @@
+OclExpression#propertyOperations
+OclExpression#naviguationExps
+OclExpression#classifierOperations
+OclExpression#oclOperations

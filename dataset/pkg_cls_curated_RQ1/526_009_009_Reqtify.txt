@@ -1,0 +1,11 @@
+Reqtify#Project
+Reqtify#TypedElement
+Reqtify#ElementWithIL
+Reqtify#Document
+Reqtify#TextElement
+Reqtify#Section
+Reqtify#AbstractRequirement
+Reqtify#Requirement
+Reqtify#MacroRequirement
+Reqtify#CoverLink
+Reqtify#Attribute

@@ -1,0 +1,9 @@
+package#Model
+package#Protein
+package#Gene
+package#Synonym
+package#Reaction
+package#ChemicalInfo
+package#Taxon
+package#Experiment
+package#ExperimentalData

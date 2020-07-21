@@ -1,0 +1,17 @@
+CP3Dep#type
+CP3Dep#from
+CP3Dep#to
+CP3Project#id
+CP3Project#name
+CP3Project#classes
+CP3Class#id
+CP3Class#name
+CP3Class#projects
+CP3Class#methods
+CP3Class#fields
+CP3Method#id
+CP3Method#name
+CP3Method#classes
+CP3Field#id
+CP3Field#name
+CP3Field#classes

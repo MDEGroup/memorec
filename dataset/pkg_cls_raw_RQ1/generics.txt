@@ -1,0 +1,8 @@
+generics#AbstractGenericAttributeType
+generics#DateAttributeType
+generics#DocumentRoot
+generics#DoubleAttributeType
+generics#GenericCityObjectType
+generics#IntAttributeType
+generics#StringAttributeType
+generics#UriAttributeType

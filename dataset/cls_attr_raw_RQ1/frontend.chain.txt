@@ -1,0 +1,7 @@
+ChainTransformation#composites
+ChainTransformation#externals
+ChainTransformation#generatedModels
+ChainTransformation#executions
+TransformationExecution#transformation
+TransformationExecution#inputModels
+TransformationExecution#outputModels

@@ -1,0 +1,14 @@
+mwe2#Module
+mwe2#Referrable
+mwe2#DeclaredProperty
+mwe2#Component
+mwe2#Import
+mwe2#Assignment
+mwe2#Value
+mwe2#BooleanLiteral
+mwe2#Reference
+mwe2#StringLiteral
+mwe2#StringPart
+mwe2#PropertyReference
+mwe2#PlainString
+mwe2#AbstractReference

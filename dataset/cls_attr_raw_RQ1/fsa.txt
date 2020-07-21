@@ -1,0 +1,10 @@
+FSA#states
+FSA#transitions
+FSA#initialState
+State#name
+State#accepting
+State#outgoingTransitions
+State#incomingTransitions
+Transition#event
+Transition#fromState
+Transition#toState

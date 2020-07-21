@@ -1,0 +1,15 @@
+Transition#name
+Transition#description
+Transition#failureState
+Transition#type
+Transition#owner
+TransitionMatrixElement#oppositePosition
+TransitionMatrixElement#necessity
+TransitionMatrixElement#possibility
+GeneralizedNet#transitions
+GeneralizedNet#positions
+GeneralizedNet#name
+Port#id
+Port#transitionRow
+Port#type
+Port#owner

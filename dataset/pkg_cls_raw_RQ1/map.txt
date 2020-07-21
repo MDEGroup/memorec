@@ -1,0 +1,11 @@
+map#CorrelatedMapFeatureSet
+map#CorrelatedMapSet
+map#EmbeddedMap
+map#Map
+map#MapDistribution
+map#MapFeature
+map#MapInterval
+map#MapPoint
+map#MapPosition
+map#RelativeMapPosition
+map#Map_1

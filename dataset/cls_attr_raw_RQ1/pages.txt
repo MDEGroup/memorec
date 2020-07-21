@@ -1,0 +1,13 @@
+Link#name
+Link#fromElement
+Link#toElement
+Link#shortcut
+Link#data
+PagesElement#name
+PagesElement#location
+PagesElement#size
+PagesElement#children
+PagesElement#parent
+PagesElement#inputLinks
+PagesElement#outputLinks
+PagesElement#data

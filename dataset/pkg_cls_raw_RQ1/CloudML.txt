@@ -1,0 +1,16 @@
+core#CloudMLElement
+core#NamedElement
+core#Property
+core#WithProperties
+core#Resource
+core#Provider
+core#DeploymentModel
+core#ArtefactPort
+core#Artefact
+core#NodePort
+core#Node
+core#ArtefactPortInstance
+core#ArtefactInstance
+core#NodePortInstance
+core#NodeInstance
+core#Composite

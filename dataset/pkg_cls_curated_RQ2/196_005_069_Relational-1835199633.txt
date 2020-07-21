@@ -1,0 +1,11 @@
+package#Schema
+package#Table
+package#Attribute
+package#Domain
+package#AttributeType
+package#CandidateKey
+package#ForeignKey
+package#PrimitiveType
+package#EnumerationType
+package#EnumeratedLiteral
+package#Constraint

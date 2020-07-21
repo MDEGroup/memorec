@@ -1,0 +1,7 @@
+GraphElement#parameters
+GraphElement#id
+GraphElement#generated
+Edge#source
+Edge#target
+Edge#labels
+Edge#nails

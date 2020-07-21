@@ -1,0 +1,12 @@
+package#DocumentRoot
+package#GlobalType
+package#ImportType
+package#MetadataType
+package#MetaentryType
+package#OnEntryScriptType
+package#OnExitScriptType
+package#PackageNameType
+package#PriorityType
+package#RuleFlowGroupType
+package#TaskNameType
+package#VersionType

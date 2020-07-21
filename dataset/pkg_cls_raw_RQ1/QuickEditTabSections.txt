@@ -1,0 +1,3 @@
+quickedittabsections#QuickEditTabSections
+quickedittabsections#SectionInfo
+quickedittabsections#SECTION_TYPE

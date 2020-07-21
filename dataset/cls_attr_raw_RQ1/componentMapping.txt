@@ -1,0 +1,15 @@
+TagMapping#versionedTagToViewMappings
+TagMapping#customConversionFactoryId
+TagMapping#beanMappedProperties
+TagToViewObjectMapping#typeInfo
+TagToViewObjectMapping#minJSFVersion
+TagToViewObjectMapping#minLibraryVersion
+ClassTypeInfo_#className
+ClassTypeInfo_#superClasses
+ClassTypeInfo_#interfaces
+ComponentTypeInfo_#componentType
+ComponentTypeInfo_#componentFamily
+ComponentTypeInfo_#renderType
+AttributeToPropertyMapping#propertyName
+AttributeToPropertyMapping#elAllowed
+AttributeToPropertyMapping#customConversionFactoryId

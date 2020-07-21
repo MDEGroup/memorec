@@ -1,0 +1,10 @@
+package#Structure
+package#Workspace
+package#Project
+package#Bric
+package#Target
+package#BuildSpec
+package#CommandBuildSpec
+package#Developer
+package#AdaBuildSpec
+package#URI

@@ -1,0 +1,13 @@
+server#ServerProject
+server#Authority
+server#AuthorityProfile
+server#User
+server#Application
+server#PolicyGroup
+server#Policy
+server#PolicyContributor
+server#Owned
+server#Credential
+server#BasicCredential
+server#PolicyGroupContributor
+server#VCardProfile

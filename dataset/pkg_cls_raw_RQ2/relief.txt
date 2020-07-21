@@ -1,0 +1,10 @@
+package#AbstractReliefComponentType
+package#BreaklineReliefType
+package#DocumentRoot
+package#GridPropertyType
+package#MassPointReliefType
+package#RasterReliefType
+package#ReliefComponentPropertyType
+package#ReliefFeatureType
+package#TinPropertyType
+package#TINReliefType

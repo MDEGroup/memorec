@@ -1,0 +1,6 @@
+package#BZRepo
+package#BZProduct
+package#BZComponent
+package#BZIssue
+package#BZComment
+package#BZEvent

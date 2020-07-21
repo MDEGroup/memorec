@@ -1,0 +1,11 @@
+com.l2jserver2.ai#AIService
+com.l2jserver2.ai#AI
+com.l2jserver2.ai#ActorAI
+com.l2jserver2.ai#NPCAI
+com.l2jserver2.ai#CharacterAI
+com.l2jserver2.ai#PetAI
+com.l2jserver2.ai#MonsterAI
+com.l2jserver2.ai#Desire
+com.l2jserver2.ai#AttackDesire
+com.l2jserver2.ai#CastDesire
+com.l2jserver2.ai#AbstractDesire

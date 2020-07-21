@@ -1,0 +1,13 @@
+package#Activity
+package#Entity
+package#Person
+package#PersonCalendar
+package#Project
+package#ProjectCalendar
+package#Task
+package#Team
+package#TeamMember
+package#TeamRole
+package#Topic
+package#ValueObject
+package#Role

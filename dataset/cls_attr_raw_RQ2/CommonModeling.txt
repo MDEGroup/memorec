@@ -1,0 +1,7 @@
+Annotation#annotations
+Annotation#target
+Annotation#source
+Annotation#data
+Annotation#contents
+Annotation#references
+Annotation#content

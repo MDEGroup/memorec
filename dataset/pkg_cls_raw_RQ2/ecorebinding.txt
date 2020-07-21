@@ -1,0 +1,13 @@
+package#BBase
+package#BModel
+package#BPackage
+package#BClass
+package#BFeature
+package#BEnum
+package#BEnumLiteral
+package#BClassifier
+package#BDataType
+package#BOperation
+package#BParameter
+package#BTypedElement
+package#BTypeParameter

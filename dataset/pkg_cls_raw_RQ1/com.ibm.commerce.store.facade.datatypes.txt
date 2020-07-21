@@ -1,0 +1,16 @@
+datatypes#DocumentRoot
+datatypes#GeoNodeDescriptionType
+datatypes#GeoNodeType
+datatypes#GetGeoNodeDataAreaType
+datatypes#GetGeoNodeType
+datatypes#GetPhysicalStoreDataAreaType
+datatypes#GetPhysicalStoreType
+datatypes#PhysicalStoreAttributeType
+datatypes#PhysicalStoreDescriptionType
+datatypes#PhysicalStoreGeoCodeType
+datatypes#PhysicalStoreLocationInfoType
+datatypes#PhysicalStoreType
+datatypes#ShowGeoNodeDataAreaType
+datatypes#ShowGeoNodeType
+datatypes#ShowPhysicalStoreDataAreaType
+datatypes#ShowPhysicalStoreType

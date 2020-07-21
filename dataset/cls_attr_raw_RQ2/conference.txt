@@ -1,0 +1,7 @@
+Conference#name
+Conference#elements
+Conference#organizers
+Conference#speakers
+Slot#hour
+Slot#minute
+Slot#talk

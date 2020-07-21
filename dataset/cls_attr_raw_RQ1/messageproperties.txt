@@ -1,0 +1,12 @@
+Property#qName
+Property#name
+Property#type
+Property#ID
+PropertyAlias#messageType
+PropertyAlias#part
+PropertyAlias#propertyName
+PropertyAlias#ID
+PropertyAlias#wsdlPart
+PropertyAlias#query
+PropertyAlias#type
+PropertyAlias#XSDElement

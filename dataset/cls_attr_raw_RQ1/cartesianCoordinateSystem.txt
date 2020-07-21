@@ -1,0 +1,12 @@
+CartesianCoordinateSystem#axes
+CartesianCoordinateSystem#points
+CartesianCoordinateSystem#segments
+CartesianCoordinateSystem#axeX
+CartesianCoordinateSystem#axeY
+CartesianCoordinateSystem#axeZ
+CartesianCoordinateSystem#coeffX
+CartesianCoordinateSystem#coeffY
+CartesianCoordinateSystem#coeffZ
+Element#name
+Element#description
+Element#color

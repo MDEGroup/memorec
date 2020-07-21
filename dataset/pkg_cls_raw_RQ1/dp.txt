@@ -1,0 +1,5 @@
+dp#StockItem
+dp#Categorie
+dp#Diepvries
+dp#Schuif
+dp#Produkt

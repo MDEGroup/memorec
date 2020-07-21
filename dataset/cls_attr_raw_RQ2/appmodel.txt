@@ -1,0 +1,6 @@
+Application#name
+Application#Contains
+Application#Attaches
+Dialog#name
+Dialog#Activates
+Dialog#Attaches

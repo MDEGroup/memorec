@@ -1,0 +1,12 @@
+Workspace#name
+Workspace#projects
+Workspace#developers
+Workspace#location
+Workspace#exportLocation
+Bric#name
+Bric#project
+Bric#maintainer
+Bric#targets
+Target#name
+Target#dependencies
+Target#builder

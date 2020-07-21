@@ -1,0 +1,4 @@
+DFAAutomaton#Automaton
+DFAAutomaton#AlphabetSymbol
+DFAAutomaton#State
+DFAAutomaton#Transition

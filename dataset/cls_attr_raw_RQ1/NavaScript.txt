@@ -1,0 +1,16 @@
+PossibleExpression#key
+PossibleExpression#expressionValue
+PossibleExpression#value
+PossibleExpression#namespace
+PossibleExpression#endToken
+Element#children
+Element#parent
+Element#attributes
+Element#content
+Element#splitTag
+Element#closedTag
+MapMethod#mapName
+MapMethod#methodClosingName
+MapMethod#methodName
+MapMethod#methodClosingMethod
+MapMethod#expression

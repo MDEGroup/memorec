@@ -1,0 +1,10 @@
+accounting#Order
+accounting#Deliverable
+accounting#Invoice
+accounting#NamedElement
+accounting#Client
+accounting#Project
+accounting#Employee
+accounting#InvoiceState
+accounting#ClientDatabase
+accounting#EmployeeDatabase

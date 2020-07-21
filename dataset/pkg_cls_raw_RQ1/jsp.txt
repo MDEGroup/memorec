@@ -1,0 +1,3 @@
+jsp#JSPConfig
+jsp#JSPPropertyGroup
+jsp#TagLibRefType

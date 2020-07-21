@@ -1,0 +1,15 @@
+CompilationUnit#name
+CompilationUnit#importDeclaration
+CompilationUnit#ownedType
+CompilationUnit#declaration
+Type#name
+Type#nestedType
+Type#ownedSuperType
+Type#elementName
+Type#member_kind
+Type#methods
+Type#fields
+Method#name
+Method#returnType
+Method#parametersName
+Method#parametersType

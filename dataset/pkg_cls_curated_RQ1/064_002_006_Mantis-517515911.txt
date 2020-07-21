@@ -1,0 +1,15 @@
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double
+Mantis#RelationshipType
+Mantis#MantisRoot
+Mantis#IdentifiedElt
+Mantis#PrivateElt
+Mantis#Issue
+Mantis#ValueWithId
+Mantis#Person
+Mantis#Relationship
+Mantis#TimeStampedElt
+Mantis#Note
+Mantis#Attachment

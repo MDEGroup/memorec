@@ -1,0 +1,14 @@
+Vertex#index
+Vertex#name
+Vertex#color
+Vertex#edges
+Edge#parentVertex
+Edge#weight
+Edge#color
+DiEdge#parentVertex
+DiEdge#weight
+DiEdge#color
+SingleEdge#parentVertex
+SingleEdge#weight
+SingleEdge#color
+SingleEdge#child

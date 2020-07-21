@@ -1,0 +1,4 @@
+manpages#Documentation
+manpages#ManPageFolder
+manpages#StringToStringEntry
+manpages#InterpreterDocumentation

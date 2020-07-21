@@ -1,0 +1,6 @@
+Goal#number
+Goal#advantage
+Goal#measurement
+VolereElement#name
+VolereElement#description
+VolereElement#owner

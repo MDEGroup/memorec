@@ -1,0 +1,6 @@
+psf#PSF
+psf#RepositoryProvider
+psf#WorkingSet
+psf#Item
+psf#Project
+psf#DocumentRoot

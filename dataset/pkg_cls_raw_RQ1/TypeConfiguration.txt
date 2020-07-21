@@ -1,0 +1,15 @@
+typeconfiguration#TypeConfigContainer
+typeconfiguration#Type
+typeconfiguration#Relation
+typeconfiguration#Configuration
+typeconfiguration#CustomType
+typeconfiguration#Entry
+typeconfiguration#IType
+typeconfiguration#TType
+typeconfiguration#Attribute
+typeconfiguration#RegisteredAttribute
+typeconfiguration#StdAttribute
+typeconfiguration#AttributeType
+typeconfiguration#RelationsPredicatesMapping
+typeconfiguration#DecorationPredicate
+typeconfiguration#IPredicateLink

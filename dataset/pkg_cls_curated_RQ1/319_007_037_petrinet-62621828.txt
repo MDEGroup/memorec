@@ -1,0 +1,8 @@
+petrinet#ExtendedPetriNet
+petrinet#Place
+petrinet#GeometryLabel
+petrinet#AnimationLabel
+petrinet#Token
+petrinet#Arc
+petrinet#Identity
+petrinet#InputPlace

@@ -1,0 +1,6 @@
+package#Thing
+package#NamedElement
+package#RelatedTo
+package#Variable
+package#Transition
+package#State

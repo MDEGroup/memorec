@@ -1,0 +1,6 @@
+simpleProcedure#Program
+simpleProcedure#Procedure
+simpleProcedure#Label
+simpleProcedure#Statement
+simpleProcedure#Goto
+simpleProcedure#If

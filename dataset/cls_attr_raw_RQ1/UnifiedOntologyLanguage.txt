@@ -1,0 +1,4 @@
+Fact#object
+Fact#subject
+Fact#predicate
+Fact#context

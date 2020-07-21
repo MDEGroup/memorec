@@ -1,0 +1,15 @@
+Slicer#name
+Slicer#uriMetamodel
+Slicer#active
+Slicer#strict
+Slicer#helper
+Slicer#onStart
+Slicer#onEnd
+Slicer#constraints
+Slicer#radius
+Slicer#slicedElements
+Slicer#inputClasses
+SlicedProperty#opposite
+SlicedProperty#src
+SlicedProperty#tgt
+SlicedProperty#domain

@@ -1,0 +1,5 @@
+fowlerdsl#Statemachine
+fowlerdsl#Event
+fowlerdsl#Command
+fowlerdsl#State
+fowlerdsl#Transition

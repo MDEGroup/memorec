@@ -1,0 +1,9 @@
+StereotypePropertyChange#discriminant
+StereotypePropertyChange#eReference
+StereotypePropertyChange#stereotype
+StereotypeApplicationChange#discriminant
+StereotypeApplicationChange#eReference
+StereotypeApplicationChange#stereotype
+ProfileApplicationChange#discriminant
+ProfileApplicationChange#eReference
+ProfileApplicationChange#profile

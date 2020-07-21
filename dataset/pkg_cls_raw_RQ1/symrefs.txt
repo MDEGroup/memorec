@@ -1,0 +1,5 @@
+symrefs#ExternalElementReference
+symrefs#IdEmfReference
+symrefs#ElementSetReference
+symrefs#Condition
+symrefs#OclCondition

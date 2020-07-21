@@ -1,0 +1,13 @@
+dSDL#Database
+dSDL#Table
+dSDL#Attribute
+dSDL#Type
+dSDL#Property
+dSDL#Integer
+dSDL#Varchar
+dSDL#Text
+dSDL#DateTime
+dSDL#PrimaryKey
+dSDL#AutoIncrement
+dSDL#Nullable
+dSDL#ForeignKey

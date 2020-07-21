@@ -1,0 +1,4 @@
+helloScoping#Model
+helloScoping#Greeting
+helloScoping#Field
+helloScoping#FieldReference

@@ -1,0 +1,8 @@
+Argument#lowerBound
+Argument#upperBound
+Argument#name
+Command#name
+Command#arguments
+Command#version
+Command#scope
+Command#deprecated

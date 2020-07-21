@@ -1,0 +1,13 @@
+Survey#name
+Survey#title
+Survey#pages
+Page#name
+Page#questions
+Page#followUps
+ChoiceQuestion#name
+ChoiceQuestion#text
+ChoiceQuestion#single
+ChoiceQuestion#choices
+Choice#freetext
+Choice#name
+Choice#text

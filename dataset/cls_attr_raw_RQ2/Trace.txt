@@ -1,0 +1,7 @@
+M2MTraceItem#from
+M2MTraceItem#kind
+M2MTraceItem#to
+M2CTraceItem#from
+M2CTraceItem#kind
+M2CTraceItem#targetFile
+M2CTraceItem#token

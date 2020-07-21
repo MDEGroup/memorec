@@ -1,0 +1,13 @@
+Gantt#Project
+Gantt#Tasks
+Gantt#Task
+Gantt#Depend
+Gantt#Ressource
+Gantt#Date
+Gantt#Allocation
+Gantt#Vacation
+Gantt#Description
+Gantt#Previous
+PrimitiveTypes#String
+PrimitiveTypes#Integer
+PrimitiveTypes#Boolean

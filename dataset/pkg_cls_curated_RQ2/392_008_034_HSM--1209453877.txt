@@ -1,0 +1,6 @@
+package#State
+package#Transition
+package#CompositeState
+package#StateMachine
+package#InitialState
+package#FinalState

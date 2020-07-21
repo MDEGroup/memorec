@@ -1,0 +1,17 @@
+State#region
+State#isSimple
+State#defferableTrigger
+State#isComposite
+State#doActivity
+State#entry
+State#exit
+Region#state
+Region#subVertex
+Region#stateMachine
+Region#transition
+Transition#source
+Transition#target
+Transition#kind
+Transition#trigger
+Transition#guard
+Transition#effect

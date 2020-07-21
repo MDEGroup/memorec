@@ -1,0 +1,16 @@
+User#name
+User#password
+User#sap_name
+User#sap_password
+TimeEntry#user
+TimeEntry#project
+TimeEntry#day
+TimeEntry#from
+TimeEntry#till
+TimeEntry#duration
+TimeEntry#factured
+TimeEntry#notes
+TimeEntry#sync_date
+Library#listBook
+Library#listTimeEntry
+Library#listProject

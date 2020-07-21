@@ -1,0 +1,9 @@
+Class#name
+Class#superTypes
+Class#attributes
+Attribute#type
+Attribute#manyReference
+Attribute#name
+Method#returnType
+Method#name
+Method#parameters

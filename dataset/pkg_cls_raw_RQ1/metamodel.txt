@@ -1,0 +1,8 @@
+metamodel#Model
+metamodel#Type
+metamodel#Datatype
+metamodel#Entity
+metamodel#Attribute
+metamodel#HibernateAnnotation
+metamodel#HibernateAnnotationTypes
+metamodel#HibernateCascadeTypes

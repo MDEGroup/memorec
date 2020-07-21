@@ -1,0 +1,14 @@
+package#PragmaCPN
+package#Place
+package#Pragma
+package#OntologyFile
+package#OntologyDocument
+package#PragmaticsOntology
+package#PetriNet
+package#OntologyManager
+package#OntologyMember
+package#OWLClassSet
+package#OWLClass
+package#Transition
+package#Arc
+package#Page

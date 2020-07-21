@@ -1,0 +1,10 @@
+faceletTaglib_1_0#FaceletLibraryClassTagLib
+faceletTaglib_1_0#FaceletXMLDefnTaglib
+faceletTaglib_1_0#FaceletTaglibDefn
+faceletTaglib_1_0#ComponentTagDefn
+faceletTaglib_1_0#ValidatorTagDefn
+faceletTaglib_1_0#ConverterTagDefn
+faceletTaglib_1_0#HandlerTagDefn
+faceletTaglib_1_0#SourceTagDefn
+faceletTaglib_1_0#TagDefn
+faceletTaglib_1_0#FunctionDefn

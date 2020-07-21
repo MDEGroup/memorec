@@ -1,0 +1,12 @@
+Location#name
+Location#continent
+Location#objects
+Person#location
+Person#name
+Person#age
+Person#beenGood
+Person#mood
+Person#gift
+Gift#location
+Gift#name
+Gift#receipients

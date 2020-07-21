@@ -1,0 +1,15 @@
+Playtrd#regions
+Playtrd#communities
+Playtrd#services
+Playtrd#games
+Playtrd#uis
+Game#name
+Game#players
+Game#stateMachine
+Game#currentStates
+Trade#seller
+Trade#buyer
+Trade#sellerWallet
+Trade#sellerItems
+Trade#buyerItems
+Trade#buyerWallet

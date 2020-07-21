@@ -1,0 +1,15 @@
+package#Model
+package#Clause
+package#Head
+package#Term
+package#Body
+package#Variable
+package#Functor
+package#QuotedAtom
+package#List
+package#InfixExpression
+package#Operator
+package#TermReference
+package#FunctorReference
+package#VariableReference
+package#Parenthesis

@@ -1,0 +1,15 @@
+Proof#title
+Proof#justifications
+Proof#proofSteps
+Justification#hypothesis
+Justification#epsilon
+Justification#numeral
+Justification#assertion
+Justification#entailment
+Statement#id
+Statement#statement
+Statement#justification
+Statement#validation
+Validation#author
+Validation#timeStamp
+Validation#state

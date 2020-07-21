@@ -1,0 +1,4 @@
+salesystem#Salesystem
+salesystem#User
+salesystem#Sale
+salesystem#SaleElement

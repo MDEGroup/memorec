@@ -1,0 +1,15 @@
+EventModel#packageName
+EventModel#usages
+EventModel#annotations
+EventModel#name
+EventModel#events
+AtomicEvent#annotations
+AtomicEvent#id
+AtomicEvent#source
+AtomicEvent#parameterFilters
+ComplexEvent#annotations
+ComplexEvent#paramlist
+ComplexEvent#complexEventExpressions
+LiteralFilter#neg
+LiteralFilter#operator
+LiteralFilter#value

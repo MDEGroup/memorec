@@ -1,0 +1,9 @@
+ReviewResult#text
+ReviewResult#rating
+ReviewResult#reviewer
+Patch#contents
+Patch#creationDate
+Patch#fileName
+Changeset#revision
+Changeset#projecturl
+Changeset#comment

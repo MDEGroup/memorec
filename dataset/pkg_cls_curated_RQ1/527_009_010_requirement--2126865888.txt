@@ -1,0 +1,5 @@
+requirement#Repository
+requirement#Category
+requirement#Requirement
+requirement#NamedElement
+requirement#RequirementType

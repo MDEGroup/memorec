@@ -1,0 +1,7 @@
+releng#Server
+releng#BuildJob
+releng#BuildType
+releng#Promotion
+releng#Criterion
+releng#Repository
+releng#CompositeRepository

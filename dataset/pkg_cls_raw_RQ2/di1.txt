@@ -1,0 +1,11 @@
+package#BPMNDiagram
+package#BPMNEdge
+package#BPMNLabel
+package#BPMNLabelStyle
+package#BPMNPlane
+package#BPMNShape
+package#DocumentRoot
+package#MessageVisibleKind
+package#MessageVisibleKindObject
+package#ParticipantBandKind
+package#ParticipantBandKindObject

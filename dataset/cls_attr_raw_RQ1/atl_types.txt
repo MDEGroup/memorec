@@ -1,0 +1,8 @@
+HelperAnnotation#helper
+HelperAnnotation#name
+HelperAnnotation#type
+BindingAnnotation#rule
+BindingAnnotation#binding
+BindingAnnotation#name
+BindingAnnotation#sourceType
+BindingAnnotation#targetType

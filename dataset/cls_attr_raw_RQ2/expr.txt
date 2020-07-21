@@ -1,0 +1,10 @@
+Condition#name
+Condition#logicLanguage
+Condition#expressionBody
+Condition#id
+Condition#version
+Expression#name
+Expression#logicLanguage
+Expression#expressionBody
+Expression#id
+Expression#version

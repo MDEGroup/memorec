@@ -1,0 +1,5 @@
+ActivityExtension#x
+ActivityExtension#y
+ActivityExtension#width
+ActivityExtension#height
+ActivityExtension#implicit

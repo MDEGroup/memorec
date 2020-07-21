@@ -1,0 +1,10 @@
+QoSStatement#QoSStatement
+QoSStatement#SingleQoSStatement
+QoSStatement#CoumpoundQoSStatement
+QoSStatement#Parameter
+QoSStatement#QoSContraint
+QoSStatement#QualificationKind
+QoSStatement#QoSCharacteristic
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

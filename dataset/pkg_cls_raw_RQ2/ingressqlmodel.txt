@@ -1,0 +1,6 @@
+package#IngresSynonym
+package#IngresDBEvent
+package#IngresSchema
+package#IngresViewTable
+package#IngresTrigger
+package#IngresIdentitySpecifier

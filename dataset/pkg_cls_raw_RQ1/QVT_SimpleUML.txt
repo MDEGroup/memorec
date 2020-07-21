@@ -1,0 +1,8 @@
+SimpleUML#UMLModelElement
+SimpleUML#Attribute
+SimpleUML#Package
+SimpleUML#PackageElement
+SimpleUML#Classifier
+SimpleUML#Class
+SimpleUML#PrimitiveDataType
+SimpleUML#Association

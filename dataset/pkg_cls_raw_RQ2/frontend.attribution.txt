@@ -1,0 +1,17 @@
+package#AttributionTransformation
+package#AttributeDcl
+package#InheritedAttributeDcl
+package#SynthesizedAttributeDcl
+package#AttributionRule
+package#RuleSelf
+package#AttributeInit
+package#AttributeUse
+package#Variable
+package#NamedElement
+package#TransformationDefinition
+package#TransformationDefinitionParameter
+package#LocatedElement
+package#ClassUse
+package#Expression
+package#Statement
+package#TypedWithClass

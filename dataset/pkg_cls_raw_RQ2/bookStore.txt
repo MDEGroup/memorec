@@ -1,0 +1,9 @@
+package#BookStore
+package#Book
+package#Chapter
+package#Category
+package#ContainsChapter
+package#Seller
+package#Goods
+package#Store
+package#Sells

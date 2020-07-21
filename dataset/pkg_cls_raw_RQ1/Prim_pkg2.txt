@@ -1,0 +1,17 @@
+prim_pkg2#PrimPkgModel
+prim_pkg2#AdaType
+prim_pkg2#MinVal
+prim_pkg2#MaxVal
+prim_pkg2#Modification
+prim_pkg2#PackageName
+prim_pkg2#Extpackage
+prim_pkg2#TypeRef
+prim_pkg2#Stype
+prim_pkg2#Lit
+prim_pkg2#Op
+prim_pkg2#OpOverride
+prim_pkg2#OpAdditional
+prim_pkg2#Param
+prim_pkg2#ParamType
+prim_pkg2#StandardType
+prim_pkg2#Fullint

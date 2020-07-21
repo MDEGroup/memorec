@@ -1,0 +1,13 @@
+BPMNShape#bpmnElement
+BPMNShape#isHorizontal
+BPMNShape#isExpanded
+BPMNShape#isMarkerVisible
+BPMNShape#label
+BPMNShape#isMessageVisible
+BPMNShape#participantBandKind
+BPMNShape#choreographyActivityShape
+BPMNEdge#label
+BPMNEdge#bpmnElement
+BPMNEdge#sourceElement
+BPMNEdge#targetElement
+BPMNEdge#messageVisibleKind

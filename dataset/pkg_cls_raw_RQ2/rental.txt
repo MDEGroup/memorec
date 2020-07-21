@@ -1,0 +1,8 @@
+package#Customer
+package#RentalAgency
+package#Address
+package#StreetType
+package#RentalObject
+package#Image
+package#License
+package#Rental

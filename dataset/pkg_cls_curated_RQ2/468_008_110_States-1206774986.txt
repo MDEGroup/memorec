@@ -1,0 +1,7 @@
+package#Module
+package#Statemachine
+package#Event
+package#State
+package#SimpleState
+package#CompoundState
+package#Transition

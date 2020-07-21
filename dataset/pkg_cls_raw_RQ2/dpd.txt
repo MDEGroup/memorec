@@ -1,0 +1,9 @@
+package#Author
+package#ChildHwDevice
+package#DeviceClass
+package#DevicePkg
+package#DevicePkgRef
+package#DocumentRoot
+package#HwDeviceRegistration
+package#LocalFile
+package#PropertyFile

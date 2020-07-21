@@ -1,0 +1,5 @@
+wsclient#ServiceRef
+wsclient#PortComponentRef
+wsclient#Handler
+wsclient#WebServicesClient
+wsclient#ComponentScopedRefs

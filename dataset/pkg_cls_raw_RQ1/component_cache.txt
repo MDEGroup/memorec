@@ -1,0 +1,3 @@
+component_cache#ComponentsCache
+component_cache#ComponentInfo
+component_cache#ComponentEntryMap

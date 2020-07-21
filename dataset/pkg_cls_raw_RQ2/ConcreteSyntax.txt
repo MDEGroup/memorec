@@ -1,0 +1,8 @@
+package#DslMediation
+package#DslRelator
+package#DslModel
+package#Cardinality
+package#LiteralOptionalCardinality
+package#LiteralAtLeastOneCardinality
+package#LiteralAnyCardinality
+package#LiteralCardinality

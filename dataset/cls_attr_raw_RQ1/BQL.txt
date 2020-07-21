@@ -1,0 +1,8 @@
+LocatedElement#location
+LocatedElement#commentsBefore
+LocatedElement#commentsAfter
+Entry#name
+Entry#type
+Entry#allFields
+Entry#fields
+Entry#predicate

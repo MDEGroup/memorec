@@ -1,0 +1,12 @@
+package#LabelShape
+package#EntityShape
+package#EntityContainerShape
+package#EntityContainerDiagram
+package#PortShape
+package#PortAnchor
+package#PortGA
+package#RelationConnection
+package#RelationShape
+package#EPoint
+package#EDimension
+package#ERectangle

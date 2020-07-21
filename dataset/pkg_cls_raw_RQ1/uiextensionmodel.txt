@@ -1,0 +1,13 @@
+uiextensionmodel#ActivityExtension
+uiextensionmodel#CaseExtension
+uiextensionmodel#CopyExtension
+uiextensionmodel#EndNode
+uiextensionmodel#LinkExtension
+uiextensionmodel#OnAlarmExtension
+uiextensionmodel#OnEventExtension
+uiextensionmodel#OnMessageExtension
+uiextensionmodel#PartnerLinkExtension
+uiextensionmodel#ProcessExtension
+uiextensionmodel#ReferencePartnerLinks
+uiextensionmodel#StartNode
+uiextensionmodel#VariableExtension

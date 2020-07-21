@@ -1,0 +1,3 @@
+TransitionRule#triggers
+TransitionRule#guard
+TransitionRule#effect

@@ -1,0 +1,7 @@
+wsdlGrounding#WsdlGrounding
+wsdlGrounding#WsdlAtomicProcessGrounding
+wsdlGrounding#WsdlOperationRef
+wsdlGrounding#WsdlMessageMap
+wsdlGrounding#WsdlInputMessageMap
+wsdlGrounding#WsdlOutputMessageMap
+wsdlGrounding#GD

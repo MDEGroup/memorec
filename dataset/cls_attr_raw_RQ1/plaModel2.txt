@@ -1,0 +1,14 @@
+Query#queryRequests
+Query#answers
+Query#userProfile
+QueryDataType#dateTime
+QueryDataType#requestedTimeBlurring
+QueryDataType#requestedValueBlurring
+QueryDataType#dataType
+AnswerDataType#dateTime
+AnswerDataType#resultedTimeBlurring
+AnswerDataType#resultedValueBlurring
+PrivacyRule#dataType
+PrivacyRule#timeBlurring
+PrivacyRule#valueBlurring
+PrivacyRule#blurringAlgorithm

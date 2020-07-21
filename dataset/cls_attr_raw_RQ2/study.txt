@@ -1,0 +1,11 @@
+Representation#effect
+Representation#factors
+Representation#variates
+Study#project
+Study#effects
+Study#factors
+Study#variates
+Study#investigators
+Study#observationUnits
+Study#startDate
+Study#endDate

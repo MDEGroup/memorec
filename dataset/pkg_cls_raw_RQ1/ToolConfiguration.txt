@@ -1,0 +1,4 @@
+toolconfiguration#ToolConfigurationSet
+toolconfiguration#ToolConfiguration
+toolconfiguration#ValidationQuery
+toolconfiguration#ModiscoQuery

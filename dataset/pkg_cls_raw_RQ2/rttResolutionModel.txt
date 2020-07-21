@@ -1,0 +1,6 @@
+package#RTTTransfImplementation
+package#RTTTransfProperty
+package#RTTTransfConnection
+package#RTTConnection
+package#RTTRequiredComponents
+package#RTTRequiredConnections

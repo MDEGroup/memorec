@@ -1,0 +1,16 @@
+ContentType#hasProperties
+ContentType#hasVersions
+ContentType#modifiedBy
+ContentType#guid
+ContentType#visible
+User#hasRole
+User#firstname
+User#lastname
+User#login
+User#password
+User#email
+User#disabled
+CMS#address_url
+CMS#type
+CMS#username
+CMS#password

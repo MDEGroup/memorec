@@ -1,0 +1,4 @@
+IntegratingTroposActorConcept#Actor
+IntegratingTroposActorConcept#Agent
+IntegratingTroposActorConcept#Position
+IntegratingTroposActorConcept#Role

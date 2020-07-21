@@ -1,0 +1,3 @@
+Map#money
+Map#safe zone
+Map#EReference0

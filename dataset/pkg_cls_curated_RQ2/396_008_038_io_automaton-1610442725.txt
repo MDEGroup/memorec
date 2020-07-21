@@ -1,0 +1,9 @@
+package#Automaton
+package#State
+package#Transition
+package#Activation
+package#ReturnValue
+package#Input
+package#Output
+package#Object
+package#Operation

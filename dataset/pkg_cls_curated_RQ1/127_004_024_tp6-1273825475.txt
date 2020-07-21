@@ -1,0 +1,10 @@
+tp6#Researcher
+tp6#Paper
+tp6#Paragraph
+tp6#PublicationStructure
+tp6#Skill
+tp6#Position
+tp6#Collaboration
+tp6#Keyword
+tp6#PaperKeywords
+tp6#KnowledgeManager

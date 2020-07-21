@@ -1,0 +1,16 @@
+package#NamedElement
+package#Package
+package#PackableElement
+package#HasInheritance
+package#Generalization
+package#Comment
+package#UseCase
+package#Actor
+package#Relation
+package#DirectedAssociation
+package#Association
+package#Include
+package#Extend
+package#TransformationActor
+package#RequirementUseCase
+package#ConstraintComment

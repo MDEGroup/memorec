@@ -1,0 +1,17 @@
+HPROF#LocatedElement
+HPROF#Profile
+HPROF#Method
+HPROF#ThreadAction
+HPROF#ThreadStart
+HPROF#ThreadEnd
+HPROF#Trace
+HPROF#StackTraceElement
+HPROF#Times
+HPROF#Time
+HPROF#Date
+HPROF#Day
+HPROF#Month
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double
+PrimitiveTypes#Integer
+PrimitiveTypes#String

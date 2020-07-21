@@ -1,0 +1,9 @@
+System#modules
+System#behaviouralModel
+System#migrations
+Module#interfaceModel
+Module#entityModel
+Module#notificationModel
+EntityModel#module
+EntityModel#entities
+EntityModel#enums

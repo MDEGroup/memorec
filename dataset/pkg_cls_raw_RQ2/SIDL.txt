@@ -1,0 +1,11 @@
+package#Class
+package#Specification
+package#Interface
+package#Package
+package#Method
+package#Argument
+package#SIDLType
+package#ArrayType
+package#SimpleType
+package#SimpleTypeEnum
+package#ModeEnum

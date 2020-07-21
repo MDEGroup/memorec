@@ -1,0 +1,15 @@
+package#FeatureDiagram
+package#Feature
+package#PrimitiveFeature
+package#ConstraintEdge
+package#Operator
+package#Opt
+package#Mandatory
+package#Or
+package#Alternative
+package#Card
+package#Constraint
+package#Require
+package#Mutex
+package#FeatureElement
+package#Attribute

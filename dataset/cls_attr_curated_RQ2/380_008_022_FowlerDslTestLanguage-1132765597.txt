@@ -1,0 +1,9 @@
+Statemachine#events
+Statemachine#commands
+Statemachine#states
+Event#resetting
+Event#name
+Event#code
+State#name
+State#actions
+State#transitions

@@ -1,0 +1,4 @@
+Entity#name
+Entity#system
+Entity#inDomain
+Entity#relationships

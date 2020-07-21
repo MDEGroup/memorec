@@ -1,0 +1,12 @@
+wolf#Model
+wolf#Import
+wolf#Specification
+wolf#AstSpec
+wolf#AstElement
+wolf#ListType
+wolf#SumType
+wolf#SumTypePart
+wolf#Constructor
+wolf#ConstructorParam
+wolf#AspectSpec
+wolf#AttributeDef

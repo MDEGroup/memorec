@@ -1,0 +1,8 @@
+m2mDsl#Transformation
+m2mDsl#Import
+m2mDsl#Rule
+m2mDsl#Where
+m2mDsl#Create
+m2mDsl#MappingDef
+m2mDsl#Assignment
+m2mDsl#Reference

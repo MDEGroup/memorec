@@ -1,0 +1,13 @@
+Employee#firstname
+Employee#company
+Employee#lastname
+Employee#address
+Employee#position
+Employee#email
+Employee#phone
+Employee#birthday
+Address#city
+Address#street
+Address#zipcode
+Address#state
+Address#country

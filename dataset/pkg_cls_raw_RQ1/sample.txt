@@ -1,0 +1,11 @@
+coffeeshop#Shop
+coffeeshop#Employee
+coffeeshop#CoffeeMachine
+coffeeshop#Manager
+coffeeshop#CashRegister
+coffeeshop#StoreRoom
+coffeeshop#SackOfBeans
+coffeeshop#BoxOfCups
+coffeeshop#DistributorType
+coffeeshop#Distributor
+coffeeshop#Account

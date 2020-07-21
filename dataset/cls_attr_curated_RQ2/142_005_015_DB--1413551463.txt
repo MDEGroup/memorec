@@ -1,0 +1,13 @@
+Table#name
+Table#database
+Table#columns
+Table#primaryKeys
+Column#name
+Column#database
+Column#table
+Column#type
+ForeignKey#name
+ForeignKey#database
+ForeignKey#parent
+ForeignKey#child
+ForeignKey#isMany

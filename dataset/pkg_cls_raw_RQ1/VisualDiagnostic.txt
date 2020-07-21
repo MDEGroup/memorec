@@ -1,0 +1,3 @@
+VisualDiagnostic#VisualDiagnostic
+VisualDiagnostic#Figure
+VisualDiagnostic#NamedElement

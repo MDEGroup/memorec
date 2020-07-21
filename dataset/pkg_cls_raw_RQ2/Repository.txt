@@ -1,0 +1,10 @@
+package#String
+package#Boolean
+package#Integer
+package#Subsystem
+package#Relation
+package#Class
+package#Feature
+package#Type
+package#Entity
+package#Routine

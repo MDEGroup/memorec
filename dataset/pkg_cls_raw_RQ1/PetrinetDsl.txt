@@ -1,0 +1,8 @@
+petrinetDsl#PetriNet
+petrinetDsl#Resource
+petrinetDsl#Place
+petrinetDsl#Storage
+petrinetDsl#Transaction
+petrinetDsl#AssureStatement
+petrinetDsl#TakeStatement
+petrinetDsl#PutStatement

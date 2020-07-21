@@ -1,0 +1,16 @@
+package#System
+package#Component
+package#Service
+package#Wire
+package#Binding
+package#Interface
+package#InterfaceKind
+package#SynchronizationKind
+package#Operation
+package#ImplementationComponent
+package#Parameter
+package#BindingKind
+package#OperationKind
+package#DTORegistry
+package#Category
+package#ServiceDTO

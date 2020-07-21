@@ -1,0 +1,9 @@
+dummy#Wallet
+dummy#Map
+dummy#Player
+dummy#Survivor
+dummy#Zombie
+dummy#Buff
+dummy#Safe zone
+dummy#Item
+dummy#UoD

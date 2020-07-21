@@ -1,0 +1,14 @@
+package#Definition
+package#DefaultMetaclassSection
+package#Mapping
+package#Section
+package#PropertySection
+package#NewSection
+package#MultipleSection
+package#ValueSection
+package#Statement
+package#StatementType
+package#NamedElement
+package#MethodCall
+package#Parameter
+package#Constructor

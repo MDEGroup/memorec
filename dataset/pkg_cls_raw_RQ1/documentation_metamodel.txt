@@ -1,0 +1,11 @@
+uml#StateMachine
+uml#Transition
+uml#Trigger
+uml#Behavior
+uml#Region
+uml#Pseudostate
+uml#PseudostateKind
+uml#FinalState
+uml#Vertex
+uml#Activity
+uml#State

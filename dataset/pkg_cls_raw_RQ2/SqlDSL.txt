@@ -1,0 +1,17 @@
+package#SModel
+package#SSettings
+package#SDBEngine
+package#SArtifact
+package#STable
+package#STableMember
+package#SColumn
+package#SJoinColumn
+package#SColumnProps
+package#SExtDeclaredSQLType
+package#SInlinedSQLType
+package#SSimpleTypes
+package#SIndex
+package#SEnum
+package#SEnumLiteral
+package#SString
+package#SDecimal

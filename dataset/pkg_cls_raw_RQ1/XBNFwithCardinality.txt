@@ -1,0 +1,6 @@
+XBNFwithCardinality#Alternatives
+XBNFwithCardinality#CompoundElement
+XBNFwithCardinality#OneOrMore
+XBNFwithCardinality#Succession
+XBNFwithCardinality#ZeroOrMore
+XBNFwithCardinality#ZeroOrOne

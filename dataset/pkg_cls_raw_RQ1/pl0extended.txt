@@ -1,0 +1,3 @@
+pl0extended#Import
+pl0extended#ProgramWithImports
+pl0extended#ExternalIdentReference

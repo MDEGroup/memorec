@@ -1,0 +1,12 @@
+AGraph#tokens
+AGraph#structures
+AGraph#corpus
+AGraph#edges
+AToken#targetedges
+AToken#next
+AToken#previous
+AToken#text
+AToken#graph
+AEdge#graph
+AEdge#source
+AEdge#target

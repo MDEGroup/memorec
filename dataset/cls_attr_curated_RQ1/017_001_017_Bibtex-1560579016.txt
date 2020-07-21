@@ -1,0 +1,10 @@
+LiteratureDb#author
+LiteratureDb#entries
+LiteratureDb#name
+Entry#title
+Entry#id
+Entry#author
+Entry#literaturedb
+Author#name
+Author#publications
+Author#literaturedb

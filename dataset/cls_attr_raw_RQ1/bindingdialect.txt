@@ -1,0 +1,8 @@
+DBindingEditor#description
+DBindingEditor#boundElements
+DBindingEditor#bindingEdges
+DBoundElement#parent
+DBoundElement#children
+DBoundElement#edgesAsLeft
+DBoundElement#edgesAsRight
+DBoundElement#edges

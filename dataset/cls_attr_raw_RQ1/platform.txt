@@ -1,0 +1,11 @@
+Platform#name
+Platform#processor
+Platform#memory
+Platform#property
+Property#name
+Property#value
+Property#unit
+Robot#name
+Robot#platform
+Robot#device
+Robot#property

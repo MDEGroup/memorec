@@ -1,0 +1,13 @@
+JSFLibraryRegistry#DefaultImplementationID
+JSFLibraryRegistry#JSFLibraries
+JSFLibraryRegistry#PluginProvidedJSFLibraries
+JSFLibrary#ID
+JSFLibrary#Name
+JSFLibrary#JSFVersion
+JSFLibrary#Deployed
+JSFLibrary#Implementation
+JSFLibrary#ArchiveFiles
+ArchiveFile#RelativeToWorkspace
+ArchiveFile#SourceLocation
+ArchiveFile#RelativeDestLocation
+ArchiveFile#JSFLibrary

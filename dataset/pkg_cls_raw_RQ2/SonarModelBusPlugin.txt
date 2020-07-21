@@ -1,0 +1,7 @@
+package#Extension Manager
+package#Extension
+package#EClass0
+package#SonarPlugin
+package#ModelBusPlugin
+package#MetrinoAdapter
+package#ModelBusAdapter

@@ -1,0 +1,11 @@
+Table#column
+Table#key
+Table#foreignKey
+Table#name
+Key#column
+Key#referredBy
+Key#table
+Key#name
+ForeignKey#column
+ForeignKey#refersTo
+ForeignKey#table

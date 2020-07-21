@@ -1,0 +1,16 @@
+package#Package
+package#ProviderClause
+package#CollaborationPackage
+package#Collaboration
+package#InteractionPackage
+package#Interaction
+package#AssociationRole
+package#ClassifierRole
+package#AssociationEndRole
+package#Message
+package#Request
+package#Operation
+package#Interface
+package#Boolean
+package#Integer
+package#String

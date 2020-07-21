@@ -1,0 +1,8 @@
+Node#opposite_deploy
+Node#name
+Node#os
+Application#deploy
+Application#name
+Application#category
+Application#version
+Application#license

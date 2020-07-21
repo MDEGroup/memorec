@@ -1,0 +1,11 @@
+ExportElement#name
+ExportElement#timExecution
+ExportElement#instructions
+ExportElement#beginMemory
+ExportElement#maxMemory
+ExportElement#endMemory
+ExportElement#totalTimeExecutionPercent
+ExportElement#totalInstructionsPercent
+ExportRoot#operation
+ExportRoot#totalTime
+ExportRoot#totalInstructions

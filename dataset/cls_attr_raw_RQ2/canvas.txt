@@ -1,0 +1,3 @@
+CanvasModelBlock#imagePosition
+CanvasModelBlock#hintTitle
+CanvasModelBlock#hintContent

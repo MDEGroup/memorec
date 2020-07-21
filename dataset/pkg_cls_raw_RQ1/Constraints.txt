@@ -1,0 +1,10 @@
+constraints#IdentifiedElement
+constraints#ConstraintLanguagesSpecification
+constraints#ConstraintLanguage
+constraints#FormalConstraintLanguage
+constraints#NaturalConstraintLanguage
+constraints#FormalLanguageLibrary
+constraints#Expression
+constraints#FormalLanguageExpression
+constraints#NaturalLanguageExpression
+constraints#ServiceDescriptor

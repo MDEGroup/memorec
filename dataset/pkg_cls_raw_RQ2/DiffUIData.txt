@@ -1,0 +1,6 @@
+package#UIComparison
+package#ComparisonSelection
+package#MatchAndFeature
+package#MatchToNbEntry
+package#TreePath
+package#IStructuredSelection

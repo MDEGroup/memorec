@@ -1,0 +1,5 @@
+LTL#OclAny
+LTL#OclMessage
+LTL#Timeout
+LTL#PropertyEvent
+LTL#Event

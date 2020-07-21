@@ -1,0 +1,15 @@
+Applicant#name
+Applicant#livesIn
+Applicant#email
+Applicant#applyingFor
+Position#location
+Position#title
+Position#pay
+Position#managedBy
+Person#name
+Person#livesIn
+Person#email
+Supervisor#name
+Supervisor#livesIn
+Supervisor#email
+Supervisor#manages

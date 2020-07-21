@@ -1,0 +1,12 @@
+package#Model
+package#AbstractElement
+package#NativeTypeEnum
+package#NativeType
+package#TypeRef
+package#MultiTypeRef
+package#ReturnTypeRef
+package#PackageDeclaration
+package#Import
+package#Interface
+package#MethodDeclaration
+package#ArgumentDeclaration

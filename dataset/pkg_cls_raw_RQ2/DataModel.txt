@@ -1,0 +1,13 @@
+package#tag
+package#item_tag
+package#bill
+package#bill_item
+package#item_pimple
+package#person
+package#Account
+package#product
+package#price
+package#shoppinglist
+package#shoppinglist_item
+package#shoppinglist_buyer
+package#dauerauftrag

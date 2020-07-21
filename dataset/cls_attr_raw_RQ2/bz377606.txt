@@ -1,0 +1,4 @@
+Customer#firstName
+Customer#lastName
+Customer#address
+Customer#id

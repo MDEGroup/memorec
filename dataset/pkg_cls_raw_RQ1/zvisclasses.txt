@@ -1,0 +1,5 @@
+zvisclasses#Attribute
+zvisclasses#CodeGenFlag
+zvisclasses#Reference
+zvisclasses#ZvisClass
+zvisclasses#ZvisClassModel

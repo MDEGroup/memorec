@@ -1,0 +1,7 @@
+package#Group
+package#Node
+package#Component
+package#Channel
+package#Port
+package#Architecture
+package#Binding

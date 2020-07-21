@@ -1,0 +1,7 @@
+gsn#Goal
+gsn#Strategy
+gsn#Justification
+gsn#Context
+gsn#Assumption
+gsn#Solution
+gsn#Evidence

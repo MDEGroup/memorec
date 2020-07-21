@@ -1,0 +1,10 @@
+MMASharengo#ModelElement
+MMASharengo#Classifier
+MMASharengo#Operation
+MMASharengo#Service
+MMASharengo#BusinessObject
+MMASharengo#ServiceOperation
+MMASharengo#BusinessObjectOperation
+MMASharengo#BusinessRule
+MMASharengo#Flow
+MMASharengo#Service2BusinessObjectFlow

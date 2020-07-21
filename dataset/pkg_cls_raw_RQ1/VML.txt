@@ -1,0 +1,12 @@
+vML#Module
+vML#TypeDecl
+vML#Stream
+vML#Input
+vML#Output
+vML#ModuleInstances
+vML#Literal
+vML#NativeType
+vML#List
+vML#Hash
+vML#NativeTypeOptions
+vML#HashItem

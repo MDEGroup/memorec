@@ -1,0 +1,10 @@
+Annotation#documentations
+Annotation#applicationInfos
+Annotation#annotedElement
+Parameters#typeRef
+Parameters#typeContain
+Parameters#fixed
+Parameters#default
+ComplexType#extensions
+ComplexType#content
+ComplexType#attributes

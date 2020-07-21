@@ -1,0 +1,12 @@
+package#Domain
+package#Rule
+package#Action
+package#AccessControlPolicy
+package#NamedElement
+package#Resource
+package#Entity
+package#Role
+package#Effect
+package#Condition
+package#TimingCondition
+package#Subject

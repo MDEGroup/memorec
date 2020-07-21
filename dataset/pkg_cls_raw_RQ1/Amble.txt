@@ -1,0 +1,17 @@
+PrimitiveTypes#Boolean
+PrimitiveTypes#String
+PrimitiveTypes#Integer
+Amble#Element
+Amble#Program
+Amble#Process
+Amble#State
+Amble#Transition
+Amble#Trans
+Amble#Strans
+Amble#Transall
+Amble#Guard
+Amble#Action
+Amble#Network
+Amble#Channel
+Amble#Message
+Amble#Variable

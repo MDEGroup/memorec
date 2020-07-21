@@ -1,0 +1,10 @@
+Program#definitions
+Program#connections
+Program#queries
+Connection#name
+Connection#url
+Connection#username
+Connection#password
+Select#attributes
+Select#relations
+Select#conditions

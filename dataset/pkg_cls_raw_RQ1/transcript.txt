@@ -1,0 +1,9 @@
+transcript#ArrayFeature
+transcript#CDNAReporter
+transcript#FeatureHybridizationResult
+transcript#OligoReporter
+transcript#PCRReporter
+transcript#RNAComplex
+transcript#Reporter
+transcript#TranscriptExpressionArray
+transcript#TranscriptExpressionStudy

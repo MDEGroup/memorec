@@ -1,0 +1,6 @@
+Statemachine#events
+Statemachine#services
+Statemachine#states
+State#name
+State#action
+State#transitions

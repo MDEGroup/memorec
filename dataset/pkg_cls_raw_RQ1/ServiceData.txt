@@ -1,0 +1,9 @@
+servicedata#ServiceData
+servicedata#LayoutAlgorithm
+servicedata#LayoutType
+servicedata#LayoutOption
+servicedata#Category
+servicedata#KnownOption
+servicedata#SupportedDiagram
+servicedata#RemoteEnum
+servicedata#SupportedFormat

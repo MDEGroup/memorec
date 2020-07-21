@@ -1,0 +1,11 @@
+StateMachine#eventList
+StateMachine#stateList
+StateMachine#name
+StateMachine#package
+StateMachine#initial
+StateMachine#fieldList
+StateMachine#roleList
+State#transList
+State#name
+State#fieldState
+State#transSetList

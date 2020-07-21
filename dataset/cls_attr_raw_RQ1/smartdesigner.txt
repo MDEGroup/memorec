@@ -1,0 +1,12 @@
+GraphicalElement#semanticElement
+GraphicalElement#child
+GraphicalElement#hidden
+GraphicalElement#diagrams
+Diagram#elements
+Diagram#name
+Diagram#hiddenRelations
+Diagram#diagrams
+Diagram#accessControl
+DocumentRoot#diagrams
+DocumentRoot#semanticModel
+DocumentRoot#accessControls

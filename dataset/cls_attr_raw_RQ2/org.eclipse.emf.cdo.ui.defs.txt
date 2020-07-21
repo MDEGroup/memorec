@@ -1,0 +1,3 @@
+CDOEditorDef#editorID
+CDOEditorDef#cdoView
+CDOEditorDef#resourcePath

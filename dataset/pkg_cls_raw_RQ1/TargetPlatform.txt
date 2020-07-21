@@ -1,0 +1,4 @@
+targetplatform#TargetPlatform
+targetplatform#Location
+targetplatform#Option
+targetplatform#IU

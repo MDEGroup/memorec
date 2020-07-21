@@ -1,0 +1,8 @@
+package#Feature
+package#Plugin
+package#ExtensionPoint
+package#Extension
+package#JavaType
+package#Operation
+package#Parameter
+package#PluginPackage

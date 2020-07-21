@@ -1,0 +1,6 @@
+package#AbstractInstance
+package#DiagramInstance
+package#NodeInstance
+package#LabelInstance
+package#EdgeInstance
+package#Visibility

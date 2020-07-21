@@ -1,0 +1,4 @@
+Diagnostic#diagnostician
+Diagnostic#description
+Diagnostic#additionalData
+Diagnostic#state

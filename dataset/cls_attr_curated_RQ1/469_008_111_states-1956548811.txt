@@ -1,0 +1,9 @@
+StateSystem#states
+StateSystem#transitions
+StateSystem#trace
+State#outgoing
+State#incoming
+State#objects
+Transition#source
+Transition#target
+Transition#event

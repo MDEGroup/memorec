@@ -1,0 +1,10 @@
+traceability#TraceabilityModel
+traceability#Resource
+traceability#ModelFile
+traceability#ModuleFile
+traceability#GeneratedFile
+traceability#InputElement
+traceability#ModuleElement
+traceability#GeneratedText
+traceability#IComparable
+traceability#path

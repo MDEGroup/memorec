@@ -1,0 +1,4 @@
+Games#Profile
+Games#Game
+Games#Player
+Games#Profiles

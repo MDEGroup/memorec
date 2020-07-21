@@ -1,0 +1,13 @@
+package#Person
+package#Student
+package#Assistant
+package#Professor
+package#Building
+package#RoomBooking
+package#DayOfWeek
+package#Module
+package#Events
+package#Lecture
+package#Tutorial
+package#Exam
+package#PassedExam

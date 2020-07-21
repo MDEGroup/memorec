@@ -1,0 +1,5 @@
+package#Attribute
+package#CodeGenFlag
+package#Reference
+package#ZvisClass
+package#ZvisClassModel

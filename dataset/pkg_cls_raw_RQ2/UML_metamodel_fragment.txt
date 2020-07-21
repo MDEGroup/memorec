@@ -1,0 +1,16 @@
+package#Class
+package#Generalization
+package#Dependency
+package#Stereotype
+package#StateMachine
+package#State
+package#CompositeState
+package#SimpleState
+package#FinalState
+package#StateVertex
+package#PseudoState
+package#Transition
+package#Event
+package#Boolean
+package#Integer
+package#String

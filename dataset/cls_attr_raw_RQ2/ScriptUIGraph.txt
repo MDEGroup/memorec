@@ -1,0 +1,7 @@
+ScriptSetUI#name
+ScriptSetUI#children
+ScriptSetUI#parent
+StoredScriptUI#name
+StoredScriptUI#parent
+StoredScriptUI#description
+StoredScriptUI#script

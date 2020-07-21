@@ -1,0 +1,5 @@
+sisipnml#pnml
+sisipnml#String
+sisipnml#EDataType0
+sisipnml#URI
+sisipnml#net

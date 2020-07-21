@@ -1,0 +1,4 @@
+XFormsDocumentRoot#group
+XFormsDocumentRoot#toggle
+XFormsDocumentRoot#trigger
+XFormsDocumentRoot#switch

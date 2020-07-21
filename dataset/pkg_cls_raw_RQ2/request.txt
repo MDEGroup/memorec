@@ -1,0 +1,15 @@
+package#CloseRequest
+package#CollectionRequest
+package#Field
+package#Generator
+package#NoGenerators
+package#NumberRequest
+package#Operator
+package#Request
+package#RequestSpecification
+package#StringRequest
+package#StructureRequest
+package#ValidCollection
+package#ValidCollections
+package#ValidValues
+package#XmlRequestDocument

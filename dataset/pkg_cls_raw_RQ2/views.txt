@@ -1,0 +1,11 @@
+package#ViewsRepository
+package#View
+package#ElementEditor
+package#Category
+package#Container
+package#ViewElement
+package#CustomElementEditor
+package#CustomView
+package#DocumentedElement
+package#ViewReference
+package#IdentifiedElement

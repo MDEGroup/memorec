@@ -1,0 +1,4 @@
+pointcutmodel#PmProject
+pointcutmodel#PmMethod
+pointcutmodel#PmAspect
+pointcutmodel#PmElement

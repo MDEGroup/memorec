@@ -1,0 +1,3 @@
+ReportElement#message
+ReportElement#kind
+ReportElement#object

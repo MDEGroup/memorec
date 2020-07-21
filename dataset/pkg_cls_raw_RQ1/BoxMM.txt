@@ -1,0 +1,11 @@
+BoxMM#Box
+BoxMM#Slot
+BoxMM#InputSlot
+BoxMM#OutputSlot
+BoxMM#SettingSlot
+BoxMM#BoxInstance
+BoxMM#Connection
+BoxMM#SlotInstance
+BoxMM#NamedElement
+BoxMM#Package
+BoxMM#ProcessSlot

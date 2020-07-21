@@ -1,0 +1,6 @@
+carrental#Car
+carrental#CarRentalAgency
+carrental#CarBrand
+carrental#Bike
+carrental#DrivingLicense
+carrental#Vehicle

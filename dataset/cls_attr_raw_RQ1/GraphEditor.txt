@@ -1,0 +1,12 @@
+Graph#name
+Graph#nodes
+Graph#edges
+Graph#messages
+Graph#result
+Variablenode#type
+Variablenode#values
+Variablenode#isKnown
+Message#count
+Message#from
+Message#to
+Message#type

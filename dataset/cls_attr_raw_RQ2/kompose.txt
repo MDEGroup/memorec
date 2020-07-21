@@ -1,0 +1,12 @@
+Context#mode
+Context#composedModelURI
+Context#aspectModelURI
+Context#primaryModelURI
+Context#metamodelName
+Context#predirectivesPM
+Context#predirectivesAM
+Context#postdirectives
+Composer#context
+Composer#engine
+Composer#merger
+Composer#matcher

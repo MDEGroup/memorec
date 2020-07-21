@@ -1,0 +1,12 @@
+BinaryOperatorExpression#leftOperand
+BinaryOperatorExpression#rightOperand
+BinaryOperatorExpression#operator
+ComputedItem#name
+ComputedItem#label
+ComputedItem#expression
+Question#name
+Question#label
+Question#type
+Questionnaire#documentation
+Questionnaire#enumerations
+Questionnaire#forms

@@ -1,0 +1,15 @@
+package#OracleTableProperty
+package#OracleIndexProperty
+package#OracleViewProperty
+package#OracleModuleProperty
+package#OracleSpaceResourceData
+package#TableSpaceRelation
+package#TableSpace
+package#OracleUserResourceData
+package#OracleUser
+package#OraclePrivilege
+package#TriggerResourceData
+package#SequenceResourceData
+package#table_type
+package#DatabaseModuleExtensibleProperty
+package#OracleSequenceProperty

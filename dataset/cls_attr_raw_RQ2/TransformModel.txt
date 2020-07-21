@@ -1,0 +1,12 @@
+TransformModel_#behaviors
+TransformModel_#rules
+TransformModel_#name
+Behavior#description
+Behavior#signature
+Behavior#class
+Rule#name
+Rule#patterns
+Rule#transformation
+IfDef#variables
+IfDef#true_body
+IfDef#false_body

@@ -1,0 +1,8 @@
+MongoProperty#name
+MongoProperty#type
+MongoProperty#inlineType
+MongoProperty#many
+MongoOperation#name
+MongoOperation#returnType
+MongoOperation#parameters
+MongoOperation#body

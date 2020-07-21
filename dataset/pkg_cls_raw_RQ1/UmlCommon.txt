@@ -1,0 +1,6 @@
+umlCommon#QualifiedName
+umlCommon#TypeRule
+umlCommon#VisibilityKind
+umlCommon#MultiplicityRule
+umlCommon#BoundSpecification
+umlCommon#Direction

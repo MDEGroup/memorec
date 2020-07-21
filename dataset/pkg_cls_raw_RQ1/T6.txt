@@ -1,0 +1,3 @@
+OCLExamples#PrinterPool
+OCLExamples#Printer
+OCLExamples#Scanner

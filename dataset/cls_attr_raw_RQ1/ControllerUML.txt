@@ -1,0 +1,8 @@
+State#substates
+State#theContainer
+State#outGoing
+State#incoming
+StateTransition#source
+StateTransition#target
+StateTransition#trigger
+StateTransition#effect

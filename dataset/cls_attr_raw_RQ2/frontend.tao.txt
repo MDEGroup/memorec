@@ -1,0 +1,11 @@
+ReferenceAssignment#targetFeature
+ReferenceAssignment#expr
+ReferenceAssignment#multivalued
+ObjectSyntax#targetFeature
+ObjectSyntax#expr
+ObjectSyntax#multivalued
+ObjectSyntax#object
+Invocation#targetFeature
+Invocation#expr
+Invocation#multivalued
+Invocation#template

@@ -1,0 +1,11 @@
+Company#name
+Company#departments
+Company#totalSalary
+Department#name
+Department#manager
+Department#employees
+Department#subdepartments
+Department#totalSalary
+Employee#name
+Employee#address
+Employee#salary

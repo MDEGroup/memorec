@@ -1,0 +1,5 @@
+PadBundle#count
+PadBundle#width
+PadBundle#height
+PadBundle#name
+PadBundle#padFamily

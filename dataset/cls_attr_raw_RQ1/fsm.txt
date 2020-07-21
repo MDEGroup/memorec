@@ -1,0 +1,14 @@
+FSM#ownedState
+FSM#initialState
+FSM#finalState
+FSM#currentState
+FSM#name
+State#owningFSM
+State#name
+State#outgoingTransition
+State#incomingTransition
+Transition#source
+Transition#target
+Transition#input
+Transition#output
+Transition#action

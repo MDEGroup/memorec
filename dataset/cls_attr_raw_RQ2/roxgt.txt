@@ -1,0 +1,4 @@
+Edge#label
+Edge#properties
+Edge#source
+Edge#target

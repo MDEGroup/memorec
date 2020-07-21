@@ -1,0 +1,9 @@
+metadata#Model
+metadata#EntityGroup
+metadata#Entity
+metadata#IncludeEntityGroup
+metadata#Trait
+metadata#ITraitVisitor
+metadata#IEntityVisitor
+metadata#IMetaDataSourceModelProvider
+metadata#ModelContext

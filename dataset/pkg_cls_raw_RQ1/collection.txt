@@ -1,0 +1,4 @@
+collection#ItemsCollection
+collection#SmartInformationObjectCollection
+collection#ManualCollection
+collection#RemoteCollection

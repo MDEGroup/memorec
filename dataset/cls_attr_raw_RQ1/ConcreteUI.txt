@@ -1,0 +1,5 @@
+Element#posX
+Element#posY
+Element#width
+Element#height
+Element#visible

@@ -1,0 +1,9 @@
+package#LogicalModel
+package#Entity
+package#Relation
+package#RelationElement
+package#Attribute
+package#NamedElement
+package#LogicalElement
+package#Cardinality
+package#Identifier

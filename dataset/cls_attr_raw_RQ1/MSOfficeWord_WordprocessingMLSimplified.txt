@@ -1,0 +1,9 @@
+WordDocument#ignoreSubtree
+WordDocument#ignoreElements
+WordDocument#body
+NoteElt#n_blockLevelElts
+NoteElt#type
+NoteElt#suppressRef
+FldCharElt#fldData
+FldCharElt#fldCharType
+FldCharElt#fldLock

@@ -1,0 +1,6 @@
+LogFile#file
+LogFile#instance
+LogFile#logger
+Logger#instance
+Logger#expression
+Logger#logFile

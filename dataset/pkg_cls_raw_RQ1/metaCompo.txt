@@ -1,0 +1,7 @@
+metaCompo#mComp
+metaCompo#mPort
+metaCompo#mIO
+metaCompo#mFSM
+metaCompo#mVariable
+metaCompo#mState
+metaCompo#mTransition

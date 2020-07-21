@@ -1,0 +1,17 @@
+package#AssemblyController
+package#SadComponentInstantiation
+package#SadComponentInstantiationRef
+package#SadUsesPort
+package#SadProvidesPort
+package#SadConnectInterface
+package#SadConnections
+package#ComponentResourceFactoryRef
+package#ExternalPorts
+package#FindComponent
+package#HostCollocation
+package#Port
+package#SadPartitioning
+package#SadComponentPlacement
+package#ResourceFactoryProperties
+package#SadDocumentRoot
+package#SoftwareAssembly

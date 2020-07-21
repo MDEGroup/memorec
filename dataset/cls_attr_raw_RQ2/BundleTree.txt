@@ -1,0 +1,10 @@
+Bundle#version
+Bundle#symbolicName
+Bundle#content
+Bundle#dependencies
+BundleReference#version
+BundleReference#symbolicName
+BundleReference#versionRange
+BundleReference#optional
+BundleReference#target
+BundleReference#provided

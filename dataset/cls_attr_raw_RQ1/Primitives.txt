@@ -1,0 +1,15 @@
+AbstractType#name
+AbstractType#parents
+AbstractType#children
+AbstractType#operations
+Operation#name
+Operation#returnType
+Operation#parameters
+Parameter#name
+Parameter#type
+Parameter#mode
+PrimType#name
+PrimType#package
+PrimType#abstractType
+PrimType#enumeration
+PrimType#excludedOpNames

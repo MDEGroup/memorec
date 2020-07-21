@@ -1,0 +1,17 @@
+package#AcknowledgeSubscriptionDataAreaType
+package#AcknowledgeSubscriptionType
+package#ChangeSubscriptionDataAreaType
+package#ChangeSubscriptionType
+package#DocumentRoot
+package#GetSubscriptionDataAreaType
+package#GetSubscriptionType
+package#ProcessSubscriptionDataAreaType
+package#ProcessSubscriptionType
+package#RespondSubscriptionDataAreaType
+package#RespondSubscriptionType
+package#ShowSubscriptionDataAreaType
+package#ShowSubscriptionType
+package#SubscriptionPurchaseDetailsType
+package#SubscriptionRenewalInfoType
+package#SubscriptionSuspendedPeriodType
+package#SubscriptionType

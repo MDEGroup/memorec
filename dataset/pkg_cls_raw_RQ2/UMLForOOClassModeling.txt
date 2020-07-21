@@ -1,0 +1,17 @@
+package#VisibilityKind
+package#ScopeKind
+package#MultiplicityType
+package#ModelElement
+package#Feature
+package#NameSpace
+package#GeneralizableElement
+package#Classifier
+package#Class
+package#StructuralFeature
+package#Attribute
+package#BehavioralFeature
+package#Operation
+package#Integer
+package#String
+package#Boolean
+package#Double

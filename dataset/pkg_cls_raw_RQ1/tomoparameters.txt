@@ -1,0 +1,13 @@
+parameters#AlignmentConfiguration
+parameters#DetectorBin
+parameters#DetectorProperties
+parameters#DetectorRoi
+parameters#Module
+parameters#MotorPosition
+parameters#Parameters
+parameters#ScanCollected
+parameters#ScanMode
+parameters#SampleWeight
+parameters#StitchParameters
+parameters#Resolution
+parameters#TomoExperiment

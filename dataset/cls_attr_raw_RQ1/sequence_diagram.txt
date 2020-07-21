@@ -1,0 +1,11 @@
+Diagram#lifelines
+Diagram#notes
+Diagram#combinedFragments
+ActivationBar#lifeline
+ActivationBar#sentConnections
+ActivationBar#receivedConnections
+ActivationBar#height
+Connection#sender
+Connection#receiver
+Connection#message
+Connection#bendPoints

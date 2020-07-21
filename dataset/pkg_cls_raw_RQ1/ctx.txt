@@ -1,0 +1,15 @@
+ctx#ContextModel
+ctx#ModelClass
+ctx#EntityClass
+ctx#RelatorClass
+ctx#Attribute
+ctx#NamedElement
+ctx#DataType
+ctx#ComparativeFormalRelation
+ctx#Association
+ctx#ContextModelElement
+ctx#QualitativeFormalRelation
+ctx#QualitativeParameter
+ctx#ComparableElements
+ctx#PrimitiveFormalRelation
+ctx#PrimitiveDataType

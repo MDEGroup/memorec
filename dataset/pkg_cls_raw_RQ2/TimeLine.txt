@@ -1,0 +1,8 @@
+package#NamedElement
+package#TimeLine
+package#Mesure
+package#Value
+package#BoolValue
+package#IntValue
+package#RealValue
+package#StringValue

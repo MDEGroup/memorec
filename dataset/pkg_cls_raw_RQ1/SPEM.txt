@@ -1,0 +1,15 @@
+SPEM#ArtifactUsageName
+SPEM#ProcessDefinitionElement
+SPEM#Guidance
+SPEM#ArtifactKind
+SPEM#WorkItem
+SPEM#RoleKind
+SPEM#Condition
+SPEM#ProcessComponent
+SPEM#Goal
+SPEM#Precondition
+SPEM#WorkDefinition
+SPEM#ActivityKind
+SPEM#Iteration
+SPEM#Phase
+SPEM#Lifecycle

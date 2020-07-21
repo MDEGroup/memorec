@@ -1,0 +1,10 @@
+flow_diagrams#FlowDiagram
+flow_diagrams#Node
+flow_diagrams#Task
+flow_diagrams#FinalTask
+flow_diagrams#ParallelSplit
+flow_diagrams#Synchronization
+flow_diagrams#ExclusiveChoice
+flow_diagrams#SimpleMerge
+flow_diagrams#MultiChoice
+flow_diagrams#FlowEdge

@@ -1,0 +1,8 @@
+InterpreterInfo#environment
+InterpreterInfo#location
+InterpreterInfo#contents
+InterpreterGeneratedContent#key
+InterpreterGeneratedContent#interpreterLastModified
+InterpreterGeneratedContent#fetchedAt
+InterpreterGeneratedContent#value
+InterpreterGeneratedContent#lastModified

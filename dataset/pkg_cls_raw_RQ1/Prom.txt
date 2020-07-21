@@ -1,0 +1,16 @@
+Prom#ActivitiesType
+Prom#ActivityType
+Prom#ConnectorGraphicsInfosType
+Prom#ConnectorGraphicsInfoType
+Prom#DocumentRoot
+Prom#PackageHeaderType
+Prom#PackageType
+Prom#ParticipantType
+Prom#ParticipantTypeType
+Prom#ProcessHeaderType
+Prom#RedefinableHeaderType
+Prom#TransitionsType
+Prom#TransitionType
+Prom#WorkflowProcessesType
+Prom#WorkflowProcessType
+Prom#XpdlParticipantsType

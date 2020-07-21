@@ -1,0 +1,3 @@
+RandomizerDef#algorithmName
+RandomizerDef#providerName
+RandomizerDef#seed

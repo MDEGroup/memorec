@@ -1,0 +1,3 @@
+relationsToTraceClass#TTransformationToPackage
+relationsToTraceClass#TRelationToTraceClass
+relationsToTraceClass#TSubTemplateToTraceClassProps

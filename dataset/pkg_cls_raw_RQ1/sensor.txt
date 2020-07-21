@@ -1,0 +1,8 @@
+sensor#AdapterCBESensorType
+sensor#SensorBaseType
+sensor#SensorConfigType
+sensor#SensorPropertyType
+sensor#SensorType
+sensor#SensorTypeObject
+sensor#SingleFileSensorType
+sensor#StaticParserSensorType

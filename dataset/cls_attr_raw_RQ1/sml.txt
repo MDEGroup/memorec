@@ -1,0 +1,17 @@
+SMLModel#elements
+SMLModel#contextModel
+SMLModel#primitiveContextElements
+SituationType#name
+SituationType#parameter
+SituationType#elements
+Link#isOfType
+Link#entity
+Link#relator
+ComparativeRelation#source
+ComparativeRelation#target
+ComparativeRelation#relation
+ComparativeRelation#parameter
+ComparativeRelation#isNegated
+SituationParticipant#situationType
+SituationParticipant#parameter
+SituationParticipant#isPast

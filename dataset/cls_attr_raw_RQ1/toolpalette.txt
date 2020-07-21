@@ -1,0 +1,9 @@
+Entry#toolTip
+Entry#largeIcon
+Entry#content
+Entry#name
+Entry#entries
+Entry#id
+Entry#icon
+Entry#context
+Entry#scope

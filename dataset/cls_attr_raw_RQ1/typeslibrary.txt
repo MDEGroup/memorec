@@ -1,0 +1,7 @@
+TypeInstance#nativeType
+TypeInstance#length
+TypeInstance#precision
+TypeInstance#literals
+NativeType#name
+NativeType#spec
+NativeType#mapsTo

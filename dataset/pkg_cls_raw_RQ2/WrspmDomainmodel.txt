@@ -1,0 +1,5 @@
+package#DomainModel
+package#Part
+package#AnyText
+package#Entity
+package#Definition

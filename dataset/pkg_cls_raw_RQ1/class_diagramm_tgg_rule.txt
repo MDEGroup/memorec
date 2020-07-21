@@ -1,0 +1,7 @@
+class_diagramm_tgg_rule#AnnotatedPackage
+class_diagramm_tgg_rule#AnnotatedDataType
+class_diagramm_tgg_rule#AnnotatedMethod
+class_diagramm_tgg_rule#AnnotatedAttribute
+class_diagramm_tgg_rule#AnnotatedParameter
+class_diagramm_tgg_rule#AnnotatedClass
+class_diagramm_tgg_rule#AnnotatedAssociation

@@ -1,0 +1,16 @@
+CanonicalProcess#uri
+CanonicalProcess#version
+CanonicalProcess#author
+CanonicalProcess#nets
+CanonicalProcess#root
+Net#ident
+Net#nodes
+Net#edges
+Node#ident
+Node#name
+Node#configurable
+Edge#ident
+Edge#condition
+Edge#default
+Edge#source
+Edge#target

@@ -1,0 +1,8 @@
+package#Actor
+package#UseCase
+package#Extend
+package#Include
+package#UseCaseContainer
+package#BehavioredClassifier
+package#NamedElement
+package#Association

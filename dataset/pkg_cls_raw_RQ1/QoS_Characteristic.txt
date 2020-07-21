@@ -1,0 +1,15 @@
+QoSCharacteristic#QoSCharacteristic
+QoSCharacteristic#BooleanExpression
+QoSCharacteristic#MappingExpression
+QoSCharacteristic#StatisticalAttributekindKind
+QoSCharacteristic#Parameter
+QoSCharacteristic#DataType
+QoSCharacteristic#Domain
+QoSCharacteristic#DirectionKind
+QoSCharacteristic#Numeric
+QoSCharacteristic#Set
+QoSCharacteristic#Enumeration
+QoSCharacteristic#StringSet
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

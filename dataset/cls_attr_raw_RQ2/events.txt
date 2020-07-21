@@ -1,0 +1,11 @@
+Event#localKey
+Event#asserter
+Event#content
+Event#pointOfView
+Event#timestamp
+Event#provenance
+Event#minimized
+Actor#url
+Actor#emit
+Actor#agent
+Actor#name

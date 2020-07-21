@@ -1,0 +1,4 @@
+FunctionalBlock#next
+FunctionalBlock#output
+FunctionalBlock#opposite_input
+FunctionalBlock#opposite_next

@@ -1,0 +1,16 @@
+package#Project
+package#Configuration
+package#ConfigurationSlot
+package#Processor
+package#GenericConfigurationSlot
+package#GenericConfiguration
+package#Exception
+package#GenericMasterConfigurationSlot
+package#GenericMasterConfiguration
+package#DefaultGenericMasterConfiguration
+package#ConfigurationSlot
+package#StorageCommandGenerator
+package#HDItemGenerator
+package#AtlantisConfigurationSlot
+package#Module
+package#ModuleProcessor

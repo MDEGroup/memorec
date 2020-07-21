@@ -1,0 +1,13 @@
+Package#classes
+Package#packages
+Package#parentPackage
+Class#methods
+Class#properties
+Class#superClass
+Class#isAbstract
+Property#upperBound
+Property#lowerBound
+Property#multiValued
+Transition#actions
+Transition#guard
+Transition#targetState

@@ -1,0 +1,6 @@
+db#NamedElement
+db#Database
+db#DatabaseElement
+db#Table
+db#Column
+db#ForeignKey

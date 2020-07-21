@@ -1,0 +1,14 @@
+CSharp#Member
+CSharp#TypedAttribute
+CSharp#Field
+CSharp#Property
+CSharp#MethodBase
+CSharp#Constructor
+CSharp#Method
+CSharp#Type
+CSharp#Parameter
+CSharp#Assembly
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double

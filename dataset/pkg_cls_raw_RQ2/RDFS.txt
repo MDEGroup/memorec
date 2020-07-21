@@ -1,0 +1,17 @@
+package#RDFSResource
+package#RDFSClass
+package#RDFSLiteral
+package#RDFSDatatype
+package#RDFXMLLiteral
+package#RDFProperty
+package#RDFList
+package#RDFSContainer
+package#RDFAlt
+package#RDFBag
+package#RDFSeq
+package#RDFSContainerMembershipProperty
+package#RDFStatement
+package#Ontology
+package#PlainLiteral
+package#TypedLiteral
+package#Namespace

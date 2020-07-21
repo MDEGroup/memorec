@@ -1,0 +1,7 @@
+entities#Market
+entities#Category
+entities#Node
+entities#InstallableUnit
+entities#Platform
+entities#Clickthrough
+entities#Download

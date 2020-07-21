@@ -1,0 +1,12 @@
+package#Package
+package#Metadata
+package#Manifest
+package#Item
+package#Spine
+package#Guide
+package#Reference
+package#Itemref
+package#Tours
+package#Role
+package#Type
+package#Meta

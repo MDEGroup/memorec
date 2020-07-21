@@ -1,0 +1,17 @@
+Characters#imports
+Characters#templates
+Characters#customs
+Characters#characters
+Template#name
+Template#defaults
+Template#customs
+CustomAttribute#caName
+CustomAttribute#type
+CustomAttribute#enumValues
+Character#name
+Character#template
+Character#properties
+CustomProperty#customAttributeRef
+CustomProperty#stringValue
+CustomProperty#intValue
+CustomProperty#enumValue

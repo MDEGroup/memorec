@@ -1,0 +1,7 @@
+node#EReference1
+node#incoming
+node#outgoing
+node#name
+edge#target
+edge#EReference0
+edge#source

@@ -1,0 +1,8 @@
+NuxeoConnection#valid
+NuxeoConnection#Host
+NuxeoConnection#Port
+NuxeoConnection#Username
+NuxeoConnection#Password
+NuxeoConnection#RepositoryName
+NuxeoConnection#ContextPath
+NuxeoConnection#Operations

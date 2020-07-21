@@ -1,0 +1,6 @@
+namespaceDeclaration#fullURI
+namespaceDeclaration#name
+namespaceDeclaration#uri
+signatureDeclaration#fullURI
+signatureDeclaration#sigName
+signatureDeclaration#sigDefinitions

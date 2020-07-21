@@ -1,0 +1,14 @@
+AccessControlModel#featureModels
+AccessControlModel#roles
+AccessControlModel#subjects
+AccessControlModel#accessControlModels
+AccessControlModel#groups
+AccessControlModel#permissions
+Role#parentRoles
+Role#childRoles
+Role#subjects
+Role#tasks
+Role#permissions
+AttributeOperation#valueOperations
+AttributeOperation#attribute
+AttributeOperation#feature

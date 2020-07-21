@@ -1,0 +1,12 @@
+Root#FSmachineName
+Root#objects
+Root#connections
+AbstractObject#name
+AbstractObject#active
+AbstractObject#parent
+AbstractObject#conChild
+AbstractObject#conParent
+AbstractConection#name
+AbstractConection#par
+AbstractConection#next
+AbstractConection#prev

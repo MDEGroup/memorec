@@ -1,0 +1,16 @@
+CreateIndex#unique
+CreateIndex#table
+CreateIndex#columns
+CreateIndex#sortOrders
+Column#type
+Column#sorted
+Column#constraint
+Column#default
+Column#reference
+SqlNumber#hasPrecision
+SqlNumber#precision
+SqlNumber#scale
+SqlInterval#year
+SqlInterval#day
+SqlInterval#precision
+SqlInterval#secondsPrecision

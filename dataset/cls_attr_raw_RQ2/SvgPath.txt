@@ -1,0 +1,12 @@
+curveto_argument#c1
+curveto_argument#c2
+curveto_argument#c3
+elliptical_arc_argument#rx
+elliptical_arc_argument#ry
+elliptical_arc_argument#rotation
+elliptical_arc_argument#largearcflag
+elliptical_arc_argument#sweepflag
+elliptical_arc_argument#coordinate_pair
+nonnegative_number#intseq
+nonnegative_number#floatseq
+nonnegative_number#exponent

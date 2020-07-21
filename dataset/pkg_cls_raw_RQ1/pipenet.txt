@@ -1,0 +1,5 @@
+pipenet#Pipenet
+pipenet#Transition
+pipenet#Place
+pipenet#Node
+pipenet#Arc

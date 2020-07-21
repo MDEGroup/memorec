@@ -1,0 +1,5 @@
+package#Model
+package#namespaceDeclaration
+package#signatureDeclaration
+package#sigDefinitions
+package#TempType

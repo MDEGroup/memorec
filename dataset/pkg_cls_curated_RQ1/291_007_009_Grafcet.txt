@@ -1,0 +1,9 @@
+Grafcet#LocatedElement
+Grafcet#NamedElement
+Grafcet#Grafcet
+Grafcet#Element
+Grafcet#Step
+Grafcet#Transition
+Grafcet#Connection
+Grafcet#StepToTransition
+Grafcet#TransitionToStep

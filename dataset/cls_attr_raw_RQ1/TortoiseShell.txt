@@ -1,0 +1,3 @@
+SubProgram#name
+SubProgram#returnType
+SubProgram#parameters

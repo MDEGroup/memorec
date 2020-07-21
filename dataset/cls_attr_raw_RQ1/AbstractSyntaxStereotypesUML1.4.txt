@@ -1,0 +1,16 @@
+ModelElement#referenceTag
+ModelElement#stereotype
+ModelElement#constraint
+ModelElement#taggedValue
+TaggedValue#dataValue
+TaggedValue#referenceValue
+TaggedValue#type
+TagDefinition#tagType
+TagDefinition#multiplicity
+TagDefinition#typedValue
+TagDefinition#owner
+Stereotype#icon
+Stereotype#baseClass
+Stereotype#definedTag
+Stereotype#stereotypeConstraint
+Stereotype#extendedElement

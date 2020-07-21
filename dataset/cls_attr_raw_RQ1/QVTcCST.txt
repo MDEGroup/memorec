@@ -1,0 +1,15 @@
+AssignmentCS#target
+AssignmentCS#initialiser
+AssignmentCS#default
+MappingCS#composedMappings
+MappingCS#domains
+MappingCS#in
+MappingCS#middle
+MappingCS#refines
+QueryCS#inputParamDeclaration
+QueryCS#oclExpression
+QueryCS#pathName
+QueryCS#type
+TopLevelCS#transformations
+TopLevelCS#queries
+TopLevelCS#mappings

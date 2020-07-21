@@ -1,0 +1,14 @@
+ProofStep#inGoals
+ProofStep#outGoals
+ProofStep#source
+ProofStep#trace
+ProofInfo#intent
+ProofInfo#narrative
+ProofInfo#inFeatures
+ProofInfo#outFeatures
+ProofFeature#name
+ProofFeature#type
+ProofFeature#params
+Proof#goals
+Proof#label
+Proof#attempts

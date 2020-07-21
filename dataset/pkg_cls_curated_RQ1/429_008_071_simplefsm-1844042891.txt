@@ -1,0 +1,3 @@
+simplefsm#SimpleFiniteStateMachine
+simplefsm#State
+simplefsm#Transition

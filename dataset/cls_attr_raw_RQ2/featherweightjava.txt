@@ -1,0 +1,10 @@
+Class#name
+Class#members
+Class#superclass
+Constructor#name
+Constructor#parameters
+Constructor#initialisations
+Method#name
+Method#returnValue
+Method#returnType
+Method#parameters

@@ -1,0 +1,16 @@
+package#Program
+package#Variable
+package#Type
+package#Parameter
+package#Instruction
+package#Calculation
+package#Control
+package#Assignment
+package#Block
+package#Conditional
+package#Loop
+package#Procedure
+package#Function
+package#For
+package#While
+package#Repeat

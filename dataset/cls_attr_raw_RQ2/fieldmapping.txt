@@ -1,0 +1,4 @@
+FieldMapping#fieldPath
+FieldMapping#mappingExpression
+FieldMapping#advancedMapping
+FieldMapping#contentMapping

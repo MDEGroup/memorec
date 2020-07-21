@@ -1,0 +1,3 @@
+Preferences#languages
+Preferences#editors
+Preferences#defaultEditor

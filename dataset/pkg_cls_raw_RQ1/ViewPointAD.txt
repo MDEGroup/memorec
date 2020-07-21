@@ -1,0 +1,13 @@
+ad#ArchitectureDescription
+ad#View
+ad#User
+ad#ModelComponent
+ad#PointCut
+ad#Rationale
+ad#Decision
+ad#Requirement
+ad#Model
+ad#MetricObservation
+ad#DiscreteObservation
+ad#ContinousObservation
+ad#EDouble

@@ -1,0 +1,3 @@
+Publication#title
+Publication#authors
+Publication#nbPages

@@ -1,0 +1,14 @@
+HxModifier#static
+HxModifier#dynamic
+HxModifier#override
+HxModifier#visibility
+HxModifier#memberVar
+HxModifier#varType
+HxClassDecl#scope
+HxClassDecl#className
+HxClassDecl#inheritanceName
+HxClassDecl#members
+HxMethod#funcName
+HxMethod#paramName
+HxMethod#paramtype
+HxMethod#returntype

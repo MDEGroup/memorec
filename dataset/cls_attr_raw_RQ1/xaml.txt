@@ -1,0 +1,12 @@
+XamlNode#name
+XamlNode#prefix
+XamlNode#namespace
+XamlNode#value
+XamlNode#childNodes
+XamlNode#attributes
+XamlNode#id
+XamlNode#comments
+XamlNode#widget
+Comment#content
+Comment#prev
+Comment#next

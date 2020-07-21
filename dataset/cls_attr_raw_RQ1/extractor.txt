@@ -1,0 +1,11 @@
+ExtractorType#containsLineBreaks
+ExtractorType#endPattern
+ExtractorType#includeEndPattern
+ExtractorType#includeStartPattern
+ExtractorType#lineBreakSymbol
+ExtractorType#replaceLineBreaks
+ExtractorType#startPattern
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#extractor

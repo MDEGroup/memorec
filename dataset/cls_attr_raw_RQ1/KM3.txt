@@ -1,0 +1,13 @@
+Class#parameters
+Class#isAbstract
+Class#supertypes
+Class#structuralFeatures
+Class#operations
+TypedElement#lower
+TypedElement#upper
+TypedElement#isOrdered
+TypedElement#isUnique
+TypedElement#type
+StructuralFeature#owner
+StructuralFeature#subsetOf
+StructuralFeature#derivedFrom

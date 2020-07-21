@@ -1,0 +1,5 @@
+package#Model
+package#Automaton
+package#Mode
+package#Transition
+package#Modification

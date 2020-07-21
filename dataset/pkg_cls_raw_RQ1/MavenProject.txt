@@ -1,0 +1,7 @@
+MavenProject#Project
+MavenProject#Build
+MavenProject#Resource
+MavenProject#MailingList
+MavenProject#Person
+MavenProject#Developer
+MavenProject#Contributor

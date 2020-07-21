@@ -1,0 +1,17 @@
+package#PackageableElement
+package#Package
+package#Class
+package#NamedElement
+package#Model
+package#Operation
+package#Feature
+package#Property
+package#Parameter
+package#Generalization
+package#Dependency
+package#Classifier
+package#TypedElement
+package#Type
+package#BehavioralFeature
+package#Behavior
+package#VisibilityKind

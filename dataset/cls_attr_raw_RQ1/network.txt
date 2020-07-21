@@ -1,0 +1,14 @@
+Network#name
+Network#people
+Network#posts
+Person#name
+Person#age
+Person#circles
+Person#personalPosts
+Post#text
+Post#author
+Post#visibleTo
+Circle#name
+Circle#members
+Circle#circlePosts
+Circle#owner

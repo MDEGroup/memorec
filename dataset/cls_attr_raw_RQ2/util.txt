@@ -1,0 +1,6 @@
+Attribute#attributes
+Attribute#name
+Attribute#containedValue
+Attribute#objectValue
+Attribute#referencedValue
+Attribute#stringValue

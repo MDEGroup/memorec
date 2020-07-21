@@ -1,0 +1,6 @@
+package#PetriNet
+package#Transition
+package#Node
+package#Place
+package#Arc
+package#ArcKind

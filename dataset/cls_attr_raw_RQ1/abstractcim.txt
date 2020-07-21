@@ -1,0 +1,7 @@
+Router#devices
+Router#services
+Router#forwardingServices
+Router#filterList
+DHCPServer#startAddress
+DHCPServer#endAddress
+DHCPServer#bindsTo

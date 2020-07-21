@@ -1,0 +1,3 @@
+modulemap#ModuleMapping
+modulemap#EARProjectMap
+modulemap#UtilityJARMapping

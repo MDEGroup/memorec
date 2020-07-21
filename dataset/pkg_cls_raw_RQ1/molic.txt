@@ -1,0 +1,11 @@
+molic#Diagram
+molic#Element
+molic#Connection
+molic#Scene
+molic#Monologue
+molic#Utterance
+molic#BRTUtterance
+molic#SystemProcess
+molic#UbiquitousAccess
+molic#OpeningPoint
+molic#ClosingPoint

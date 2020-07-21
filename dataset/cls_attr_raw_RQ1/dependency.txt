@@ -1,0 +1,10 @@
+Dependency#targetState
+Dependency#sourceNode
+Dependency#targetNode
+Node#type
+Node#transition
+Node#priority
+Node#outgoingDependencies
+Node#incomingDependencies
+Node#state
+Node#id

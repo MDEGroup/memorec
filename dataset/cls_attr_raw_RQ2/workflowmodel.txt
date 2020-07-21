@@ -1,0 +1,10 @@
+Workflow#hasActivities
+Workflow#hasForks
+Workflow#hasJoins
+Activity#name
+Activity#dependsFrom
+Activity#status
+Activity#resourceRequest
+Flow#name
+Flow#source
+Flow#target

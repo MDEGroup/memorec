@@ -1,0 +1,15 @@
+package#Infrastructure
+package#Calculateur
+package#Peripherique
+package#Categorie
+package#Nature
+package#Nomenclature
+package#Famille
+package#Interface
+package#Localisation
+package#Documentation
+package#VueDocumentation
+package#Processeur
+package#ElementEmbarque
+package#Trace
+package#ZLocalisation

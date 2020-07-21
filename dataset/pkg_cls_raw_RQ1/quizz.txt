@@ -1,0 +1,5 @@
+quizz#Question
+quizz#Answer
+quizz#TextFormat
+quizz#Category
+quizz#Quizz

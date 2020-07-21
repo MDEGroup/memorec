@@ -1,0 +1,5 @@
+source#Class
+source#Association
+source#Attribute
+source#PrimitiveDataType
+source#ClassDiagram

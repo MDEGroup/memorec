@@ -1,0 +1,12 @@
+database#DBModuleCommonProperty
+database#DatabaseResourceData
+database#TableResourceData
+database#TableColumn
+database#TableIndexColumn
+database#TableIndex
+database#ViewResourceData
+database#DBGenContext
+database#ForeignKey
+database#TableKey
+database#key_type
+database#ColumnType

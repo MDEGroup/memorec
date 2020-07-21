@@ -1,0 +1,9 @@
+repomodel#RRepositoryItem
+repomodel#RCodeElement
+repomodel#RProject
+repomodel#RClass
+repomodel#RMethod
+repomodel#RField
+repomodel#RDependency
+repomodel#RRepository
+repomodel#RTransitiveDependency

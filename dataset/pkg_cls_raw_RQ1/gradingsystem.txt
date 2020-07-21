@@ -1,0 +1,10 @@
+gradingsystem#GradingSystem
+gradingsystem#Course
+gradingsystem#Task
+gradingsystem#ConcreteTask
+gradingsystem#TaskGroup
+gradingsystem#MinRequirement
+gradingsystem#MinRequirementsType
+gradingsystem#GradingScheme
+gradingsystem#Grade
+gradingsystem#Grading

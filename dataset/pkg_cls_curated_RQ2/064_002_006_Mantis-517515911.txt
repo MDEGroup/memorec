@@ -1,0 +1,15 @@
+package#Integer
+package#String
+package#Boolean
+package#Double
+package#RelationshipType
+package#MantisRoot
+package#IdentifiedElt
+package#PrivateElt
+package#Issue
+package#ValueWithId
+package#Person
+package#Relationship
+package#TimeStampedElt
+package#Note
+package#Attachment

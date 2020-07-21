@@ -1,0 +1,15 @@
+package#Package
+package#DataType
+package#Method
+package#Attribute
+package#Parameter
+package#Class
+package#Association
+package#RefAttribute
+package#RefAssociation
+package#RefMethod
+package#RefParameter
+package#RefPackage
+package#ModifierType
+package#RefDataType
+package#RefClass

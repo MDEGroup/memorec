@@ -1,0 +1,12 @@
+Host#hostMemory
+Host#devices
+Host#commandQueues
+Host#body
+Device#computeUnits
+Device#globalMemory
+Device#constantMemory
+Kernel#globalMemory
+Kernel#localMemory
+Kernel#constantMemory
+Kernel#privateMemory
+Kernel#body

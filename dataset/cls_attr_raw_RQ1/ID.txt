@@ -1,0 +1,3 @@
+IdConfiguration#prefix
+IdConfiguration#count
+IdConfiguration#verticalAlign

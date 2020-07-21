@@ -1,0 +1,8 @@
+Application#models
+Application#collections
+Application#router
+Application#views
+Model#attributes
+Model#references
+Model#operations
+Model#application

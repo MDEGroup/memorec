@@ -1,0 +1,7 @@
+PortShape#alignment
+PortShape#orientation
+PortShape#outsideAnchor
+PortShape#insideAnchor
+PortShape#size
+PortShape#filled
+PortShape#locked

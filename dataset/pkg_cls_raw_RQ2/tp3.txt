@@ -1,0 +1,11 @@
+package#LivreRecettes
+package#Recette
+package#Ingredient
+package#Cout
+package#Nature
+package#Vin
+package#Compose
+package#Localisation
+package#Bouteille
+package#Named
+package#ValuedNamed

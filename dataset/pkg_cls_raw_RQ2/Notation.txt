@@ -1,0 +1,10 @@
+package#NotationElement
+package#View
+package#Node
+package#Edge
+package#Diagram
+package#LayoutConstraint
+package#Location
+package#Bounds
+package#Note
+package#MindMapNode

@@ -1,0 +1,7 @@
+Country#id
+Country#name
+Country#population
+Country#total_area
+Country#gdp_total
+Country#borders
+Country#encompassed

@@ -1,0 +1,6 @@
+NumericalResult#charts
+NumericalResult#data
+NumericalResult#dataResultSet
+XYDataResultSet#name
+XYDataResultSet#xValues
+XYDataResultSet#yValues

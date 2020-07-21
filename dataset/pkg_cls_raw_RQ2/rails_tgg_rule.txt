@@ -1,0 +1,5 @@
+package#AnnotatedProject
+package#AnnotatedComponent
+package#AnnotatedTrain
+package#AnnotatedPort
+package#AnnotatedConnection

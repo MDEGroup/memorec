@@ -1,0 +1,7 @@
+AttributionRule#type
+AttributionRule#self
+AttributionRule#condition
+AttributionRule#statements
+AttributeInit#attribute
+AttributeInit#receptor
+AttributeInit#right

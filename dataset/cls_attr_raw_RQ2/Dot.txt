@@ -1,0 +1,16 @@
+GraphElement#name
+GraphElement#graph
+GraphElement#label
+GraphElement#color
+Node#name
+Node#graph
+Node#label
+Node#color
+Node#shape
+Node#style
+DirectedArc#name
+DirectedArc#graph
+DirectedArc#label
+DirectedArc#color
+DirectedArc#sourceNode
+DirectedArc#targetNode

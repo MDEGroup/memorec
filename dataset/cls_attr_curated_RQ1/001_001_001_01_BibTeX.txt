@@ -1,0 +1,3 @@
+LocatedElement#location
+LocatedElement#commentsBefore
+LocatedElement#commentsAfter

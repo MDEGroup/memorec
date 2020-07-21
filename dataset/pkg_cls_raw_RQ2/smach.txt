@@ -1,0 +1,10 @@
+package#SMACHStateOutcomes
+package#SMACHGoalTypes
+package#SMACHStateMachine
+package#SMACHTransition
+package#SMACHState
+package#ActionState
+package#ServiceState
+package#FinalState
+package#InitStraightState
+package#InitActionState

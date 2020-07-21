@@ -1,0 +1,7 @@
+Agent#name
+Agent#hasRole
+Agent#hasAction
+Agent#asFolderLocation
+MasModel#agents
+MasModel#name
+MasModel#domainOntologyNameSpace

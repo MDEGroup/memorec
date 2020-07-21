@@ -1,0 +1,12 @@
+db#ActorsList
+db#CriticsReviewType
+db#CustomerReviewType
+db#DocumentRoot
+db#GenreTypes
+db#GenreTypesObject
+db#MovieDBType
+db#MovieType
+db#RatingType
+db#RatingTypeObject
+db#RatingValues
+db#RatingValuesObject

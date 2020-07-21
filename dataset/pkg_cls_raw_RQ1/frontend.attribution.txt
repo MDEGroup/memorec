@@ -1,0 +1,17 @@
+attribution#AttributionTransformation
+attribution#AttributeDcl
+attribution#InheritedAttributeDcl
+attribution#SynthesizedAttributeDcl
+attribution#AttributionRule
+attribution#RuleSelf
+attribution#AttributeInit
+attribution#AttributeUse
+dep#Variable
+dep#NamedElement
+dep#TransformationDefinition
+dep#TransformationDefinitionParameter
+dep#LocatedElement
+dep#ClassUse
+dep#Expression
+dep#Statement
+dep#TypedWithClass

@@ -1,0 +1,10 @@
+Sequencer#startTime
+Sequencer#endTime
+Sequencer#currentTime
+Sequencer#nextTime
+Sequencer#timeDelta
+Sequencer#duration
+Sequencer#timeToStop
+Sequencer#workComplete
+Sequencer#workIncrement
+Sequencer#cycle

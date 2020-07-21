@@ -1,0 +1,11 @@
+package#Project
+package#TypedElement
+package#ElementWithIL
+package#Document
+package#TextElement
+package#Section
+package#AbstractRequirement
+package#Requirement
+package#MacroRequirement
+package#CoverLink
+package#Attribute

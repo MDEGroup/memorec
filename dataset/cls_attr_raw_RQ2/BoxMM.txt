@@ -1,0 +1,17 @@
+Box#name
+Box#settings
+Box#inputs
+Box#outputs
+Box#instances
+Box#connections
+Box#container
+Box#processes
+BoxInstance#name
+BoxInstance#type
+BoxInstance#box
+Connection#input
+Connection#output
+Connection#box
+Package#name
+Package#boxes
+Package#imports

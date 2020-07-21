@@ -1,0 +1,17 @@
+package#Model
+package#Room
+package#Wall
+package#Hole
+package#Point2D
+package#Object
+package#SimpleObject
+package#ComposedObject
+package#SubObjectInstance
+package#Instance
+package#Location3D
+package#Location2D
+package#Placement
+package#PlacementEnum
+package#Option
+package#ColorOption
+package#TextureOption

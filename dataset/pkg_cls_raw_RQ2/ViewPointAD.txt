@@ -1,0 +1,13 @@
+package#ArchitectureDescription
+package#View
+package#User
+package#ModelComponent
+package#PointCut
+package#Rationale
+package#Decision
+package#Requirement
+package#Model
+package#MetricObservation
+package#DiscreteObservation
+package#ContinousObservation
+package#EDouble

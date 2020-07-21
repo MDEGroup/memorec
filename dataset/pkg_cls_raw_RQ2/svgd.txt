@@ -1,0 +1,12 @@
+package#NamedElement
+package#Form
+package#Rechteck
+package#Kreis
+package#SVGModel
+package#Linie
+package#Linienart
+package#Figure
+package#Import
+package#EmbedForm
+package#LinienStil
+package#FlaechenStil

@@ -1,0 +1,7 @@
+schoolIncqDerived#Course
+schoolIncqDerived#School
+schoolIncqDerived#SchoolClass
+schoolIncqDerived#SpecialisationCourse
+schoolIncqDerived#Student
+schoolIncqDerived#Teacher
+schoolIncqDerived#Year

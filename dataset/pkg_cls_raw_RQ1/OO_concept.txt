@@ -1,0 +1,17 @@
+OO_concept#PackageableElement
+OO_concept#Package
+OO_concept#Class
+OO_concept#NamedElement
+OO_concept#Model
+OO_concept#Operation
+OO_concept#Feature
+OO_concept#Property
+OO_concept#Parameter
+OO_concept#Generalization
+OO_concept#Dependency
+OO_concept#Classifier
+OO_concept#TypedElement
+OO_concept#Type
+OO_concept#BehavioralFeature
+OO_concept#Behavior
+OO_concept#VisibilityKind

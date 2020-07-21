@@ -1,0 +1,3 @@
+socnet#SocialNetwork
+socnet#Person
+socnet#StatusUpdate

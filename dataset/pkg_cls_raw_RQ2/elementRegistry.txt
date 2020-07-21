@@ -1,0 +1,5 @@
+package#Registry
+package#DiagramDefinition
+package#EClassDefinition
+package#ElementType
+package#Context

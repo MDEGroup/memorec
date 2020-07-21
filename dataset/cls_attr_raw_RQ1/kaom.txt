@@ -1,0 +1,7 @@
+Entity#childEntities
+Entity#childLinks
+Entity#childPorts
+Entity#childRelations
+Linkable#outgoingLinks
+Linkable#incomingLinks
+Linkable#id

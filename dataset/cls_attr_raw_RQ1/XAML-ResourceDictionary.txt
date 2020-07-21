@@ -1,0 +1,9 @@
+TranslateTransform3D#OffsetX
+TranslateTransform3D#OffsetY
+TranslateTransform3D#OffsetZ
+ScaleTransform3D#ScaleX
+ScaleTransform3D#ScaleY
+ScaleTransform3D#ScaleZ
+RotateTransform3D#CenterX
+RotateTransform3D#CenterY
+RotateTransform3D#rotation

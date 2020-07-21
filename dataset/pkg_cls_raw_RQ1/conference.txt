@@ -1,0 +1,9 @@
+conference#NamedElement
+conference#Conference
+conference#ConferenceElement
+conference#Track
+conference#Slot
+conference#Talk
+conference#Participant
+conference#Lunch
+conference#TimedElement

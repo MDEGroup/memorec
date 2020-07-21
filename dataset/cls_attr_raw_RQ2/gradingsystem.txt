@@ -1,0 +1,9 @@
+ConcreteTask#name
+ConcreteTask#minRequirement
+ConcreteTask#maxPoints
+TaskGroup#name
+TaskGroup#minRequirement
+TaskGroup#contains
+Grading#tasks
+Grading#gradingScheme
+Grading#semester

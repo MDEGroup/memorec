@@ -1,0 +1,10 @@
+SftpProvides#folder
+SftpProvides#server
+SftpProvides#overwrite
+SftpProvides#passphrase
+SftpProvides#password
+SftpProvides#port
+SftpProvides#privatekey
+SftpProvides#user
+SftpProvides#maxIdleTime
+SftpProvides#maxConnection

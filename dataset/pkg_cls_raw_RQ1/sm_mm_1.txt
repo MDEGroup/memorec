@@ -1,0 +1,12 @@
+sm_mm#MappingModel
+sm_mm#Class
+sm_mm#Attribute
+sm_mm#Operator
+sm_mm#C2C
+sm_mm#A2A
+sm_mm#Reference
+sm_mm#R2R
+sm_mm#A2C
+sm_mm#Element
+sm_mm#ContextOperator
+sm_mm#R2A

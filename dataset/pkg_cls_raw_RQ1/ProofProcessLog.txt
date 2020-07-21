@@ -1,0 +1,3 @@
+log#ProofLog
+log#Activity
+log#ProofActivity

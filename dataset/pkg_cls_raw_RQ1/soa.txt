@@ -1,0 +1,16 @@
+soa#System
+soa#Component
+soa#Service
+soa#Wire
+soa#Binding
+soa#Interface
+soa#InterfaceKind
+soa#SynchronizationKind
+soa#Operation
+soa#ImplementationComponent
+soa#Parameter
+soa#BindingKind
+soa#OperationKind
+soa#DTORegistry
+soa#Category
+soa#ServiceDTO

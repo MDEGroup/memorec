@@ -1,0 +1,6 @@
+package#AbstractKPIDefinition
+package#AbstractKPIBinding
+package#KPIParameterMapping
+package#DatabaseKPIBinding
+package#DatabaseKPIDefinition
+package#KPIField

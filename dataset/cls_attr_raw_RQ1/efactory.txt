@@ -1,0 +1,10 @@
+Factory#epackages
+Factory#imports
+Factory#annotations
+Factory#roots
+NewObject#eClass
+NewObject#name
+NewObject#features
+Feature#eFeature
+Feature#isMany
+Feature#value

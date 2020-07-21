@@ -1,0 +1,17 @@
+widget#Widget
+widget#TextEntry
+widget#RadioButton
+widget#Composite
+widget#Spin
+widget#CheckBox
+widget#Layout
+widget#LayoutData
+widget#GridLayout
+widget#GridData
+widget#Alignment
+widget#FormLayout
+widget#FormData
+widget#Attachment
+widget#Group
+widget#Combo
+widget#FillLayout

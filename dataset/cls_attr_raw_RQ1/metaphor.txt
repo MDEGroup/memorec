@@ -1,0 +1,13 @@
+District#altitude
+District#contextTransformation
+District#children
+Building#texture
+Building#transparency
+Building#height
+Building#floors
+SceneElement#name
+SceneElement#color
+SceneElement#relPosition
+SceneElement#absPosition
+SceneElement#sceneObject
+SceneElement#sourceObject

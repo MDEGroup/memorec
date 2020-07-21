@@ -1,0 +1,14 @@
+genotype#DetectedVariant
+genotype#Fingerprint
+genotype#GenomicFeatureAssay
+genotype#GenomicFeatureDetectionProtocol
+genotype#GenomicFeatureDetector
+genotype#GenomicFeatureVariant
+genotype#GenotypeStudy
+genotype#Haplotype
+genotype#HaplotypeSet
+genotype#MolecularVariant
+genotype#MolecularVariantIdentifier
+genotype#MolecularVariantSet
+genotype#NormalizedAssayData
+genotype#RawAssayData

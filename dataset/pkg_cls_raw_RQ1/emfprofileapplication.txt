@@ -1,0 +1,4 @@
+emfprofileapplication#ProfileApplication
+emfprofileapplication#ProfileImport
+emfprofileapplication#StereotypeApplication
+emfprofileapplication#StereotypeApplicability

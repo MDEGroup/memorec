@@ -1,0 +1,13 @@
+package#Model
+package#Type
+package#ClassType
+package#SimpleType
+package#TypeId
+package#Class
+package#Attribute
+package#AttributeManyReference
+package#Enumeration
+package#EnumerationLiteral
+package#Service
+package#Method
+package#Parameter

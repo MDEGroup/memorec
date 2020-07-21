@@ -1,0 +1,12 @@
+FeatureSelection#id
+FeatureSelection#state
+FeatureSelection#feature
+VariantModel#id
+VariantModel#version
+VariantModel#attributes
+VariantModel#featureModel
+VariantModel#selections
+VariantModel#values
+VariantValue#id
+VariantValue#attribute
+VariantValue#value

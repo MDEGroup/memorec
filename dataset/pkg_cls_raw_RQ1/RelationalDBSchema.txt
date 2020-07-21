@@ -1,0 +1,8 @@
+RelationalDBSchema#NamedElement
+RelationalDBSchema#DataBase
+RelationalDBSchema#Table
+RelationalDBSchema#Column
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double

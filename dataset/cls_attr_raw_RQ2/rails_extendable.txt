@@ -1,0 +1,15 @@
+Component#name
+Component#trains
+Component#ports
+Project#components
+Project#name
+Project#connections
+Track#name
+Track#trains
+Track#ports
+Switch#name
+Switch#trains
+Switch#ports
+Connection#source
+Connection#target
+Connection#name

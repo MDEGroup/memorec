@@ -1,0 +1,15 @@
+adaptiveSystem#AdaptiveSystem
+adaptiveSystem#Oclet
+adaptiveSystem#OccurrenceNet
+adaptiveSystem#DoNet
+adaptiveSystem#PreNet
+adaptiveSystem#AdaptiveProcess
+adaptiveSystem#Node
+adaptiveSystem#Condition
+adaptiveSystem#Event
+adaptiveSystem#Arc
+adaptiveSystem#ArcToEvent
+adaptiveSystem#ArcToCondition
+adaptiveSystem#Orientation
+adaptiveSystem#Quantor
+adaptiveSystem#Temp

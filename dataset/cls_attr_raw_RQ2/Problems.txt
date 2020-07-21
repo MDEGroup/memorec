@@ -1,0 +1,7 @@
+Problem#description
+Problem#startLine
+Problem#startColumn
+Problem#endLine
+Problem#endColumn
+Problem#location
+Problem#severity

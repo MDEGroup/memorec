@@ -1,0 +1,8 @@
+pDL2#Process
+pDL2#ProcessElement
+pDL2#WorkDefinition
+pDL2#DependanceStart
+pDL2#WorkSequenceKindStart
+pDL2#DependanceFinish
+pDL2#WorkSequenceKindFinish
+pDL2#Guidance

@@ -1,0 +1,16 @@
+PetriNet#name
+PetriNet#author
+PetriNet#places
+PetriNet#transitions
+PetriNet#arcs
+PetriNet#types
+Place#name
+Place#author
+Place#tokens
+Place#type
+PlaceToTransArc#weight
+PlaceToTransArc#source
+PlaceToTransArc#target
+TransToPlaceArc#weight
+TransToPlaceArc#source
+TransToPlaceArc#target

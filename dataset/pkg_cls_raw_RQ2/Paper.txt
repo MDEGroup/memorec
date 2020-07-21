@@ -1,0 +1,10 @@
+package#User
+package#Session
+package#Role
+package#Location
+package#Permission
+package#Object
+package#Operation
+package#Read
+package#Write
+package#Execute

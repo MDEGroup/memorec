@@ -1,0 +1,6 @@
+RS232Frame#numOfBytes
+RS232Frame#fields
+RS232Frame#id
+Application#mainComp
+Application#mainPort
+Application#main

@@ -1,0 +1,14 @@
+package#ATOM
+package#Entry
+package#Source
+package#Content
+package#InLineXHTMLContent
+package#InLineOtherContent
+package#OutOfLineContent
+package#Generator
+package#Category
+package#Link
+package#Person
+package#Author
+package#Contributor
+package#Date

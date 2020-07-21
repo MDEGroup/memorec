@@ -1,0 +1,10 @@
+semiFormalProof#Proof
+semiFormalProof#Justifications
+semiFormalProof#Justification
+semiFormalProof#QuotedAssertion
+semiFormalProof#Entailment
+semiFormalProof#Conjunction
+semiFormalProof#ProofSteps
+semiFormalProof#Statement
+semiFormalProof#Validation
+semiFormalProof#ValidationKind

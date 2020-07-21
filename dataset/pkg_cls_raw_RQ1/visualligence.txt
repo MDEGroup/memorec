@@ -1,0 +1,14 @@
+visualligence#Module
+visualligence#ModuleInstances
+visualligence#TypeDecl
+visualligence#NamedElement
+visualligence#NativeType
+visualligence#NativeTypeOptions
+visualligence#List
+visualligence#TypedElement
+visualligence#Hash
+visualligence#HashItem
+visualligence#Stream
+visualligence#Literal
+visualligence#Input
+visualligence#Output

@@ -1,0 +1,3 @@
+NamespaceDefinition#namespaceDeclaration
+NamespaceDefinition#importDeclaration
+NamespaceDefinition#object

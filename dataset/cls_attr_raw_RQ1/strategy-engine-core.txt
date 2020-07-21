@@ -1,0 +1,15 @@
+StrategyEngine#name
+StrategyEngine#description
+StrategyEngine#connectionState
+StrategyEngine#connection
+StrategyEngine#deployedStrategies
+StrategyEngine#readOnly
+Strategy#instanceName
+Strategy#language
+Strategy#scriptPath
+Strategy#className
+Strategy#routeOrdersToServer
+Strategy#parameters
+DeployedStrategy#engine
+DeployedStrategy#state
+DeployedStrategy#urn

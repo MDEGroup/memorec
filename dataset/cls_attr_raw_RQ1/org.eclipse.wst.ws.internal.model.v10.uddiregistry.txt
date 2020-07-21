@@ -1,0 +1,13 @@
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#taxonomies
+DocumentRoot#uddiRegistry
+UDDIRegistry#version
+UDDIRegistry#discoveryURL
+UDDIRegistry#publicationURL
+UDDIRegistry#securedDiscoveryURL
+UDDIRegistry#securedPublicationURL
+UDDIRegistry#defaultLogin
+UDDIRegistry#defaultPassword
+UDDIRegistry#taxonomies

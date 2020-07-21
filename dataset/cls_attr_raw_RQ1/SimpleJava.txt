@@ -1,0 +1,7 @@
+JavaClass#name
+JavaClass#extends_
+JavaClass#members
+Member#owner
+Member#name
+Member#type
+Member#isPublic

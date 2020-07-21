@@ -1,0 +1,5 @@
+roostructure#EClass
+roostructure#eLiterals
+roostructure#EEnum
+roostructure#EAttribute
+roostructure#EReference

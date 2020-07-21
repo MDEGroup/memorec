@@ -1,0 +1,10 @@
+FlatSignalFlow#RootFolder
+FlatSignalFlow#RootContainer
+FlatSignalFlow#Actor
+FlatSignalFlow#Transmitter
+FlatSignalFlow#Receiver
+FlatSignalFlow#InputSignal
+FlatSignalFlow#OutputSignal
+FlatSignalFlow#Queue
+FlatSignalFlow#AssociationReceiverQueue
+FlatSignalFlow#AssociationQueueTransmitter

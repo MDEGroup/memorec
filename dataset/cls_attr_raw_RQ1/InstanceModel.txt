@@ -1,0 +1,5 @@
+AbstractInstance#parent
+AbstractInstance#children
+AbstractInstance#semanticElement
+AbstractInstance#mapping
+AbstractInstance#visibility

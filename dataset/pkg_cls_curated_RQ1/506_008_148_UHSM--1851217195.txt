@@ -1,0 +1,10 @@
+UHSM#State
+UHSM#UTransition
+UHSM#Transition
+UHSM#CompositeState
+UHSM#StateMachine
+UHSM#InitialState
+UHSM#FinalState
+UHSM#UState
+UHSM#UStateMachine
+UHSM#TracedClass

@@ -1,0 +1,3 @@
+uddiregistry#DocumentRoot
+uddiregistry#Taxonomies
+uddiregistry#UDDIRegistry

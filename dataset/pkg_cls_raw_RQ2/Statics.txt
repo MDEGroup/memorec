@@ -1,0 +1,6 @@
+package#Package
+package#Class
+package#Attribute
+package#Method
+package#CodeElement
+package#IStaticElement

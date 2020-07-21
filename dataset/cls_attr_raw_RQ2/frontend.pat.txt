@@ -1,0 +1,6 @@
+Pattern#name
+Pattern#objects
+Pattern#outputVariables
+PAttribute#name
+PAttribute#value
+PAttribute#variable

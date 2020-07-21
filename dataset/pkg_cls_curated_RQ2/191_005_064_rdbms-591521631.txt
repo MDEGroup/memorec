@@ -1,0 +1,16 @@
+package#column
+package#columns
+package#DocumentRoot
+package#foreignKey
+package#foreignKeys
+package#hasForeignKeys
+package#key
+package#key2
+package#oID
+package#RDBMS
+package#referencedColumns
+package#referencedKeys
+package#schema
+package#schemas
+package#table
+package#tables

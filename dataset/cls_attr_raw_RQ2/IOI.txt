@@ -1,0 +1,13 @@
+Employee#name
+Employee#salary
+Employee#works_on
+Company#name
+Company#positions
+Company#departments
+Department#name
+Department#manager
+Department#employees
+Department#sub_department
+Manager#name
+Manager#salary
+Manager#works_on

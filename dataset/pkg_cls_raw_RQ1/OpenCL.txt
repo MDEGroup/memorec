@@ -1,0 +1,16 @@
+architecture#Host
+architecture#Device
+architecture#ComputeUnit
+architecture#ProcessingElement
+architecture#Memory
+architecture#HostMemory
+architecture#GlobalMemory
+architecture#Constantmemory
+architecture#LocalMemory
+architecture#PrivateMemory
+architecture#CommandQueue
+architecture#Command
+architecture#KernelExecutionCommand
+architecture#MemoryCommand
+architecture#SynchronizationCommand
+architecture#Kernel

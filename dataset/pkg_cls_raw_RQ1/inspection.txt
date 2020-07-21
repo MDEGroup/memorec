@@ -1,0 +1,9 @@
+inspection#Description
+inspection#WSILDocument
+inspection#Inspection
+inspection#ItemWithAbstracts
+inspection#Link
+inspection#Name
+inspection#Reference
+inspection#Service
+inspection#TypeOfAbstract

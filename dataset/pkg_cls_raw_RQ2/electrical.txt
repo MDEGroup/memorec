@@ -1,0 +1,6 @@
+package#Input
+package#FunctionalBlock
+package#Inverter
+package#AmplitudeMultiplication
+package#PhaseShift
+package#Output

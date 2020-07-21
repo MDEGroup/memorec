@@ -1,0 +1,11 @@
+tfsm_plaink3#TFSM
+tfsm_plaink3#State
+tfsm_plaink3#Transition
+tfsm_plaink3#NamedElement
+tfsm_plaink3#Guard
+tfsm_plaink3#TemporalGuard
+tfsm_plaink3#EventGuard
+tfsm_plaink3#FSMEvent
+tfsm_plaink3#FSMClock
+tfsm_plaink3#TimedSystem
+tfsm_plaink3#EvaluateGuard

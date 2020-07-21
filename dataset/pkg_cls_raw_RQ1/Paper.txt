@@ -1,0 +1,10 @@
+LRBAC#User
+LRBAC#Session
+LRBAC#Role
+LRBAC#Location
+LRBAC#Permission
+LRBAC#Object
+LRBAC#Operation
+LRBAC#Read
+LRBAC#Write
+LRBAC#Execute

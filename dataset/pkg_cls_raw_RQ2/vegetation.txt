@@ -1,0 +1,9 @@
+package#AbstractVegetationObjectType
+package#DocumentRoot
+package#PlantClassType
+package#PlantCoverClassType
+package#PlantCoverFunctionType
+package#PlantCoverType
+package#PlantFunctionType
+package#SolitaryVegetationObjectType
+package#SpeciesType

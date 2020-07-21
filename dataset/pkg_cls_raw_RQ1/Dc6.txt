@@ -1,0 +1,11 @@
+dc6#Model
+dc6#Canvas
+dc6#Square
+dc6#Properties
+dc6#Color
+dc6#Corner
+dc6#Location
+dc6#Caption
+dc6#Size
+dc6#ColorEnum
+dc6#CornerEnum

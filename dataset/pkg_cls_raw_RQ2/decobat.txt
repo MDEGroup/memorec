@@ -1,0 +1,12 @@
+package#Project
+package#ProjectCategory
+package#ProjectRevision
+package#Library
+package#LibraryCategory
+package#Product
+package#Supplier
+package#Service
+package#Plan
+package#Level
+package#Object
+package#Customer

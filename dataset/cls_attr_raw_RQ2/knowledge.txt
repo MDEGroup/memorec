@@ -1,0 +1,7 @@
+KnowledgeElement#name
+KnowledgeElement#reader
+KnowledgeElement#child
+Leaf#name
+Leaf#reader
+Leaf#type
+Leaf#writer

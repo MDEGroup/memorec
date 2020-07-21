@@ -1,0 +1,8 @@
+cp1model#CP1Repository
+cp1model#CP1Project
+cp1model#CP1Dependency
+cp1model#CP1Class
+cp1model#CP1Method
+cp1model#CP1Field
+cp1model#CP1CodeElement
+cp1model#CP1DependencyType

@@ -1,0 +1,4 @@
+EXPRESSION#firstTerm
+EXPRESSION#operator
+EXPRESSION#secondTerm
+EXPRESSION#alone

@@ -1,0 +1,6 @@
+package#Automata
+package#State
+package#Transition
+package#Initial
+package#Final
+package#Current

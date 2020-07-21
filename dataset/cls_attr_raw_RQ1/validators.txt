@@ -1,0 +1,13 @@
+ValidatorConfig#name
+ValidatorConfig#readOnly
+ValidatorConfig#commandLineOptions
+ValidatorConfig#priority
+ValidatorEnvironmentInstance#environmentId
+ValidatorEnvironmentInstance#executablePath
+ValidatorEnvironmentInstance#automatic
+ValidatorInstance#name
+ValidatorInstance#automatic
+ValidatorInstance#validatorType
+ValidatorInstance#validatorNature
+ValidatorInstance#validatorFavoriteConfig
+ValidatorInstance#id

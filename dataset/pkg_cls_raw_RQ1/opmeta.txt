@@ -1,0 +1,3 @@
+opmeta#OPMetaModelDiagram
+opmeta#OPMetaModelContainmentValidationRule
+opmeta#OPMetaModelLinkValidationRule

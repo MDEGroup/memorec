@@ -1,0 +1,17 @@
+package#AbstractFilterRuleType
+package#FilterConfigType
+package#FilterRuleBlockType
+package#FilterRuleType
+package#LogicalOperatorType
+package#LogicalOperatorTypeObject
+package#NumericalFilterRuleType
+package#NumericalRelationalOperatorType
+package#NumericalRelationalOperatorTypeObject
+package#PathExpressionType
+package#DocumentRoot
+package#RangeFilterRuleType
+package#RangeRelationalOperatorType
+package#RangeRelationalOperatorTypeObject
+package#StringFilterRuleType
+package#StringRelationalOperatorType
+package#StringRelationalOperatorTypeObject

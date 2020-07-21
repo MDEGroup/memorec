@@ -1,0 +1,16 @@
+nowheretravel#Node
+nowheretravel#Start
+nowheretravel#End
+nowheretravel#Item
+nowheretravel#Flight
+nowheretravel#Hotel
+nowheretravel#Tour
+nowheretravel#TrekkingTour
+nowheretravel#ParachuteTour
+nowheretravel#CarRental
+nowheretravel#Insurance
+nowheretravel#InsuranceType
+nowheretravel#Travel
+nowheretravel#Data
+nowheretravel#Parameter
+nowheretravel#Connection

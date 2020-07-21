@@ -1,0 +1,5 @@
+package#NamedElement
+package#ComDiag
+package#ComDiagElement
+package#Lifeline
+package#Message

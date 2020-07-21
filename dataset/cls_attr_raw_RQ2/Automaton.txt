@@ -1,0 +1,8 @@
+FiniteAutomaton#alphabet
+FiniteAutomaton#transitionSet
+FiniteAutomaton#initialState
+FiniteAutomaton#finalStateSet
+FiniteAutomaton#StateSet
+Transition#letter
+Transition#source
+Transition#target

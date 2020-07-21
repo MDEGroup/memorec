@@ -1,0 +1,4 @@
+VishnuError#code
+VishnuError#userMsg
+VishnuError#detailedMsg
+VishnuError#debugMsg

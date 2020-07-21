@@ -1,0 +1,10 @@
+package#Integer
+package#String
+package#Boolean
+package#Double
+package#Node
+package#Resource
+package#Literal
+package#Fact
+package#Package
+package#Ontology

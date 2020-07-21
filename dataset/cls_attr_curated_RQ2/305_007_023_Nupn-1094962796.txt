@@ -1,0 +1,17 @@
+SizeType#arcs
+SizeType#places
+SizeType#transitions
+StructureType#unit
+StructureType#root
+StructureType#safe
+StructureType#units
+NUPNToolspecificType#size
+NUPNToolspecificType#structure
+NUPNToolspecificType#tool
+NUPNToolspecificType#version
+NUPNToolspecificType#mixed
+NUPNToolspecificType#xMLNSPrefixMap
+NUPNToolspecificType#xSISchemaLocation
+UnitType#id
+UnitType#places
+UnitType#subunits

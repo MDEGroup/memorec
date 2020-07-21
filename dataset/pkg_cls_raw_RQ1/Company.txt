@@ -1,0 +1,11 @@
+company#Addressable
+company#Company
+company#Supplier
+company#Customer
+company#Order
+company#OrderDetail
+company#PurchaseOrder
+company#SalesOrder
+company#Category
+company#Product
+company#VAT

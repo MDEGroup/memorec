@@ -1,0 +1,8 @@
+KeySpace#name
+KeySpace#columnFamilies
+KeySpace#replicationFactor
+KeySpace#replicaPlacementStrategy
+ColumnFamily#keyspace
+ColumnFamily#name
+ColumnFamily#columns
+ColumnFamily#primaryKey

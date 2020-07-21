@@ -1,0 +1,4 @@
+PetriNet#Net
+PetriNet#NamedElement
+PetriNet#Place
+PetriNet#Transition

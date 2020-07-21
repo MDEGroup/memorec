@@ -1,0 +1,16 @@
+RentalAgency#name
+RentalAgency#objectsToRent
+RentalAgency#customers
+RentalAgency#rentals
+Customer#firstName
+Customer#lastName
+Customer#parentAgency
+RentalObject#ID
+RentalObject#name
+RentalObject#picture
+RentalObject#parentAgency
+Rental#customer
+Rental#rentedObject
+Rental#startDate
+Rental#endDate
+Rental#parentAgency

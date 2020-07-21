@@ -1,0 +1,14 @@
+specDa#SpecDaModel
+specDa#SpecLdbDef
+specDa#SpecDaDefinition
+specDa#StructuredDef
+specDa#JoinDef
+specDa#ClassJoin
+specDa#OrderDef
+specDa#OrderAttributeDef
+specDa#FilterDef
+specDa#FilterAttributeDef
+specDa#FilterAttributeDefModifier
+specDa#SQLDef
+specDa#SQLParameter
+specDa#Interface

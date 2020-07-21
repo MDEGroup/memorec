@@ -1,0 +1,7 @@
+package#DataProperty
+package#ObjectProperty
+package#Ontology
+package#OntologyIndividual
+package#OntologyProperty
+package#OntologyTerm
+package#SimpleOntologyTerm

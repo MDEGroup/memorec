@@ -1,0 +1,15 @@
+ContractType#contractIdentifier
+ContractType#shortDescription
+ContractType#longDescription
+ContractType#userData
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#businessAccount
+DocumentRoot#businessAccountBODVersion
+DocumentRoot#getBusinessAccount
+DocumentRoot#contract
+DocumentRoot#contractBODVersion
+DocumentRoot#getContract
+DocumentRoot#showBusinessAccount
+DocumentRoot#showContract

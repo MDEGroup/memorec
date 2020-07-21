@@ -1,0 +1,11 @@
+package#AdaptationStatusItem
+package#AdaptationHistoryItem
+package#AdaptationTask
+package#FulfillmentCriterion
+package#EObject
+package#UserMarkedCompleted
+package#FeatureRequired
+package#EStructuralFeature
+package#AdaptationAttributes
+package#QmAdaptationAttributes
+package#AdaptationSource

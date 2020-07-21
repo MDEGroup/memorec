@@ -1,0 +1,8 @@
+Metric#values
+Metric#query
+Metric#min
+Metric#max
+Metric#first
+Metric#last
+Metric#syncConstraints
+Metric#sum

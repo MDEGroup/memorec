@@ -1,0 +1,7 @@
+UIComparison#actualComparison
+UIComparison#differencesToIgnore
+UIComparison#lastActionSelection
+ComparisonSelection#selectedMatches
+ComparisonSelection#selectedMatchAndFeature
+ComparisonSelection#selectedTreePath
+ComparisonSelection#selectedValuePresences

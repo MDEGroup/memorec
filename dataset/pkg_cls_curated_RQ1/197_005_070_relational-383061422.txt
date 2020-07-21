@@ -1,0 +1,4 @@
+relational#Column
+relational#Table
+relational#Key
+relational#ForeignKey

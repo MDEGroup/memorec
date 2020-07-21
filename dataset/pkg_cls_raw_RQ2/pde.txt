@@ -1,0 +1,14 @@
+package#TargetPlatformChecker
+package#PDEConfigurator
+package#ApiBaseline
+package#TargetPlatform
+package#PDEProject
+package#PDEDistribution
+package#PDEEntity
+package#Feature
+package#PluginEntity
+package#Plugin
+package#Fragment
+package#ZipDistribution
+package#PopDistribution
+package#Location

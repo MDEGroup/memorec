@@ -1,0 +1,3 @@
+Artifact#contents
+Artifact#indexRow
+Artifact#resourceSet

@@ -1,0 +1,10 @@
+package#Task
+package#Operator
+package#BinaryOperator
+package#UnaryOperator
+package#FiniteInteration
+package#BinaryType
+package#UnaryType
+package#Boolean
+package#Integer
+package#String

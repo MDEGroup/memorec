@@ -1,0 +1,13 @@
+primitives#AbstractType
+primitives#AdaEnumerate
+primitives#AdaEnumeration
+primitives#AdaTypeDef
+primitives#ExtTypeDef
+primitives#Mode
+primitives#Operation
+primitives#Parameter
+primitives#PrimModel
+primitives#PrimPackage
+primitives#PrimType
+primitives#StdTypeDef
+primitives#TypeRef

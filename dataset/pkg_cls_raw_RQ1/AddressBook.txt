@@ -1,0 +1,6 @@
+addressbook#AddressBook
+addressbook#Person
+addressbook#Address
+addressbook#Country
+addressbook#FederalState
+addressbook#AddressType

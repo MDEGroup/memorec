@@ -1,0 +1,11 @@
+package#NamedObject
+package#Annotatable
+package#Annotation
+package#StringAnnotation
+package#ReferenceAnnotation
+package#BooleanAnnotation
+package#IntAnnotation
+package#FloatAnnotation
+package#ContainmentAnnotation
+package#ImportAnnotation
+package#TypedStringAnnotation

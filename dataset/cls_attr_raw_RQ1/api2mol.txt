@@ -1,0 +1,9 @@
+Definition#context
+Definition#defaultMetaclass
+Definition#mappings
+Mapping#metaclass
+Mapping#instanceClass
+Mapping#sections
+Statement#type
+Statement#variables
+Statement#calls

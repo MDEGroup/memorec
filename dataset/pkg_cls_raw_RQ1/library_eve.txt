@@ -1,0 +1,6 @@
+library#CityLibrary
+library#Customer
+library#Borrowable
+borrowables#CD
+borrowables#Magazine
+borrowables#Book

@@ -1,0 +1,3 @@
+xcore#XIncQueryDerivedFeature
+xcore#XIncQueryPackage
+xcore#XIncQueryImport

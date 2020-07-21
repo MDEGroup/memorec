@@ -1,0 +1,14 @@
+Node#name
+Node#type
+Node#label
+Node#activity
+Node#variables
+Node#Father_of
+Transition#TE
+Transition#source
+Transition#target
+Transition#name
+Model#name
+Model#variables
+Model#nodes
+Model#transitions

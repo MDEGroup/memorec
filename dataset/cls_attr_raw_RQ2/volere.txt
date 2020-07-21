@@ -1,0 +1,17 @@
+Goal#name
+Goal#description
+Goal#owner
+Goal#number
+Goal#advantage
+Goal#measurement
+VolereProject#name
+VolereProject#description
+VolereProject#owner
+VolereProject#elements
+Package#name
+Package#description
+Package#owner
+Package#elements
+VolereElement#name
+VolereElement#description
+VolereElement#owner

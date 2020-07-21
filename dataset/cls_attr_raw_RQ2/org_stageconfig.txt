@@ -1,0 +1,6 @@
+Stage#operations
+Stage#nextStage
+Stage#name
+DomainValueOperation#feature
+DomainValueOperation#value
+DomainValueOperation#attribute

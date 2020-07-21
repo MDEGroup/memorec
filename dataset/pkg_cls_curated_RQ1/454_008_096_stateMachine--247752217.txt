@@ -1,0 +1,9 @@
+stateMachine#StateMachine
+stateMachine#State
+stateMachine#Event
+stateMachine#Trans
+stateMachine#DocumentField
+stateMachine#FieldState
+stateMachine#EFieldState
+stateMachine#Role
+stateMachine#TransSet

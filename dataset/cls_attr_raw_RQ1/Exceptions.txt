@@ -1,0 +1,3 @@
+ClassMappingException#xsdClassName
+ClassMappingException#mofClassName
+ClassMappingException#attributeExceptions

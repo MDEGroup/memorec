@@ -1,0 +1,13 @@
+opa#Activity
+opa#Entity
+opa#Person
+opa#PersonCalendar
+opa#Project
+opa#ProjectCalendar
+opa#Task
+opa#Team
+opa#TeamMember
+opa#TeamRole
+opa#Topic
+opa#ValueObject
+opa#Role

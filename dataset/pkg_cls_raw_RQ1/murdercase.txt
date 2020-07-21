@@ -1,0 +1,5 @@
+murdercase#House
+murdercase#Person
+murdercase#Room
+murdercase#Door
+murdercase#Object

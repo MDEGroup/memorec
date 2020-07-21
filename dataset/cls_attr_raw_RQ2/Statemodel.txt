@@ -1,0 +1,10 @@
+Statemachine#annotation
+Statemachine#entity
+Statemachine#state
+State#annotation
+State#type
+State#name
+State#element
+Transition#guard
+Transition#action
+Transition#state

@@ -1,0 +1,4 @@
+ODPTV#TechnologyObject
+ODPTV#Implementation
+ODPTV#IXIT
+ODPTV#ImplementableStandard

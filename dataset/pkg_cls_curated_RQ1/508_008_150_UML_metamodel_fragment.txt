@@ -1,0 +1,16 @@
+UMLMetamodelFragment#Class
+UMLMetamodelFragment#Generalization
+UMLMetamodelFragment#Dependency
+UMLMetamodelFragment#Stereotype
+UMLMetamodelFragment#StateMachine
+UMLMetamodelFragment#State
+UMLMetamodelFragment#CompositeState
+UMLMetamodelFragment#SimpleState
+UMLMetamodelFragment#FinalState
+UMLMetamodelFragment#StateVertex
+UMLMetamodelFragment#PseudoState
+UMLMetamodelFragment#Transition
+UMLMetamodelFragment#Event
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

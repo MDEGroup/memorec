@@ -1,0 +1,11 @@
+settings#IdentifiedElement
+settings#ModelingLanguageAssociations
+settings#SettingsSpecification
+settings#PropertyToTypesAssociation
+settings#ModelingLanguage
+settings#Category
+settings#PropertyToCategoriesAssociation
+settings#PropertyAssociation
+settings#ServiceDescriptor
+settings#ModelInterface
+settings#ScopeProvider

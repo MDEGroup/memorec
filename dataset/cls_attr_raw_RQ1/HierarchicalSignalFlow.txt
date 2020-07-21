@@ -1,0 +1,7 @@
+Base#compound
+Base#inputPort
+Base#outputPort
+Base#signal
+Asso_Port_Signal#src
+Asso_Port_Signal#dst
+Asso_Port_Signal#signal

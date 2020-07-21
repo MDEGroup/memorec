@@ -1,0 +1,16 @@
+AbstractMappingCS#domains
+AbstractMappingCS#in
+AbstractMappingCS#middle
+AssignmentCS#default
+AssignmentCS#target
+AssignmentCS#initialiser
+DomainCS#check
+DomainCS#enforce
+DomainCS#direction
+QueryCS#pathName
+QueryCS#transformation
+QueryCS#inputParamDeclaration
+QueryCS#expression
+TransformationCS#pathName
+TransformationCS#package
+TransformationCS#directions

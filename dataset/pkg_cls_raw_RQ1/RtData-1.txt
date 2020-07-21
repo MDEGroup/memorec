@@ -1,0 +1,15 @@
+rtdata#RVar
+rtdata#RDataFrame
+rtdata#RDataFilter
+rtdata#RText
+rtdata#RNum
+rtdata#RInt
+rtdata#RFunction
+rtdata#RLabel
+rtdata#RNumRange
+rtdata#RSize
+rtdata#RColor
+rtdata#RAlpha
+rtdata#RPlotPointSymbol
+rtdata#RPlotLineType
+rtdata#RFontFamily

@@ -1,0 +1,8 @@
+Model#imports
+Model#methods
+Model#body
+XMethodDeclaration#typeParameters
+XMethodDeclaration#type
+XMethodDeclaration#name
+XMethodDeclaration#parameters
+XMethodDeclaration#body

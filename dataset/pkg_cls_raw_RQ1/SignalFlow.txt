@@ -1,0 +1,10 @@
+SignalFlow#RootFolder
+SignalFlow#CompoundComponent
+SignalFlow#PrimitiveComponent
+SignalFlow#BaseComponent
+SignalFlow#InputPort
+SignalFlow#LocalPort
+SignalFlow#OutputPort
+SignalFlow#PortBase
+SignalFlow#Signal
+SignalFlow#AssociationPortBase_PortBase

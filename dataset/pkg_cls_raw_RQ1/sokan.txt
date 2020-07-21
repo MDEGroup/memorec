@@ -1,0 +1,11 @@
+sokan#IdentifiableElement
+sokan#ID
+sokan#Artifact
+sokan#IndexRow
+sokan#IndexMetaData
+sokan#Store
+sokan#Filter
+sokan#IndexTransaction
+sokan#FacetedResponse
+sokan#FacetedRequest
+sokan#Constraint

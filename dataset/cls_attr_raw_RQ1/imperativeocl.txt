@@ -1,0 +1,10 @@
+AssignExp#value
+AssignExp#left
+AssignExp#defaultValue
+AssignExp#isReset
+InstantiationExp#instantiatedClass
+InstantiationExp#extent
+InstantiationExp#argument
+AssertExp#severity
+AssertExp#log
+AssertExp#assertion

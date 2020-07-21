@@ -1,0 +1,16 @@
+WWorkspace#projects
+WWorkspace#elements
+WWorkspace#dependencties
+WNamedElement#name
+WNamedElement#handler
+WNamedElement#incomingDependencies
+WNamedElement#outgoingDependencies
+WDependency#from
+WDependency#to
+WDependency#type
+WType#compilationUnit
+WType#methods
+WType#fields
+WMethod#type
+WMethod#signature
+WMethod#EAttribute0

@@ -1,0 +1,12 @@
+BibTextEntry#location
+BibTextEntry#key
+BibTextEntry#attributes
+Article#location
+Article#key
+Article#attributes
+Article#author
+Author#location
+Author#key
+Author#attributes
+Author#name
+Author#articles

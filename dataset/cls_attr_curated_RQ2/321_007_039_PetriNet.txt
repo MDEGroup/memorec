@@ -1,0 +1,16 @@
+PetriNet#name
+PetriNet#places
+PetriNet#transitions
+PetriNet#arcs
+Place#name
+Place#incoming
+Place#outgoing
+Transition#name
+Transition#incoming
+Transition#outgoing
+PlaceToTransArc#weight
+PlaceToTransArc#source
+PlaceToTransArc#target
+TransToPlaceArc#weight
+TransToPlaceArc#source
+TransToPlaceArc#target

@@ -1,0 +1,9 @@
+SetSpeed#track
+SetSpeed#speed
+SetSpeed#direction
+SetSignal#track
+SetSignal#position
+SetSignal#color
+EventOccupied#track
+EventOccupied#condition
+EventOccupied#conjunction

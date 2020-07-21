@@ -1,0 +1,9 @@
+acceleowizardmodel#AcceleoProject
+acceleowizardmodel#AcceleoUIProject
+acceleowizardmodel#AcceleoModule
+acceleowizardmodel#AcceleoModuleElement
+acceleowizardmodel#ModuleElementKind
+acceleowizardmodel#AcceleoMainClass
+acceleowizardmodel#AcceleoPackage
+acceleowizardmodel#AcceleoPom
+acceleowizardmodel#AcceleoPomDependency

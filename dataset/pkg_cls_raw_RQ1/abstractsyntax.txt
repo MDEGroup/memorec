@@ -1,0 +1,17 @@
+abstractsyntax#AbstractSyntax
+abstractsyntax#Import
+abstractsyntax#ASUnit
+abstractsyntax#ASProgram
+abstractsyntax#ASStatement
+abstractsyntax#Definition
+abstractsyntax#ConcreteNodeDefinition
+abstractsyntax#InterfaceNodeDefinition
+abstractsyntax#Cardinality
+abstractsyntax#PLUS
+abstractsyntax#STAR
+abstractsyntax#QUESTIONMARK
+abstractsyntax#NodeFeature
+abstractsyntax#Attribute
+abstractsyntax#Containment
+abstractsyntax#InternalReference
+abstractsyntax#ExternalReference

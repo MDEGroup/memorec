@@ -1,0 +1,14 @@
+PropertyDefinition#name
+PropertyDefinition#propertyType
+PropertyDefinition#owners
+Model#propertyDefinitions
+Model#behaviorDefinitions
+Model#widgets
+PropertyFeature#definition
+PropertyFeature#getter
+PropertyFeature#setter
+WidgetDefinition#name
+WidgetDefinition#runtimeType
+WidgetDefinition#propertyFeatures
+WidgetDefinition#behaviors
+WidgetDefinition#superType

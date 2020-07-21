@@ -1,0 +1,11 @@
+spiel#turnPlayedByAllPlayers
+spiel#ebenen
+spiel#id
+spiel#beteiligteSpieler
+spiel#zuege
+Spieler#turnPlayedByThisPlayer
+Spieler#name
+Spieler#state
+Zug#turn
+Zug#gestalt
+Zug#ziel

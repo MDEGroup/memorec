@@ -1,0 +1,8 @@
+package#NamespaceDefinition
+package#NamespaceDeclaration
+package#ImportDeclaration
+package#Import
+package#Object
+package#Attribute
+package#DataType
+package#ObjectReference

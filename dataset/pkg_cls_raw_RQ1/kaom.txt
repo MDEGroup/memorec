@@ -1,0 +1,5 @@
+kaom#Entity
+kaom#Port
+kaom#Relation
+kaom#Link
+kaom#Linkable

@@ -1,0 +1,16 @@
+package#DocumentRoot
+package#GeoNodeDescriptionType
+package#GeoNodeType
+package#GetGeoNodeDataAreaType
+package#GetGeoNodeType
+package#GetPhysicalStoreDataAreaType
+package#GetPhysicalStoreType
+package#PhysicalStoreAttributeType
+package#PhysicalStoreDescriptionType
+package#PhysicalStoreGeoCodeType
+package#PhysicalStoreLocationInfoType
+package#PhysicalStoreType
+package#ShowGeoNodeDataAreaType
+package#ShowGeoNodeType
+package#ShowPhysicalStoreDataAreaType
+package#ShowPhysicalStoreType

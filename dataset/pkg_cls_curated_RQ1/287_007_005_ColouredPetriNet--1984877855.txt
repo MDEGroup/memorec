@@ -1,0 +1,10 @@
+PetriNet#PetriNet
+PetriNet#Type
+PetriNet#PrimitiveAttribute
+PetriNet#Token
+PetriNet#Place
+PetriNet#Transition
+PetriNet#Arc
+PetriNet#PlaceToTransArc
+PetriNet#TransToPlaceArc
+PetriNet#IdentifiableElement

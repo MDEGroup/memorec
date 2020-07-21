@@ -1,0 +1,15 @@
+package#ModelElement
+package#Classifier
+package#StructuralFeature
+package#Class
+package#DataType
+package#Attribute
+package#Concept
+package#ColumnSet
+package#Column
+package#FeatureAttribute
+package#Value
+package#RoleRestriction
+package#Integer
+package#String
+package#DomainDataType

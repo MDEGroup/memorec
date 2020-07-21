@@ -1,0 +1,9 @@
+JAVA#JavaElement
+JAVA#ClassFeature
+JAVA#ClassMember
+JAVA#Field
+JAVA#JavaClass
+JAVA#Method
+JAVA#Package
+JAVA#PrimitiveType
+JAVA#FeatureParameter

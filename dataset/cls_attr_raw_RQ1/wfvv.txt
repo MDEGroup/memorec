@@ -1,0 +1,3 @@
+EventGroup#events
+EventGroup#name
+EventGroup#minimized

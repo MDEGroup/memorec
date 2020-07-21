@@ -1,0 +1,9 @@
+package#Architecture
+package#ArchitectureDescription
+package#ArchitectureView
+package#ArchitectureViewPoint
+package#MainView
+package#ModelElement
+package#Boolean
+package#Integer
+package#String

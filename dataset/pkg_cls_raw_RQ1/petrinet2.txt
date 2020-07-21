@@ -1,0 +1,3 @@
+petrinet2#Net
+petrinet2#Place
+petrinet2#Transition

@@ -1,0 +1,4 @@
+xscript#XNewEObject
+xscript#XImport
+xscript#XEPackageImport
+xscript#XScript

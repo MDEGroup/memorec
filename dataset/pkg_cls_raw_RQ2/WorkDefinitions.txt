@@ -1,0 +1,9 @@
+package#WorkDefinition
+package#ProcessPerformer
+package#Role
+package#WorkProduct
+package#Lifecycle
+package#Phase
+package#Iteration
+package#Activity
+package#Step

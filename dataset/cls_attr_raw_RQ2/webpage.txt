@@ -1,0 +1,10 @@
+MyWeb#name
+MyWeb#title
+MyWeb#description
+MyWeb#keywords
+MyWeb#pages
+WebPage#name
+WebPage#title
+WebPage#description
+WebPage#keywords
+WebPage#EReference0

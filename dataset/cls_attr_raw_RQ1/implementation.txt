@@ -1,0 +1,12 @@
+ConnectorImplementation#implementationId
+ConnectorImplementation#implementationVersion
+ConnectorImplementation#definitionId
+ConnectorImplementation#definitionVersion
+ConnectorImplementation#implementationClassname
+ConnectorImplementation#hasSources
+ConnectorImplementation#description
+ConnectorImplementation#jarDependencies
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#connectorImplementation

@@ -1,0 +1,17 @@
+FacetType#name
+FacetType#multiValue
+FacetType#description
+FacetType#values
+FacetType#container
+Facet#type
+Facet#values
+Facet#typeID
+Facet#valueNames
+FacetValue#name
+FacetValue#description
+FacetValue#value
+FacetValue#children
+FragmentDescription#facets
+FragmentDescription#properties
+FragmentDescription#subject
+FragmentDescription#derivationState

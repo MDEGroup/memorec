@@ -1,0 +1,16 @@
+LocatedElement#location
+LocatedElement#commentsBefore
+LocatedElement#commentsAfter
+Table#database
+Table#referencedBy
+Table#elements
+Table#parameters
+Column#referencedBy
+Column#name
+Column#type
+Column#canBeNull
+Column#default
+Column#keys
+Key#isUnique
+Key#name
+Key#columns

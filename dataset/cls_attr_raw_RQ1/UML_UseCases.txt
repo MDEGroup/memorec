@@ -1,0 +1,13 @@
+UseCase#extensionPoint
+UseCase#includeAddition
+UseCase#includeBase
+UseCase#extendExtension
+UseCase#extendBase
+UseCase#extensionPoints
+Extend#condition
+Extend#extension
+Extend#base
+Extend#extensionPoint
+ExtensionPoint#location
+ExtensionPoint#extend
+ExtensionPoint#useCase

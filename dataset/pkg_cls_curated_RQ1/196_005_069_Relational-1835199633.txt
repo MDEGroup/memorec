@@ -1,0 +1,11 @@
+Relational#Schema
+Relational#Table
+Relational#Attribute
+Relational#Domain
+Relational#AttributeType
+Relational#CandidateKey
+Relational#ForeignKey
+Relational#PrimitiveType
+Relational#EnumerationType
+Relational#EnumeratedLiteral
+Relational#Constraint

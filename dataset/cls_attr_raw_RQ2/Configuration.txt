@@ -1,0 +1,5 @@
+RequireProject#name
+RequireProject#path
+RequireProject#existingProjectFullPath
+RequireProject#fullPath
+RequireProject#projectExists

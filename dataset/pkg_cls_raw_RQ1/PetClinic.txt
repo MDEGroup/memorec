@@ -1,0 +1,7 @@
+fr.imag.petclinic#Specialty
+fr.imag.petclinic#PetType
+fr.imag.petclinic#AbstractPerson
+fr.imag.petclinic#Owner
+fr.imag.petclinic#Vet
+fr.imag.petclinic#Pet
+fr.imag.petclinic#Visit

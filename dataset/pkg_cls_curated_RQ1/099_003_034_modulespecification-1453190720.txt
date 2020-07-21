@@ -1,0 +1,5 @@
+modulespecification#Version
+modulespecification#OSGiSegment
+modulespecification#OSGiName
+modulespecification#MandatoryString
+modulespecification#Module

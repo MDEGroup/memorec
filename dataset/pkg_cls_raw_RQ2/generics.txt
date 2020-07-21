@@ -1,0 +1,8 @@
+package#AbstractGenericAttributeType
+package#DateAttributeType
+package#DocumentRoot
+package#DoubleAttributeType
+package#GenericCityObjectType
+package#IntAttributeType
+package#StringAttributeType
+package#UriAttributeType

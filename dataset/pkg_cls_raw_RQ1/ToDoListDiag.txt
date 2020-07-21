@@ -1,0 +1,7 @@
+todolistdiag#Task
+todolistdiag#Status
+todolistdiag#Importance
+todolistdiag#Folder
+todolistdiag#ToDoListManager
+todolistdiag#FolderManagerListener
+todolistdiag#FolderManagerEvent

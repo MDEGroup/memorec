@@ -1,0 +1,15 @@
+Domain#isCheckable
+Domain#isEnforceable
+Domain#rule
+Domain#typedModel
+Rule#domain
+Rule#overrides
+Rule#transformation
+Rule#overridden
+Transformation#ownedTag
+Transformation#modelParameter
+Transformation#rule
+Transformation#extends
+TypedModel#transformation
+TypedModel#usedPackage
+TypedModel#dependsOn

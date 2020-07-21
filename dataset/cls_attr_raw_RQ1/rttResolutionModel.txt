@@ -1,0 +1,6 @@
+RTTConnection#name
+RTTConnection#type
+RTTConnection#lockPolicy
+RTTConnection#bufferSize
+RTTConnection#inputPort
+RTTConnection#outputPort

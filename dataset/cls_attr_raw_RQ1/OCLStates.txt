@@ -1,0 +1,9 @@
+Statemachine#initial
+Statemachine#name
+Statemachine#value
+Statemachine#events
+Statemachine#states
+State#initial
+State#name
+State#transitions
+State#statemachine

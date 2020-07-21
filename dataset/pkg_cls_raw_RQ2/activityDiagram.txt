@@ -1,0 +1,12 @@
+package#activityDiagramContainer
+package#Element
+package#Activity
+package#Action
+package#ControlFlow
+package#ForkNode
+package#MergeNode
+package#Node
+package#DecisionNode
+package#JoinNode
+package#StartNode
+package#EndNode

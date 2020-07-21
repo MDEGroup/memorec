@@ -1,0 +1,4 @@
+guiceModules#ModulesAST
+guiceModules#ModuleAST
+guiceModules#BindingAST
+guiceModules#KeyAST

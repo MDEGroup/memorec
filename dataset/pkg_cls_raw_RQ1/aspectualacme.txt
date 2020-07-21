@@ -1,0 +1,15 @@
+aspectualacme#System
+aspectualacme#Component
+aspectualacme#Connector
+aspectualacme#Attachment
+aspectualacme#Role
+aspectualacme#Port
+aspectualacme#Element
+aspectualacme#Property
+aspectualacme#AspectualConnector
+aspectualacme#CrosscuttingRole
+aspectualacme#BaseRole
+aspectualacme#Glue
+aspectualacme#AttachmentDeclaration
+aspectualacme#Binding
+aspectualacme#AspectualComponent

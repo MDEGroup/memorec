@@ -1,0 +1,14 @@
+package#Diagram
+package#Association
+package#Class
+package#Aggregation
+package#Composition
+package#Dependency
+package#Generalization
+package#Interface
+package#InterfaceRealization
+package#Realization
+package#Attribute
+package#PrimitiveDataType
+package#AttributeValue
+package#Method

@@ -1,0 +1,4 @@
+ReasoningResult#ReasoningResultModel
+ReasoningResult#ReasoningArtefact
+ReasoningResult#Check
+ReasoningResult#Information

@@ -1,0 +1,5 @@
+vogella#CodeExample
+vogella#Article
+vogella#Webpage
+vogella#MyWeb
+vogella#Category

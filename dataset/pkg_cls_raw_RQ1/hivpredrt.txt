@@ -1,0 +1,8 @@
+hivpredrt#DocumentRoot
+hivpredrt#HIVPredRTInputType
+hivpredrt#HIVPredRTOutputType
+hivpredrt#MutNotInDatasetType
+hivpredrt#MutOutsideModelBoundariesType
+hivpredrt#MutPlusMutOutsideModelBoundariesType
+hivpredrt#MutPlusWtOutsideModelBoundariesType
+hivpredrt#ResultType

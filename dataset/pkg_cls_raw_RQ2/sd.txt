@@ -1,0 +1,9 @@
+package#SdNamedElement
+package#SdAbstractVariable
+package#SdEquationVariable
+package#SdModel
+package#SdAuxVariable
+package#SdStockVariable
+package#SdFlowVariable
+package#SdConnector
+package#SdGeneratable

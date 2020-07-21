@@ -1,0 +1,14 @@
+check#CheckCatalog
+check#Import
+check#Documented
+check#ImplicitlyNamed
+check#Category
+check#Check
+check#SeverityRange
+check#Implementation
+check#FormalParameter
+check#Context
+check#SeverityKind
+check#TriggerKind
+check#XGuardExpression
+check#XIssueExpression

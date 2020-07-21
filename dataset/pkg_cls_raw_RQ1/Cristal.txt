@@ -1,0 +1,12 @@
+Cristal#Condition
+Cristal#CompositeParDef
+Cristal#ElementaryPartDef
+Cristal#ElementaryActDef
+Cristal#CompositeActDef
+Cristal#ActCompositeMember
+Cristal#ActivityDefinition
+Cristal#PartDefinition
+Cristal#PartCompositeMember
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer

@@ -1,0 +1,4 @@
+BundleReference#versionRange
+BundleReference#optional
+BundleReference#target
+BundleReference#provided

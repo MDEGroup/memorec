@@ -1,0 +1,9 @@
+bio#Model
+bio#Protein
+bio#Gene
+bio#Synonym
+bio#Reaction
+bio#ChemicalInfo
+bio#Taxon
+bio#Experiment
+bio#ExperimentalData

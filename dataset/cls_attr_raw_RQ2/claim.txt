@@ -1,0 +1,10 @@
+Claim#claimCompositeKey
+Claim#billingName
+Claim#claimGroupVSPId
+Claim#claimStatus
+Claim#claimLine
+ClaimLine#claim
+ClaimLine#claimLineCompositeKey
+ClaimLine#claimLineBilledAmount
+ClaimLine#serviceCode
+ClaimLine#claimLineStatus

@@ -1,0 +1,9 @@
+package#AcceleoProject
+package#AcceleoUIProject
+package#AcceleoModule
+package#AcceleoModuleElement
+package#ModuleElementKind
+package#AcceleoMainClass
+package#AcceleoPackage
+package#AcceleoPom
+package#AcceleoPomDependency

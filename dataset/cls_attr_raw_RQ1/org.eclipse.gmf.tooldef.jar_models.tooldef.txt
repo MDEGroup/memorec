@@ -1,0 +1,10 @@
+ToolRegistry#sharedActions
+ToolRegistry#allMenus
+ToolRegistry#palette
+AbstractTool#smallIcon
+AbstractTool#largeIcon
+AbstractTool#title
+AbstractTool#description
+ToolGroup#collapsible
+ToolGroup#stack
+ToolGroup#active

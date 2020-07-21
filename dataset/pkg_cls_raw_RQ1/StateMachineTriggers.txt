@@ -1,0 +1,5 @@
+stateMachineTriggers#Model
+stateMachineTriggers#Trigger
+stateMachineTriggers#Left
+stateMachineTriggers#Right
+stateMachineTriggers#Event

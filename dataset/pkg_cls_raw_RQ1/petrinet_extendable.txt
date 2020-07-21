@@ -1,0 +1,10 @@
+petrinet#PetriNet
+petrinet#RefPetriNets
+petrinet#Node
+petrinet#Arc
+petrinet#RefArcs
+petrinet#RefNodes
+petrinet#Transition
+petrinet#Place
+petrinet#Token
+petrinet#RefTokens

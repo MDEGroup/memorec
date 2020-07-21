@@ -1,0 +1,7 @@
+tp5#Researcher
+tp5#Paper
+tp5#Paragraph
+tp5#PublicationStructure
+tp5#Skill
+tp5#Position
+tp5#Collaboration

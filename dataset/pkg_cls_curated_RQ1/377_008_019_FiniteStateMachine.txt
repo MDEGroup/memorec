@@ -1,0 +1,6 @@
+FSM#MgaObject
+FSM#Transition
+FSM#State
+FSM#StateMachine
+FSM#RootFolder
+FSM#AssociationStateState

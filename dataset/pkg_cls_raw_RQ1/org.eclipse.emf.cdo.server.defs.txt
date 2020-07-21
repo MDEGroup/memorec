@@ -1,0 +1,8 @@
+defs#CDOServerDef
+defs#StoreDef
+defs#MemStoreDef
+defs#RepositoryDef
+defs#SynchronizableRepositoryDef
+defs#RepositorySynchronizerDef
+defs#OfflineCloneDef
+defs#FailoverParticipantDef

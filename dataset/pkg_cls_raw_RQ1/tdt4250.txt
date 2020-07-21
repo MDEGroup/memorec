@@ -1,0 +1,8 @@
+tdt4250#Course
+tdt4250#Assignment
+tdt4250#Answer
+tdt4250#Student
+tdt4250#ResponsibilityRole
+tdt4250#Person
+tdt4250#Teacher
+tdt4250#Root

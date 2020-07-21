@@ -1,0 +1,7 @@
+package#ImperativeModel
+package#Mapping
+package#MappingCall
+package#MappingCallBinding
+package#MiddlePropertyAssignment
+package#MiddlePropertyCallExp
+package#VariablePredicate

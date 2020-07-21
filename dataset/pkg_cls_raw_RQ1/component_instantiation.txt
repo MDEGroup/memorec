@@ -1,0 +1,6 @@
+instantiation#ComponentInstantiation
+instantiation#ExecutableTransformation
+instantiation#AdaptedTransformation
+instantiation#AdaptWithBinding
+instantiation#TemplateSpecificData
+instantiation#AtlTemplateData

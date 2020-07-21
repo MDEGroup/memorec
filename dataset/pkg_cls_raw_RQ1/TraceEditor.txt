@@ -1,0 +1,9 @@
+traceeditor#NamedElement
+traceeditor#Transformation
+traceeditor#TraceLink
+traceeditor#Artefact
+traceeditor#Dashboard
+traceeditor#TraceEditor
+traceeditor#TypeArtefact
+traceeditor#LinkType
+traceeditor#Configuration

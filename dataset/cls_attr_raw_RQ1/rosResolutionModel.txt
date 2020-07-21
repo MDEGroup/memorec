@@ -1,0 +1,3 @@
+ROSRequiredConnections#requiredExistingTopicConnections
+ROSRequiredConnections#requiredExistingServiceConnections
+ROSRequiredConnections#requiredExistingActionConnections

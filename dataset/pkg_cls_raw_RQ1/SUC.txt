@@ -1,0 +1,5 @@
+SUC#SUCmodel
+SUC#UseCase
+SUC#Role
+SUC#HumanRole
+SUC#SystemRole

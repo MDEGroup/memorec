@@ -1,0 +1,4 @@
+thingDsl#DomainModel
+thingDsl#AbstractThing
+thingDsl#Square
+thingDsl#Circle

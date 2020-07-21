@@ -1,0 +1,17 @@
+package#Case
+package#Bus
+package#Load
+package#Generator
+package#Branch
+package#Transformer
+package#Area
+package#Zone
+package#Owner
+package#TransformerImpedanceCorrectionTable
+package#ChangeCode
+package#BusTypeCode
+package#WindingCode
+package#ImpedanceCode
+package#AdmittanceCode
+package#TransformerStatus
+package#TransformerControlMode

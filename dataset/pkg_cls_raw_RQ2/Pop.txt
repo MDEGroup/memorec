@@ -1,0 +1,15 @@
+package#Stream
+package#IntegrationStream
+package#TaskStream
+package#DevelopmentStream
+package#MaintenanceStream
+package#Pop
+package#Delivery
+package#Release
+package#Milestone
+package#Merge
+package#Baseline
+package#Target
+package#Committer
+package#TargetBaseline
+package#PopManager

@@ -1,0 +1,3 @@
+GraphElement#graph
+GraphElement#label
+GraphElement#color

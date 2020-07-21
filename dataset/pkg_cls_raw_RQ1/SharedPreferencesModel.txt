@@ -1,0 +1,9 @@
+sharedPreferencesModel#Model
+sharedPreferencesModel#PreferencesBlock
+sharedPreferencesModel#Preference
+sharedPreferencesModel#Literal
+sharedPreferencesModel#PreferenceType
+sharedPreferencesModel#BooleanValue
+sharedPreferencesModel#BooleanLiteral
+sharedPreferencesModel#StringLiteral
+sharedPreferencesModel#NumericLiteral

@@ -1,0 +1,13 @@
+Document#authors
+Document#abstract
+Document#year
+Document#month
+Document#title
+Document#key
+Document#doi
+Document#url
+Document#unparsedAuthors
+Document#taxonomy
+Document#type
+Document#file
+Document#cites

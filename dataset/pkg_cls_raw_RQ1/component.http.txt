@@ -1,0 +1,5 @@
+http#BasicAuthenticationType
+http#DocumentRoot
+http#HTTPBindingType
+http#NTLMAuthenticationType
+http#ProxyType

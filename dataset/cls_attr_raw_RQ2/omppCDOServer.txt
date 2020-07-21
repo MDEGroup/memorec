@@ -1,0 +1,8 @@
+CDOClient#name
+CDOClient#description
+CDOClient#uri
+CDOClient#repositoryName
+CDOClient#resourceName
+CDOServer#port
+CDOServer#repositoryName
+CDOServer#resourceName

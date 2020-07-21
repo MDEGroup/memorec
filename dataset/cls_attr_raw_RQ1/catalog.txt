@@ -1,0 +1,13 @@
+Catalog#name
+Catalog#version
+Catalog#resources
+Catalog#classes
+Catalog#metadata
+Catalog#edges
+CatalogResource#file
+CatalogResource#line
+CatalogResource#type
+CatalogResource#title
+CatalogResource#parameters
+CatalogResource#virtual
+CatalogResource#exported

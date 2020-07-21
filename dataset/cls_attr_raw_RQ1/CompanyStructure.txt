@@ -1,0 +1,3 @@
+Store#storeBackOffice
+Store#employee
+Store#cashRegister

@@ -1,0 +1,13 @@
+Network#name
+Network#nodes
+Network#arcs
+Node#name
+Node#reseau
+Node#predecessors
+Node#successors
+Arc#readOnly
+Arc#kind
+Arc#tokensCount
+Arc#reseau
+Arc#source
+Arc#target

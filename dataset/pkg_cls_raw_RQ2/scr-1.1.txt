@@ -1,0 +1,11 @@
+package#Component
+package#Implementation
+package#Property
+package#Properties
+package#Service
+package#Provide
+package#Reference
+package#Policy
+package#Cardinality
+package#ConfigurationPolicy
+package#JavaType

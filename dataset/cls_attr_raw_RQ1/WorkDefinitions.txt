@@ -1,0 +1,3 @@
+WorkDefinition#parentWorks
+WorkDefinition#subWorks
+WorkDefinition#owner

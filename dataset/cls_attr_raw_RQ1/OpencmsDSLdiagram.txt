@@ -1,0 +1,4 @@
+Componente#name
+Componente#elementoOculto
+Componente#elementoVisual
+Componente#componentePredeterminado

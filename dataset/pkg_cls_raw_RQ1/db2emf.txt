@@ -1,0 +1,13 @@
+emf#EPortDBNode
+emf#EInstanceDB
+emf#EInstanceDBNode
+emf#EInstanceHierDB
+emf#EModelDB
+emf#EPortDB
+emf#EPinDB
+emf#EElementDB
+emf#ECellType
+emf#EPORT_DIRECTION
+emf#EIModuleDB
+emf#EIPortDB
+emf#EElementDBNode

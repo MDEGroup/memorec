@@ -1,0 +1,5 @@
+PapyrusTableInstance#name
+PapyrusTableInstance#type
+PapyrusTableInstance#isSynchronized
+PapyrusTableInstance#table
+PapyrusTableInstance#fillingQueries

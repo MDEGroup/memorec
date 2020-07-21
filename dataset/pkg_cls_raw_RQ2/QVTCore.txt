@@ -1,0 +1,12 @@
+package#Area
+package#Assignment
+package#BottomPattern
+package#GuardPattern
+package#Mapping
+package#RealizedVariable
+package#CoreDomain
+package#CorePattern
+package#EnforcementOperation
+package#EnforcementMode
+package#PropertyAssignment
+package#VariableAssignment

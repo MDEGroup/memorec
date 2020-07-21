@@ -1,0 +1,16 @@
+elrGrammar#Grammar
+elrGrammar#Rules
+elrGrammar#NamedElement
+elrGrammar#TypReferenz
+elrGrammar#Lexical
+elrGrammar#RHS-Parser-Element
+elrGrammar#Literal
+elrGrammar#Block
+elrGrammar#Alternative
+elrGrammar#Epsilon
+elrGrammar#LexerRule
+elrGrammar#ParserRule
+elrGrammar#Multiplicity
+elrGrammar#RuleReference
+elrGrammar#WordClass
+elrGrammar#RHS-Lexer-Element

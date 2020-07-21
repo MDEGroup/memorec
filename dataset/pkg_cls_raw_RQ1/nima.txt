@@ -1,0 +1,12 @@
+nima#Archetype
+nima#Config
+nima#TypeDef
+nima#typeAtt
+nima#Univers
+nima#Combat
+nima#TypeAttaque
+nima#Fiche
+nima#Lien
+nima#Box
+nima#ListeCategorie
+nima#Categorie

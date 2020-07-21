@@ -1,0 +1,14 @@
+BPackage#ecorePackage
+BPackage#bModel
+BPackage#bEnums
+BPackage#bDataTypes
+BPackage#bClasses
+BPackage#nestedBPackages
+BPackage#bClassifiers
+BClass#ecoreClass
+BClass#bFeatures
+BClass#bOperations
+BOperation#bClass
+BOperation#ecoreOperation
+BOperation#bParameters
+BOperation#bTypeParameters

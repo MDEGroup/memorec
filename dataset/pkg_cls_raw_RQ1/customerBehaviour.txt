@@ -1,0 +1,7 @@
+customerBehaviour#CustomerBehaviour
+customerBehaviour#Developer
+customerBehaviour#App
+customerBehaviour#AppCategory
+customerBehaviour#Customer
+customerBehaviour#Purchase
+customerBehaviour#CustomerSimilarityScore

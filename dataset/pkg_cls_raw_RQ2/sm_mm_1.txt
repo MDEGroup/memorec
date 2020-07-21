@@ -1,0 +1,12 @@
+package#MappingModel
+package#Class
+package#Attribute
+package#Operator
+package#C2C
+package#A2A
+package#Reference
+package#R2R
+package#A2C
+package#Element
+package#ContextOperator
+package#R2A

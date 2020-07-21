@@ -1,0 +1,5 @@
+package#Classifier
+package#Class
+package#PrimitiveDataType
+package#Association
+package#Attribute

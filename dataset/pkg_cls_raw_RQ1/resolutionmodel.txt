@@ -1,0 +1,8 @@
+resolutionmodels#ResolutionModel
+resolutionmodels#RMResolutionElement
+resolutionmodels#RMAbstractTransformation
+resolutionmodels#RMRequiredComponents
+resolutionmodels#RMRequiredConnections
+resolutionmodels#RMTransfImplementation
+resolutionmodels#RMTransfProperty
+resolutionmodels#RMTransfConnection

@@ -1,0 +1,9 @@
+Entity#name
+Entity#extends
+Entity#properties
+SimpleProperty#name
+SimpleProperty#many
+SimpleProperty#type
+Reference#name
+Reference#many
+Reference#type

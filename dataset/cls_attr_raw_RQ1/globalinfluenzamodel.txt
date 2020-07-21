@@ -1,0 +1,5 @@
+GlobalInfluenzaModel#latitudeSigmoidWidth
+GlobalInfluenzaModel#seasonalModulationExponent
+GlobalInfluenzaModel#modulationPeriod
+GlobalInfluenzaModel#modulationPhaseShift
+GlobalInfluenzaModel#seasonalModulationFloor

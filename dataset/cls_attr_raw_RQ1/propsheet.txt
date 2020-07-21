@@ -1,0 +1,3 @@
+CustomPropertySection#section
+CustomPropertySection#tab
+CustomPropertySection#nodes

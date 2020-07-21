@@ -1,0 +1,8 @@
+Travel#start
+Travel#data
+Travel#end
+Travel#connections
+Travel#items
+Connection#name
+Connection#sourceNode
+Connection#targetNode

@@ -1,0 +1,11 @@
+Contact#name
+Contact#lastname
+Contact#street
+Contact#zipcode
+Contact#city
+Contact#counrtry
+Contact#phone
+Contact#fax
+Contact#mobile
+Contact#mail
+Contact#additional_info

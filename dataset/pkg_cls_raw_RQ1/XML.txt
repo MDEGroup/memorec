@@ -1,0 +1,6 @@
+xmlModel#Document
+xmlModel#Content
+xmlModel#Element
+xmlModel#CData
+xmlModel#Attribute
+xmlModel#Namespace

@@ -1,0 +1,10 @@
+model#IServiceInfo
+model#INetwork
+model#ECFIServiceInfo
+model#IHost
+model#InetAddress
+model#ECFIServiceID
+model#ECFIServiceTypeID
+model#IServiceID
+model#IServiceTypeID
+model#URI

@@ -1,0 +1,10 @@
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+QoSProfile#QoSComponent
+QoSProfile#Operation
+QoSProfile#QoSProfile
+QoSProfile#CompoundProfile
+QoSProfile#SimpleProfile
+QoSProfile#QoSStatement
+QoSProfile#ProfileTransition

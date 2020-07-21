@@ -1,0 +1,3 @@
+package#Attribute
+package#Attributable
+package#Adaptable

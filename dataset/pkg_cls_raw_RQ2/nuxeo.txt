@@ -1,0 +1,4 @@
+package#NuxeoConnectionItem
+package#NuxeoConnection
+package#AutomationOperation
+package#NuxeoSchema

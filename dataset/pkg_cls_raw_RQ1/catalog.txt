@@ -1,0 +1,6 @@
+catalog#Catalog
+catalog#CatalogResource
+catalog#CatalogMetadata
+catalog#CatalogEdge
+catalog#CatalogResourceParameter
+catalog#Taggable

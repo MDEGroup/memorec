@@ -1,0 +1,6 @@
+Record#configuration
+Record#name
+Record#start
+Record#end
+Record#hBaseRowMap
+Record#results

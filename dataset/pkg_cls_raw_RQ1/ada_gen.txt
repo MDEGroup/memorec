@@ -1,0 +1,11 @@
+ada_gen#AdaPackage
+ada_gen#PrimitivesPackage
+ada_gen#Variant
+ada_gen#PrimitiveVariant
+ada_gen#EnumVariant
+ada_gen#Enumerate
+ada_gen#PrimitivesType
+ada_gen#Record
+ada_gen#Element
+ada_gen#Simple
+ada_gen#Cardinality

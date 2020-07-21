@@ -1,0 +1,9 @@
+OurIFC#materialAssociation
+OurIFC#typedefinitions
+OurIFC#elementtypes
+OurIFC#materials
+OurIFC#materialLists
+OurIFC#materialLayers
+OurIFC#materialLayerSet
+OurIFC#materialLayerSetUsage
+OurIFC#elements

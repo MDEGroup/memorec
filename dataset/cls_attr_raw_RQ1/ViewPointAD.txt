@@ -1,0 +1,8 @@
+ArchitectureDescription#views
+ArchitectureDescription#offers
+ArchitectureDescription#conforms
+ArchitectureDescription#name
+ArchitectureDescription#qualityProperties
+ContinousObservation#min
+ContinousObservation#max
+ContinousObservation#value

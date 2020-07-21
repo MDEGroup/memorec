@@ -1,0 +1,9 @@
+package#SeminarSchedulingSystem
+package#Presenter
+package#Seminar
+package#Offering
+package#Date
+package#Attendee
+package#Boolean
+package#Integer
+package#String

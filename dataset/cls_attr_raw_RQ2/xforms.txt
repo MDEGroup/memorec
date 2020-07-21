@@ -1,0 +1,7 @@
+XFormsDocumentRoot#group
+XFormsDocumentRoot#toggle
+XFormsDocumentRoot#trigger
+XFormsDocumentRoot#switch
+InputType#label
+InputType#hint
+InputType#ref

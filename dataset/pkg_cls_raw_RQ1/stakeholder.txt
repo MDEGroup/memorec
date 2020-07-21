@@ -1,0 +1,4 @@
+stakeholder#Stakeholder
+stakeholder#StakeholderClass
+stakeholder#RelevantArtifact
+stakeholder#Value

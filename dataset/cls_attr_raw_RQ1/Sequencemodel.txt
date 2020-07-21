@@ -1,0 +1,13 @@
+Sequence#annotation
+Sequence#name
+Sequence#participant
+Sequence#transition
+IfElseFragment#elseIfExpr
+IfElseFragment#elseIftransition
+IfElseFragment#elseTransition
+CallMessage#source
+CallMessage#target
+CallMessage#return
+SelfMessage#source
+SelfMessage#return
+SelfMessage#transition

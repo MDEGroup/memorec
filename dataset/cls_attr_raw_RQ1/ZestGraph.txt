@@ -1,0 +1,12 @@
+GraphNode#shape
+GraphNode#nodeStyle
+GraphNode#backColor
+GraphNode#width
+GraphNode#height
+GraphNode#outgoing
+GraphNode#ingoing
+GraphConnection#color
+GraphConnection#lineWidth
+GraphConnection#lineStyle
+GraphConnection#sourceNode
+GraphConnection#targetNode

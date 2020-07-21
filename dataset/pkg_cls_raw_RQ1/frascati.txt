@@ -1,0 +1,8 @@
+frascati#JBIBinding
+frascati#FractalImplementation
+frascati#DocumentRoot
+frascati#OsgiImplementation
+frascati#ScriptImplementation
+frascati#RestBinding
+frascati#RMIBinding
+frascati#JsonRpcBinding

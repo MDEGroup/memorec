@@ -1,0 +1,5 @@
+Word#begin
+Word#end
+Word#text
+Word#governors
+Word#dependents

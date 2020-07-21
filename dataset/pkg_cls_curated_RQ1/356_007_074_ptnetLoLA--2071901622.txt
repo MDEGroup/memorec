@@ -1,0 +1,17 @@
+ptnetLoLA#Place
+ptnetLoLA#PtNet
+ptnetLoLA#Transition
+ptnetLoLA#Node
+ptnetLoLA#Marking
+ptnetLoLA#PlaceReference
+ptnetLoLA#RefMarkedPlace
+ptnetLoLA#Annotation
+ptnetLoLA#Arc
+ptnetLoLA#ArcToPlace
+ptnetLoLA#ArcToTransition
+ptnetLoLA#NodeType
+ptnetLoLA#TransitionExt
+ptnetLoLA#PlaceExt
+ptnetLoLA#ArcToPlaceExt
+ptnetLoLA#ArcToTransitionExt
+ptnetLoLA#Confidentiality

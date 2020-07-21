@@ -1,0 +1,15 @@
+package#Preferences
+package#LinkLocation
+package#ToolInstallation
+package#ToolPreference
+package#EclipseVersion
+package#DirectorCall
+package#InstallableUnit
+package#P2Repository
+package#Configuration
+package#Project
+package#Branch
+package#ApiBaseline
+package#GitClone
+package#Setup
+package#URI

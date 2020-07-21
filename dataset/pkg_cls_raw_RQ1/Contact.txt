@@ -1,0 +1,6 @@
+Contact#Contact
+Contact#Num_fixe
+Contact#Num_portable
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean

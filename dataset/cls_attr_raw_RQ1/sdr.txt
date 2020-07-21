@@ -1,0 +1,11 @@
+SdrRoot#loadStatus
+SdrRoot#state
+SdrRoot#componentsContainer
+SdrRoot#waveformsContainer
+SdrRoot#devicesContainer
+SdrRoot#servicesContainer
+SdrRoot#nodesContainer
+SdrRoot#domainConfiguration
+SdrRoot#idlLibrary
+SdrRoot#devFileSystemRoot
+SdrRoot#domFileSystemRoot

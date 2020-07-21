@@ -1,0 +1,7 @@
+ModelElement#identifier
+ModelElement#description
+ModelElement#content
+ModelElement#isTagged
+Argument#containsArgumentElement
+Argument#containsArgumentLink
+Argument#containsArgument

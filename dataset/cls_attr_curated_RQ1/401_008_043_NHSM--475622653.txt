@@ -1,0 +1,8 @@
+Transition#trigger
+Transition#target
+Transition#source
+Transition#effect
+Transition#owningStateMachine
+StateMachine#ownedState
+StateMachine#ownedTransition
+StateMachine#name

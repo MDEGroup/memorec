@@ -1,0 +1,11 @@
+package#SdrRoot
+package#ComponentsContainer
+package#WaveformsContainer
+package#DevicesContainer
+package#ServicesContainer
+package#NodesContainer
+package#LoadState
+package#IStatus
+package#StringToAbstractProperty
+package#PropertyRegistry
+package#SoftPkgRegistry

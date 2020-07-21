@@ -1,0 +1,8 @@
+Class#name
+Class#extends
+Class#fields
+Class#methods
+Method#returntype
+Method#name
+Method#params
+Method#body

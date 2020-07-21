@@ -1,0 +1,8 @@
+package#AnnotatedClass
+package#AnnotatedMethod
+package#NamedEntity
+package#ParsedModel
+package#Annotation
+package#AnnotatedEntity
+package#AnnotatedField
+package#AnnotatedParameter

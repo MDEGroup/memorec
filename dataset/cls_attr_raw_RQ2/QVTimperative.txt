@@ -1,0 +1,7 @@
+MappingCall#referredMapping
+MappingCall#binding
+MappingCall#context
+MappingCallBinding#mappingCall
+MappingCallBinding#boundVariable
+MappingCallBinding#value
+MappingCallBinding#isLoop

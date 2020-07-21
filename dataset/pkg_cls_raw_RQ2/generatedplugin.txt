@@ -1,0 +1,4 @@
+package#DublinCore
+package#Extension
+package#Plugin
+package#StemCategory

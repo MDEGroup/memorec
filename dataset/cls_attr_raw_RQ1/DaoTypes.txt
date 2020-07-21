@@ -1,0 +1,4 @@
+DaoTypesModel#name
+DaoTypesModel#imports
+DaoTypesModel#compoName
+DaoTypesModel#packages

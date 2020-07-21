@@ -1,0 +1,4 @@
+guixdsl#DslModel
+guixdsl#DslAbstractGuiElement
+guixdsl#DslGuiModule
+guixdsl#DslView

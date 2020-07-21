@@ -1,0 +1,14 @@
+package#StrutsApplication
+package#FormImpl
+package#ExtendsActionForm
+package#ActionImpl
+package#ForwardImpl
+package#InputForwardImpl
+package#Forward
+package#ExtendsAction
+package#ExtendsDispatchAction
+package#StrutsConfig
+package#ActionDecl
+package#FormDecl
+package#ForwardDecl
+package#FormProperty

@@ -1,0 +1,14 @@
+api2mol#Definition
+api2mol#DefaultMetaclassSection
+api2mol#Mapping
+api2mol#Section
+api2mol#PropertySection
+api2mol#NewSection
+api2mol#MultipleSection
+api2mol#ValueSection
+api2mol#Statement
+api2mol#StatementType
+api2mol#NamedElement
+api2mol#MethodCall
+api2mol#Parameter
+api2mol#Constructor

@@ -1,0 +1,7 @@
+caz#ArgumentDiagram
+caz#Claim
+caz#Argument
+caz#Evidence
+caz#Assumption
+caz#Context
+caz#Justification

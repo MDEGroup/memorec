@@ -1,0 +1,8 @@
+DataSourceDef#class
+DataSourceDef#dbUsername
+DataSourceDef#dbPassword
+JNDIDataSourceDef#jndiName
+JNDIDataSourceDef#jndiURL
+JNDIDataSourceDef#jndiContextFactory
+JNDIDataSourceDef#jndiUsername
+JNDIDataSourceDef#jndiPassword

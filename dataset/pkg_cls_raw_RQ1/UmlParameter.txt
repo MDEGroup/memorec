@@ -1,0 +1,6 @@
+umlParameter#ParameterRule
+umlParameter#ModifiersRule
+umlParameter#ModifierSpecification
+umlParameter#ModifierKind
+umlParameter#EffectKind
+umlParameter#EffectRule

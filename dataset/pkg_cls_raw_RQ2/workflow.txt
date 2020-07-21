@@ -1,0 +1,16 @@
+package#WorkflowElement
+package#Workflow
+package#WorkflowNode
+package#Task
+package#CompoundTask
+package#LoopTask
+package#Choice
+package#Edge
+package#Port
+package#InputPort
+package#OutputPort
+package#FaultPort
+package#ConditionalOutputPort
+package#Comment
+package#AdviceType
+package#AdviceTask

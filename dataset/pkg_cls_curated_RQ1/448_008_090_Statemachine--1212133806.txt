@@ -1,0 +1,9 @@
+statemachine#StateMachine
+statemachine#Declaration
+statemachine#Transition
+statemachine#State
+statemachine#Action
+statemachine#StateMachineVariable
+statemachine#NormalState
+statemachine#InitialState
+statemachine#FinalState

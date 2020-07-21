@@ -1,0 +1,13 @@
+PNML#LocatedElement
+PNML#IdedElement
+PNML#URI
+PNML#PNMLDocument
+PNML#NetElement
+PNML#NetContent
+PNML#LabeledElement
+PNML#Label
+PNML#Name
+PNML#NetContentElement
+PNML#Arc
+PNML#Place
+PNML#Transition

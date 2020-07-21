@@ -1,0 +1,13 @@
+package#Behavior
+package#State
+package#Init
+package#Final
+package#Intermediate
+package#Invocation
+package#Elementary
+package#Complex
+package#Selflet
+package#Service
+package#Condition
+package#Action
+package#FileReference

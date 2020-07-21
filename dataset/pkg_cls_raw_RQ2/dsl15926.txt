@@ -1,0 +1,13 @@
+package#AbstractObject
+package#Template
+package#TemplateRole
+package#Repository
+package#NamedElement
+package#Annotation
+package#Individual
+package#Class
+package#TemplateInstance
+package#TemplateRoleInstance
+package#Thing
+package#Classification
+package#Specialization

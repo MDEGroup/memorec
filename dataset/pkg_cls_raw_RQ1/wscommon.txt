@@ -1,0 +1,6 @@
+wscommon#InitParam
+wscommon#SOAPHeader
+wscommon#SOAPRole
+wscommon#PortName
+wscommon#DescriptionType
+wscommon#DisplayNameType

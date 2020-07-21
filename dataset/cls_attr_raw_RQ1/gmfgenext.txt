@@ -1,0 +1,11 @@
+NewMenuDefinitions#defID
+NewMenuDefinitions#contexts
+NewMenuDefinitions#importedContexts
+NewMenuDefinitions#importedDefinitions
+NewMenuContext#metaclass
+NewMenuContext#includeSubClasses
+NewMenuContext#entries
+NewMenuContext#importedEntries
+NewMenuEntry#containment
+NewMenuEntry#displayName
+NewMenuEntry#children

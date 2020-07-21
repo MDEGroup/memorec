@@ -1,0 +1,5 @@
+rails_tgg_rule#AnnotatedProject
+rails_tgg_rule#AnnotatedComponent
+rails_tgg_rule#AnnotatedTrain
+rails_tgg_rule#AnnotatedPort
+rails_tgg_rule#AnnotatedConnection

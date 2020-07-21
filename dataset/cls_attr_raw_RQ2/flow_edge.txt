@@ -1,0 +1,4 @@
+Task#outs
+Task#ins
+Task#name
+Task#isInitial

@@ -1,0 +1,14 @@
+Assignment#bottomPattern
+Assignment#slotExpression
+Assignment#value
+Assignment#isDefault
+BottomPattern#area
+BottomPattern#assignment
+BottomPattern#realizedVariable
+BottomPattern#enforcementOperation
+Mapping#specification
+Mapping#local
+Mapping#context
+EnforcementOperation#enforcementMode
+EnforcementOperation#bottomPattern
+EnforcementOperation#operationCallExp

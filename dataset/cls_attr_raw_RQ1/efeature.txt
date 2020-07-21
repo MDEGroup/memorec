@@ -1,0 +1,5 @@
+EFeature#ID
+EFeature#data
+EFeature#SRID
+EFeature#default
+EFeature#structure

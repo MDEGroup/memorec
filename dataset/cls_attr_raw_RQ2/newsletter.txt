@@ -1,0 +1,3 @@
+MailjetManager#apiKey
+MailjetManager#secretKey
+MailjetManager#listId

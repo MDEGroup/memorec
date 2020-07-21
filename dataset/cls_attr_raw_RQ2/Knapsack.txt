@@ -1,0 +1,8 @@
+KnapsackProblem#algorithm
+KnapsackProblem#capacity
+KnapsackProblem#duration
+KnapsackProblem#packedItem
+KnapsackProblem#unpackedItem
+Item#name
+Item#weight
+Item#value

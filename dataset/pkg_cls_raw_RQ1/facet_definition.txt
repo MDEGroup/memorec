@@ -1,0 +1,8 @@
+description#FacetDefinition
+description#FacetType
+description#DateFacet
+description#ListFacet
+description#RangeFacet
+description#TreeFacet
+description#FacetValue
+description#FreeTextFacet

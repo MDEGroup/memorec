@@ -1,0 +1,6 @@
+DomainModelFile#name
+DomainModelFile#imports
+DomainModelFile#entities
+Entity#name
+Entity#superType
+Entity#features

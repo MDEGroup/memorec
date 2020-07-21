@@ -1,0 +1,10 @@
+Library#address
+Library#borrowables
+Library#customers
+Library#authors
+Borrowable#title
+Borrowable#library
+Borrowable#copiesAvailable
+Author#name
+Author#writtenBooks
+Author#library

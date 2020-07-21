@@ -1,0 +1,8 @@
+Transition#source
+Transition#target
+Transition#guard
+Transition#triggerEventName
+StateMachine#nodes
+StateMachine#transitions
+StateMachine#name
+StateMachine#module

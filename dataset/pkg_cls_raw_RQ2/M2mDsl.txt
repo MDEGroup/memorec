@@ -1,0 +1,8 @@
+package#Transformation
+package#Import
+package#Rule
+package#Where
+package#Create
+package#MappingDef
+package#Assignment
+package#Reference

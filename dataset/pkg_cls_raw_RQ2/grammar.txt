@@ -1,0 +1,14 @@
+package#Grammar
+package#NamedElement
+package#NonTerminalRule
+package#TerminalRule
+package#Rule
+package#TerminalMacro
+package#CharClass
+package#Literal
+package#MacroToken
+package#Occurrence
+package#Multiplicity
+package#GrammarDetails
+package#Token
+package#MacroRef

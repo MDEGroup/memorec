@@ -1,0 +1,4 @@
+LayoutInformation#startOffset
+LayoutInformation#hiddenTokenText
+LayoutInformation#visibleTokenText
+LayoutInformation#syntaxElementID

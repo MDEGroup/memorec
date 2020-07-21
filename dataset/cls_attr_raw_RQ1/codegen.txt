@@ -1,0 +1,10 @@
+ImplementationSettings#name
+ImplementationSettings#outputDir
+ImplementationSettings#template
+ImplementationSettings#properties
+ImplementationSettings#generatorId
+ImplementationSettings#generatedOn
+ImplementationSettings#id
+ImplementationSettings#generatedFileCRCs
+ImplementationSettings#portGenerators
+ImplementationSettings#primary

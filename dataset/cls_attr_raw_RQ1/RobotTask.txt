@@ -1,0 +1,13 @@
+Project#name
+Project#resources
+Project#excludeExpression
+DynamicFile#executionURI
+DynamicFile#type
+DynamicFile#variables
+Variable#key
+Variable#defaultValue
+Variable#description
+Variable#type
+CompilationUnit#packagename
+CompilationUnit#file
+CompilationUnit#sourcefragment

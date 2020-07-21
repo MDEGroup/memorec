@@ -1,0 +1,4 @@
+Trace#name
+Trace#sources
+Trace#target
+Trace#rules

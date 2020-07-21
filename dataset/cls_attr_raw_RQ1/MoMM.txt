@@ -1,0 +1,13 @@
+ModelElement#level
+ModelElement#name
+ModelElement#potency
+ModelElement#hasClass
+ModelElement#classElement
+ModelElement#elementTarget
+ModelElement#elementSource
+ModelElement#attributes
+ModelElement#attType
+Association#maxSource
+Association#maxTarget
+Association#minSource
+Association#minTarget

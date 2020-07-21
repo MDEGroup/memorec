@@ -1,0 +1,8 @@
+package#UMLModelElement
+package#Attribute
+package#Package
+package#PackageElement
+package#Classifier
+package#Class
+package#PrimitiveDataType
+package#Association

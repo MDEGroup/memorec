@@ -1,0 +1,7 @@
+simplec#NamedElement
+simplec#CompilationUnit
+simplec#Method
+simplec#Struct
+simplec#Variable
+simplec#Statement
+simplec#Definition

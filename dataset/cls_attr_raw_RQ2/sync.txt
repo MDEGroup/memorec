@@ -1,0 +1,16 @@
+SyncItem#synchronizationState
+SyncItem#reconciliationDecision
+SyncItem#result
+SynchronizationResult#assertedModel
+SynchronizationResult#implementationModel
+SynchronizationResult#classSyncItems
+ClassSyncItem#synchronizationState
+ClassSyncItem#reconciliationDecision
+ClassSyncItem#result
+ClassSyncItem#syncItems
+ClassSyncItem#model
+ClassSyncItem#code
+StructuralFeatureSyncItem#synchronizationState
+StructuralFeatureSyncItem#reconciliationDecision
+StructuralFeatureSyncItem#result
+StructuralFeatureSyncItem#structuralFeature

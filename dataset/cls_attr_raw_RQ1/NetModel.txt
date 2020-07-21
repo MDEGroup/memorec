@@ -1,0 +1,7 @@
+HttpMethod#type
+HttpMethod#name
+HttpMethod#path
+HttpMethod#blocks
+EnumMember#name
+EnumMember#assignment
+EnumMember#value

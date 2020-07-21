@@ -1,0 +1,14 @@
+minuml2#Activity
+minuml2#ActivityNode
+minuml2#ActivityGroup
+minuml2#ActivityPartition
+minuml2#OpaqueAction
+minuml2#ForkNode
+minuml2#JoinNode
+minuml2#DecisionNode
+minuml2#ActivityFinalNode
+minuml2#ActivityEdge
+minuml2#ControlFlow
+minuml2#ObjectFlow
+minuml2#ValueSpecification
+minuml2#OpaqueExpression

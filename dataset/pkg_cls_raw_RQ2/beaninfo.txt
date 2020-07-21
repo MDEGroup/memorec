@@ -1,0 +1,12 @@
+package#FeatureDecorator
+package#BeanDecorator
+package#EventSetDecorator
+package#MethodDecorator
+package#ParameterDecorator
+package#PropertyDecorator
+package#IndexedPropertyDecorator
+package#MethodProxy
+package#BeanEvent
+package#FeatureAttributeMapEntry
+package#FeatureAttributeValue
+package#ImplicitItem

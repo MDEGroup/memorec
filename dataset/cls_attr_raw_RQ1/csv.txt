@@ -1,0 +1,6 @@
+FieldDefinition#name
+FieldDefinition#index
+FieldDefinition#fieldType
+ComparisonRule#operator
+ComparisonRule#comparisonValue
+ComparisonRule#inputField

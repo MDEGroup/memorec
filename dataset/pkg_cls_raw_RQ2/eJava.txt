@@ -1,0 +1,11 @@
+package#EPackageWrapper
+package#EClassifierWrapper
+package#EClassifierClassWrapper
+package#EClassifierInterfaceWrapper
+package#EClassifierEnumerationWrapper
+package#EStructuralFeatureWrapper
+package#EStructuralFeatureGetWrapper
+package#EStructuralFeatureSetWrapper
+package#EEnumLiteralWrapper
+package#EOperationWrapper
+package#EObjectInstantiation

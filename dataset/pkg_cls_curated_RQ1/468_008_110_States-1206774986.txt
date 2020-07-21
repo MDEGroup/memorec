@@ -1,0 +1,7 @@
+states#Module
+states#Statemachine
+states#Event
+states#State
+states#SimpleState
+states#CompoundState
+states#Transition

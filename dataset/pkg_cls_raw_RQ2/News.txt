@@ -1,0 +1,9 @@
+package#Element
+package#Newspaper
+package#News
+package#Category
+package#Date
+package#DayKind
+package#String
+package#Integer
+package#Boolean

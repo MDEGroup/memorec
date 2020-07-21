@@ -1,0 +1,15 @@
+package#Site
+package#Page
+package#MainPage
+package#Section
+package#Widget
+package#Form
+package#Table
+package#Text
+package#Video
+package#Gallery
+package#ImagesBlock
+package#FormWidget
+package#TextArea
+package#Spinner
+package#CheckBox

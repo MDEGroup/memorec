@@ -1,0 +1,15 @@
+izpack#Installer
+izpack#ISO3Code
+izpack#Locale
+izpack#Identification
+izpack#Author
+izpack#Constraint
+izpack#Uninstall
+izpack#Option
+izpack#Packaging
+izpack#Variable
+izpack#OS
+izpack#OverrideFlag
+izpack#Pack
+izpack#File
+izpack#Panel

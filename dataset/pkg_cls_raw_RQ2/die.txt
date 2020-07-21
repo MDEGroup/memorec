@@ -1,0 +1,6 @@
+package#Die
+package#DiePadBand
+package#PadBundle
+package#DieCore
+package#PAD_SIDE
+package#PadFamily

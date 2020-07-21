@@ -1,0 +1,6 @@
+category#Category
+category#CategoryContainer
+category#CategoryCatalog
+category#CategoryStatus
+category#CategoryManager
+category#EntityLookup

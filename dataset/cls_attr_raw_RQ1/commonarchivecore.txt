@@ -1,0 +1,14 @@
+File#URI
+File#lastModified
+File#size
+File#directoryEntry
+File#originalURI
+File#loadingContainer
+File#container
+ModuleRef#moduleFile
+ModuleRef#earFile
+ModuleRef#module
+LooseArchive#uri
+LooseArchive#binariesPath
+LooseArchive#resourcesPath
+LooseArchive#looseApp

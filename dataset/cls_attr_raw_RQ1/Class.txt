@@ -1,0 +1,6 @@
+Class#super
+Class#attr
+Class#isAbstract
+Attribute#multiValued
+Attribute#type
+Attribute#owner

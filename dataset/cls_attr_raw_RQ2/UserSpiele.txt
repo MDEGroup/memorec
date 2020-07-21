@@ -1,0 +1,15 @@
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#spielplan
+SpielType#iD
+SpielType#staffelname
+SpielType#nr
+SpielType#tag
+SpielType#datum
+SpielType#heimmannschaft
+SpielType#gastmannschaft
+SpielType#ergebnis
+SpielType#kennzeichnung
+SpielType#link
+SpielType#zeit

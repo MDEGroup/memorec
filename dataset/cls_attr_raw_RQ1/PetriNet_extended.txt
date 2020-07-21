@@ -1,0 +1,10 @@
+PetriNet#elements
+PetriNet#arcs
+PetriNet#execs
+Execution#net
+Execution#markings
+Execution#movements
+Movement#exec
+Movement#fire
+Movement#source
+Movement#target

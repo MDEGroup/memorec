@@ -1,0 +1,14 @@
+csvmm#FileDefinition
+csvmm#FieldDefinition
+csvmm#FieldType
+csvmm#StaticField
+csvmm#DerivedField
+csvmm#AggregationField
+csvmm#AggregationType
+csvmm#RuleBasedField
+csvmm#ComparisonOperator
+csvmm#LogicalOperator
+csvmm#Rule
+csvmm#CompositeRule
+csvmm#ComparisonRule
+csvmm#FileDefinitionSet

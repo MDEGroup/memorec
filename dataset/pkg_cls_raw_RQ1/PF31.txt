@@ -1,0 +1,17 @@
+RAW29#Case
+RAW29#Bus
+RAW29#Load
+RAW29#Generator
+RAW29#Branch
+RAW29#Transformer
+RAW29#Area
+RAW29#Zone
+RAW29#Owner
+RAW29#TransformerImpedanceCorrectionTable
+RAW29#ChangeCode
+RAW29#BusTypeCode
+RAW29#WindingCode
+RAW29#ImpedanceCode
+RAW29#AdmittanceCode
+RAW29#TransformerStatus
+RAW29#TransformerControlMode

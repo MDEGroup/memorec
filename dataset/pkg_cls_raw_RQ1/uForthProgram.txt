@@ -1,0 +1,6 @@
+uForth#uFProgram
+uForth#Word
+uForth#Definition
+uForth#PlainId
+uForth#Number
+uForth#String

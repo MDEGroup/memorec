@@ -1,0 +1,11 @@
+ejava#EPackageWrapper
+ejava#EClassifierWrapper
+ejava#EClassifierClassWrapper
+ejava#EClassifierInterfaceWrapper
+ejava#EClassifierEnumerationWrapper
+ejava#EStructuralFeatureWrapper
+ejava#EStructuralFeatureGetWrapper
+ejava#EStructuralFeatureSetWrapper
+ejava#EEnumLiteralWrapper
+ejava#EOperationWrapper
+ejava#EObjectInstantiation

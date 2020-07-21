@@ -1,0 +1,7 @@
+ontology#DataProperty
+ontology#ObjectProperty
+ontology#Ontology
+ontology#OntologyIndividual
+ontology#OntologyProperty
+ontology#OntologyTerm
+ontology#SimpleOntologyTerm

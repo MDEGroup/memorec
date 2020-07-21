@@ -1,0 +1,6 @@
+Scenario#model
+Scenario#sequencer
+Scenario#scenarioDecorators
+Scenario#canonicalGraph
+Scenario#progress
+Scenario#solver

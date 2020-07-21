@@ -1,0 +1,3 @@
+Stage#operations
+Stage#nextStage
+Stage#name

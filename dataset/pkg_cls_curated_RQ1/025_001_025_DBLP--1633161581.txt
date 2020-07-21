@@ -1,0 +1,15 @@
+DBLP#Record
+DBLP#Article
+DBLP#Author
+DBLP#Journal
+DBLP#Book
+DBLP#InCollection
+DBLP#InProceedings
+DBLP#MastersThesis
+DBLP#Proceedings
+DBLP#PhDThesis
+DBLP#Www
+DBLP#Editor
+DBLP#Organization
+DBLP#Publisher
+DBLP#School

@@ -1,0 +1,6 @@
+BZ#BZRepo
+BZ#BZProduct
+BZ#BZComponent
+BZ#BZIssue
+BZ#BZComment
+BZ#BZEvent

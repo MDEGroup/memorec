@@ -1,0 +1,13 @@
+Module#canonicalName
+Module#imports
+Module#declaredProperties
+Module#root
+Component#module
+Component#autoInject
+Component#assignment
+Assignment#feature
+Assignment#value
+Assignment#featureName
+StringLiteral#begin
+StringLiteral#parts
+StringLiteral#end

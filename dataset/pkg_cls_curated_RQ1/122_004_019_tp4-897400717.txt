@@ -1,0 +1,17 @@
+tp4#PublicationProcess
+tp4#Researcher
+tp4#Paper
+tp4#Paragraph
+tp4#ReviewNote
+tp4#Progress
+tp4#Write
+tp4#Review
+tp4#PublicationStructure
+tp4#PublicationSystem
+tp4#Named
+tp4#Counted
+tp4#Labelled
+tp4#Skill
+tp4#Position
+tp4#Phases
+tp4#Keyword

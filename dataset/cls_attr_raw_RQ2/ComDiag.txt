@@ -1,0 +1,11 @@
+ComDiag#name
+ComDiag#elements
+ComDiag#level
+Lifeline#name
+Lifeline#graph
+Lifeline#number
+Message#name
+Message#graph
+Message#occurence
+Message#source
+Message#target

@@ -1,0 +1,15 @@
+Operation#id
+Operation#parameters
+Operation#operations
+TagDecorateInfo#id
+TagDecorateInfo#minHeight
+TagDecorateInfo#minWidth
+TagDecorateInfo#multiLevel
+TagDecorateInfo#needBorderDecorator
+TagDecorateInfo#needTableDecorator
+TagDecorateInfo#nonVisual
+TagDecorateInfo#nonVisualImagePath
+TagDecorateInfo#resolveChildText
+TagDecorateInfo#resolveAttributeValue
+TagDecorateInfo#setNonVisualChildElements
+TagDecorateInfo#widget

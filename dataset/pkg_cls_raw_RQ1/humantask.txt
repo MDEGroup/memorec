@@ -1,0 +1,4 @@
+model#PeopleActivityRT
+model#PeopleActivityRN
+model#RemoteTask
+model#RemoteNotification

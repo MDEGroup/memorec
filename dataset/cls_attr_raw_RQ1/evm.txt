@@ -1,0 +1,14 @@
+Formular#labels
+Formular#buttons
+Formular#inputs
+Button#text
+Button#img
+Button#validationService
+Button#actionService
+Label#button
+Label#text
+Label#img
+ProjectMetaData#projectName
+ProjectMetaData#groupId
+ProjectMetaData#artifactId
+ProjectMetaData#version

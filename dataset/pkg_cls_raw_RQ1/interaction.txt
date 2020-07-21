@@ -1,0 +1,16 @@
+interaction#NamedElement
+interaction#Interaction
+interaction#Participant
+interaction#Message
+interaction#Execution
+interaction#CreateParticipantMessage
+interaction#DestroyParticipantMessage
+interaction#ReturnMessage
+interaction#StateInvariant
+interaction#InteractionUse
+interaction#End
+interaction#InteractionFragment
+interaction#CombinedFragment
+interaction#Operand
+interaction#CallMessage
+interaction#CompoundEnd

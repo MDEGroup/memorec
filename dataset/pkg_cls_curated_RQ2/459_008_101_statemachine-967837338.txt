@@ -1,0 +1,15 @@
+package#StateMachineRoot
+package#StateMachine
+package#State
+package#CompositeState
+package#Action
+package#Transition
+package#Event
+package#Guard
+package#TransitionAction
+package#StateVertex
+package#StateAction
+package#DO
+package#ENTRY
+package#EXIT
+package#Label

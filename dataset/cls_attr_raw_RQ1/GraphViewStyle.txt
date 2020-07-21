@@ -1,0 +1,7 @@
+StyleSheet#importSection
+StyleSheet#name
+StyleSheet#diagramMapping
+StyleSheet#styles
+Style#mappings
+Style#javaClass
+Style#expression

@@ -1,0 +1,9 @@
+extendedpetrinet#ExtendedPetriNet
+extendedpetrinet#Arc
+extendedpetrinet#Place
+extendedpetrinet#Identity
+extendedpetrinet#InteractiveInput
+extendedpetrinet#Token
+extendedpetrinet#AnimationLabel
+extendedpetrinet#InputPlaceAppearance
+extendedpetrinet#GeometryLabel

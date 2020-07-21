@@ -1,0 +1,8 @@
+MPackage#namespace
+MPackage#imports
+MPackage#contents
+MPackage#annotationDefinitions
+MClass#features
+MClass#abstract
+MClass#interface
+MClass#superTypeReferences

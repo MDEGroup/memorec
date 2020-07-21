@@ -1,0 +1,6 @@
+Cars#has a
+Cars#has
+Cars#model
+Buses#has a
+Buses#has
+Buses#capacity

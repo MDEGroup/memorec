@@ -1,0 +1,8 @@
+AuctionItem#description
+AuctionItem#bids
+AuctionItem#expiryDate
+AuctionItem#startingPrice
+Bid#price
+Bid#date
+Bid#userId
+Bid#auctionItem

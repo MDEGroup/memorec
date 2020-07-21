@@ -1,0 +1,10 @@
+package#InitialState
+package#FinalState
+package#ActionState
+package#ViewState
+package#Event
+package#Source
+package#Target
+package#NamedState
+package#Flow
+package#Action

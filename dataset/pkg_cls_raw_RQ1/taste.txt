@@ -1,0 +1,11 @@
+taste#Function
+taste#Board
+taste#Processor
+taste#Driver
+taste#Bus
+taste#fctconn
+taste#Interface
+taste#BusConnection
+taste#InterfaceConnection
+taste#InterfaceParameter
+taste#TasteComponent

@@ -1,0 +1,4 @@
+evaluationresult#EvaluationResult
+evaluationresult#ID
+evaluationresult#ResultSelection
+evaluationresult#IEvaluator

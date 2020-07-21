@@ -1,0 +1,8 @@
+EclipseLaunchConfigurations#LaunchConfiguration
+EclipseLaunchConfigurations#Attribute
+EclipseLaunchConfigurations#StringAttribute
+EclipseLaunchConfigurations#BooleanAttribute
+EclipseLaunchConfigurations#MapAttribute
+EclipseLaunchConfigurations#MapEntry
+EclipseLaunchConfigurations#ListAttribute
+EclipseLaunchConfigurations#ListEntry

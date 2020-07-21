@@ -1,0 +1,12 @@
+Place#net
+Place#out
+Place#in
+Transition#net
+Transition#in
+Transition#out
+PTArc#weight
+PTArc#dst
+PTArc#src
+TPArc#weight
+TPArc#src
+TPArc#dst

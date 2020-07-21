@@ -1,0 +1,15 @@
+jca#ActivationSpec
+jca#BatchCommit
+jca#Connection
+jca#ConnectionSpec
+jca#DocumentRoot
+jca#Endpoint
+jca#InteractionSpec
+jca#JCABinding
+jca#JCAInboundConnection
+jca#JCAInboundInteraction
+jca#JCAOutboundConnection
+jca#JCAOutboundInteraction
+jca#Processor
+jca#Property
+jca#ResourceAdapter

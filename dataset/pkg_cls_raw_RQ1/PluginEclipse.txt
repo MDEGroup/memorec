@@ -1,0 +1,17 @@
+PluginEclipse#LocatedElement
+PluginEclipse#Resolution
+PluginEclipse#Visibility
+PluginEclipse#Eclipse
+PluginEclipse#Bundle
+PluginEclipse#RequireBundleAttribute
+PluginEclipse#AttResolution
+PluginEclipse#AttVisibility
+PluginEclipse#Range
+PluginEclipse#Version
+PluginEclipse#RequiredBundle
+PluginEclipse#ImportedPackage
+PluginEclipse#ExportedPackage
+PluginEclipse#Package
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

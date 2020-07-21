@@ -1,0 +1,13 @@
+synccharts#Action
+synccharts#Assignment
+synccharts#Effect
+synccharts#Emission
+synccharts#Region
+synccharts#Substitution
+synccharts#State
+synccharts#StateType
+synccharts#Transition
+synccharts#TransitionType
+synccharts#Scope
+synccharts#Parsable
+synccharts#TextEffect

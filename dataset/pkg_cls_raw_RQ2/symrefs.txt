@@ -1,0 +1,5 @@
+package#ExternalElementReference
+package#IdEmfReference
+package#ElementSetReference
+package#Condition
+package#OclCondition

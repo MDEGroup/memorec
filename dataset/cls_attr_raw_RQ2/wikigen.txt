@@ -1,0 +1,7 @@
+GenLatexDocument#title
+GenLatexDocument#filename
+GenLatexDocument#roots
+GenLatexDocument#authors
+GenHtmlDocument#style
+GenHtmlDocument#roots
+GenHtmlDocument#filename

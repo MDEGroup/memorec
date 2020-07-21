@@ -1,0 +1,14 @@
+Schema#name
+Schema#tables
+Schema#domains
+Schema#constraints
+Table#name
+Table#primaryKey
+Table#candidateKey
+Table#attributes
+Table#foreignKey
+Attribute#name
+Attribute#type
+Attribute#nullable
+Attribute#domain
+Attribute#multiplicity

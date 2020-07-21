@@ -1,0 +1,8 @@
+Product#name
+Product#versions
+Product#current
+Product#features
+Feature#name
+Feature#initialRelease
+Feature#description
+Feature#updates

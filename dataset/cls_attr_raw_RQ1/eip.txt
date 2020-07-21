@@ -1,0 +1,9 @@
+EipProvides#eip
+EipProvides#test
+EipProvides#testOperation
+EipProvides#wiretapWay
+EipProvides#aggregatorCorrelation
+EipProvides#faultRobust
+EipProvides#exceptionRobust
+EipProvides#faultToException
+EipProvides#attachmentMode

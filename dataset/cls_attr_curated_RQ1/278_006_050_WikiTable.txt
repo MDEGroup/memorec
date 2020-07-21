@@ -1,0 +1,12 @@
+LocatedElement#location
+LocatedElement#commentsBefore
+LocatedElement#commentsAfter
+Table#border
+Table#style
+Table#class
+Table#caption
+Table#rows
+Cell#isHeading
+Cell#align
+Cell#style
+Cell#content

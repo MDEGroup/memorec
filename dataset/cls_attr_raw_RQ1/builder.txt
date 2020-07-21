@@ -1,0 +1,7 @@
+BuildProcess#inputs
+BuildProcess#outputs
+BuildProcess#project
+BuilderConfig#nature
+BuilderConfig#builderID
+BuilderConfig#position
+BuilderConfig#postionArg

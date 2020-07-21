@@ -1,0 +1,5 @@
+pushbuttonbuild#BuildType
+pushbuttonbuild#DocumentRoot
+pushbuttonbuild#ExtraZIPType
+pushbuttonbuild#JreType
+pushbuttonbuild#JreTypeObject

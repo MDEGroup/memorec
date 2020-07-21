@@ -1,0 +1,6 @@
+pic#PICConfigurationModel
+pic#ConfigWord
+pic#ConfigField
+pic#ConfigLiteral
+pic#PICConfigurationValueModel
+pic#ConfigurationSelection

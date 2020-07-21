@@ -1,0 +1,5 @@
+GXL#GXL
+GXL#AttributedElement
+GXL#TypedElement
+GXL#Graph
+GXL#Node

@@ -1,0 +1,15 @@
+Grammar#name
+Grammar#usedGrammars
+Grammar#definesHiddenTokens
+Grammar#hiddenTokens
+Grammar#metamodelDeclarations
+Grammar#rules
+AbstractRule#name
+AbstractRule#type
+AbstractRule#alternatives
+Action#type
+Action#feature
+Action#operator
+Assignment#feature
+Assignment#operator
+Assignment#terminal

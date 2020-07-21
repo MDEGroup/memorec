@@ -1,0 +1,9 @@
+package#NamedElement
+package#Transformation
+package#TraceLink
+package#Artefact
+package#Dashboard
+package#TraceEditor
+package#TypeArtefact
+package#LinkType
+package#Configuration

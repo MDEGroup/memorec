@@ -1,0 +1,3 @@
+Accession#passport
+Accession#relatedAccessions
+Accession#partOfHolderCoreCollection

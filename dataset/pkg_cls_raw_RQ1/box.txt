@@ -1,0 +1,15 @@
+box#Box
+box#BoxReference
+box#WireReference
+box#LocalWireReference
+box#ExternalWireReference
+box#Connection
+box#Wire
+box#Type
+box#BasicType
+box#OtherType
+box#BaseTypes
+box#Method
+box#Param
+box#WireMany
+box#WireMethod

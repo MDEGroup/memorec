@@ -1,0 +1,11 @@
+package#Model
+package#Canvas
+package#Square
+package#Properties
+package#Color
+package#Corner
+package#Location
+package#Caption
+package#Size
+package#ColorEnum
+package#CornerEnum

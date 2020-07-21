@@ -1,0 +1,7 @@
+mongoBeans#MongoFile
+mongoBeans#AbstractElement
+mongoBeans#PackageDeclaration
+mongoBeans#MongoBean
+mongoBeans#AbstractFeature
+mongoBeans#MongoProperty
+mongoBeans#MongoOperation

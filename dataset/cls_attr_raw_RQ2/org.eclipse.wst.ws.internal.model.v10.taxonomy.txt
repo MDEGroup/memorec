@@ -1,0 +1,17 @@
+Category#nlname
+Category#category
+Category#code
+Category#name
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#category
+DocumentRoot#name
+DocumentRoot#taxonomy
+Taxonomy#nlname
+Taxonomy#category
+Taxonomy#id
+Taxonomy#location
+Taxonomy#name
+Taxonomy#ref
+Taxonomy#tmodelKey

@@ -1,0 +1,11 @@
+package#Integer
+package#Double
+package#String
+package#MSPProject
+package#MSPTask
+package#MSPLink
+package#MSPAssignment
+package#MSPResource
+package#MSPHumanResource
+package#MSPMachine
+package#Date

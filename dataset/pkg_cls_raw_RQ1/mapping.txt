@@ -1,0 +1,13 @@
+mapping#MappingContainer
+mapping#Mapping
+mapping#PartnerActivityToAtomicActionMapping
+mapping#ProcessToCompositeActionMapping
+mapping#SequenceToSequenceMapping
+mapping#IfToIfThenElseMapping
+mapping#WhileToRepeatWhileMapping
+mapping#RepeatUntilToRepeatUntilMapping
+mapping#FlowToSplitJoinMapping
+mapping#ForToRepeatWhileMapping
+mapping#ScopeToCompositeActionMapping
+mapping#ElseIfToIfThenElseMapping
+mapping#ElseToElseMapping

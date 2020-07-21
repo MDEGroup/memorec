@@ -1,0 +1,4 @@
+petrinet#Place
+petrinet#Arc
+petrinet#Transition
+petrinet#PetriNet

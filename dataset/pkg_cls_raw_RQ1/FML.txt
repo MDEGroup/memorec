@@ -1,0 +1,16 @@
+fML#ViewDef
+fML#VirtualModel
+fML#ModelSlot
+fML#EditionPattern
+fML#PatternRole
+fML#EditionScheme
+fML#EditionSchemeType
+fML#Parameter
+fML#EditionAction
+fML#BuiltInAction
+fML#DeclarePatternRole
+fML#DeleteAction
+fML#AddEMFObjectIndividual
+fML#MSTYPE
+fML#VMTYPE
+fML#PRTYPE

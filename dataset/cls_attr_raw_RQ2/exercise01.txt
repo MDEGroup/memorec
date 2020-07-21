@@ -1,0 +1,10 @@
+Customer#lastName
+Customer#creationDate
+Customer#preferred
+Customer#firstName
+Customer#orders
+Order#customer
+Order#creatingDate
+Order#dueDate
+Order#orderedProducts
+Order#state

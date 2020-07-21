@@ -1,0 +1,13 @@
+State#name
+State#isStart
+State#isEnd
+State#isFail
+State#incoming
+State#outGoing
+State#formalParam
+Transition#transProb
+Transition#to
+Transition#from
+Parameter#name
+Parameter#type
+Parameter#state

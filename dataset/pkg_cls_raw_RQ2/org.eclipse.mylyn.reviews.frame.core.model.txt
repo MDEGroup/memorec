@@ -1,0 +1,12 @@
+package#Review
+package#Comment
+package#Item
+package#Location
+package#User
+package#TaskReference
+package#ReviewState
+package#ReviewGroup
+package#CommentType
+package#Topic
+package#ReviewComponent
+package#SubModelRoot

@@ -1,0 +1,6 @@
+process#Task
+process#Process
+process#ProcessElement
+process#Gateway
+process#Activity
+process#TaskKind

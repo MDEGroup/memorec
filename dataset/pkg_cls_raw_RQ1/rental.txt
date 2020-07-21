@@ -1,0 +1,8 @@
+rental#Customer
+rental#RentalAgency
+rental#Address
+rental#StreetType
+rental#RentalObject
+rental#Image
+rental#License
+rental#Rental

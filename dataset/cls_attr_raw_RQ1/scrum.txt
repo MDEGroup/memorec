@@ -1,0 +1,13 @@
+BacklogItem#name
+BacklogItem#description
+BacklogItem#ID
+BacklogItem#status
+BacklogItem#storyPoints
+BacklogItem#priority
+Sprint#name
+Sprint#startDate
+Sprint#endDate
+Sprint#plannedStoryPoints
+User#firstName
+User#lastName
+User#backlogItems

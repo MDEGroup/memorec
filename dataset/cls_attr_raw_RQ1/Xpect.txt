@@ -1,0 +1,4 @@
+XpectInvocation#ignore
+XpectInvocation#method
+XpectInvocation#parameters
+XpectInvocation#id

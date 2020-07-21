@@ -1,0 +1,9 @@
+bool#Name
+bool#NamedElement
+bool#Class
+bool#Member
+bool#Field
+bool#Method
+bool#FieldType
+bool#NamedElementName
+bool#ClassMembers

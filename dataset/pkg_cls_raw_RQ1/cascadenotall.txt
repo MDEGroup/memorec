@@ -1,0 +1,5 @@
+cascadenotall#Book
+cascadenotall#BookCategory
+cascadenotall#BookCategoryObject
+cascadenotall#Library
+cascadenotall#Writer

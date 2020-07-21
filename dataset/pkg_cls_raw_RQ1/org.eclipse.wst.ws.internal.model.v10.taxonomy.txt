@@ -1,0 +1,4 @@
+taxonomy#Category
+taxonomy#DocumentRoot
+taxonomy#Name
+taxonomy#Taxonomy

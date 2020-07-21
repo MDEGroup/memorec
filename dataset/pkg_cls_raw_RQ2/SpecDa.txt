@@ -1,0 +1,14 @@
+package#SpecDaModel
+package#SpecLdbDef
+package#SpecDaDefinition
+package#StructuredDef
+package#JoinDef
+package#ClassJoin
+package#OrderDef
+package#OrderAttributeDef
+package#FilterDef
+package#FilterAttributeDef
+package#FilterAttributeDefModifier
+package#SQLDef
+package#SQLParameter
+package#Interface

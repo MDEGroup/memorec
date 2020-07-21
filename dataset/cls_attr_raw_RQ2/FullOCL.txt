@@ -1,0 +1,3 @@
+Constraint#stereotype
+Constraint#constrainedElements
+Constraint#specification

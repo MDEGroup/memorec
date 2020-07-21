@@ -1,0 +1,6 @@
+pETRI#PetriNet
+pETRI#PetriNetElement
+pETRI#Node
+pETRI#Place
+pETRI#Transition
+pETRI#Arc

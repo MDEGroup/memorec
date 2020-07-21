@@ -1,0 +1,4 @@
+Car#registration
+Car#brand
+Car#airConditionning
+Car#radioCD

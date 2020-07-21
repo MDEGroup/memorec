@@ -1,0 +1,16 @@
+Program#name
+Program#operators
+Program#constants
+Program#values
+Operator#name
+Operator#operands
+Operator#results
+Operand#name
+Operand#sequence
+Operand#index
+Operand#flag_limit
+Operand#flag_extend
+Operand#flag_single
+Sequence#values
+Sequence#operands
+Sequence#size

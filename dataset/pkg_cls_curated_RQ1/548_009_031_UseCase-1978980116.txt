@@ -1,0 +1,9 @@
+useCase#UseCase
+useCase#Subsystem
+useCase#Case
+useCase#ExtensionPoint
+useCase#Includes
+useCase#Extends
+useCase#Actor
+useCase#Inheritance
+useCase#Uses

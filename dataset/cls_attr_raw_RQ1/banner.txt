@@ -1,0 +1,6 @@
+Banner#imageUri
+Banner#title
+Banner#linkUri
+Banner#width
+Banner#height
+Banner#imageBase

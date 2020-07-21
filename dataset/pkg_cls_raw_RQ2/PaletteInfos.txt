@@ -1,0 +1,5 @@
+package#PaletteInfos
+package#PaletteInfo
+package#TagCreationInfo
+package#TagCreationTemplate
+package#TagCreationAttribute

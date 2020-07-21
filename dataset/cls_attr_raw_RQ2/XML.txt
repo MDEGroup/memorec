@@ -1,0 +1,14 @@
+Element#parent
+Element#namespaces
+Element#namespace
+Element#name
+Element#qName
+Element#uName
+Element#attributes
+Element#contents
+Attribute#namespace
+Attribute#name
+Attribute#qName
+Attribute#uName
+Attribute#value
+Attribute#reference

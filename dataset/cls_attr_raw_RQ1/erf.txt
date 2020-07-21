@@ -1,0 +1,15 @@
+AttributeDefinition#type
+AttributeDefinition#ident
+AttributeDefinition#unique
+AttributeDefinition#specType
+Identifiable#iD
+Identifiable#desc
+Identifiable#longName
+Content#specObjects
+Content#specTypes
+Content#dataTypes
+Content#specRelations
+ViewElement#editorShowLabel
+ViewElement#editorRowNumber
+ViewElement#editorColumnSpan
+ViewElement#attributeDefinition

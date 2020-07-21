@@ -1,0 +1,10 @@
+mongodb#DB
+mongodb#Table
+mongodb#Column
+mongodb#Rectangle
+mongodb#Relation
+mongodb#Point
+mongodb#RelationKind
+mongodb#View
+mongodb#ERDInfo
+mongodb#UserComment

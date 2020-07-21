@@ -1,0 +1,7 @@
+ExecContext#sourceEntities
+ExecContext#destinationEntities
+ExecContext#currentDestinationEntity
+ExecContext#currentDestinationFeature
+ExecContext#nextDestFeatureIndex
+ExecContext#nextDestEntityIndex
+ExecContext#migration

@@ -1,0 +1,6 @@
+Annotation#annotations
+Annotation#source
+Annotation#details
+Annotation#modelElement
+Annotation#contents
+Annotation#references

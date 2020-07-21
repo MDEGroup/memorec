@@ -1,0 +1,4 @@
+Book#isbn
+Book#title
+Book#pages
+Book#authors

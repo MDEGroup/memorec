@@ -1,0 +1,5 @@
+MethodDefinition#name
+MethodDefinition#formalParameters
+MethodDefinition#self
+MethodDefinition#type
+MethodDefinition#statements

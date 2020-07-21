@@ -1,0 +1,4 @@
+locationsprovider#Country
+locationsprovider#City
+locationsprovider#Coordinates
+locationsprovider#Comparable

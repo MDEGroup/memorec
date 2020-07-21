@@ -1,0 +1,6 @@
+electrical#Input
+electrical#FunctionalBlock
+electrical#Inverter
+electrical#AmplitudeMultiplication
+electrical#PhaseShift
+electrical#Output

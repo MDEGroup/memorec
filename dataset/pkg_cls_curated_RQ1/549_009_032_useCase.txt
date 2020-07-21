@@ -1,0 +1,8 @@
+UseCase#Actor
+UseCase#UseCase
+UseCase#Extend
+UseCase#Include
+UseCase#UseCaseContainer
+UseCase#BehavioredClassifier
+UseCase#NamedElement
+UseCase#Association

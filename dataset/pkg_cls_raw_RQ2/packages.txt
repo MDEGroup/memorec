@@ -1,0 +1,9 @@
+package#TclPackageInfo
+package#TclInterpreterInfo
+package#TclProjectInfo
+package#TclModuleInfo
+package#TclSourceEntry
+package#UserCorrection
+package#VariableMapEntry
+package#VariableValue
+package#VariableMap

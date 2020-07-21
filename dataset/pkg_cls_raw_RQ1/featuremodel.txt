@@ -1,0 +1,8 @@
+featuremodels#Feature
+featuremodels#ContainmentAssociation
+featuremodels#FeatureModel
+featuremodels#Constraint
+featuremodels#ConstraintType
+featuremodels#Instance
+featuremodels#Attribute
+featuremodels#SimpleAttribute

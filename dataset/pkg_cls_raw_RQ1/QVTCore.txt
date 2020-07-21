@@ -1,0 +1,12 @@
+qvtcore#Area
+qvtcore#Assignment
+qvtcore#BottomPattern
+qvtcore#GuardPattern
+qvtcore#Mapping
+qvtcore#RealizedVariable
+qvtcore#CoreDomain
+qvtcore#CorePattern
+qvtcore#EnforcementOperation
+qvtcore#EnforcementMode
+qvtcore#PropertyAssignment
+qvtcore#VariableAssignment

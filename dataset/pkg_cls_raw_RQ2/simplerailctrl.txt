@@ -1,0 +1,17 @@
+package#EventWait
+package#TRACK
+package#POINT
+package#POSITION
+package#Node
+package#Transition
+package#EventContact
+package#SetSpeed
+package#SetPoint
+package#DIRECTION
+package#RailController
+package#SetSignal
+package#SIGNALCOLOR
+package#EventOccupied
+package#MOTORDIR
+package#CONDITION
+package#CONJUNCTION

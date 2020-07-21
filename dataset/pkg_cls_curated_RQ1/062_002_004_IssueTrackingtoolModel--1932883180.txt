@@ -1,0 +1,14 @@
+itm#IssueTrackingDatabase
+itm#Project
+itm#Version
+itm#Issue
+itm#Tracker
+itm#IssueStatus
+itm#VersionStatus
+itm#IssueDependency
+itm#DependencyType
+itm#IssueCategory
+itm#Member
+itm#User
+itm#Role
+itm#IssuePriority

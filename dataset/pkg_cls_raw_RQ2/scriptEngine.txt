@@ -1,0 +1,9 @@
+package#ScriptManager
+package#ScriptEngineDescriptor
+package#ScriptEngine
+package#ScriptEvaluationContext
+package#ScriptExpression
+package#ScriptDependency
+package#StringToScriptEngineMapEntry
+package#EObjectToScriptDependencyListMapEntry
+package#EObjectToScriptEngineMapEntry

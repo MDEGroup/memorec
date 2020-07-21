@@ -1,0 +1,6 @@
+template#TemplateFile
+template#Parameter
+template#RichString
+template#RichStringLiteral
+template#RichStringForLoop
+template#RichStringIf

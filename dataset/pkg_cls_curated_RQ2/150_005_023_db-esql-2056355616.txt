@@ -1,0 +1,13 @@
+package#CommunicationArea
+package#Cursor
+package#CursorRecord
+package#CursorTerm
+package#CursorType
+package#DescriptorArea
+package#ESqlObject
+package#ESqlTerm
+package#Statement
+package#StatementTerm
+package#ESqlManager
+package#ESqlFactory
+package#FetchPositioning

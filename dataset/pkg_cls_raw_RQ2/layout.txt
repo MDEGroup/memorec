@@ -1,0 +1,4 @@
+package#LayoutInformation
+package#ReferenceLayoutInformation
+package#AttributeLayoutInformation
+package#KeywordLayoutInformation

@@ -1,0 +1,14 @@
+Rule#effect
+Rule#action
+Rule#condition
+Rule#subject
+Rule#target
+Rule#source
+AccessControlPolicy#domains
+AccessControlPolicy#actions
+AccessControlPolicy#entities
+AccessControlPolicy#roles
+AccessControlPolicy#rules
+Entity#publicKeyModulus
+Entity#publicKeyExponent
+Entity#roles

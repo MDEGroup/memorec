@@ -1,0 +1,3 @@
+Enumeration#typeName
+Enumeration#enumerate
+Enumeration#value

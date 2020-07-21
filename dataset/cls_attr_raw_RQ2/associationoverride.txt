@@ -1,0 +1,11 @@
+Employee#id
+Employee#name
+Employee#address
+Employee#department
+Person#id
+Person#name
+Person#address
+Student#id
+Student#name
+Student#address
+Student#faculty

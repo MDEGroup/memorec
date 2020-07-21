@@ -1,0 +1,11 @@
+WebApplication#name
+WebApplication#entities
+WebApplication#homePage
+Entity#name
+Entity#attributes
+Entity#id
+Entity#relationships
+Relationship#role
+Relationship#lowerBound
+Relationship#upperBound
+Relationship#referencedEntity

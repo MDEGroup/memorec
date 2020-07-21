@@ -1,0 +1,11 @@
+customer#AddressType
+customer#CanadaAddr
+customer#CreditInfo
+customer#CustomersType
+customer#CustomerType
+customer#DocumentRoot
+customer#USAddr
+customer#USState
+customer#USStateObject
+customer#ZipCodes
+customer#ZipUnion

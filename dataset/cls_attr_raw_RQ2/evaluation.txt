@@ -1,0 +1,14 @@
+IEvaluationFactory#id
+IEvaluationFactory#name
+IEvaluationFactory#evaluators
+IEvaluationFactory#verifiers
+AbstractEvaluationFactory#id
+AbstractEvaluationFactory#name
+AbstractEvaluationFactory#evaluators
+AbstractEvaluationFactory#verifiers
+EvaluationFactory#id
+EvaluationFactory#name
+EvaluationFactory#evaluators
+EvaluationFactory#verifiers
+EvaluationFactory#instance
+EvaluationFactory#factories

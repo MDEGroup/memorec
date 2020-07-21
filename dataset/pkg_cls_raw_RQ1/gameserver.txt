@@ -1,0 +1,3 @@
+gameserver#GameServer
+gameserver#Group
+gameserver#GroupManager

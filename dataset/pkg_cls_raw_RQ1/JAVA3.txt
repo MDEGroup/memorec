@@ -1,0 +1,11 @@
+JAVA#Modifier
+JAVA#Class
+JAVA#Interface
+JAVA#Method
+JAVA#Field
+JAVA#Value
+JAVA#Parameter
+JAVA#Type
+JAVA#ReferenceType
+JAVA#PrimitiveType
+JAVA#Int

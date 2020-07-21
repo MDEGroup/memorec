@@ -1,0 +1,9 @@
+TypeItem#sourceStart
+TypeItem#sourceEnd
+TypeItem#typeName
+Event#name
+Event#parameters
+Event#description
+Parameter#name
+Parameter#type
+Parameter#description

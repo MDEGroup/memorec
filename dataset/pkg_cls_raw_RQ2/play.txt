@@ -1,0 +1,10 @@
+package#ActType
+package#DocumentRoot
+package#FmType
+package#PersonaeType
+package#PersonaGroupType
+package#PindexType
+package#PindexTypeObject
+package#PlayType
+package#SceneType
+package#SpeechType

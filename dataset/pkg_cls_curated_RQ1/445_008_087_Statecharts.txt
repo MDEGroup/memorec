@@ -1,0 +1,12 @@
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double
+Statecharts#BooleanExpression
+Statecharts#StateMachine
+Statecharts#State
+Statecharts#CompositeState
+Statecharts#Transition
+Statecharts#StateVertex
+Statecharts#Guard
+Statecharts#Event

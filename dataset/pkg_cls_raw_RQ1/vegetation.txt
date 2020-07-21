@@ -1,0 +1,9 @@
+vegetation#AbstractVegetationObjectType
+vegetation#DocumentRoot
+vegetation#PlantClassType
+vegetation#PlantCoverClassType
+vegetation#PlantCoverFunctionType
+vegetation#PlantCoverType
+vegetation#PlantFunctionType
+vegetation#SolitaryVegetationObjectType
+vegetation#SpeciesType

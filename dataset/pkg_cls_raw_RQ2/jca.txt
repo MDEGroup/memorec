@@ -1,0 +1,16 @@
+package#Connector
+package#ResourceAdapter
+package#AuthenticationMechanism
+package#AuthenticationMechanismType
+package#ConfigProperty
+package#SecurityPermission
+package#License
+package#TransactionSupportKind
+package#InboundResourceAdapter
+package#OutboundResourceAdapter
+package#MessageAdapter
+package#ConnectionDefinition
+package#AdminObject
+package#MessageListener
+package#ActivationSpec
+package#RequiredConfigPropertyType

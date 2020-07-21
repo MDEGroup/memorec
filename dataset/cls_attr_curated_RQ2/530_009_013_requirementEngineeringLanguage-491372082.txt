@@ -1,0 +1,17 @@
+Scenario#name
+Scenario#trigger
+Scenario#outcome
+Scenario#system
+Interaction#context
+Interaction#action
+Interaction#target
+Project#name
+Project#consistOf
+Project#background
+Feature#name
+Feature#desc
+Feature#specifiedBy
+Data#type
+Data#locationType
+Data#quantifier
+Data#location

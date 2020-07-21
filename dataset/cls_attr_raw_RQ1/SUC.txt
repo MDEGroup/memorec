@@ -1,0 +1,4 @@
+UseCase#participant
+UseCase#include
+UseCase#name
+UseCase#specified_by

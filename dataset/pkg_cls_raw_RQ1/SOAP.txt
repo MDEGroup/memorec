@@ -1,0 +1,6 @@
+soap#SoapProvides
+soap#SoapVersion
+soap#SoapMode
+soap#SoapConsumes
+soap#SoapComponent
+soap#Compatibility

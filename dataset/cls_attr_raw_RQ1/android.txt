@@ -1,0 +1,13 @@
+Activity#views
+Activity#groupViews
+Activity#nombre
+Activity#raiz
+GroupView#componentes
+GroupView#paneles
+GroupView#id
+GroupView#activity
+View#id
+View#visibility
+View#groupView
+View#fila
+View#columna

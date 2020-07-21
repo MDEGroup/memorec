@@ -1,0 +1,15 @@
+kernel#Named
+kernel#Nameable
+kernel#NamedObj
+kernel#Attribute
+kernel#IEntity
+kernel#Entity
+kernel#EntityRefOwner
+kernel#EntityRef
+kernel#Port
+kernel#Relation
+kernel#ComponentEntity
+kernel#ComponentPort
+kernel#EntityContainer
+kernel#CompositeEntity
+kernel#JavaClassRef

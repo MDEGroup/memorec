@@ -1,0 +1,13 @@
+planrouge#Intervention
+planrouge#Horodatage
+planrouge#InterventionType
+planrouge#Position
+planrouge#GpsPoint
+planrouge#PositionCivil
+planrouge#Agent
+planrouge#Victime
+planrouge#Categorie
+planrouge#ContainerRoot
+planrouge#Bilan
+planrouge#Urgence
+planrouge#Complementaire

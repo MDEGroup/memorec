@@ -1,0 +1,6 @@
+SimpleHierarchicalStateMachine#State
+SimpleHierarchicalStateMachine#Transition
+SimpleHierarchicalStateMachine#CompositeState
+SimpleHierarchicalStateMachine#StateMachine
+SimpleHierarchicalStateMachine#InitialState
+SimpleHierarchicalStateMachine#FinalState

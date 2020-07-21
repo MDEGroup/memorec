@@ -1,0 +1,5 @@
+ElementRegistry#Registry
+ElementRegistry#DiagramDefinition
+ElementRegistry#EClassDefinition
+ElementRegistry#ElementType
+ElementRegistry#Context

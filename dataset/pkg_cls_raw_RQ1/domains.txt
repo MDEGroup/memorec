@@ -1,0 +1,13 @@
+valueDomains#CodingSchemeReference
+valueDomains#DefinitionEntry
+valueDomains#DefinitionOperator
+valueDomains#DefinitionOperatorObject
+valueDomains#EntityReference
+valueDomains#PickListDefinition
+valueDomains#PickListEntry
+valueDomains#PickListEntryExclusion
+valueDomains#PickListEntryNode
+valueDomains#PickLists
+valueDomains#ValueDomainDefinition
+valueDomains#ValueDomainReference
+valueDomains#ValueDomains

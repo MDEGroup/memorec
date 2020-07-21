@@ -1,0 +1,6 @@
+AssertionMethod#parameters
+AssertionMethod#expression
+AssertionMethod#Name
+BinaryExpression#Operator
+BinaryExpression#left
+BinaryExpression#right

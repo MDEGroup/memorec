@@ -1,0 +1,4 @@
+layout#LayoutInformation
+layout#ReferenceLayoutInformation
+layout#AttributeLayoutInformation
+layout#KeywordLayoutInformation

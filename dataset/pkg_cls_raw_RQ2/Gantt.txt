@@ -1,0 +1,13 @@
+package#Project
+package#Tasks
+package#Task
+package#Depend
+package#Ressource
+package#Date
+package#Allocation
+package#Vacation
+package#Description
+package#Previous
+package#String
+package#Integer
+package#Boolean

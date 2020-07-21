@@ -1,0 +1,6 @@
+cm#Checklist
+cm#InspectionMeasure
+cm#InspectionItem
+cm#Sample
+cm#Documentation
+cm#InspectionEvaluation

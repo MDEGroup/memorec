@@ -1,0 +1,14 @@
+rpg#RPG
+rpg#Object
+rpg#Item
+rpg#Key
+rpg#Door
+rpg#Agent
+rpg#Inventory
+rpg#NonPlayableCharacther
+rpg#Hostile
+rpg#Friendly
+rpg#Hero
+rpg#WorldMap
+rpg#Scene
+rpg#Cell

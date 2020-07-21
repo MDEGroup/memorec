@@ -1,0 +1,7 @@
+Interface#name
+Interface#superType
+Interface#singleton
+Interface#methods
+MethodDeclaration#returnType
+MethodDeclaration#name
+MethodDeclaration#args

@@ -1,0 +1,6 @@
+FaceletXMLDefnTaglib#namespace
+FaceletXMLDefnTaglib#tags
+FaceletXMLDefnTaglib#functions
+FunctionDefn#functionName
+FunctionDefn#functionClass
+FunctionDefn#functionSignature

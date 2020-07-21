@@ -1,0 +1,8 @@
+State#name
+State#action
+State#outgoingTransitions
+State#owningFSM
+Transition#name
+Transition#target
+Transition#owningState
+Transition#event

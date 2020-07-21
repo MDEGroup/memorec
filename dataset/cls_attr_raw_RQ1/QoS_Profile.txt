@@ -1,0 +1,7 @@
+SimpleProfile#compoundProfile
+SimpleProfile#uses
+SimpleProfile#provides
+ProfileTransition#operations
+ProfileTransition#from
+ProfileTransition#to
+ProfileTransition#compoundProfile

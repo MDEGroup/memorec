@@ -1,0 +1,3 @@
+AbstractClosure#parameterTypes
+AbstractClosure#valueType
+AbstractClosure#valueTypeArrayDimension

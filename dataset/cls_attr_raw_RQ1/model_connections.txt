@@ -1,0 +1,14 @@
+ConnectPointToPoint#srcPort
+ConnectPointToPoint#srcInst
+ConnectPointToPoint#dstInst
+ConnectPointToPoint#dstPort
+ConnectPointToPoint#srcRegex
+ConnectPointToPoint#dstRegex
+ConnectPointToPoint#createPort
+ConnectPointToPoint#name
+ConnectionNetworkDirective#src
+ConnectionNetworkDirective#group
+ConnectionNetworkDirective#dsts
+Tag#items
+Tag#name
+Tag#tagClass

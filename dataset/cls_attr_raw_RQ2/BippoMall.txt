@@ -1,0 +1,6 @@
+Shop#id
+Shop#name
+Shop#city
+Shop#state
+Shop#country
+Shop#sinceYear

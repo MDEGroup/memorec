@@ -1,0 +1,9 @@
+onLoadBloc#filePath
+onLoadBloc#fileName
+onLoadBloc#characterID
+onLoadBloc#scope
+onLoadBloc#compactMicro
+ifDirective#left
+ifDirective#operator
+ifDirective#right
+ifDirective#directives

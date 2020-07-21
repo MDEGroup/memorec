@@ -1,0 +1,13 @@
+package#AbstractType
+package#AdaEnumerate
+package#AdaEnumeration
+package#AdaTypeDef
+package#ExtTypeDef
+package#Mode
+package#Operation
+package#Parameter
+package#PrimModel
+package#PrimPackage
+package#PrimType
+package#StdTypeDef
+package#TypeRef

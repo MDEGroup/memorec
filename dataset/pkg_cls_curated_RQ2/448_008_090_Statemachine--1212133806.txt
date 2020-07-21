@@ -1,0 +1,9 @@
+package#StateMachine
+package#Declaration
+package#Transition
+package#State
+package#Action
+package#StateMachineVariable
+package#NormalState
+package#InitialState
+package#FinalState

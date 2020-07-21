@@ -1,0 +1,15 @@
+package#ArtifactUsageName
+package#ProcessDefinitionElement
+package#Guidance
+package#ArtifactKind
+package#WorkItem
+package#RoleKind
+package#Condition
+package#ProcessComponent
+package#Goal
+package#Precondition
+package#WorkDefinition
+package#ActivityKind
+package#Iteration
+package#Phase
+package#Lifecycle

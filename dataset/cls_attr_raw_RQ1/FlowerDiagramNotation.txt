@@ -1,0 +1,13 @@
+View#viewType
+View#persistentChildren
+View#viewDetails
+View#diagrammableElement
+CodeSyncElement#directCodeSyncRootParent
+CodeSyncElement#astCacheElement
+CodeSyncElement#name
+CodeSyncElement#type
+CodeSyncElement#children
+CodeSyncElement#parent
+AstCacheElement#name
+AstCacheElement#directAstCacheRootParent
+AstCacheElement#codeSyncElement

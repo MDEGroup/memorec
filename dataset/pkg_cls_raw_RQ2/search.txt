@@ -1,0 +1,8 @@
+package#Search
+package#SearchScope
+package#SearchResult
+package#SavedSearches
+package#LatestSearchStrings
+package#SearchHistory
+package#EAttribute
+package#SecondaryGroupContainer

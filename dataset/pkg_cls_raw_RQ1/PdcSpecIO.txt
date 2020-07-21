@@ -1,0 +1,13 @@
+pdcSpecIO#IoPackage
+pdcSpecIO#ParamProfile
+pdcSpecIO#ParamStruct
+pdcSpecIO#Item
+pdcSpecIO#Cursor
+pdcSpecIO#Fun
+pdcSpecIO#Proc
+pdcSpecIO#NameType
+pdcSpecIO#InParam
+pdcSpecIO#OutParam
+pdcSpecIO#ParamFull
+pdcSpecIO#Type
+pdcSpecIO#DefVal

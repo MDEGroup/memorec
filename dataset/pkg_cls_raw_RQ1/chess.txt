@@ -1,0 +1,7 @@
+chess#Board
+chess#Square
+chess#Ranks
+chess#Files
+chess#Colors
+chess#Piece
+chess#Types

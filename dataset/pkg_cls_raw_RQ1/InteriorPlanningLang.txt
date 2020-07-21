@@ -1,0 +1,17 @@
+interiorPlanningLang#Model
+interiorPlanningLang#Room
+interiorPlanningLang#Wall
+interiorPlanningLang#Hole
+interiorPlanningLang#Point2D
+interiorPlanningLang#Object
+interiorPlanningLang#SimpleObject
+interiorPlanningLang#ComposedObject
+interiorPlanningLang#SubObjectInstance
+interiorPlanningLang#Instance
+interiorPlanningLang#Location3D
+interiorPlanningLang#Location2D
+interiorPlanningLang#Placement
+interiorPlanningLang#PlacementEnum
+interiorPlanningLang#Option
+interiorPlanningLang#ColorOption
+interiorPlanningLang#TextureOption

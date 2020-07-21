@@ -1,0 +1,5 @@
+architecture#ISpielProvider
+architecture#IStateAnalyzer
+architecture#IDataBaseWrapper
+architecture#IDisplayProvider
+architecture#EDisplay

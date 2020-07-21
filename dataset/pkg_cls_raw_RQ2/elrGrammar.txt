@@ -1,0 +1,16 @@
+package#Grammar
+package#Rules
+package#NamedElement
+package#TypReferenz
+package#Lexical
+package#RHS-Parser-Element
+package#Literal
+package#Block
+package#Alternative
+package#Epsilon
+package#LexerRule
+package#ParserRule
+package#Multiplicity
+package#RuleReference
+package#WordClass
+package#RHS-Lexer-Element

@@ -1,0 +1,4 @@
+U2TDiagramCanonicalStyle#syncNodes
+U2TDiagramCanonicalStyle#syncLinks
+U2TDiagramCanonicalStyle#nodeTypesToIgnore
+U2TDiagramCanonicalStyle#linkTypesToIgnore

@@ -1,0 +1,15 @@
+Element#name
+Element#representations
+Element#property
+System#componentDeclaration
+System#connectorDeclaration
+System#attachments
+System#bindings
+Attachment#comp
+Attachment#port
+Attachment#con
+Attachment#role
+Binding#compSrc
+Binding#portSrc
+Binding#compDest
+Binding#portDest

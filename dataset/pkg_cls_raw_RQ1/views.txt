@@ -1,0 +1,11 @@
+views#ViewsRepository
+views#View
+views#ElementEditor
+views#Category
+views#Container
+views#ViewElement
+views#CustomElementEditor
+views#CustomView
+views#DocumentedElement
+views#ViewReference
+views#IdentifiedElement

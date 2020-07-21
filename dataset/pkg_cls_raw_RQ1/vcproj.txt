@@ -1,0 +1,16 @@
+vcproj#ActiveXReferenceType
+vcproj#AssemblyReferenceType
+vcproj#ConfigurationsType
+vcproj#ConfigurationType
+vcproj#DocumentRoot
+vcproj#FilesType
+vcproj#FileType
+vcproj#FilterType
+vcproj#GlobalsType
+vcproj#GlobalType
+vcproj#PlatformsType
+vcproj#PlatformType
+vcproj#ProjectReferenceType
+vcproj#ReferencesType
+vcproj#ToolType
+vcproj#VisualStudioProjectType

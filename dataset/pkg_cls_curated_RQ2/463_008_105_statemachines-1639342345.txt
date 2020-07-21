@@ -1,0 +1,11 @@
+package#TranslationKind
+package#Statemachine
+package#StatemachineOwner
+package#Transition
+package#AbstractNode
+package#State
+package#Initial
+package#Final
+package#Any
+package#Junction
+package#Fork

@@ -1,0 +1,3 @@
+SequenceTermRule#sequencialOrder
+SequenceTermRule#sequenceName
+SequenceTermRule#recurrence

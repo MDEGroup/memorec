@@ -1,0 +1,15 @@
+package#Viewpoint
+package#Concern
+package#Stakeholder
+package#ViewpointImport
+package#ViewpointDependency
+package#Process
+package#Technique
+package#AnalysisMethod
+package#ArchitecturalConstruct
+package#Rule
+package#ModelOrganization
+package#ModellingRule
+package#Language
+package#Mapping
+package#Pattern

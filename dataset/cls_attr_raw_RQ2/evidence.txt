@@ -1,0 +1,5 @@
+Evidence#comment
+Evidence#observationTime
+Evidence#score
+Evidence#supportingSource
+Evidence#curator

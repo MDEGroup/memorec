@@ -1,0 +1,5 @@
+TextualPathExp#TextualPathExp
+TextualPathExp#Path
+TextualPathExp#Transition
+TextualPathExp#AlternativeTrans
+TextualPathExp#PrimitiveTrans

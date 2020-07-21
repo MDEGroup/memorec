@@ -1,0 +1,10 @@
+Panel#type
+Panel#name
+Panel#copies
+Panel#description
+RectangularPanel#width
+RectangularPanel#height
+RectangularPanel#top
+RectangularPanel#bottom
+RectangularPanel#left
+RectangularPanel#right

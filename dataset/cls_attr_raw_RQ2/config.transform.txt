@@ -1,0 +1,11 @@
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#transformJava
+DocumentRoot#transformJaxb
+DocumentRoot#transformJson
+DocumentRoot#transformSmooks
+DocumentRoot#transformXslt
+SmooksTransformType1#type
+SmooksTransformType1#config
+SmooksTransformType1#reportPath

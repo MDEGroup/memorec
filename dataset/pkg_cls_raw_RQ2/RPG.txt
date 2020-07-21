@@ -1,0 +1,14 @@
+package#RPG
+package#Object
+package#Item
+package#Key
+package#Door
+package#Agent
+package#Inventory
+package#NonPlayableCharacther
+package#Hostile
+package#Friendly
+package#Hero
+package#WorldMap
+package#Scene
+package#Cell

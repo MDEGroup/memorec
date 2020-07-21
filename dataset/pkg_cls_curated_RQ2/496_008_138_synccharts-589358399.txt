@@ -1,0 +1,13 @@
+package#Action
+package#Assignment
+package#Effect
+package#Emission
+package#Region
+package#Substitution
+package#State
+package#StateType
+package#Transition
+package#TransitionType
+package#Scope
+package#Parsable
+package#TextEffect

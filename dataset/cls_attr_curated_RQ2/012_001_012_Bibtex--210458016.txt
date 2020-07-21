@@ -1,0 +1,17 @@
+Article#year
+Article#month
+Article#journal
+Article#volume
+Article#number
+Article#pages
+Article#note
+Book#year
+Book#month
+Book#publisher
+Book#volume
+Book#series
+Book#address
+Book#edition
+Author#name
+Author#surname
+Author#has

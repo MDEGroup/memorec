@@ -1,0 +1,17 @@
+RandL#RandLColor
+RandL#ServiceLevel
+RandL#Gender
+RandL#Transaction
+RandL#LoyaltyAccount
+RandL#Earning
+RandL#ProgramPartner
+RandL#Burning
+RandL#TransactionReport
+RandL#CustomerCard
+RandL#Date
+RandL#Membership
+RandL#Container_RandL
+RandL#Service
+RandL#Customer
+RandL#TransactionReportLine
+RandL#LoyaltyProgram

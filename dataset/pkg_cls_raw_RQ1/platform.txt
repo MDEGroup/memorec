@@ -1,0 +1,6 @@
+PlatformModel#Platform
+PlatformModel#Processor
+PlatformModel#Memory
+PlatformModel#Property
+PlatformModel#Robot
+PlatformModel#Device

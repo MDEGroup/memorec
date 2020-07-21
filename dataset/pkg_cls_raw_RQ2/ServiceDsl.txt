@@ -1,0 +1,11 @@
+package#ServiceModel
+package#ModelElement
+package#DtoReference
+package#CustomMethod
+package#MethodType
+package#CrudService
+package#SpecialMethod
+package#ServiceMethod
+package#Parameter
+package#AssociationMethod
+package#CollectionType

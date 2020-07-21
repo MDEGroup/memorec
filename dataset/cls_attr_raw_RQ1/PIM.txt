@@ -1,0 +1,14 @@
+Carro#id
+Carro#marca
+Carro#modelo
+Carro#tipo
+Carro#caracteristica
+Carro#tarifa
+Carro#status
+Carro#cliente
+Cliente#cpf
+Cliente#nome
+Cliente#endereco
+Cliente#telefone
+Cliente#email
+Cliente#carro

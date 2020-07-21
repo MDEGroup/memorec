@@ -1,0 +1,4 @@
+extended#QueryablePort
+extended#QueryablePortOperations
+extended#UsesConnection
+extended#UsesConnectionArray

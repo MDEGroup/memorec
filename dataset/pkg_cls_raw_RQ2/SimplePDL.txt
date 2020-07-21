@@ -1,0 +1,6 @@
+package#WorkSequenceType
+package#Process
+package#WorkDefinition
+package#WorkSequence
+package#ProcessElement
+package#Guidance

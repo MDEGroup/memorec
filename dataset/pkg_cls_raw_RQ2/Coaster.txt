@@ -1,0 +1,6 @@
+package#Model
+package#RollerCoaster
+package#Straight
+package#Corner
+package#Cart
+package#SignedInt

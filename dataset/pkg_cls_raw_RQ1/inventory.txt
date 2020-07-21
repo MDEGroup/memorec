@@ -1,0 +1,13 @@
+inventory#Stock
+inventory#Product
+inventory#StockProduct
+inventory#Recipe
+inventory#Ingredient
+inventory#MenuCard
+inventory#Restaurant
+inventory#Department
+inventory#Offering
+inventory#Table
+inventory#Employee
+inventory#Station
+inventory#Section

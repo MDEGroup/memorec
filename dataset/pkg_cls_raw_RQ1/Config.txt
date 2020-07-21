@@ -1,0 +1,5 @@
+config#TestConfig
+config#TestRun
+config#TestResult
+config#TestDiff
+config#DiffReport

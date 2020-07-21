@@ -1,0 +1,9 @@
+gsml#Course
+gsml#Task
+gsml#ConcreteTask
+gsml#TaskGroup
+gsml#MinRequirementType
+gsml#GradingScheme
+gsml#Grade
+gsml#GradingSystem
+gsml#Grading

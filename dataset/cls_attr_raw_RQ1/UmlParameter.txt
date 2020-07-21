@@ -1,0 +1,7 @@
+ParameterRule#visibility
+ParameterRule#direction
+ParameterRule#name
+ParameterRule#type
+ParameterRule#multiplicity
+ParameterRule#modifiers
+ParameterRule#effect

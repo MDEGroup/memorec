@@ -1,0 +1,13 @@
+dsl15926#AbstractObject
+dsl15926#Template
+dsl15926#TemplateRole
+dsl15926#Repository
+dsl15926#NamedElement
+dsl15926#Annotation
+dsl15926#Individual
+dsl15926#Class
+dsl15926#TemplateInstance
+dsl15926#TemplateRoleInstance
+dsl15926#Thing
+dsl15926#Classification
+dsl15926#Specialization

@@ -1,0 +1,10 @@
+component#RepoComponent
+component#ArchiveRepoComponent
+component#SimpleArchiveRepoComponent
+component#SiteArchiveRepoComponent
+component#RepoManager
+component#BundlesListRepoComponent
+component#CompositeRepoComponent
+component#BundleData
+component#LocalRepoComponent
+component#MirrorRepoComponent

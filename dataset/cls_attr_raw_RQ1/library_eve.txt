@@ -1,0 +1,6 @@
+CityLibrary#address
+CityLibrary#borrowables
+CityLibrary#customers
+Borrowable#title
+Borrowable#copiesAvailable
+Borrowable#library

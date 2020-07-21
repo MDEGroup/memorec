@@ -1,0 +1,3 @@
+BasicBlock#kind
+BasicBlock#identifier
+BasicBlock#edges

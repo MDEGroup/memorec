@@ -1,0 +1,9 @@
+TJProgram#name
+TJProgram#importSection
+TJProgram#elements
+TJClass#interfaces
+TJClass#fields
+TJClass#constructors
+TJConstructor#name
+TJConstructor#params
+TJConstructor#body

@@ -1,0 +1,17 @@
+instantiation#Superclass
+instantiation#SubClass 1
+instantiation#SubClass 2
+instantiation#SubClass 1a
+instantiation#SubClass 1b
+instantiation#SuperClass
+instantiation#Class
+instantiation#Attribute Occurrence
+instantiation#Attribute Definition
+instantiation#Datatype
+instantiation#Iteration Rule
+instantiation#Initialization Rule
+instantiation#Attribute Extension
+instantiation#Attribute Occurrence
+instantiation#Iteration Rule
+instantiation#ClassInstance
+instantiation#Attribute Instance

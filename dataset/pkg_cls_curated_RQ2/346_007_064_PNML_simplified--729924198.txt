@@ -1,0 +1,13 @@
+package#LocatedElement
+package#IdedElement
+package#URI
+package#PNMLDocument
+package#NetElement
+package#NetContent
+package#LabeledElement
+package#Label
+package#Name
+package#NetContentElement
+package#Arc
+package#Place
+package#Transition

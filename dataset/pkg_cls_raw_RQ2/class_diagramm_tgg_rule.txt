@@ -1,0 +1,7 @@
+package#AnnotatedPackage
+package#AnnotatedDataType
+package#AnnotatedMethod
+package#AnnotatedAttribute
+package#AnnotatedParameter
+package#AnnotatedClass
+package#AnnotatedAssociation

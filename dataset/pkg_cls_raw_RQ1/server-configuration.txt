@@ -1,0 +1,9 @@
+cfg#AvailableServers
+cfg#LocalJoomlaServer
+cfg#MajorJoomlaVersion
+cfg#UserCredentials
+cfg#DeploymentDescriptor
+cfg#DeploymentRuntime
+cfg#JoomlaExtensionDeployment
+cfg#IJoomlaHttpSession
+cfg#File

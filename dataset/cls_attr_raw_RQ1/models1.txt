@@ -1,0 +1,9 @@
+LogAction#date
+LogAction#executor
+LogAction#accessMethod
+ExternalServiceCalled#service
+ExternalServiceCalled#state
+ExternalServiceCalled#percentage
+ExternalServiceCalled#infos
+ExternalServiceCalled#warnings
+ExternalServiceCalled#errors

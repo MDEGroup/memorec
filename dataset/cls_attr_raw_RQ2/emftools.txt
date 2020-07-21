@@ -1,0 +1,5 @@
+ConfigurationContainer#extensionPointID
+ConfigurationContainer#elementID
+ConfigurationContainer#factory
+ConfigurationContainer#classToCreate
+ConfigurationContainer#configurationObjects

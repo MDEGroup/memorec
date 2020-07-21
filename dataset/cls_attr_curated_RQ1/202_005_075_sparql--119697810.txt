@@ -1,0 +1,16 @@
+LocatedElement#location
+LocatedElement#commentsBefore
+LocatedElement#commentsAfter
+SelectQuery#solutionsdisplay
+SelectQuery#var
+SelectQuery#datasetclause
+SelectQuery#whereclause
+SelectQuery#solutionmodifier
+ConstructQuery#constructtemplate
+ConstructQuery#datasetclause
+ConstructQuery#whereclause
+ConstructQuery#solutionmodifier
+DescribeQuery#varoririref
+DescribeQuery#datasetclause
+DescribeQuery#whereclause
+DescribeQuery#solutionmodifier

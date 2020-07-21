@@ -1,0 +1,7 @@
+package#ATerm
+package#Definition
+package#Symbol
+package#Value
+package#Cardinality
+package#StarCardinality
+package#Reference

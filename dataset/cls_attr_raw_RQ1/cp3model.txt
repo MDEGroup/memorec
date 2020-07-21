@@ -1,0 +1,6 @@
+CP3Dep#type
+CP3Dep#from
+CP3Dep#to
+CP3Class#projects
+CP3Class#methods
+CP3Class#fields

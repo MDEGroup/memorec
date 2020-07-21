@@ -1,0 +1,10 @@
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double
+UnifiedOntologyLanguage#Node
+UnifiedOntologyLanguage#Resource
+UnifiedOntologyLanguage#Literal
+UnifiedOntologyLanguage#Fact
+UnifiedOntologyLanguage#Package
+UnifiedOntologyLanguage#Ontology

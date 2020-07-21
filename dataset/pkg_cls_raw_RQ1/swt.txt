@@ -1,0 +1,10 @@
+swt#RuntimeType
+swt#RuntimeMethod
+swt#PropertyDefinition
+swt#PropertyDefinitionEntry
+swt#Model
+swt#PropertyFeature
+swt#WidgetDefinition
+swt#PropertyFeatureEntry
+swt#BehaviorDefinition
+swt#Parameter

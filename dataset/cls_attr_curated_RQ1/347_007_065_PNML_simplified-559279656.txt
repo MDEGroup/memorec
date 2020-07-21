@@ -1,0 +1,4 @@
+NetElement#type
+NetElement#document
+NetElement#contents
+NetElement#name

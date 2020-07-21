@@ -1,0 +1,14 @@
+reportcell#CellReportFamilyGLContent
+reportcell#CellReportFamilyGL
+reportcell#CellReportModule
+reportcell#CellReportModulePort
+reportcell#CellReportModuleLeafPin
+reportcell#CellReportFamilyGLPerTopPortContent
+reportcell#CellReportFamilyGLModuleContent
+reportcell#CellReportGL
+reportcell#CellReportFamily
+reportcell#CellReportGLContent
+reportcell#CellReportFamilyContent
+reportcell#CellReportMemoryItem
+reportcell#CellReportCurrent
+reportcell#CellReportPin

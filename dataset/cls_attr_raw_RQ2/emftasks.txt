@@ -1,0 +1,16 @@
+SimpleTask#id
+SimpleTask#summary
+SimpleTask#description
+SimpleTask#status
+SimpleTask#priority
+SimpleTask#dueDate
+SimpleTask#completionDate
+SimpleTask#creationDate
+SimpleTask#modificationDate
+SimpleTask#collaborators
+SimpleTask#relatedUrl
+SimpleTask#ranking
+SimpleTask#category
+TaskCollection#label
+TaskCollection#tasks
+TaskCollection#lastTaskId

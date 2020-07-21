@@ -1,0 +1,11 @@
+Netxstudio#operators
+Netxstudio#libraries
+Netxstudio#companies
+Netxstudio#vendors
+Netxstudio#users
+Netxstudio#roles
+Netxstudio#countries
+Netxstudio#jobs
+ServerSettings#expansionDurationSettings
+ServerSettings#exportPath
+ServerSettings#importPath

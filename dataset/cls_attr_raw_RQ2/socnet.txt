@@ -1,0 +1,6 @@
+Person#name
+Person#friends
+Person#status
+StatusUpdate#text
+StatusUpdate#date
+StatusUpdate#person

@@ -1,0 +1,9 @@
+package#Content
+package#State
+package#Automaton
+package#Transition
+package#Operation
+package#Message
+package#Participant
+package#Value
+package#MessageSequence

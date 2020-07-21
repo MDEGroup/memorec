@@ -1,0 +1,3 @@
+XMIECPFileProject#projectName
+XMIECPFileProject#projectDescription
+XMIECPFileProject#xmiFilePath

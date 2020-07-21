@@ -1,0 +1,10 @@
+Attribute#name
+Attribute#primitiveType
+Attribute#dbNullAllowed
+Reference#foreignAttrName
+Reference#referencedClassName
+Reference#referencedAttrName
+ZvisClass#name
+ZvisClass#abbreviation
+ZvisClass#attributes
+ZvisClass#codeGenFlags

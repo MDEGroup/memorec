@@ -1,0 +1,13 @@
+LocalSca#waveforms
+LocalSca#sandboxWaveform
+LocalSca#sandboxDeviceManager
+LocalSca#rootContext
+LocalSca#fileManager
+LocalSca#sandbox
+NotifyingNamingContext#objectMap
+NotifyingNamingContext#contextMap
+NotifyingNamingContext#namingContext
+NotifyingNamingContext#subContexts
+NotifyingNamingContext#parentContext
+NotifyingNamingContext#poa
+NotifyingNamingContext#name

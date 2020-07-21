@@ -1,0 +1,9 @@
+package#WorkbenchComponent
+package#ComponentResource
+package#IPath
+package#ComponentType
+package#Property
+package#ReferencedComponent
+package#URI
+package#DependencyType
+package#ProjectComponents

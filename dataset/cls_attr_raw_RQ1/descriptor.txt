@@ -1,0 +1,15 @@
+DomainObjectDesc#contentURI
+DomainObjectDesc#projection
+DomainObjectDesc#selection
+DomainObjectDesc#selectionArgs
+DomainObjectDesc#sortOrder
+Property#canReferToOther
+Property#canBeReferedTo
+Property#isResultValue
+Property#allowedValues
+Property#dataType
+Property#lowerBound
+Property#upperBound
+NamedElement#name
+NamedElement#userFriendlyName
+NamedElement#description

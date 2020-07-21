@@ -1,0 +1,11 @@
+package#AdaPackage
+package#PrimitivesPackage
+package#Variant
+package#PrimitiveVariant
+package#EnumVariant
+package#Enumerate
+package#PrimitivesType
+package#Record
+package#Element
+package#Simple
+package#Cardinality

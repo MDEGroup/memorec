@@ -1,0 +1,5 @@
+package#LangType
+package#LangTypeNull
+package#SpaceType
+package#SpaceTypeObject
+package#XMLNamespaceDocumentRoot

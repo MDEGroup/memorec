@@ -1,0 +1,13 @@
+AWKProgram#name
+AWKProgram#input
+AWKProgram#output
+AWKProgram#script
+Rule#r_script
+Rule#pattern
+Rule#action
+InitialRule#r_script
+InitialRule#pattern
+InitialRule#action
+FinalRule#r_script
+FinalRule#pattern
+FinalRule#action

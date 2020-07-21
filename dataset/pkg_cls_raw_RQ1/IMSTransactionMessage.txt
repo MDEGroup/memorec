@@ -1,0 +1,17 @@
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double
+IMSTransactionMessage#OIMAPrefixFormats
+IMSTransactionMessage#TwoByteField
+IMSTransactionMessage#VariableLengthField
+IMSTransactionMessage#IMSTransactionMessage
+IMSTransactionMessage#OIMAPrefix
+IMSTransactionMessage#ControlData
+IMSTransactionMessage#StateData
+IMSTransactionMessage#SecurityData
+IMSTransactionMessage#UserData
+IMSTransactionMessage#StandardFields
+IMSTransactionMessage#ApplicationData
+IMSTransactionMessage#Field
+IMSTransactionMessage#TDLangElement

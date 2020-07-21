@@ -1,0 +1,8 @@
+shapes#Diagram
+shapes#Shape
+shapes#Square
+shapes#Triangle
+shapes#Unknown
+shapes#Connection
+shapes#DashedConnection
+shapes#AbstractConnection

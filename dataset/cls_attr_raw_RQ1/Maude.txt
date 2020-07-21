@@ -1,0 +1,16 @@
+Sort#subsortRels
+Sort#supersortRels
+Sort#kind
+Operation#name
+Operation#coarity
+Operation#arity
+Operation#atts
+Statement#label
+Statement#atts
+Statement#conds
+View#from
+View#to
+View#els
+OpTypedMapping#from
+OpTypedMapping#to
+OpTypedMapping#atts

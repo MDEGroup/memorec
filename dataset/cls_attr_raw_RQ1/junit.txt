@@ -1,0 +1,3 @@
+JUnitCore#notifier
+JUnitCore#runner
+JUnitCore#results

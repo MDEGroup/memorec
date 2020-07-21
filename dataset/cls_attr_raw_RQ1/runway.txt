@@ -1,0 +1,13 @@
+MetaData#label
+MetaData#description
+MetaData#removable
+MDEntity#table
+MDEntity#generateController
+MDEntity#enforceSiteMaster
+MDBusiness#extends
+MDBusiness#cacheAlgorithm
+MDBusiness#cacheSize
+MDAttribute#name
+MDAttribute#required
+MDAttribute#immutable
+MDAttribute#displayLabel

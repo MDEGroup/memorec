@@ -1,0 +1,6 @@
+package#WorkflowProcessDefinition
+package#WorkflowApplicationDeclaration
+package#WorkflowRelevantData
+package#WorkflowParticipantSpecification
+package#WorkflowProcessActivity
+package#TransitionInformation

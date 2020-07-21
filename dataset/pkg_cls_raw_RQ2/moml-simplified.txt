@@ -1,0 +1,9 @@
+package#ClassType
+package#DirectorType
+package#EntityType
+package#LinkType
+package#LocationType
+package#PortType
+package#PropertyType
+package#RelationType
+package#VertexType

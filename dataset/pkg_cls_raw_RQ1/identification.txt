@@ -1,0 +1,7 @@
+identification#Authority
+identification#Identifier
+identification#IdentifierSet
+identification#NameSpace
+identification#SimpleIdentifier
+identification#Set
+identification#Pattern

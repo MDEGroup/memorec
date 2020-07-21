@@ -1,0 +1,7 @@
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#staticOperationSelector
+DocumentRoot#xpathOperationSelector
+DocumentRoot#regexOperationSelector
+DocumentRoot#javaOperationSelector

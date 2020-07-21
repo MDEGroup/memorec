@@ -1,0 +1,14 @@
+chooseeditor#Diagram
+chooseeditor#Goal
+chooseeditor#Refinement
+chooseeditor#ActorContainer
+chooseeditor#OperationContainer
+chooseeditor#Object
+chooseeditor#Actor
+chooseeditor#HumanActor
+chooseeditor#Role
+chooseeditor#Device
+chooseeditor#SoftwareActor
+chooseeditor#Operation
+chooseeditor#Process
+chooseeditor#Project

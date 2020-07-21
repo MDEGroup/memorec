@@ -1,0 +1,9 @@
+datatypes#BusinessProfileType
+datatypes#DocumentRoot
+datatypes#OrganizationType
+datatypes#PersonalProfileType
+datatypes#PersonType
+datatypes#SyncOrganizationDataAreaType
+datatypes#SyncOrganizationType
+datatypes#SyncPersonDataAreaType
+datatypes#SyncPersonType

@@ -1,0 +1,4 @@
+ConnectorConfiguration#parameters
+ConnectorConfiguration#definitionId
+ConnectorConfiguration#version
+ConnectorConfiguration#name

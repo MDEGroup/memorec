@@ -1,0 +1,6 @@
+bowling#Player
+bowling#League
+bowling#Tournament
+bowling#Matchup
+bowling#Game
+bowling#TournamentType

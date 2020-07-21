@@ -1,0 +1,3 @@
+ATerm#definitions
+ATerm#symbols
+ATerm#production

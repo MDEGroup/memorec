@@ -1,0 +1,8 @@
+xmas#Xmas
+xmas#Continent
+xmas#Location
+xmas#Object
+xmas#Person
+xmas#Reindeer
+xmas#Gift
+xmas#Mood

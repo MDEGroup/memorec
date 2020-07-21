@@ -1,0 +1,5 @@
+Expression#name
+Expression#logicLanguage
+Expression#expressionBody
+Expression#id
+Expression#version

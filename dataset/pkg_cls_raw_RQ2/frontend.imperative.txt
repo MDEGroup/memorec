@@ -1,0 +1,13 @@
+package#ImperativeTransformation
+package#MethodDefinition
+package#MethodSelf
+package#MethodParameter
+package#Variable
+package#NamedElement
+package#TransformationDefinition
+package#TransformationDefinitionParameter
+package#LocatedElement
+package#ClassUse
+package#Expression
+package#Statement
+package#TypedWithClass

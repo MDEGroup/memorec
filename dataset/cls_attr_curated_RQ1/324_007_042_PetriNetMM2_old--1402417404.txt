@@ -1,0 +1,14 @@
+PetriNet#name
+PetriNet#places
+PetriNet#transitions
+PetriNet#arcs
+Place#net
+Place#out
+Place#in
+Place#name
+Place#relevance
+Transition#net
+Transition#in
+Transition#out
+Transition#name
+Transition#relevance

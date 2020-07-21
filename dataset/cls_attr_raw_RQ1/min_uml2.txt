@@ -1,0 +1,6 @@
+Activity#nodes
+Activity#edges
+Activity#groups
+ActivityEdge#source
+ActivityEdge#target
+ActivityEdge#guard

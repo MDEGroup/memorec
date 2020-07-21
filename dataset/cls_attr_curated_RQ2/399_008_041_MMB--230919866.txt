@@ -1,0 +1,11 @@
+Automaton#Name
+Automaton#modes
+Automaton#transistions
+Mode#Name
+Mode#InitialState
+Mode#Shape
+Mode#Dimension
+Mode#Modifications
+Transition#Event
+Transition#sourceMode
+Transition#targetMode

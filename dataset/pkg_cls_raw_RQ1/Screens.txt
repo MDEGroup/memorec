@@ -1,0 +1,12 @@
+screen#Screen
+screen#Dashboard
+screen#ListScreen
+screen#DetailsScreen
+entity#Entity
+entity#EntityProperty
+entity#TextProperty
+entity#BoolProperty
+entity#RefProperty
+entity#IntProperty
+entity#FloatProperty
+entity#EnumProperty

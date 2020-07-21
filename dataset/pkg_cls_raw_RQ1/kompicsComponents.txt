@@ -1,0 +1,9 @@
+kompicsComponents#Component
+kompicsComponents#Port
+kompicsComponents#Handler
+kompicsComponents#Channel
+kompicsComponents#Event
+kompicsComponents#PortType
+kompicsComponents#ComponentDefinition
+kompicsComponents#Model
+kompicsComponents#Subscription

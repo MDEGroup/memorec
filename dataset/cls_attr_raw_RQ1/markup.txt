@@ -1,0 +1,8 @@
+FigureElement#id
+FigureElement#src
+FigureElement#alt
+FigureElement#def
+FigureElement#requiredWidth
+FigureElement#requiredHeight
+FigureElement#actualWidth
+FigureElement#actualHeight

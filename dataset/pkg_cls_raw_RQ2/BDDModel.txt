@@ -1,0 +1,13 @@
+package#Model
+package#Feature
+package#Scenario
+package#ScenarioSpecific
+package#ScenarioOutline
+package#Content
+package#Reference
+package#Word
+package#Example
+package#Background
+package#Behavior
+package#Sentence
+package#Value

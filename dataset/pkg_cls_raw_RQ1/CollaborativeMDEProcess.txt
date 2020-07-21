@@ -1,0 +1,6 @@
+collaborativemdeprocess#Project
+collaborativemdeprocess#Participant
+collaborativemdeprocess#Workgroup
+collaborativemdeprocess#Role
+collaborativemdeprocess#Session
+collaborativemdeprocess#MDEProcess

@@ -1,0 +1,6 @@
+package#PetriNet
+package#Arc
+package#Node
+package#Transition
+package#Place
+package#Token

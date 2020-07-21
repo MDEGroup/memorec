@@ -1,0 +1,12 @@
+package#Domain
+package#Class
+package#onLoadBloc
+package#Bloc
+package#Directive
+package#conditionnalDirective
+package#strDirective
+package#intDirective
+package#varDirective
+package#ifDirective
+package#waitDirective
+package#lockDirective

@@ -1,0 +1,4 @@
+package#JavaDSLType
+package#XMLDSLType
+package#CamelImplementationType
+package#DocumentRoot

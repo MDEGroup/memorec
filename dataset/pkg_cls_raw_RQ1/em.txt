@@ -1,0 +1,10 @@
+domain#XClazz
+domain#XConverter
+domain#XInterfaze
+domain#XGroup
+domain#XAssociation
+domain#XMember
+domain#XRealization
+domain#XGeneralization
+domain#XEnumerator
+domain#XEnumValue

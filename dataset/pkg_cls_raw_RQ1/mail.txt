@@ -1,0 +1,4 @@
+mail#MailProvides
+mail#Scheme
+mail#SendMode
+mail#MailConsumes

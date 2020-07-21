@@ -1,0 +1,15 @@
+RooModel#project
+RooModel#persistence
+RooModel#model
+Project#topLevelPackage
+Project#projectName
+Project#java
+PersistenceSetup#provider
+PersistenceSetup#database
+PersistenceSetup#applicationId
+PersistenceSetup#jndiDataSource
+PersistenceSetup#hostName
+PersistenceSetup#databaseName
+PersistenceSetup#userName
+PersistenceSetup#password
+PersistenceSetup#persistenceUnit

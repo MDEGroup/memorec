@@ -1,0 +1,16 @@
+package#ActiveXReferenceType
+package#AssemblyReferenceType
+package#ConfigurationsType
+package#ConfigurationType
+package#DocumentRoot
+package#FilesType
+package#FileType
+package#FilterType
+package#GlobalsType
+package#GlobalType
+package#PlatformsType
+package#PlatformType
+package#ProjectReferenceType
+package#ReferencesType
+package#ToolType
+package#VisualStudioProjectType

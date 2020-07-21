@@ -1,0 +1,3 @@
+org.torusfw.hacc.devices#IDevice
+org.torusfw.hacc.devices#IDevicesFactory
+org.torusfw.hacc.devices#ITProbeDevice

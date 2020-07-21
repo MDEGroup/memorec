@@ -1,0 +1,11 @@
+TargetEntry#description
+TargetEntry#functions
+TargetEntry#types
+TargetEntry#version
+TargetEntry#typeFragments
+TargetEntry#metaType
+TargetEntry#label
+TargetEntry#metaVariables
+AbstractType#EReference0
+AbstractType#properties
+AbstractType#parameters

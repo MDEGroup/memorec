@@ -1,0 +1,7 @@
+school#Course
+school#School
+school#SchoolClass
+school#SpecialisationCourse
+school#Student
+school#Teacher
+school#Year

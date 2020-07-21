@@ -1,0 +1,7 @@
+PortMonitor#data
+PortMonitor#port
+PortMonitor#connections
+PortMonitor#state
+PortConnectionMonitor#data
+PortConnectionMonitor#port
+PortConnectionMonitor#connectionId

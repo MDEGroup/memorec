@@ -1,0 +1,12 @@
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+ControllerUML#ControllerAttribute
+ControllerUML#Controller
+ControllerUML#StateMachine
+ControllerUML#State
+ControllerUML#SubControllerState
+ControllerUML#ViewState
+ControllerUML#StateTransition
+ControllerUML#StateMachineAction
+ControllerUML#Event

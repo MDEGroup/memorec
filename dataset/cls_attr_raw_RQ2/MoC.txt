@@ -1,0 +1,10 @@
+CSDFMoC#inputPattern
+CSDFMoC#numberOfPhases
+CSDFMoC#outputPattern
+CSDFMoC#invocations
+CSDFMoC#delayPattern
+SDFMoC#inputPattern
+SDFMoC#numberOfPhases
+SDFMoC#outputPattern
+SDFMoC#invocations
+SDFMoC#delayPattern

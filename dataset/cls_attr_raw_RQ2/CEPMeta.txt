@@ -1,0 +1,16 @@
+EventPattern#stateMachine
+EventPattern#id
+EventPattern#holdingTime
+AtomicEventPattern#stateMachine
+AtomicEventPattern#id
+AtomicEventPattern#holdingTime
+AtomicEventPattern#type
+ComplexEventPattern#stateMachine
+ComplexEventPattern#id
+ComplexEventPattern#holdingTime
+ComplexEventPattern#operator
+ComplexEventPattern#timewindow
+ComplexEventPattern#compositionEvents
+Event#type
+Event#timestamp
+Event#eventSource

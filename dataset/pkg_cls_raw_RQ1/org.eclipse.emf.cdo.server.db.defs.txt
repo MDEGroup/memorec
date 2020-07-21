@@ -1,0 +1,3 @@
+defs#DBStoreDef
+defs#MappingStrategyDef
+defs#HorizontalMappingStrategyDef

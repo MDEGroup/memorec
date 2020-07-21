@@ -1,0 +1,14 @@
+Family#parents
+Family#sons
+Family#daughters
+Family#pets
+Family#address
+Parent#firstName
+Parent#lastName
+Parent#family
+Son#firstName
+Son#lastName
+Son#family
+Daughter#firstName
+Daughter#lastName
+Daughter#family

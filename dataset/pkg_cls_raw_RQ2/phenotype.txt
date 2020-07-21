@@ -1,0 +1,4 @@
+package#Phenotype
+package#PhenotypeQualityOntologyTerm
+package#TraitOntologyTerm
+package#TraitValueOntologyTerm

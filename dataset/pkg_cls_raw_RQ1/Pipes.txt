@@ -1,0 +1,9 @@
+pipes#Wall
+pipes#Opening
+pipes#FlowSegment
+pipes#LocalPlacement
+pipes#Axis2Placement3D
+pipes#GUIDElement
+pipes#Model
+pipes#Direction
+pipes#Product

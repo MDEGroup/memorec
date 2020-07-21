@@ -1,0 +1,7 @@
+ThresholdCLI#value
+ThresholdCLI#machineId
+ThresholdCLI#type
+ThresholdCLI#handler
+SystemInfoCLI#memory
+SystemInfoCLI#diskSpace
+SystemInfoCLI#machineId

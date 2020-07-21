@@ -1,0 +1,16 @@
+StateMachine#simple_states
+StateMachine#initial_state
+StateMachine#transitions
+StateMachine#events
+StateMachine#final_states
+StateMachine#composite_states
+State#outgoing
+State#incoming
+State#name
+Transition#source
+Transition#target
+Transition#triggers
+Transition#name
+Event#possible_states
+Event#causes
+Event#description

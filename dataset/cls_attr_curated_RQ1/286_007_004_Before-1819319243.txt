@@ -1,0 +1,11 @@
+Net#places
+Net#transitions
+Net#arcs
+Place#net
+Place#name
+Place#out
+Place#in
+Transition#net
+Transition#in
+Transition#out
+Transition#name

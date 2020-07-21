@@ -1,0 +1,5 @@
+checkcfg#CheckConfiguration
+checkcfg#ConfiguredCatalog
+checkcfg#ConfiguredCheck
+checkcfg#ConfiguredParameter
+checkcfg#SeverityKind

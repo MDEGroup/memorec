@@ -1,0 +1,9 @@
+Model#imports
+Model#name
+Model#elements
+Flow#flowTypes
+Flow#functionalUnitRef
+Flow#flow
+FunctionalUnitRef#flow
+FunctionalUnitRef#dependency
+FunctionalUnitRef#name

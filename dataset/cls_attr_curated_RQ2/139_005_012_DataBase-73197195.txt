@@ -1,0 +1,14 @@
+Table#name
+Table#dataBase
+Table#columns
+Table#indexes
+Table#storageEngine
+Table#collation
+Table#primaryKey
+Table#uniques
+Column#name
+Column#type
+Column#nullable
+Column#default
+Column#length
+Column#collation

@@ -1,0 +1,16 @@
+package#UISUT
+package#ApplicationSystem
+package#UIStatemachine
+package#UIState
+package#UITransition
+package#UITrigger
+package#UserTrigger
+package#ComponentTrigger
+package#UICondition
+package#Action
+package#UIControl
+package#UIDataVariable
+package#UISUTElement
+package#InitialState
+package#FinalState
+package#AbstractState

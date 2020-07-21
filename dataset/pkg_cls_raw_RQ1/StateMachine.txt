@@ -1,0 +1,9 @@
+statemachine#NamedElement
+statemachine#StateMachine
+statemachine#State
+statemachine#StateMachineDescription
+statemachine#Region
+statemachine#AbstractState
+statemachine#Transition
+statemachine#InitialState
+statemachine#FinalState

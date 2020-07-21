@@ -1,0 +1,12 @@
+package#InfoPosCtrl
+package#InfoLigneCtrl
+package#InfoZoneCtrl
+package#InterventionCtrl
+package#Command
+package#Ctrl
+package#CommandMoveItem
+package#CommandCreateItem
+package#CommandSelectItem
+package#CommandSendMessage
+package#CommandReceiveMessage
+package#CommandUpdateView

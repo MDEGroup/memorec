@@ -1,0 +1,15 @@
+package#RVar
+package#RDataFrame
+package#RDataFilter
+package#RText
+package#RNum
+package#RInt
+package#RFunction
+package#RLabel
+package#RNumRange
+package#RSize
+package#RColor
+package#RAlpha
+package#RPlotPointSymbol
+package#RPlotLineType
+package#RFontFamily

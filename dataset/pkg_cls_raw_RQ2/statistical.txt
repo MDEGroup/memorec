@@ -1,0 +1,16 @@
+package#SDDescriptor
+package#SDMemberDescriptor
+package#SDGaugeRepresentation
+package#SDSampleDescriptor
+package#SDView
+package#SDSampleWindow
+package#SDSnapshotObservation
+package#SDDiscreteObservation
+package#SDContiguousObservation
+package#SDTextObservation
+package#SDRangeRepresentation
+package#SDCounterDescriptor
+package#SDRepresentation
+package#SDTextRepresentation
+package#SDDiscreteRepresentation
+package#SDContiguousRepresentation

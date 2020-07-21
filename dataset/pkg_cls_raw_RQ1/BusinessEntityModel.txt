@@ -1,0 +1,13 @@
+BusinessEntityModel#DataType
+BusinessEntityModel#Action
+BusinessEntityModel#Class
+BusinessEntityModel#BusinessEntityPropertySet
+BusinessEntityModel#BusinessRole
+BusinessEntityModel#Task
+BusinessEntityModel#ArtifactRole
+BusinessEntityModel#PerformerRole
+BusinessEntityModel#OrganisationalUnit
+BusinessEntityModel#BusinessEntity
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

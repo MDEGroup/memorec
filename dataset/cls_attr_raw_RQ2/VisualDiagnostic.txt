@@ -1,0 +1,3 @@
+Figure#name
+Figure#type
+Figure#color

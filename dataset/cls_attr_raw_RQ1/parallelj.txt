@@ -1,0 +1,10 @@
+Program#inputCondition
+Program#outputCondition
+Program#predicates
+Program#elements
+Program#data
+Program#capacity
+Procedure#executable
+Procedure#join
+Procedure#split
+Procedure#capacity

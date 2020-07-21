@@ -1,0 +1,17 @@
+ChenConnection#fromEntity
+ChenConnection#toRelationship
+ChenConnection#value
+ChenNormalToWeakConnection#fromEntity
+ChenNormalToWeakConnection#toRelationship
+ChenNormalToWeakConnection#value
+ChenWeakConnection#fromEntity
+ChenWeakConnection#toRelationship
+ChenWeakConnection#value
+MartinConnection#fromText
+MartinConnection#toText
+MartinConnection#start
+MartinConnection#end
+MinmaxConnection#fromText
+MinmaxConnection#toText
+MinmaxConnection#start
+MinmaxConnection#end

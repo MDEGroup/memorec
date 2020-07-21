@@ -1,0 +1,3 @@
+LinkageMap#chromosome
+LinkageMap#length
+LinkageMap#mapStudy

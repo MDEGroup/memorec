@@ -1,0 +1,5 @@
+package#JSFLibraryRegistry
+package#JSFLibrary
+package#PluginProvidedJSFLibrary
+package#ArchiveFile
+package#JSFVersion

@@ -1,0 +1,13 @@
+completeOCLCST#ClassifierContextDeclCS
+completeOCLCST#CompleteOCLDocumentCS
+completeOCLCST#ContextDeclCS
+completeOCLCST#DefCS
+completeOCLCST#DefOperationCS
+completeOCLCST#DefPropertyCS
+completeOCLCST#FeatureContextDeclCS
+completeOCLCST#IncludeCS
+completeOCLCST#OCLMessageArgCS
+completeOCLCST#OperationContextDeclCS
+completeOCLCST#PackageDeclarationCS
+completeOCLCST#PathNameDeclCS
+completeOCLCST#PropertyContextDeclCS

@@ -1,0 +1,10 @@
+ChecklistEntry#menu
+ChecklistEntry#info
+ChecklistEntry#taskId
+ChecklistEntry#jobPaths
+ChecklistEntry#task
+ChecklistEntry#jobs
+Checklist#entries
+Checklist#menu
+Checklist#process
+Checklist#processId

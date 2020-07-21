@@ -1,0 +1,12 @@
+package#AbstractWaterBoundarySurfaceType
+package#AbstractWaterObjectType
+package#BoundedByWaterSurfacePropertyType
+package#DocumentRoot
+package#WaterBodyClassType
+package#WaterBodyFunctionType
+package#WaterBodyType
+package#WaterBodyUsageType
+package#WaterClosureSurfaceType
+package#WaterGroundSurfaceType
+package#WaterLevelType
+package#WaterSurfaceType

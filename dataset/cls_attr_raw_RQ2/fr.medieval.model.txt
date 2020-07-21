@@ -1,0 +1,15 @@
+Media#id
+Media#name
+Media#description
+Media#category
+Media#parent
+Media#children
+Media#properties
+Category#name
+Category#description
+Category#elements
+Property#name
+Property#value
+Property#visible
+Property#readonly
+Property#owner

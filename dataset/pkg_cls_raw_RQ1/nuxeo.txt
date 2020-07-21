@@ -1,0 +1,4 @@
+nuxeo#NuxeoConnectionItem
+nuxeo#NuxeoConnection
+nuxeo#AutomationOperation
+nuxeo#NuxeoSchema

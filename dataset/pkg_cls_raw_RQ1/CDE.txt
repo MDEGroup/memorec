@@ -1,0 +1,13 @@
+CDE#IUmlType
+CDE#ICdeComponentSpec
+CDE#IUmlClass
+CDE#IUmlComponent
+CDE#ICdeServer
+CDE#ICdeComponent
+CDE#IUmlMember
+CDE#ICdeMember
+CDE#ICdeMemberExe
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double

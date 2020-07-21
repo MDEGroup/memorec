@@ -1,0 +1,5 @@
+schema#Target
+schema#TargetType
+schema#SocialSchemaCatalog
+schema#TargetTypeAdded
+schema#TargetTypeRemoved

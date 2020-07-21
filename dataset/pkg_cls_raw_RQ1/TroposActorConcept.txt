@@ -1,0 +1,7 @@
+ActorConcept#Actor
+ActorConcept#Goal
+ActorConcept#SoftGoal
+ActorConcept#HardGoal
+ActorConcept#Dependency
+ActorConcept#Plan
+ActorConcept#Resource

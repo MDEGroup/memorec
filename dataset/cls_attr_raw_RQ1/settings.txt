@@ -1,0 +1,17 @@
+IdentifiedElement#id
+IdentifiedElement#name
+IdentifiedElement#description
+ModelingLanguageAssociations#specification
+ModelingLanguageAssociations#language
+ModelingLanguageAssociations#typesAssociations
+SettingsSpecification#languages
+SettingsSpecification#languageAssociations
+SettingsSpecification#categoryAssociations
+PropertyToTypesAssociation#associatedTypes
+PropertyToTypesAssociation#parent
+PropertyToTypesAssociation#containers
+PropertyToTypesAssociation#condition
+ModelingLanguage#specification
+ModelingLanguage#packages
+ModelingLanguage#fileExtensions
+ModelingLanguage#modelInterface

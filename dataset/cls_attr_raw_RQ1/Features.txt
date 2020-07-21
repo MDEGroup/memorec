@@ -1,0 +1,7 @@
+Feature#abstract
+Feature#name
+Feature#isA
+Feature#isOfType
+Feature#short
+Feature#contains
+Feature#uses

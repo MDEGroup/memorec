@@ -1,0 +1,5 @@
+javabehavior4uml#JavaMethodBehavior
+javabehavior4uml#UMLClassWrapper
+javabehavior4uml#UMLPropertyWrapper
+javabehavior4uml#UMLOperationWrapper
+javabehavior4uml#UMLParameterWrapper

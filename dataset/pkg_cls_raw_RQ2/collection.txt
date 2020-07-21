@@ -1,0 +1,4 @@
+package#ItemsCollection
+package#SmartInformationObjectCollection
+package#ManualCollection
+package#RemoteCollection

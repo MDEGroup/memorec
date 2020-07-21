@@ -1,0 +1,12 @@
+ajmodel#ModelElement
+ajmodel#Type
+ajmodel#Field
+ajmodel#Method
+ajmodel#IntertypeDefinition
+ajmodel#Project
+ajmodel#Visitor
+ajmodel#Visitable
+ajmodel#List
+ajmodel#Invocation
+ajmodel#Weaving
+ajmodel#TypeReference

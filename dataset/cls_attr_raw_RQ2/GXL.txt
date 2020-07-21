@@ -1,0 +1,6 @@
+Graph#id
+Graph#type
+Graph#nodes
+Node#id
+Node#type
+Node#graph

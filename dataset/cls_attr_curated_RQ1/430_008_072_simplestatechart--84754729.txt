@@ -1,0 +1,13 @@
+RelatedTo#fromThing
+RelatedTo#toThing
+RelatedTo#since
+Transition#expression
+Transition#source
+Transition#target
+State#label
+State#type
+State#activity
+State#substates
+State#parentstate
+State#variables
+State#transitions

@@ -1,0 +1,9 @@
+builderState#ResourceDescription
+builderState#EObjectDescription
+builderState#UserDataEntry
+builderState#EURI
+builderState#EStringArray
+builderState#ReferenceDescription
+builderState#QualifiedName
+builderState#IEObjectDescription
+builderState#IReferenceDescription

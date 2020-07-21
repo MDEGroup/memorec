@@ -1,0 +1,12 @@
+IMSTransactionMessage#OIMAPrefixFormat
+IMSTransactionMessage#standardFieldsFlag
+IMSTransactionMessage#OIMAPrefixComponent
+IMSTransactionMessage#standardFieldComponent
+IMSTransactionMessage#messageComponent
+OIMAPrefix#controlDataComponent
+OIMAPrefix#stateDataComponent
+OIMAPrefix#securityDataComponent
+OIMAPrefix#userDataComponent
+StandardFields#length
+StandardFields#reservedField
+StandardFields#transactionCode

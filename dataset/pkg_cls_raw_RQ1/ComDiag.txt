@@ -1,0 +1,5 @@
+ComDiag#NamedElement
+ComDiag#ComDiag
+ComDiag#ComDiagElement
+ComDiag#Lifeline
+ComDiag#Message

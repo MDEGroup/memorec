@@ -1,0 +1,7 @@
+ProfileEntry#duration
+ProfileEntry#callees
+ProfileEntry#caller
+ProfileEntry#count
+ProfileEntry#percentage
+ProfileEntry#createTime
+ProfileEntry#monitored

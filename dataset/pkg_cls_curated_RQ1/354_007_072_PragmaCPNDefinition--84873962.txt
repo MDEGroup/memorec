@@ -1,0 +1,14 @@
+pragmacpndefinition#PragmaCPN
+pragmacpndefinition#Place
+pragmacpndefinition#Pragma
+pragmacpndefinition#OntologyFile
+pragmacpndefinition#OntologyDocument
+pragmacpndefinition#PragmaticsOntology
+pragmacpndefinition#PetriNet
+pragmacpndefinition#OntologyManager
+pragmacpndefinition#OntologyMember
+pragmacpndefinition#OWLClassSet
+pragmacpndefinition#OWLClass
+pragmacpndefinition#Transition
+pragmacpndefinition#Arc
+pragmacpndefinition#Page

@@ -1,0 +1,6 @@
+Class#ownedOperation
+Class#ownedAttribute
+Class#nestedClassifier
+NamedElement#name
+NamedElement#isAbstract
+NamedElement#visibility

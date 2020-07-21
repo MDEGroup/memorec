@@ -1,0 +1,11 @@
+Content#intend
+Content#text
+Content#parent
+Content#taskModel
+Content#tags
+Content#links
+Content#segments
+Content#images
+TextSegment#offset
+TextSegment#length
+TextSegment#content

@@ -1,0 +1,3 @@
+Diagnostic#Severity
+Diagnostic#Problem
+Diagnostic#Diagnostic

@@ -1,0 +1,7 @@
+package#CoreGroup
+package#AbstractGroup
+package#ViewPoint
+package#Element
+package#GroupModel
+package#ViewPointContainer
+package#Group

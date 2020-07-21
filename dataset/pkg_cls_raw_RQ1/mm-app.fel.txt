@@ -1,0 +1,10 @@
+reduced#ModelRoot
+reduced#Model
+reduced#ModelOperation
+reduced#NamedElement
+reduced#Class
+reduced#InheritanceType
+reduced#ReferenceType
+reduced#ClassSerialization
+reduced#Property
+reduced#PropertySerialization

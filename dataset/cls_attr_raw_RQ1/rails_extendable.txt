@@ -1,0 +1,9 @@
+Component#name
+Component#trains
+Component#ports
+Project#components
+Project#name
+Project#connections
+Connection#source
+Connection#target
+Connection#name

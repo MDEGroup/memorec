@@ -1,0 +1,7 @@
+Vertex#index
+Vertex#name
+Vertex#color
+Vertex#edges
+Edge#parentVertex
+Edge#weight
+Edge#color

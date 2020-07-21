@@ -1,0 +1,6 @@
+Class#name
+Class#is_deferred
+Class#features
+Class#parentSubsystem
+Class#subsystem
+Class#relations

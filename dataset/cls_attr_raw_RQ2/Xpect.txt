@@ -1,0 +1,12 @@
+XpectTest#file
+XpectTest#parameters
+XpectTest#assignments
+XpectTest#testClassOrSuite
+XpectInvocation#file
+XpectInvocation#ignore
+XpectInvocation#method
+XpectInvocation#parameters
+XpectInvocation#id
+Component#parameters
+Component#assignments
+Component#componentClass

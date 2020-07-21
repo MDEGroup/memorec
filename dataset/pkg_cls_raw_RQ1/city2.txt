@@ -1,0 +1,5 @@
+city2#City
+city2#House
+city2#Mansion
+city2#Appartment
+city2#Mayor

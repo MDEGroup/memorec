@@ -1,0 +1,3 @@
+owlcl#OWLCLSpec
+owlcl#Constraint
+owlcl#Type

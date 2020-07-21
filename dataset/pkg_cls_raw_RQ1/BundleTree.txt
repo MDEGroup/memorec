@@ -1,0 +1,4 @@
+bundletree#OSGiFyContext
+bundletree#AbstractBundleCoordinate
+bundletree#Bundle
+bundletree#BundleReference

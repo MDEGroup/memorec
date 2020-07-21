@@ -1,0 +1,5 @@
+IAFlowGraph#IAFlowGraph
+IAFlowGraph#InteractionTransition
+IAFlowGraph#String
+IAFlowGraph#ResultingAction
+IAFlowGraph#Boolean

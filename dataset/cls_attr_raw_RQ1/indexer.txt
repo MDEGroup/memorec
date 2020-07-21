@@ -1,0 +1,4 @@
+IntentIndexEntry#name
+IntentIndexEntry#type
+IntentIndexEntry#referencedElement
+IntentIndexEntry#subEntries

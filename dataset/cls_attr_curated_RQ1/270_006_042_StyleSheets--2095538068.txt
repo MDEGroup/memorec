@@ -1,0 +1,4 @@
+Theme#id
+Theme#label
+Theme#icon
+Theme#stylesheets

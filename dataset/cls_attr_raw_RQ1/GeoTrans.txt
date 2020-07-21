@@ -1,0 +1,8 @@
+GeoTransfo#name
+GeoTransfo#freeze
+GeoTransfo#subGeoTransfos
+GeoTransfo#superGeoTransfo
+GeoTransfo#params
+Param#name
+Param#param
+Param#geoTransfo

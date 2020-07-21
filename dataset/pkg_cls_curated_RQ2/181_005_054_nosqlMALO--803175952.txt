@@ -1,0 +1,13 @@
+package#KeySpace
+package#ColumnFamily
+package#Column
+package#PrimitiveTypeType
+package#ReplicaPlacementStrategies
+package#DynamicColumnFamily
+package#StaticColumnFamily
+package#Type
+package#PrimitiveType
+package#DataStructureType
+package#MapType
+package#CollectionType
+package#CollectionTypeType

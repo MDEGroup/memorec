@@ -1,0 +1,17 @@
+TFSM#ownedStates
+TFSM#initialState
+TFSM#localEvents
+TFSM#localClock
+TFSM#ownedTransitions
+TFSM#currentState
+State#owningFSM
+State#outgoingTransitions
+State#incomingTransitions
+Transition#source
+Transition#target
+Transition#ownedGuard
+Transition#generatedEvents
+Transition#action
+TimedSystem#tfsms
+TimedSystem#globalClocks
+TimedSystem#globalEvents

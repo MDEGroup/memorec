@@ -1,0 +1,7 @@
+MavenProject#packaging
+MavenProject#pomFile
+MavenProject#outputDirectory
+MavenProject#testOutputDirectory
+DependencyDeclaration#versionConstraint
+DependencyDeclaration#scope
+DependencyDeclaration#optional

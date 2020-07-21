@@ -1,0 +1,15 @@
+UsecaseDSL#NamedElement
+UsecaseDSL#Namespace
+UsecaseDSL#Classifier
+UsecaseDSL#Relationship
+UsecaseDSL#DirectedRelationship
+UsecaseDSL#Association_c
+UsecaseDSL#MultiplicityElement_c
+UsecaseDSL#Generalization
+UsecaseDSL#UseCaseDiagram_c
+UsecaseDSL#Actor
+UsecaseDSL#System_c
+UsecaseDSL#UseCase
+UsecaseDSL#Extend_c
+UsecaseDSL#Include
+UsecaseDSL#ExtensionPoint

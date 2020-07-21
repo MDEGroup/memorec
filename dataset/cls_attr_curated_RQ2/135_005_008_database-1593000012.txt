@@ -1,0 +1,5 @@
+Table#cols
+Table#fkeys
+Table#name
+Table#pkey
+Table#is_local

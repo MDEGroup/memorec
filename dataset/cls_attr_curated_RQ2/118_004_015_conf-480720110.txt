@@ -1,0 +1,12 @@
+System#admin
+System#laboratories
+System#conferences
+System#revisionProcess
+Session#year
+Session#location
+Session#progcomit
+Session#steercomit
+Session#contributions
+Researcher#evaluations
+Researcher#writes
+Researcher#reviews

@@ -1,0 +1,14 @@
+File#name
+File#owner
+File#group
+Directory#name
+Directory#owner
+Directory#group
+Directory#contents
+FileSystemRoot#name
+FileSystemRoot#owner
+FileSystemRoot#group
+FileSystemRoot#contents
+TextFile#name
+TextFile#owner
+TextFile#group

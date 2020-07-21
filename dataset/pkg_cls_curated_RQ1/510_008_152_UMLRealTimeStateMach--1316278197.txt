@@ -1,0 +1,5 @@
+UMLRealTimeStateMach#RTStateMachine
+UMLRealTimeStateMach#RTRegion
+UMLRealTimeStateMach#RTState
+UMLRealTimeStateMach#RTPseudostate
+UMLRealTimeStateMach#RTTrigger

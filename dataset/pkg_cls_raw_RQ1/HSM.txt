@@ -1,0 +1,4 @@
+HSM#StateMachine
+HSM#State
+HSM#CompositeState
+HSM#Transition

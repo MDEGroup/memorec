@@ -1,0 +1,5 @@
+ide#ConfigFileRefType
+ide#ConfigFileType
+ide#ConfigSetType
+ide#DocumentRoot
+ide#MuleIdeConfigType

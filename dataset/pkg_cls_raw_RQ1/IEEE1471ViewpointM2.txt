@@ -1,0 +1,15 @@
+IEEE1471#Viewpoint
+IEEE1471#Concern
+IEEE1471#Stakeholder
+IEEE1471#ViewpointImport
+IEEE1471#ViewpointDependency
+IEEE1471#Process
+IEEE1471#Technique
+IEEE1471#AnalysisMethod
+IEEE1471#ArchitecturalConstruct
+IEEE1471#Rule
+IEEE1471#ModelOrganization
+IEEE1471#ModellingRule
+IEEE1471#Language
+IEEE1471#Mapping
+IEEE1471#Pattern

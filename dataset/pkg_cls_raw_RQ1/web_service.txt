@@ -1,0 +1,8 @@
+web_service#Service
+web_service#Endpoint
+web_service#MessageFormatter
+web_service#FunctionProvider
+web_service#GenericMessageFormatter
+web_service#GenericFunctionProvider
+web_service#DataRecogniser
+web_service#GenericDataRecogniser

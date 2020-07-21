@@ -1,0 +1,16 @@
+xpect#XpectFile
+xpect#XpectTest
+xpect#XpectIgnore
+xpect#XpectInvocation
+xpect#Member
+xpect#Text
+xpect#AbstractComponent
+xpect#Assignment
+xpect#Value
+xpect#Component
+xpect#Literal
+xpect#ClassLiteral
+xpect#BooleanLiteral
+xpect#IntLiteral
+xpect#StringLiteral
+xpect#ParameterProvider

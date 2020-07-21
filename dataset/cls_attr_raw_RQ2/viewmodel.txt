@@ -1,0 +1,10 @@
+CoreGroup#name
+CoreGroup#viewPointReference
+CoreGroup#groups
+AbstractGroup#name
+AbstractGroup#viewPointReference
+AbstractGroup#groups
+Group#name
+Group#viewPointReference
+Group#groups
+Group#parentGroup

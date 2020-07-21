@@ -1,0 +1,11 @@
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+MySQL#NamedElement
+MySQL#DataBase
+MySQL#Table
+MySQL#Column
+MySQL#IntegerColumn
+MySQL#EnumColumn
+MySQL#EnumSet
+MySQL#EnumItem

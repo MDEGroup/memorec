@@ -1,0 +1,16 @@
+BasicExtensionModel#name
+BasicExtensionModel#symbolicName
+BasicExtensionModel#type
+BasicExtensionModel#manifestVersion
+BasicExtensionModel#manifestPath
+BasicExtensionModel#group
+BasicExtensionModel#project
+BasicExtensionModel#resources
+ExtensionResource#fullPath
+ExtensionResource#manifestRelativePath
+ExtensionResource#installPackagePathSegments
+ExtensionResource#resourceType
+ExtensionResource#folder
+ExtensionResource#inAdministration
+ExtensionResource#extensionModel
+ExtensionResource#specialResource

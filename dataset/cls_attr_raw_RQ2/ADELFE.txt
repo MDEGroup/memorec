@@ -1,0 +1,11 @@
+Element#environnement
+Element#action
+Element#perception
+CooperativeAgent#elementA
+CooperativeAgent#elementP
+CooperativeAgent#representation
+CooperativeAgent#skill
+CooperativeAgent#aptitude
+CooperativeAgent#characteristic
+CooperativeAgent#communication
+CooperativeAgent#observes

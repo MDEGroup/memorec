@@ -1,0 +1,13 @@
+ecorebinding#BBase
+ecorebinding#BModel
+ecorebinding#BPackage
+ecorebinding#BClass
+ecorebinding#BFeature
+ecorebinding#BEnum
+ecorebinding#BEnumLiteral
+ecorebinding#BClassifier
+ecorebinding#BDataType
+ecorebinding#BOperation
+ecorebinding#BParameter
+ecorebinding#BTypedElement
+ecorebinding#BTypeParameter

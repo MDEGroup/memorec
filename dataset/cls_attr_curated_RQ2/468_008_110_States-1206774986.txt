@@ -1,0 +1,16 @@
+Statemachine#initial
+Statemachine#name
+Statemachine#value
+Statemachine#events
+Statemachine#states
+State#initial
+State#name
+State#transitions
+SimpleState#initial
+SimpleState#name
+SimpleState#transitions
+SimpleState#value
+CompoundState#initial
+CompoundState#name
+CompoundState#transitions
+CompoundState#machine

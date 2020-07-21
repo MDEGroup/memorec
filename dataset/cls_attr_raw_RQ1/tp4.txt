@@ -1,0 +1,16 @@
+Infrastructure#calculateurs
+Infrastructure#peripheriques
+Infrastructure#localisations
+Infrastructure#documentation
+Calculateur#categorie
+Calculateur#interfaces
+Calculateur#processeurs
+Localisation#name
+Localisation#coteX
+Localisation#coteY
+VueDocumentation#familles
+VueDocumentation#nomenclatures
+VueDocumentation#name
+ElementEmbarque#name
+ElementEmbarque#cadence
+ElementEmbarque#trace

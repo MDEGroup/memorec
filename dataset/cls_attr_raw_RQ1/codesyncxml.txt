@@ -1,0 +1,3 @@
+XMLTag#XMLattributes
+XMLTag#parentTag
+XMLTag#nestedTags

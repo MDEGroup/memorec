@@ -1,0 +1,15 @@
+segment2#SegmentModel
+segment2#PrimitivesDef
+segment2#PrimitivesPackage
+segment2#ImageValueType
+segment2#ImageValueParams
+segment2#PrimitivesType
+segment2#QualifierDefs
+segment2#Segment
+segment2#Qualifier
+segment2#Field
+segment2#AdaMappings
+segment2#FieldMapping
+segment2#Attribute
+segment2#FormatDefs
+segment2#Format

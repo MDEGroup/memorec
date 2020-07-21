@@ -1,0 +1,7 @@
+workflow#Workflow
+workflow#Activity
+workflow#TASK_STATUS
+workflow#Fork
+workflow#Join
+workflow#workflowElement
+workflow#Flow

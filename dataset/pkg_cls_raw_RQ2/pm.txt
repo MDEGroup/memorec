@@ -1,0 +1,11 @@
+package#PMConfig
+package#VoltageDomain
+package#VoltageSource
+package#PowerDomain
+package#PDSupplyDirective
+package#PDomainInstance
+package#YesNoDef
+package#PowerSourceInstance
+package#PowerSourcePin
+package#CONNECT_DIRECTIVE
+package#HG_CLASS

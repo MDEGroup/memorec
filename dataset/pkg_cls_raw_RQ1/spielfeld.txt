@@ -1,0 +1,11 @@
+spielfeld#Figur
+spielfeld#Koordinate
+spielfeld#Zugset
+spielfeld#Farbe
+spielfeld#StraightLine
+spielfeld#Zug
+spielfeld#Field
+spielfeld#EntityWithPosition
+spielfeld#Jump
+spielfeld#SelectablePosition
+spielfeld#ColoredSelectable

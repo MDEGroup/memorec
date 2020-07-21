@@ -1,0 +1,7 @@
+package#Module
+package#Type
+package#Entity
+package#DataType
+package#Property
+package#Attribute
+package#Reference

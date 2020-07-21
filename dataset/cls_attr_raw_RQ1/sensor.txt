@@ -1,0 +1,14 @@
+SensorConfigType#singleFileSensor
+SensorConfigType#adapterCBESensor
+SensorConfigType#staticParserSensor
+SensorConfigType#confidenceBufferSize
+SensorConfigType#fileFooterSize
+SensorConfigType#maximumBlocking
+SensorConfigType#type
+SingleFileSensorType#converter
+SingleFileSensorType#directory
+SingleFileSensorType#fileName
+SingleFileSensorType#shell
+StaticParserSensorType#directory
+StaticParserSensorType#fileName
+StaticParserSensorType#parserClassName

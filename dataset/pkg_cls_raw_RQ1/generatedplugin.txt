@@ -1,0 +1,4 @@
+generatedplugin#DublinCore
+generatedplugin#Extension
+generatedplugin#Plugin
+generatedplugin#StemCategory

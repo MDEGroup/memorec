@@ -1,0 +1,12 @@
+package#Shape
+package#Point
+package#Dimension
+package#Subject
+package#Note
+package#ShapeStyle
+package#Connection
+package#ConnectionStyle
+package#Diagram
+package#Layer
+package#Kind
+package#Router

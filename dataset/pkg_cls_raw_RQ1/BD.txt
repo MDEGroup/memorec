@@ -1,0 +1,6 @@
+BD#EsquemaBD
+BD#Tabla
+BD#Columna
+BD#TipoPrimitivo
+BD#ElementoNombrado
+BD#ClaveAjena

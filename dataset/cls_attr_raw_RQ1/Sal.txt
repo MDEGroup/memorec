@@ -1,0 +1,3 @@
+InfixApplication#app1
+InfixApplication#infix
+InfixApplication#app2

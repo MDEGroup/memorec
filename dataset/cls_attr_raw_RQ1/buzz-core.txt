@@ -1,0 +1,15 @@
+TwitterConsumer#consumerKey
+TwitterConsumer#consumerSecret
+TwitterConsumer#customDomain
+TwitterUserLink#token
+TwitterUserLink#tokenSecret
+TwitterUserLink#twitterId
+TwitterUserLink#screenName
+FacebookConsumer#appId
+FacebookConsumer#appSecret
+FacebookConsumer#defaultScope
+FacebookConsumer#customDomain
+FacebookLink#accessToken
+FacebookLink#accountId
+FacebookLink#name
+FacebookLink#username

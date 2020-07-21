@@ -1,0 +1,9 @@
+Association#name
+Association#src
+Association#dest
+Attribute#type
+Attribute#name
+Attribute#is_primary
+Class#is_persistent
+Class#attrs
+Class#parent

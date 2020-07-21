@@ -1,0 +1,8 @@
+package#StreamDescription
+package#SlidingWindow
+package#ElementSlidingWindow
+package#TimeSlidingWindow
+package#KeySpec
+package#StreamedFragment
+package#Annotation
+package#IsProxyAnnotation

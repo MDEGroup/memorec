@@ -1,0 +1,10 @@
+package#PetriNet
+package#Type
+package#PrimitiveAttribute
+package#Token
+package#Place
+package#Transition
+package#Arc
+package#PlaceToTransArc
+package#TransToPlaceArc
+package#IdentifiableElement

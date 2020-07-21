@@ -1,0 +1,10 @@
+versions#ChangedEntry
+versions#ChangeType
+versions#ChangeTypeObject
+versions#CodingSchemeVersion
+versions#EditHistory
+versions#EntryState
+versions#DocumentRoot
+versions#EntityVersion
+versions#Revision
+versions#SystemRelease

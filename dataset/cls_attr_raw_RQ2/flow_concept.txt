@@ -1,0 +1,11 @@
+FlowDiagram#nodes
+FlowDiagram#edges
+FlowDiagram#isFinalMandatory
+Task#outs
+Task#ins
+Task#name
+Task#isInitial
+FinalTask#outs
+FinalTask#ins
+FinalTask#isTerminating
+FinalTask#isMandatory

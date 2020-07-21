@@ -1,0 +1,11 @@
+SMACHStateMachine#states
+SMACHStateMachine#transitions
+SMACHStateMachine#finalStates
+SMACHStateMachine#initialStates
+SMACHStateMachine#SkillInterface
+SMACHTransition#name
+SMACHTransition#Source
+SMACHTransition#Target
+SMACHState#goal
+SMACHState#goal_type
+SMACHState#remap_overwrite

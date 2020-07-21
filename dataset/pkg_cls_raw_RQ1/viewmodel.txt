@@ -1,0 +1,7 @@
+viewmodel#CoreGroup
+viewmodel#AbstractGroup
+viewmodel#ViewPoint
+viewmodel#Element
+viewmodel#GroupModel
+viewmodel#ViewPointContainer
+viewmodel#Group

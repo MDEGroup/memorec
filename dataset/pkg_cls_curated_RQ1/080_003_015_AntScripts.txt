@@ -1,0 +1,10 @@
+AntScripts#NamedElement
+AntScripts#DescribableElement
+AntScripts#CommentableElement
+AntScripts#Project
+AntScripts#Property
+AntScripts#Target
+AntScripts#TaskElement
+AntScripts#Attribute
+AntScripts#Task
+AntScripts#TaskParameter

@@ -1,0 +1,11 @@
+TypeHelperModel#name
+TypeHelperModel#helperPackages
+TypeHelperModel#primitiveMappings
+PrimitiveMapping#type
+PrimitiveMapping#initialValue
+PrimitiveMapping#initValueName
+PrimitiveMapping#image
+PrimitiveMapping#imageName
+PrimitiveMapping#value
+PrimitiveMapping#valueName
+PrimitiveMapping#adaPackage

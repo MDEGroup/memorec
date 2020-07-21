@@ -1,0 +1,6 @@
+package#Contact
+package#Num_fixe
+package#Num_portable
+package#Integer
+package#String
+package#Boolean

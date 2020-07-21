@@ -1,0 +1,7 @@
+Viewpoint#source
+Viewpoint#covers
+Viewpoint#supplierDependency
+Viewpoint#clientDependency
+Viewpoint#isImportTo
+Viewpoint#architecturalConstruct
+Viewpoint#process

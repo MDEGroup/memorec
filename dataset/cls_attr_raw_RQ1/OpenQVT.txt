@@ -1,0 +1,12 @@
+Variable#name
+Variable#type
+Variable#value
+Variable#visibility
+Variable#context
+Rule#context
+Rule#subRule
+Rule#superRule
+Rule#services
+Service#visibility
+Service#signature
+Service#rule

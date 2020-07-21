@@ -1,0 +1,17 @@
+package#Model
+package#DataType
+package#Import
+package#Structure
+package#StructureMapping
+package#StructurePOJOMapping
+package#StructureFieldPOJOMapping
+package#FunctionModule
+package#FunctionModuleMapping
+package#FunctionModulePOJOMapping
+package#FunctionModulePOJOCallMapping
+package#FunctionModulePOJORequestResponseMapping
+package#FunctionModulePOJOParameterMapping
+package#FunctionModulePOJOImportingParameter
+package#FunctionModulePOJOExportingParameter
+package#FunctionModulePOJOChangingParameter
+package#FunctionModulePOJOTablesParameter

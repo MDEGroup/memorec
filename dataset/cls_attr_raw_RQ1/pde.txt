@@ -1,0 +1,5 @@
+PDEEntity#id
+PDEEntity#version
+PDEEntity#location
+PDEEntity#project
+PDEEntity#distribution

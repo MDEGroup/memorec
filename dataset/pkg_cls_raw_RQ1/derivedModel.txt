@@ -1,0 +1,7 @@
+derivedmodel#DerivedOPRModel
+derivedmodel#DerivedOPRClass
+derivedmodel#TaskJobCrs
+derivedmodel#DataConnection
+derivedmodel#EntryTaskJobCrs
+derivedmodel#DerivedModel
+derivedmodel#DerivedClass

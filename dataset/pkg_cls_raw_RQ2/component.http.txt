@@ -1,0 +1,5 @@
+package#BasicAuthenticationType
+package#DocumentRoot
+package#HTTPBindingType
+package#NTLMAuthenticationType
+package#ProxyType

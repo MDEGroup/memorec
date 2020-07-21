@@ -1,0 +1,12 @@
+Alternative#Consequence
+Alternative#Alternative
+Alternative#Condition
+Event#At
+Event#Onleave
+Event#Condition
+Whenever#Condition
+Whenever#Whenever
+Whenever#Else
+Compare#Operator
+Compare#Condition2
+Compare#Condition1

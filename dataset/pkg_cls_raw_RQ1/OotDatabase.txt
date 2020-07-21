@@ -1,0 +1,16 @@
+ootDatabase#DatabaseModel
+ootDatabase#Class
+ootDatabase#Attribut
+ootDatabase#Attr
+ootDatabase#CodeGenFlag
+ootDatabase#PrimaryKey
+ootDatabase#ForeignKey
+ootDatabase#ReferencedClassName
+ootDatabase#Index
+ootDatabase#ForeignAttr
+ootDatabase#DbClassCodeGenCntrl
+ootDatabase#Ccgflag
+ootDatabase#CcgFlagActuals
+ootDatabase#CcgActualTextLine
+ootDatabase#PackageRef
+ootDatabase#PrimCodeGenRef

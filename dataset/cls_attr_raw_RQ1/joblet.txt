@@ -1,0 +1,3 @@
+JobletNode#description
+JobletNode#input
+JobletNode#trigger

@@ -1,0 +1,7 @@
+CamelImplementationType#route
+CamelImplementationType#java
+CamelImplementationType#xml
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#implementationCamel

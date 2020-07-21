@@ -1,0 +1,9 @@
+package#Term
+package#And
+package#Or
+package#Not
+package#FeatureRef
+package#Nested
+package#BinaryOperator
+package#UnaryOperator
+package#Constraint

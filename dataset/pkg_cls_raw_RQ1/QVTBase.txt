@@ -1,0 +1,10 @@
+qvtbase#BaseModel
+qvtbase#Domain
+qvtbase#Function
+qvtbase#FunctionParameter
+qvtbase#Pattern
+qvtbase#Predicate
+qvtbase#Rule
+qvtbase#Transformation
+qvtbase#TypedModel
+qvtbase#Unit

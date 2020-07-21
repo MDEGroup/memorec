@@ -1,0 +1,3 @@
+package#QueryResult
+package#SingleResult
+package#ListResult

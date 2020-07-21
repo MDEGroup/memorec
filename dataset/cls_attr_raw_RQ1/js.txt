@@ -1,0 +1,6 @@
+Function#arguments
+Function#name
+Function#location
+Argument#name
+Argument#location
+Argument#function

@@ -1,0 +1,10 @@
+package#DocumentRoot
+package#Sequence
+package#Region
+package#RunMode
+package#RUN_MODES
+package#ACQUISITION_MODE
+package#ENERGY_MODE
+package#DETECTOR_MODE
+package#Spectrum
+package#STATUS

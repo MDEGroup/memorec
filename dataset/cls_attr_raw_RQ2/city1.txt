@@ -1,0 +1,7 @@
+City#name
+City#zipcode
+City#houses
+City#residents
+House#owner
+House#type
+House#info

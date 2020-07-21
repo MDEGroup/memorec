@@ -1,0 +1,15 @@
+JavaClass#name
+JavaClass#extends_
+JavaClass#members
+Member#owner
+Member#name
+Member#type
+Member#isPublic
+Method#owner
+Method#name
+Method#type
+Method#isPublic
+Field#owner
+Field#name
+Field#type
+Field#isPublic

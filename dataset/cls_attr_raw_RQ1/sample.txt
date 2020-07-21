@@ -1,0 +1,14 @@
+Shop#shopName
+Shop#shopEmployees
+Shop#shopCoffeeMachines
+Shop#shopManagers
+Shop#storeRegisters
+Shop#storeRoom
+Shop#accounts
+Shop#distributors
+Employee#employeeName
+Employee#mannedCoffeeMachine
+Employee#mannedCashRegister
+Distributor#distributorName
+Distributor#distributorType
+Distributor#accounts

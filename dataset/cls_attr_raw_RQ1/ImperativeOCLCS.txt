@@ -1,0 +1,13 @@
+AssertExpCS#assertion
+AssertExpCS#log
+AssertExpCS#severity
+AssignStatementCS#lValueCS
+AssignStatementCS#oclExpressionCS
+AssignStatementCS#incremental
+SwitchAltCS#condition
+SwitchAltCS#body
+SwitchAltCS#keyword
+VariableInitializationCS#oclExpressionCS
+VariableInitializationCS#simpleNameCS
+VariableInitializationCS#typeCS
+VariableInitializationCS#withResult

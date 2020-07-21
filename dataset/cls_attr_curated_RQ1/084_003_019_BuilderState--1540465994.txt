@@ -1,0 +1,8 @@
+ResourceDescription#URI
+ResourceDescription#exportedObjects
+ResourceDescription#referenceDescriptions
+ResourceDescription#importedNames
+IReferenceDescription#sourceEObjectUri
+IReferenceDescription#targetEObjectUri
+IReferenceDescription#indexInList
+IReferenceDescription#containerEObjectURI

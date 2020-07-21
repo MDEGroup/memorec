@@ -1,0 +1,6 @@
+VariableDefinition#readonly
+VariableDefinition#external
+VariableDefinition#initialValue
+TimeEventSpec#type
+TimeEventSpec#value
+TimeEventSpec#unit

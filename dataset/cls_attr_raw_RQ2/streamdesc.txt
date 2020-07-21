@@ -1,0 +1,12 @@
+StreamDescription#streamName
+StreamDescription#metamodelName
+StreamDescription#keys
+StreamDescription#windows
+StreamedFragment#timestamp
+StreamedFragment#elements
+StreamedFragment#nonProxyElements
+StreamedFragment#proxyElements
+StreamedFragment#annotations
+IsProxyAnnotation#object
+IsProxyAnnotation#referenceSource
+IsProxyAnnotation#referenceName

@@ -1,0 +1,9 @@
+package#DiagramaClases
+package#Clase
+package#Atributo
+package#Metodo
+package#ElementoNombrado
+package#Relacion
+package#TipoPrimitivo
+package#TipoVisibilidad
+package#Parametro

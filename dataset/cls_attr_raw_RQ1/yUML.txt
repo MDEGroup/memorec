@@ -1,0 +1,15 @@
+LocatedElement#location
+LocatedElement#commentsBefore
+LocatedElement#commentsAfter
+ClassReference#class
+ClassReference#stereotype
+ClassReference#definition
+Association#type
+Association#sourceCardinality
+Association#sourceLabel
+Association#navigableSource
+Association#sourceVisibility
+Association#targetCardinality
+Association#targetLabel
+Association#navigableTarget
+Association#targetVisibility

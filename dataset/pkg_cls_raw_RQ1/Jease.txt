@@ -1,0 +1,10 @@
+jease#Persistent
+jease#JeaseOverview
+jease#Node
+jease#Property
+jease#Content
+jease#Role
+jease#User
+jease#Version
+jease#EBlob
+jease#Blob

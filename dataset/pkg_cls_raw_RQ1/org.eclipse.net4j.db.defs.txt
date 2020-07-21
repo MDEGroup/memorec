@@ -1,0 +1,5 @@
+defs#DBAdapterDef
+defs#DBConnectionProviderDef
+defs#DataSourceDef
+defs#JNDIDataSourceDef
+defs#URLDataSourceDef

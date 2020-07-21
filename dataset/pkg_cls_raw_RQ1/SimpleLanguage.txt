@@ -1,0 +1,13 @@
+simplelanguage#Step
+simplelanguage#Trigger
+simplelanguage#ConditionalStep
+simplelanguage#Task
+simplelanguage#Query
+simplelanguage#PropertyReference
+simplelanguage#InformationObject
+simplelanguage#Condition
+simplelanguage#BuildingBlock
+simplelanguage#DomainObjectReference
+simplelanguage#PropertyAssignment
+simplelanguage#UserService
+simplelanguage#DomainObjectAssignment

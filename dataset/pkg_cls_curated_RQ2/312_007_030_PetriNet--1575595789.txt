@@ -1,0 +1,7 @@
+package#PetriNet
+package#Place
+package#Transition
+package#Named
+package#Arc
+package#InArc
+package#OutArc

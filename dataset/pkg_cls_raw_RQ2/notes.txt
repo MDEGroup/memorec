@@ -1,0 +1,11 @@
+package#NoteDocument
+package#Namedelement
+package#Section
+package#Part
+package#BulletPoint
+package#TextPart
+package#SimpleText
+package#EmphasisedText
+package#Bold
+package#Italic
+package#TypeWriter

@@ -1,0 +1,17 @@
+package#LocatedElement
+package#Resolution
+package#Visibility
+package#Eclipse
+package#Bundle
+package#RequireBundleAttribute
+package#AttResolution
+package#AttVisibility
+package#Range
+package#Version
+package#RequiredBundle
+package#ImportedPackage
+package#ExportedPackage
+package#Package
+package#Boolean
+package#Integer
+package#String

@@ -1,0 +1,3 @@
+graphViewStyle#StyleSheet
+graphViewStyle#Style
+graphViewStyle#XColorLiteral

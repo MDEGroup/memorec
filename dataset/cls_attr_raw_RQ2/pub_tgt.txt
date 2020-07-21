@@ -1,0 +1,4 @@
+Publication#Title
+Publication#Year
+Publication#PublishedIn
+Publication#AuthorName

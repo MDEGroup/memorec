@@ -1,0 +1,15 @@
+EPCDiagram#flows
+EPCDiagram#objects
+EPCDiagram#units
+ControlFlow#fsource
+ControlFlow#ftarget
+ControlFlow#lsource
+ControlFlow#ltarget
+ControlFlow#esource
+ControlFlow#etarget
+Function#name
+Function#outgoing
+Function#incoming
+Event#name
+Event#outgoing
+Event#incoming

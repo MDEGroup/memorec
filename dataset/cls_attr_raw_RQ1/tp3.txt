@@ -1,0 +1,8 @@
+LivreRecettes#recettes
+LivreRecettes#ingredients
+LivreRecettes#departements
+LivreRecettes#vins
+Recette#cout
+Recette#composes
+Recette#origineRegionale
+Recette#vins

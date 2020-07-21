@@ -1,0 +1,6 @@
+Inst#name
+Inst#index
+Inst#term
+NamedTermTree#name
+NamedTermTree#terms
+NamedTermTree#branches

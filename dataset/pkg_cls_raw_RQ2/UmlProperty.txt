@@ -1,0 +1,12 @@
+package#PropertyRule
+package#VisibilityKind
+package#TypeRule
+package#QualifiedName
+package#MultiplicityRule
+package#BoundSpecification
+package#ModifiersRule
+package#ModifierSpecification
+package#ModifierKind
+package#RedefinesRule
+package#SubsetsRule
+package#DefaultValueRule

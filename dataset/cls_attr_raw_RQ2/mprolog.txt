@@ -1,0 +1,10 @@
+Functor#nextTerm
+Functor#text
+Functor#ownedTerm
+List#nextTerm
+List#ownedHeadTerms
+List#ownedTailTerms
+InfixExpression#nextTerm
+InfixExpression#leftTerm
+InfixExpression#rightTerm
+InfixExpression#ownedOperator

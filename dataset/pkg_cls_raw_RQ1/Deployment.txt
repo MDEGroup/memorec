@@ -1,0 +1,4 @@
+deployment#Node
+deployment#Application
+deployment#Server
+deployment#Desktop

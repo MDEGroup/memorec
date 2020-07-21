@@ -1,0 +1,13 @@
+UseCase#scenario
+UseCase#condition
+UseCase#interacter
+UseCase#specified_by
+UseCase#scoped_by
+UseCase#meet_by
+Manage#scenario
+Manage#condition
+Manage#interacter
+Manage#specified_by
+Manage#scoped_by
+Manage#meet_by
+Manage#managed_Resource

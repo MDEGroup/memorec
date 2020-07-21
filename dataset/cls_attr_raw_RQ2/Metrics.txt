@@ -1,0 +1,12 @@
+StringMetricValue#tag
+StringMetricValue#metric
+StringMetricValue#value
+BooleanMetricValue#tag
+BooleanMetricValue#metric
+BooleanMetricValue#value
+IntegerMetricValue#tag
+IntegerMetricValue#metric
+IntegerMetricValue#value
+DoubleMetricValue#tag
+DoubleMetricValue#metric
+DoubleMetricValue#value

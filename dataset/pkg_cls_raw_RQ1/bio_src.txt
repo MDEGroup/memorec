@@ -1,0 +1,10 @@
+bio_src#Model
+bio_src#Protein
+bio_src#Gene
+bio_src#Reaction
+bio_src#Name
+bio_src#Node
+bio_src#Experiment
+bio_src#ExperimentalData
+bio_src#FlowCytometrySample
+bio_src#Probe

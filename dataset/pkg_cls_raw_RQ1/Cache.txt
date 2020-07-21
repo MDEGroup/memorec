@@ -1,0 +1,5 @@
+cache#Cache
+cache#CacheManager
+cache#EObjectToExpressionMapEntry
+cache#EObjectToEObjectMapEntry
+cache#EObjectToTypeMapEntry

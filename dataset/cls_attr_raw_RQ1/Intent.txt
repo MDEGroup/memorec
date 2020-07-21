@@ -1,0 +1,9 @@
+Intent#extras
+Intent#action
+Intent#intentType
+Intent#category
+Intent#type
+Intent#data
+Intent#sucessCallback
+Intent#exceptionName
+Intent#permissions

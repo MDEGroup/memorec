@@ -1,0 +1,13 @@
+Warmok#WarmokGame
+Warmok#Round
+Warmok#Orders
+Warmok#Order
+Warmok#Buy
+Warmok#Move
+Warmok#World
+Warmok#Nation
+Warmok#Territory
+Warmok#UnitType
+Warmok#Unit
+Warmok#NationType
+Warmok#GeoPoint

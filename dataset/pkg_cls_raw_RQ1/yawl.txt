@@ -1,0 +1,10 @@
+yawl#SpecificationSet
+yawl#Specification
+yawl#Decomposition
+yawl#FactsType
+yawl#CombinationType
+yawl#ProcessControlElement
+yawl#Task
+yawl#InputCondition
+yawl#OutputCondition
+yawl#MetaData

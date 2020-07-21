@@ -1,0 +1,14 @@
+arithmetics#Module
+arithmetics#Import
+arithmetics#Statement
+arithmetics#Definition
+arithmetics#DeclaredParameter
+arithmetics#AbstractDefinition
+arithmetics#Evaluation
+arithmetics#Expression
+arithmetics#Plus
+arithmetics#Minus
+arithmetics#Multi
+arithmetics#Div
+arithmetics#NumberLiteral
+arithmetics#FunctionCall

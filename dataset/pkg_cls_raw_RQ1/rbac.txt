@@ -1,0 +1,14 @@
+rbac#AccessControlModel
+rbac#Permission
+rbac#Group
+rbac#Subject
+rbac#Role
+rbac#Nameable
+rbac#FeatureOperation
+rbac#AttributeOperation
+rbac#DomainValueOperation
+rbac#Task
+rbac#ConfigurationOperation
+rbac#ConfigurationType
+rbac#ModificationType
+rbac#VisibilityRestriction

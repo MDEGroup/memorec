@@ -1,0 +1,5 @@
+AbstractSyntax#unit
+AbstractSyntax#nsuri
+AbstractSyntax#nsprefix
+AbstractSyntax#import
+AbstractSyntax#name

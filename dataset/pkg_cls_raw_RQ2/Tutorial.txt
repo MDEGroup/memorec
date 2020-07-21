@@ -1,0 +1,4 @@
+package#DomainModelFile
+package#Import
+package#Entity
+package#Property

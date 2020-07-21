@@ -1,0 +1,7 @@
+OCLExpression#PreCondition
+OCLExpression#PortCondition
+OCLExpression#Invariant
+OCLExpression#Guard
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

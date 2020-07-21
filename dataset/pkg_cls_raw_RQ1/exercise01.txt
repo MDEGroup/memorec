@@ -1,0 +1,7 @@
+de.bht.se.exercise01#Customer
+de.bht.se.exercise01#Order
+de.bht.se.exercise01#Product
+de.bht.se.exercise01#OrderState
+de.bht.se.exercise01#Shoe
+de.bht.se.exercise01#Shirt
+de.bht.se.exercise01#Wearable

@@ -1,0 +1,7 @@
+trace#Trace
+trace#Any
+trace#BoolAny
+trace#IntAny
+trace#DecimalAny
+trace#StringAny
+trace#ObjectAny

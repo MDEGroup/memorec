@@ -1,0 +1,13 @@
+CreditInfo#holder
+CreditInfo#ccNumber
+CreditInfo#expireDate
+CustomerType#name
+CustomerType#address
+CustomerType#creditCard
+CustomerType#paymentDay
+CustomerType#iD
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#customers
+DocumentRoot#iD

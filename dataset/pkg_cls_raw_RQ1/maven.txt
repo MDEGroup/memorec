@@ -1,0 +1,13 @@
+maven#MavenArtifact
+maven#MavenDependency
+maven#MavenArtifactConflictCoordinates
+maven#MavenProjectCoordinates
+maven#MavenClassified
+maven#MavenProject
+maven#DependencyDeclaration
+maven#Scope
+maven#NullableScope
+maven#MavenArtifactCoordinates
+maven#ArtifactConflictKey
+maven#ProjectKey
+maven#ArtifactKey

@@ -1,0 +1,16 @@
+InvokeTransformation#transformationName
+InvokeTransformation#sourceModels
+InvokeTransformation#targetModels
+InvokeTransformation#parameters
+InvokeTransformation#inputViewFilter
+InvokeTransformation#entryPointName
+InvokeTransformation#entryPointParameters
+InvokeExternal#outputResolutionSourceElement
+InvokeExternal#queueName
+InvokeExternal#traceAttributeName
+Copier#objects
+Copier#callbacks
+Copier#copyInModel
+CopierCallbackDefinition#stop
+CopierCallbackDefinition#trigger
+CopierCallbackDefinition#action

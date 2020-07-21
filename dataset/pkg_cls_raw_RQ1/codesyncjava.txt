@@ -1,0 +1,11 @@
+codesyncjava#JavaUnknownTypesPackage
+codesyncjava#JavaSrcDirPackage
+codesyncjava#JavaPackage
+codesyncjava#JavaClass
+codesyncjava#JavaInterface
+codesyncjava#JavaDataType
+codesyncjava#JavaOperation
+codesyncjava#JavaProperty
+codesyncjava#JavaGeneralization
+codesyncjava#JavaInterfaceRealization
+codesyncjava#JavaAnnotation

@@ -1,0 +1,4 @@
+package#FileTransferProvides
+package#FileTransferConsumes
+package#CopyMode
+package#TransferMode

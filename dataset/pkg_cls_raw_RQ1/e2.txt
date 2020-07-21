@@ -1,0 +1,8 @@
+e2#Lecture
+e2#Person
+e2#Assingnment
+e2#Course
+e2#Group
+e2#AssignmentSubmission
+e2#University
+e2#LectureContent

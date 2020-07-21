@@ -1,0 +1,9 @@
+Blatt01#Schaltelemente
+Blatt01#And
+Blatt01#Or
+Blatt01#Not
+Blatt01#Schaltbild
+Blatt01#Eingabe
+Blatt01#Ausgabe
+Blatt01#Eingang
+Blatt01#Ausgang

@@ -1,0 +1,12 @@
+CTMC#name
+CTMC#States
+CTMC#initialState
+State#name
+State#incoming
+State#outgoing
+State#labels
+State#exitRate
+Transition#from
+Transition#to
+Transition#prob
+Transition#rate

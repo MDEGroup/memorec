@@ -1,0 +1,9 @@
+package#PAnnotatedEModelElement
+package#PAnnotatedModel
+package#PAnnotatedEPackage
+package#PAnnotatedEClass
+package#PAnnotatedEStructuralFeature
+package#PAnnotatedEAttribute
+package#PAnnotatedEReference
+package#PAnnotatedETypedElement
+package#PAnnotatedEDataType

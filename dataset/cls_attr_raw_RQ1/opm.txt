@@ -1,0 +1,15 @@
+OPMNode#incomingLinks
+OPMNode#outgoingLinks
+OPMNode#container
+OPMNode#constraints
+OPMObjectProcessDiagram#links
+OPMObjectProcessDiagram#nextId
+OPMObjectProcessDiagram#kind
+OPMLink#opd
+OPMLink#source
+OPMLink#target
+OPMLink#bendpoints
+OPMLink#routerKind
+OPMLink#sourceDecoration
+OPMLink#targetDecoration
+OPMLink#centerDecoration

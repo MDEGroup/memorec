@@ -1,0 +1,10 @@
+package#NamedElement
+package#DescribableElement
+package#CommentableElement
+package#Project
+package#Property
+package#Target
+package#TaskElement
+package#Attribute
+package#Task
+package#TaskParameter

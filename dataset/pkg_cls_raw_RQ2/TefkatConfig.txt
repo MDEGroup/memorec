@@ -1,0 +1,6 @@
+package#Configuration
+package#TransformationTask
+package#ExecutionMode
+package#Model
+package#URIMapEntry
+package#Property

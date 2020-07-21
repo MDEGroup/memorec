@@ -1,0 +1,6 @@
+ClassDeclaration#name
+ClassDeclaration#superclass
+ClassDeclaration#methods
+MethodDefinition#name
+MethodDefinition#class
+MethodDefinition#invocations

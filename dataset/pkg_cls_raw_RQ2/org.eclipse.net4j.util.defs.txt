@@ -1,0 +1,12 @@
+package#DefContainer
+package#Def
+package#ExecutorServiceDef
+package#ThreadPoolDef
+package#RandomizerDef
+package#UserManagerDef
+package#User
+package#PasswordCredentialsProviderDef
+package#CredentialsProviderDef
+package#NegotiatorDef
+package#ResponseNegotiatorDef
+package#ChallengeNegotiatorDef

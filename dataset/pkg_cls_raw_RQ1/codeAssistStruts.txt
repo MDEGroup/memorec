@@ -1,0 +1,14 @@
+struts#StrutsApplication
+struts#FormImpl
+struts#ExtendsActionForm
+struts#ActionImpl
+struts#ForwardImpl
+struts#InputForwardImpl
+struts#Forward
+struts#ExtendsAction
+struts#ExtendsDispatchAction
+struts#StrutsConfig
+struts#ActionDecl
+struts#FormDecl
+struts#ForwardDecl
+struts#FormProperty

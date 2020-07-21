@@ -1,0 +1,15 @@
+PreCondition#constraint
+PreCondition#constrainedElement
+PreCondition#body
+PortCondition#constraint
+PortCondition#constrainedElement
+PortCondition#body
+Invariant#constraint
+Invariant#constrainedElement
+Invariant#body
+Guard#constraint
+Guard#constrainedElement
+Guard#body
+Constraint#constraint
+Constraint#constrainedElement
+Constraint#body

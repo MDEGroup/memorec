@@ -1,0 +1,17 @@
+ArgumentDiagram#goals
+ArgumentDiagram#strategies
+ArgumentDiagram#justifications
+ArgumentDiagram#contexts
+ArgumentDiagram#assumptions
+ArgumentDiagram#solutions
+ArgumentDiagram#evidence
+ArgumentDiagram#version
+Goal#subGoals
+Goal#strategies
+Goal#goalContexts
+Goal#assumptions
+Goal#goalSolutions
+Strategy#goals
+Strategy#justifications
+Strategy#strategyContexts
+Strategy#strategySolutions

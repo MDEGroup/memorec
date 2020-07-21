@@ -1,0 +1,7 @@
+package#Application
+package#ExtensionPoint
+package#Description
+package#Extension
+package#PlugIn
+package#Librairy
+package#Class

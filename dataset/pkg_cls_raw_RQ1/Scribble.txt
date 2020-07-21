@@ -1,0 +1,17 @@
+scribble#ScribbleProgram
+scribble#IncludeDecl
+scribble#InstGlobalProtocolDecl
+scribble#TypeDecl
+scribble#GlobalProtocolDecl
+scribble#GlobalInteractionBlock
+scribble#GlobalInteraction
+scribble#Spawn
+scribble#Do
+scribble#Interruptible
+scribble#Continue
+scribble#Recursion
+scribble#Parallel
+scribble#Choice
+scribble#Message
+scribble#MessageSignature
+scribble#PayloadType

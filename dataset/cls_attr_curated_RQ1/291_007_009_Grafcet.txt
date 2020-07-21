@@ -1,0 +1,8 @@
+Step#isInitial
+Step#isActive
+Step#action
+Step#incomingConnections
+Step#outgoingConnections
+Transition#condition
+Transition#incomingConnections
+Transition#outgoingConnections

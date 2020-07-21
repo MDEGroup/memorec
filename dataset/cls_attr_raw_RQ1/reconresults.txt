@@ -1,0 +1,4 @@
+ReconstructionDetail#nexusFileName
+ReconstructionDetail#nexusFileLocation
+ReconstructionDetail#reconstructedLocation
+ReconstructionDetail#timeReconStarted

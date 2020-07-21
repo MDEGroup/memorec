@@ -1,0 +1,6 @@
+package#SynchronizationState
+package#ReconciliationDecision
+package#SyncItem
+package#SynchronizationResult
+package#ClassSyncItem
+package#StructuralFeatureSyncItem

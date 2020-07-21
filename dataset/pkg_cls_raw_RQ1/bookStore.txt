@@ -1,0 +1,9 @@
+bookstorepackage#BookStore
+bookstorepackage#Book
+bookstorepackage#Chapter
+bookstorepackage#Category
+bookstorepackage#ContainsChapter
+abstracttypespackage#Seller
+abstracttypespackage#Goods
+abstracttypespackage#Store
+abstracttypespackage#Sells

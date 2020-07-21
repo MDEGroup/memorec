@@ -1,0 +1,6 @@
+Function#parent
+Function#children
+Function#relatedTo
+Function#ignored
+Function#costs
+Function#targetVersion

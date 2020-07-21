@@ -1,0 +1,3 @@
+CopyFile#source
+CopyFile#destination
+CopyFile#name

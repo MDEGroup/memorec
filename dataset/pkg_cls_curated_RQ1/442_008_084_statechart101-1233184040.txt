@@ -1,0 +1,5 @@
+statechart101#State
+statechart101#Transition
+statechart101#Variable
+statechart101#NamedElement
+statechart101#Thing

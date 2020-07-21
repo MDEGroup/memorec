@@ -1,0 +1,7 @@
+primitivetypes#EStringElement
+primitivetypes#EBooleanElement
+primitivetypes#ECharElement
+primitivetypes#EFloatElement
+primitivetypes#EDoubleElement
+primitivetypes#EIntElement
+primitivetypes#EBigIntegerElement

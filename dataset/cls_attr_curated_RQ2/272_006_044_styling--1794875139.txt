@@ -1,0 +1,7 @@
+StylingModel#styles
+StylingModel#modeName
+StylingModel#default
+StylingModel#basic
+StylingPredicate#segments
+StylingPredicate#icon
+StylingPredicate#predicate

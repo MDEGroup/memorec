@@ -1,0 +1,6 @@
+plan#ArtifactType
+plan#AttributesType
+plan#DocumentRoot
+plan#NameValueType
+plan#Plan
+plan#VersionType

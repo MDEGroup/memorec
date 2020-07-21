@@ -1,0 +1,10 @@
+package#Location
+package#Scope
+package#Named
+package#Literal
+package#Block
+package#Comment
+package#MultiComment
+package#SingleComment
+package#Located
+package#Doclet

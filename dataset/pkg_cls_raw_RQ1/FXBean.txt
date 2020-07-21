@@ -1,0 +1,10 @@
+fXBean#FXBeanUnit
+fXBean#PackageDeclaration
+fXBean#Import
+fXBean#Bean
+fXBean#BeanPropertyDecl
+fXBean#BeanAttributeDecl
+fXBean#TypeDef
+fXBean#ValueListTypeDef
+fXBean#MapTypeDef
+fXBean#Multiplicity

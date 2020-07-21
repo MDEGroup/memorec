@@ -1,0 +1,17 @@
+package#Catalog
+package#CatalogElement
+package#StoryBase
+package#StoryContainer
+package#Protagonist
+package#Role
+package#Actor
+package#User
+package#System
+package#Persona
+package#Epic
+package#Theme
+package#Story
+package#Scenario
+package#ConditionalProtagonist
+package#Goal
+package#Parameter

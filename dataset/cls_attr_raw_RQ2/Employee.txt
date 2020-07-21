@@ -1,0 +1,15 @@
+Company#name
+Company#employees
+Company#departments
+Department#manager
+Department#deptID
+Department#name
+Department#employees
+Department#company
+Employee#isManager
+Employee#department
+Employee#manager
+Employee#directReports
+Employee#empID
+Employee#name
+Employee#company

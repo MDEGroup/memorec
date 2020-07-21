@@ -1,0 +1,3 @@
+Controller#spreadsheet
+Controller#connectionEndpoint
+Controller#namingMode

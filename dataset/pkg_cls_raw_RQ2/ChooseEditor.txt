@@ -1,0 +1,14 @@
+package#Diagram
+package#Goal
+package#Refinement
+package#ActorContainer
+package#OperationContainer
+package#Object
+package#Actor
+package#HumanActor
+package#Role
+package#Device
+package#SoftwareActor
+package#Operation
+package#Process
+package#Project

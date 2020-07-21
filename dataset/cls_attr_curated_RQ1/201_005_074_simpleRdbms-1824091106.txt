@@ -1,0 +1,11 @@
+Table#schema
+Table#column
+Table#key
+Table#foreignKey
+Column#owner
+Column#key
+Column#foreignKey
+Column#type
+ForeignKey#column
+ForeignKey#refersTo
+ForeignKey#owner

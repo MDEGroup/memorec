@@ -1,0 +1,14 @@
+package#DetectedVariant
+package#Fingerprint
+package#GenomicFeatureAssay
+package#GenomicFeatureDetectionProtocol
+package#GenomicFeatureDetector
+package#GenomicFeatureVariant
+package#GenotypeStudy
+package#Haplotype
+package#HaplotypeSet
+package#MolecularVariant
+package#MolecularVariantIdentifier
+package#MolecularVariantSet
+package#NormalizedAssayData
+package#RawAssayData

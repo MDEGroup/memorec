@@ -1,0 +1,12 @@
+DmdDocumentRoot#mixed
+DmdDocumentRoot#xMLNSPrefixMap
+DmdDocumentRoot#xSISchemaLocation
+DmdDocumentRoot#domainmanagerconfiguration
+DomainManagerConfiguration#description
+DomainManagerConfiguration#domainManagerSoftPkg
+DomainManagerConfiguration#services
+DomainManagerConfiguration#id
+DomainManagerConfiguration#name
+FindBy#nameService
+FindBy#stringifiedObjectRef
+FindBy#domainFinder

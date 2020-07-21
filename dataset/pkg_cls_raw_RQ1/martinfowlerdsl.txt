@@ -1,0 +1,6 @@
+martinfowlerdsl#StateMachine
+martinfowlerdsl#State
+martinfowlerdsl#Command
+martinfowlerdsl#Event
+martinfowlerdsl#AbstractEvent
+martinfowlerdsl#Transition

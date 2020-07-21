@@ -1,0 +1,11 @@
+package#Rule
+package#ScriptRule
+package#LogonRule
+package#SignatureRule
+package#Pattern
+package#Script
+package#JavaScript
+package#GenericScript
+package#Configuration
+package#Rules
+package#CA

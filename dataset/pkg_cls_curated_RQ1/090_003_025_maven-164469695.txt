@@ -1,0 +1,6 @@
+maven#GroupAndArtifact
+maven#MapEntry
+maven#Mappings
+maven#MavenProvider
+maven#Scopes
+maven#Scope

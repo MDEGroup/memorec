@@ -1,0 +1,12 @@
+conference#Conference
+conference#Talk
+conference#Person
+conference#Track
+conference#Subject
+conference#Day
+conference#Location
+makingOf#Day
+makingOf#Story
+makingOf#Task
+makingOf#Participant
+makingOf#Attitude

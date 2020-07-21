@@ -1,0 +1,8 @@
+package#AnnotatedTable
+package#AnnotatedFKey
+package#AnnotatedColumn
+package#AnnotatedDatabase
+package#AnnotatedType
+package#AnnotatedProcedure
+package#AnnotatedParameter
+package#AnnotatedPKey

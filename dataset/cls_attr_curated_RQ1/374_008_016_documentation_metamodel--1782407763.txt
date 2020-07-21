@@ -1,0 +1,8 @@
+Transition#effect
+Transition#trigger
+Transition#target
+Transition#source
+Transition#/name
+State#entry
+State#exit
+State#doActivity

@@ -1,0 +1,17 @@
+Book#title
+Book#pages
+Book#category
+Book#author
+Library#name
+Library#writers
+Library#employees
+Library#borrowers
+Library#stock
+Library#books
+Library#branches
+Library#parentBranch
+Library#casts
+Library#readers
+AudioVisualItem#title
+AudioVisualItem#minutesLength
+AudioVisualItem#damaged

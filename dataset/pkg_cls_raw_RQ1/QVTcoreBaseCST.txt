@@ -1,0 +1,15 @@
+qvtcorebasecst#AbstractMappingCS
+qvtcorebasecst#AreaCS
+qvtcorebasecst#AssignmentCS
+qvtcorebasecst#BottomPatternCS
+qvtcorebasecst#DirectionCS
+qvtcorebasecst#DomainCS
+qvtcorebasecst#EnforcementOperationCS
+qvtcorebasecst#GuardPatternCS
+qvtcorebasecst#ParamDeclarationCS
+qvtcorebasecst#PatternCS
+qvtcorebasecst#QueryCS
+qvtcorebasecst#RealizeableVariableCS
+qvtcorebasecst#RealizedVariableCS
+qvtcorebasecst#TransformationCS
+qvtcorebasecst#UnrealizedVariableCS

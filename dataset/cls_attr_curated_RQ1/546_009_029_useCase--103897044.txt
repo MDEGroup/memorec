@@ -1,0 +1,14 @@
+MultiplicityElement_c#sourceLower
+MultiplicityElement_c#sourceUpper
+MultiplicityElement_c#targetLower
+MultiplicityElement_c#targetUpper
+System_c#useCase
+System_c#ownedUseCase
+System_c#sub
+UseCase#subject
+UseCase#include
+UseCase#extend
+UseCase#extensionPoint
+Extend_c#extendedCase
+Extend_c#extension
+Extend_c#Expression

@@ -1,0 +1,17 @@
+package#RegularExpression
+package#Alternative
+package#Element
+package#Atom
+package#ComplexRange
+package#AtomicRange
+package#IntervalRange
+package#Terminal
+package#Not
+package#Block
+package#Choice
+package#Multiplicity
+package#CharTerminal
+package#StringTerminal
+package#Dot
+package#EEnum0
+package#Compound

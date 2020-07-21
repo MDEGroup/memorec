@@ -1,0 +1,10 @@
+House#people
+House#rooms
+House#doors
+Person#name
+Person#age
+Person#profession
+Person#alive
+Room#name
+Room#objects
+Room#people

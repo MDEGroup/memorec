@@ -1,0 +1,8 @@
+package#Conference
+package#Person
+package#Talk
+package#Topic
+package#TALK_TYPE
+package#GENDER
+package#Site
+package#Room

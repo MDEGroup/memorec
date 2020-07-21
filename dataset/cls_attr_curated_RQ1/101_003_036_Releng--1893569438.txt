@@ -1,0 +1,13 @@
+Server#name
+Server#buildJobs
+Server#repositories
+BuildJob#name
+BuildJob#sourceBranch
+BuildJob#buckminsterComponent
+BuildJob#types
+BuildJob#result
+BuildJob#promotions
+Promotion#build
+Promotion#buildType
+Promotion#target
+Promotion#criteria

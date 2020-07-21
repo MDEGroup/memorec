@@ -1,0 +1,13 @@
+package#ServerProject
+package#Authority
+package#AuthorityProfile
+package#User
+package#Application
+package#PolicyGroup
+package#Policy
+package#PolicyContributor
+package#Owned
+package#Credential
+package#BasicCredential
+package#PolicyGroupContributor
+package#VCardProfile

@@ -1,0 +1,12 @@
+ShiftExpression#left
+ShiftExpression#right
+ShiftExpression#type
+AddExpression#left
+AddExpression#right
+AddExpression#type
+MultExpression#left
+MultExpression#right
+MultExpression#type
+FixedPtLiteral#integerPart
+FixedPtLiteral#decimalPart
+FixedPtLiteral#value

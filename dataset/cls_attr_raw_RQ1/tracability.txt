@@ -1,0 +1,12 @@
+TraceabilityLink#attributes
+TraceabilityLink#sources
+TraceabilityLink#targets
+TraceabilityLink#deleted
+TraceabilityLink#resource
+TraceabilityLink#label
+TraceableElement#outgoings
+TraceableElement#incomings
+TraceableElement#properties
+AnalyzedResource#modificationTime
+AnalyzedResource#contained
+AnalyzedResource#links

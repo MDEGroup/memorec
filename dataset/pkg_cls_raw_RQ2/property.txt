@@ -1,0 +1,3 @@
+package#IntellectualPropertyDocument
+package#IntellectualPropertyPortfolio
+package#IntellectualPropertyType

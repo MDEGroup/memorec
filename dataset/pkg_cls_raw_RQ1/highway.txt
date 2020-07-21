@@ -1,0 +1,11 @@
+highway#highway
+highway#Node
+highway#Segment
+highway#Semaphore
+highway#Signal
+highway#Car
+highway#Extractor
+highway#Injector
+highway#Speedlimit
+highway#Stop
+highway#Yield

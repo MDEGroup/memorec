@@ -1,0 +1,12 @@
+beaninfo#FeatureDecorator
+beaninfo#BeanDecorator
+beaninfo#EventSetDecorator
+beaninfo#MethodDecorator
+beaninfo#ParameterDecorator
+beaninfo#PropertyDecorator
+beaninfo#IndexedPropertyDecorator
+beaninfo#MethodProxy
+beaninfo#BeanEvent
+beaninfo#FeatureAttributeMapEntry
+beaninfo#FeatureAttributeValue
+beaninfo#ImplicitItem

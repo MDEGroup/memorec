@@ -1,0 +1,16 @@
+model#WorkflowElement
+model#Workflow
+model#WorkflowNode
+model#Task
+model#CompoundTask
+model#LoopTask
+model#Choice
+model#Edge
+model#Port
+model#InputPort
+model#OutputPort
+model#FaultPort
+model#ConditionalOutputPort
+model#Comment
+model#AdviceType
+model#AdviceTask

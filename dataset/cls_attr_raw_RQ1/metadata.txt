@@ -1,0 +1,11 @@
+Model#entityGroups
+Model#sourceModelProvider
+Model#currentModelContext
+Entity#childEntities
+Entity#traits
+Entity#id
+Entity#type
+Entity#includeGroups
+Trait#id
+Trait#value
+Trait#sourceModelProvider

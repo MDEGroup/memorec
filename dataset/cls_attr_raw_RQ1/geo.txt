@@ -1,0 +1,12 @@
+Country#sites
+Country#icons
+Country#countryCode
+Site#rooms
+Site#area
+Site#city
+Site#housenumber
+Site#latitude
+Site#longitude
+Site#postalcode
+Site#region
+Site#sreet

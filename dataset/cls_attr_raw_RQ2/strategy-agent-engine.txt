@@ -1,0 +1,3 @@
+StrategyAgentEngine#jmsUrl
+StrategyAgentEngine#webServiceHostname
+StrategyAgentEngine#webServicePort

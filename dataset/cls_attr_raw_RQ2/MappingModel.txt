@@ -1,0 +1,4 @@
+PatternMapping#packagePattern
+PatternMapping#behaviorPattern
+PatternMapping#classPattern
+PatternMapping#javaFilePattern

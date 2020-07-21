@@ -1,0 +1,9 @@
+package#BusinessProfileType
+package#DocumentRoot
+package#OrganizationType
+package#PersonalProfileType
+package#PersonType
+package#SyncOrganizationDataAreaType
+package#SyncOrganizationType
+package#SyncPersonDataAreaType
+package#SyncPersonType

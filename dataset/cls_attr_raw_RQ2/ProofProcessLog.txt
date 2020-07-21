@@ -1,0 +1,3 @@
+ProofActivity#description
+ProofActivity#timestamp
+ProofActivity#proofRef

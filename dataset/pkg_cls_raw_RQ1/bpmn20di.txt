@@ -1,0 +1,10 @@
+_0#Bendpoint
+_0#Connector
+_0#DefinitionType
+_0#Diagram
+_0#DocumentRoot
+_0#Node
+_0#SourceConnectorType
+_0#Style
+_0#TargetConnectorType
+_0#View

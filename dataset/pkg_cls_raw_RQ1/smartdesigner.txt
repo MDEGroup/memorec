@@ -1,0 +1,4 @@
+smartdesigner#GraphicalElement
+smartdesigner#Diagram
+smartdesigner#DocumentRoot
+smartdesigner#AccessControl

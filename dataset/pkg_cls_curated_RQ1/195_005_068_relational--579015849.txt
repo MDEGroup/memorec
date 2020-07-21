@@ -1,0 +1,8 @@
+relational#DataBase
+relational#Schema
+relational#Table
+relational#Field
+relational#Type
+relational#PrimaryKey
+relational#ForeignKey
+relational#Column

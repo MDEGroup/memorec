@@ -1,0 +1,9 @@
+OLCLMap#Objective2Action
+OLCLMap#Mapping
+OLCLMap#MapEntry
+OLCLMap#Landmark2Action
+OLCLMap#LandmarkPattern2Action
+OLCLMap#Scene2Action
+OLCLMap#IS2Action
+OLCLMap#Player2Participant
+OLCLMap#ToAction

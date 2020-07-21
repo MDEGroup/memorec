@@ -1,0 +1,17 @@
+database#NamedElement
+database#DataBase
+database#AbstractTable
+database#Column
+database#Index
+database#View
+database#Table
+database#PrimaryKey
+database#ForeignKey
+database#ForeignKeyElement
+database#IndexElement
+database#Constraint
+database#DatabaseElement
+database#Schema
+database#Sequence
+database#TableContainer
+database#ViewElement

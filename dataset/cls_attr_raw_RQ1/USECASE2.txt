@@ -1,0 +1,6 @@
+UseCase#scenario
+UseCase#condition
+UseCase#interacter
+UseCase#specified_by
+UseCase#scoped_by
+UseCase#meet_by

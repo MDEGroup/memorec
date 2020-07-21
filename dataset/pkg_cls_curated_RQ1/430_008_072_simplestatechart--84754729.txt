@@ -1,0 +1,6 @@
+simplestatechart#Thing
+simplestatechart#NamedElement
+simplestatechart#RelatedTo
+simplestatechart#Variable
+simplestatechart#Transition
+simplestatechart#State

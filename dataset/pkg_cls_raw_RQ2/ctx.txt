@@ -1,0 +1,15 @@
+package#ContextModel
+package#ModelClass
+package#EntityClass
+package#RelatorClass
+package#Attribute
+package#NamedElement
+package#DataType
+package#ComparativeFormalRelation
+package#Association
+package#ContextModelElement
+package#QualitativeFormalRelation
+package#QualitativeParameter
+package#ComparableElements
+package#PrimitiveFormalRelation
+package#PrimitiveDataType

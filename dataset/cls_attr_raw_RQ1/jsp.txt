@@ -1,0 +1,7 @@
+JSPPropertyGroup#urlPattern
+JSPPropertyGroup#elIgnored
+JSPPropertyGroup#pageEncoding
+JSPPropertyGroup#scriptingInvalid
+JSPPropertyGroup#isXML
+JSPPropertyGroup#includePreludes
+JSPPropertyGroup#includeCodas

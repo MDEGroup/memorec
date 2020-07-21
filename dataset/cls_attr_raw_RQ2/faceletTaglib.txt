@@ -1,0 +1,16 @@
+FaceletXMLDefnTaglib#namespace
+FaceletXMLDefnTaglib#tags
+FaceletXMLDefnTaglib#functions
+ComponentTagDefn#name
+ComponentTagDefn#handlerClass
+ComponentTagDefn#componentType
+ComponentTagDefn#rendererType
+ValidatorTagDefn#name
+ValidatorTagDefn#handlerClass
+ValidatorTagDefn#validatorId
+ConverterTagDefn#name
+ConverterTagDefn#handlerClass
+ConverterTagDefn#converterId
+FunctionDefn#functionName
+FunctionDefn#functionClass
+FunctionDefn#functionSignature

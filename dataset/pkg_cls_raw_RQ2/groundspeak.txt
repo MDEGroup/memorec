@@ -1,0 +1,14 @@
+package#AttributesType
+package#AttributeType
+package#CacheType
+package#DocumentRoot
+package#FinderType
+package#LogsType
+package#LogType
+package#LogWptType
+package#LongDescriptionType
+package#OwnerType
+package#ShortDescriptionType
+package#TextType
+package#TravelbugsType
+package#TravelbugType

@@ -1,0 +1,7 @@
+aterms#ATerm
+aterms#Definition
+aterms#Symbol
+aterms#Value
+aterms#Cardinality
+aterms#StarCardinality
+aterms#Reference

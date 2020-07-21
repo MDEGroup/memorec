@@ -1,0 +1,11 @@
+LudoGame#name
+LudoGame#cube
+LudoGame#player
+LudoGame#gamingPieces
+LudoGame#board
+Player#name
+Player#ludoGame
+Player#gamingPieces
+GameingPieces#name
+GameingPieces#ludoGame
+GameingPieces#pieceColor

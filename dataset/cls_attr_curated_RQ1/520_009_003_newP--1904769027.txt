@@ -1,0 +1,16 @@
+Requirement#name
+Requirement#identifier
+Requirement#priority
+Requirement#mandatory
+Requirement#description
+Requirement#dependency
+Category#name
+Category#requirement
+Category#children
+Specification#category
+Specification#person
+Specification#name
+Person#firstName
+Person#lastName
+Person#categories
+Person#requirements

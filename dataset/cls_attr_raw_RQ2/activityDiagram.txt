@@ -1,0 +1,11 @@
+Activity#name
+Activity#container
+Activity#elements
+Action#activity
+Action#incoming
+Action#outgoing
+Action#name
+ControlFlow#source
+ControlFlow#target
+ControlFlow#condition
+ControlFlow#activity

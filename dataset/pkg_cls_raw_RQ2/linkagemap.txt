@@ -1,0 +1,12 @@
+package#Chromosome
+package#CorrelatedLinkageMapSet
+package#CytogeneticMap
+package#Gene
+package#GeneticMap
+package#GenomicFeature
+package#GenomicMapStudy
+package#HapMap
+package#HaplotypeBlock
+package#LinkageMap
+package#MappedSpecies
+package#PhysicalMap

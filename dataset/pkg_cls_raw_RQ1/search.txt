@@ -1,0 +1,8 @@
+search#Search
+search#SearchScope
+search#SearchResult
+search#SavedSearches
+search#LatestSearchStrings
+search#SearchHistory
+search#EAttribute
+search#SecondaryGroupContainer

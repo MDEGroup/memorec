@@ -1,0 +1,9 @@
+diagramaclases#DiagramaClases
+diagramaclases#Clase
+diagramaclases#Atributo
+diagramaclases#Metodo
+diagramaclases#ElementoNombrado
+diagramaclases#Relacion
+diagramaclases#TipoPrimitivo
+diagramaclases#TipoVisibilidad
+diagramaclases#Parametro

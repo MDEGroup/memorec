@@ -1,0 +1,10 @@
+sco#ChangeOrderType
+sco#ChangeOrderCount
+sco#TotalChangeOrders
+sco#CriticalDefectChangeOrders
+sco#NormalDefectChangeOrders
+sco#ImprovementChangeOrders
+sco#NewFeatureChangeOrders
+sco#ArtifactIdentifier
+sco#ArtifactCommit
+sco#CommitHistory

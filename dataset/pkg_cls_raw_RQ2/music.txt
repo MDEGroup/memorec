@@ -1,0 +1,6 @@
+package#Artist
+package#Album
+package#Country
+package#Genre
+package#Rating
+package#Song

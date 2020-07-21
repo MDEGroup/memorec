@@ -1,0 +1,10 @@
+schema#Build
+schema#BuildType
+schema#BuildTypeObject
+schema#Bundle
+schema#Component
+schema#Dependency
+schema#Detail
+schema#DownloadSite
+schema#DownloadSiteElement
+schema#TStamp

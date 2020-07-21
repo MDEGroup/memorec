@@ -1,0 +1,3 @@
+knapsack#KnapsackProblem
+knapsack#Algorithm
+knapsack#Item

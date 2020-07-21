@@ -1,0 +1,4 @@
+Connection#id
+Connection#name
+Connection#type
+Connection#attributes

@@ -1,0 +1,7 @@
+SRMmodel#activities
+SRMmodel#capabilities
+SRMmodel#roles
+Role#activities
+Role#liveness
+Role#name
+Role#capabilities

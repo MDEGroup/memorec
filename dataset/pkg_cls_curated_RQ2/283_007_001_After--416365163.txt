@@ -1,0 +1,6 @@
+package#Net
+package#Place
+package#Transition
+package#Arc
+package#PTArc
+package#TPArc

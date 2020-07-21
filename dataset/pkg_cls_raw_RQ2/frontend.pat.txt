@@ -1,0 +1,15 @@
+package#PatternSpecification
+package#Pattern
+package#POutputVariable
+package#PObject
+package#PFeature
+package#PAttribute
+package#PReference
+package#CollectionReference
+package#NamedElement
+package#TransformationDefinition
+package#TransformationDefinitionParameter
+package#LocatedElement
+package#ClassUse
+package#Variable
+package#Expression

@@ -1,0 +1,3 @@
+Concat#inputMessage
+Concat#inputAppendMessage
+Concat#outputMessage

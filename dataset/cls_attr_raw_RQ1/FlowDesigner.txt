@@ -1,0 +1,11 @@
+Event#event
+Event#nextState
+Event#action
+Event#guard
+NamedState#name
+NamedState#activity
+NamedState#exit
+NamedState#entry
+Flow#initialState
+Flow#states
+Flow#finalState

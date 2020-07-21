@@ -1,0 +1,10 @@
+CoordType#dir
+CoordType#x
+CoordType#y
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#coord
+DocumentRoot#dir
+DocumentRoot#x
+DocumentRoot#y

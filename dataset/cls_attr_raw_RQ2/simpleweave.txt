@@ -1,0 +1,10 @@
+WModel#coreID
+WModel#type
+WModel#aspects
+Aspect#name
+Aspect#aspectID
+Aspect#wmodel
+Aspect#weavings
+Weaving#adviceContentID
+Weaving#joinPointID
+Weaving#aspect

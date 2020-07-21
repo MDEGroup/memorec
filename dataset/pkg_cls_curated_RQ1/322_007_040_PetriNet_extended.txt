@@ -1,0 +1,13 @@
+PetriNet#LocatedElement
+PetriNet#NamedElement
+PetriNet#PetriNet
+PetriNet#Element
+PetriNet#Place
+PetriNet#Transition
+PetriNet#Arc
+PetriNet#PlaceToTransition
+PetriNet#TransitionToPlace
+PetriNet#Execution
+PetriNet#Token
+PetriNet#Marking
+PetriNet#Movement

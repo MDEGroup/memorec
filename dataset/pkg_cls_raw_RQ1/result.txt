@@ -1,0 +1,3 @@
+result#QueryResult
+result#SingleResult
+result#ListResult

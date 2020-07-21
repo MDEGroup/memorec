@@ -1,0 +1,4 @@
+StringModelFragment#elements
+StringModelFragment#featurename
+StringModelFragment#parentElementId
+StringModelFragment#positionInList

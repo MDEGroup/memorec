@@ -1,0 +1,3 @@
+AdaptationPrimitive#primitiveType
+AdaptationPrimitive#targetNodeName
+AdaptationPrimitive#ref

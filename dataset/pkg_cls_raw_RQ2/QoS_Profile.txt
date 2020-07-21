@@ -1,0 +1,10 @@
+package#Boolean
+package#Integer
+package#String
+package#QoSComponent
+package#Operation
+package#QoSProfile
+package#CompoundProfile
+package#SimpleProfile
+package#QoSStatement
+package#ProfileTransition

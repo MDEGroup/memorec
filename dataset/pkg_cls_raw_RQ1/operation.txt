@@ -1,0 +1,5 @@
+operation#MenuItem
+operation#RuntimeInformation
+operation#ChecklistEntry
+operation#Checklist
+operation#OperationElement

@@ -1,0 +1,6 @@
+statics#Package
+statics#Class
+statics#Attribute
+statics#Method
+statics#CodeElement
+statics#IStaticElement

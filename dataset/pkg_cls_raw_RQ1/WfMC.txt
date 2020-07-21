@@ -1,0 +1,6 @@
+WfMC#WorkflowProcessDefinition
+WfMC#WorkflowApplicationDeclaration
+WfMC#WorkflowRelevantData
+WfMC#WorkflowParticipantSpecification
+WfMC#WorkflowProcessActivity
+WfMC#TransitionInformation

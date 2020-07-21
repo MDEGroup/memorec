@@ -1,0 +1,8 @@
+Allocation#cost
+Allocation#duration
+Allocation#team
+Allocation#facility
+Plan#id
+Plan#element
+Plan#estimated
+Plan#actual

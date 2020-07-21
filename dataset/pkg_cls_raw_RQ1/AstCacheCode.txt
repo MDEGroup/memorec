@@ -1,0 +1,13 @@
+code#DocumentableElement
+code#TypedElement
+code#ModifiableElement
+code#ExtendedModifier
+code#Modifier
+code#Annotation
+code#AnnotationValue
+code#Class
+code#Attribute
+code#Operation
+code#Parameter
+code#EnumConstant
+code#AnnotationMember

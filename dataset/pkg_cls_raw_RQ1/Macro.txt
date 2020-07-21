@@ -1,0 +1,12 @@
+macro#Domain
+macro#Class
+macro#onLoadBloc
+macro#Bloc
+macro#Directive
+macro#conditionnalDirective
+macro#strDirective
+macro#intDirective
+macro#varDirective
+macro#ifDirective
+macro#waitDirective
+macro#lockDirective

@@ -1,0 +1,10 @@
+eresource#CDOResourceNode
+eresource#CDOResourceFolder
+eresource#CDOResource
+eresource#ResourceSet
+eresource#URI
+eresource#Diagnostic
+eresource#CDOResourceLeaf
+eresource#CDOFileResource
+eresource#CDOBinaryResource
+eresource#CDOTextResource

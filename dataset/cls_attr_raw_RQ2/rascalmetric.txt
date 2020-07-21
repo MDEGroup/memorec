@@ -1,0 +1,9 @@
+IntegerMeasurement#uri
+IntegerMeasurement#metric
+IntegerMeasurement#value
+RealMeasurement#uri
+RealMeasurement#metric
+RealMeasurement#value
+BooleanMeasurement#uri
+BooleanMeasurement#metric
+BooleanMeasurement#value

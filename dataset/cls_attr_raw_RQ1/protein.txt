@@ -1,0 +1,13 @@
+AtomicPosition#x
+AtomicPosition#y
+AtomicPosition#z
+ProteinStructure#protein
+ProteinStructure#origin
+ProteinStructure#residueMappings
+Residue#peptideSequence
+Residue#aminoAcid
+Residue#residueStructuralMappings
+ResidueStructuralMapping#residue
+ResidueStructuralMapping#structure
+ResidueStructuralMapping#interactions
+ResidueStructuralMapping#coordinates

@@ -1,0 +1,8 @@
+description#BrowserState
+description#FacetType
+description#Facet
+description#FacetValue
+description#FragmentDescription
+description#FacetTypeDecorator
+description#FacetValueDecorator
+description#GUIState

@@ -1,0 +1,11 @@
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double
+CPR#Plan
+CPR#Objective
+CPR#EvaluationCriteria
+CPR#Action
+CPR#Actor
+CPR#Resource
+CPR#TimeSpec

@@ -1,0 +1,17 @@
+ResourceDeclaration#uri
+ResourceDeclaration#name
+ResourceDeclaration#contentType
+ResourceDeclaration#content
+InstanciationInstruction#metaType
+InstanciationInstruction#name
+InstanciationInstruction#structuralFeatures
+StructuralFeatureAffectation#metaType
+StructuralFeatureAffectation#name
+StructuralFeatureAffectation#usedOperator
+StructuralFeatureAffectation#values
+ExternalContentReference#uri
+ExternalContentReference#name
+ExternalContentReference#contentType
+ExternalContentReference#content
+ExternalContentReference#externalContent
+ExternalContentReference#markedAsMerged

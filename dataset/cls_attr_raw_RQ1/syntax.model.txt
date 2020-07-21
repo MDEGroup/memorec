@@ -1,0 +1,7 @@
+SyntaxModel#terminals
+SyntaxModel#rules
+SyntaxModel#startItem
+SyntaxModel#import
+Terminal#regex
+Terminal#hide
+Terminal#replace

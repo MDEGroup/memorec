@@ -1,0 +1,9 @@
+CP1Dependency#from
+CP1Dependency#to
+CP1Dependency#type
+CP1Class#methods
+CP1Class#fields
+CP1Class#extends
+CP1Class#implements
+CP1Class#simpleName
+CP1Class#packageName

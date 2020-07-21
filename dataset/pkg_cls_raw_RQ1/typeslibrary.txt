@@ -1,0 +1,13 @@
+typeslibrary#NativeTypesLibrary
+typeslibrary#NativeTypeKind
+typeslibrary#TypeInstance
+typeslibrary#NativeType
+typeslibrary#ComplexNamedType
+typeslibrary#SimpleNamedType
+typeslibrary#Type
+typeslibrary#UserDefinedType
+typeslibrary#UserDefinedTypeRef
+typeslibrary#UserDefinedTypesLibrary
+typeslibrary#TypesLibraryUser
+typeslibrary#TypesLibrary
+typeslibrary#TypesLibraryKind

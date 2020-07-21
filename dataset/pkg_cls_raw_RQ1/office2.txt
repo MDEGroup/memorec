@@ -1,0 +1,7 @@
+office2#Employee
+office2#LeisureRoom
+office2#NamedElement
+office2#OfficeElement
+office2#OfficeModel
+office2#Office
+office2#Room

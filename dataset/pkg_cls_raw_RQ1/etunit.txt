@@ -1,0 +1,10 @@
+Etunit#DocumentRoot
+Etunit#ErrorType
+Etunit#FailureType
+Etunit#ISO8601DATETIMEPATTERN
+Etunit#NameType
+Etunit#PreString
+Etunit#TestcaseType
+Etunit#Testsuite
+Etunit#TestsuitesType
+Etunit#TestsuiteType

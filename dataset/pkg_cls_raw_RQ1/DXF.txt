@@ -1,0 +1,6 @@
+DXF#DXF
+DXF#Mesh
+DXF#Point
+PrimitiveTypes#Double
+PrimitiveTypes#Integer
+PrimitiveTypes#String

@@ -1,0 +1,3 @@
+ucmmodel#UCMDiagram
+ucmmodel#Adapter
+ucmmodel#Notifier

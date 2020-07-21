@@ -1,0 +1,7 @@
+StateMachineUnnamed#StateMachine
+StateMachineUnnamed#StateVertex
+StateMachineUnnamed#Transition
+StateMachineUnnamed#InitialState
+StateMachineUnnamed#SimpleState
+StateMachineUnnamed#FinalState
+StateMachineUnnamed#Event

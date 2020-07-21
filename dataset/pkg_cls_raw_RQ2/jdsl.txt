@@ -1,0 +1,11 @@
+package#NamedElement
+package#CMSEnum
+package#TypeEnum
+package#AccessLevelEnum
+package#ContentModel
+package#ContentType
+package#Property
+package#Role
+package#User
+package#Version
+package#CMS

@@ -1,0 +1,16 @@
+statistical#SDDescriptor
+statistical#SDMemberDescriptor
+statistical#SDGaugeRepresentation
+statistical#SDSampleDescriptor
+statistical#SDView
+statistical#SDSampleWindow
+statistical#SDSnapshotObservation
+statistical#SDDiscreteObservation
+statistical#SDContiguousObservation
+statistical#SDTextObservation
+statistical#SDRangeRepresentation
+statistical#SDCounterDescriptor
+statistical#SDRepresentation
+statistical#SDTextRepresentation
+statistical#SDDiscreteRepresentation
+statistical#SDContiguousRepresentation

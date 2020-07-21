@@ -1,0 +1,7 @@
+ModelElement#parentLink
+ModelElement#properties
+ModelElement#embeddinglinks
+ModelElement#referencelinks
+ReferenceLink#owner
+ReferenceLink#modelElement
+ReferenceLink#roles

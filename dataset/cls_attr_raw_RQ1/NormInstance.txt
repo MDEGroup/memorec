@@ -1,0 +1,6 @@
+NormInstance#norm
+NormInstance#name
+NormInstance#partialStateDescriptionInstance
+PartialStateDescriptionInstance#partialStateDescription
+PartialStateDescriptionInstance#name
+PartialStateDescriptionInstance#value

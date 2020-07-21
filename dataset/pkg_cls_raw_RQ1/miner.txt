@@ -1,0 +1,6 @@
+miner#Process
+miner#ProcessInstance
+miner#Activity
+miner#Event
+miner#ActivityType
+miner#Commit

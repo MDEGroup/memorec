@@ -1,0 +1,10 @@
+ModelElement#name
+ModelElement#visibility
+ModelElement#contraints
+ModelElement#clientDependencies
+ModelElement#supplierDependencies
+ModelElement#namespace
+ModelElement#importers
+Dependency#kind
+Dependency#clients
+Dependency#suppliers

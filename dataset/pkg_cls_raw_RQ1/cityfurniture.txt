@@ -1,0 +1,4 @@
+cityfurniture#CityFurnitureClassType
+cityfurniture#CityFurnitureFunctionType
+cityfurniture#CityFurnitureType
+cityfurniture#DocumentRoot

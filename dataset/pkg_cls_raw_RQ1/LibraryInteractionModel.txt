@@ -1,0 +1,13 @@
+libraryinteractionmodel#Library
+libraryinteractionmodel#Book
+libraryinteractionmodel#Books
+libraryinteractionmodel#Authors
+libraryinteractionmodel#AuthorShort
+libraryinteractionmodel#Client
+libraryinteractionmodel#Clients
+libraryinteractionmodel#Reservation
+libraryinteractionmodel#ISBN
+libraryinteractionmodel#Author
+libraryinteractionmodel#BookShort
+libraryinteractionmodel#EMail
+libraryinteractionmodel#Reservations

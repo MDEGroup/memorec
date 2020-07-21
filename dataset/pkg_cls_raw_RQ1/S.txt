@@ -1,0 +1,16 @@
+s#Program
+s#State
+s#Thread
+s#Continuation
+s#Instruction
+s#Prio
+s#Trans
+s#Fork
+s#Join
+s#Pause
+s#Term
+s#Halt
+s#Emit
+s#Abort
+s#If
+s#Await

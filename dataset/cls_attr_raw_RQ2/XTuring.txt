@@ -1,0 +1,12 @@
+State#beginState
+State#name
+State#transactions
+Transaction#reading
+Transaction#read
+Transaction#writing
+Transaction#write
+Transaction#moving
+Transaction#move
+Transaction#next
+Transaction#toState
+Transaction#final

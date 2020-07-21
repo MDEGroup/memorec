@@ -1,0 +1,8 @@
+IntentSection#intentContent
+IntentSection#subSections
+IntentSection#units
+IntentSection#descriptionUnits
+IntentSection#modelingUnits
+LabelDeclaration#labelValue
+LabelDeclaration#textToPrint
+LabelDeclaration#type

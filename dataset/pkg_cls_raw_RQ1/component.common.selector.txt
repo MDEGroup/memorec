@@ -1,0 +1,5 @@
+commonselector#DocumentRoot
+commonselector#StaticOperationSelectorType
+commonselector#XPathOperationSelectorType
+commonselector#RegexOperationSelectorType
+commonselector#JavaOperationSelectorType

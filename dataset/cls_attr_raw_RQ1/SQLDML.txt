@@ -1,0 +1,12 @@
+LocatedElement#location
+LocatedElement#commentsBefore
+LocatedElement#commentsAfter
+ViewStatement#name
+ViewStatement#columns
+ViewStatement#query
+BinaryExp#opName
+BinaryExp#leftExp
+BinaryExp#rightExp
+NotExp#opName
+NotExp#valueExp
+NotExp#unused

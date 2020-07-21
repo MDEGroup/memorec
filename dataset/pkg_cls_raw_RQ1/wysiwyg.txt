@@ -1,0 +1,5 @@
+wysiwyg#SynchronizerContainer
+wysiwyg#DomainPropertiesSynchronizer
+wysiwyg#AbstractAction
+wysiwyg#MethodCallAction
+wysiwyg#FigurePropertySynchAction

@@ -1,0 +1,12 @@
+Application#database
+Application#server
+Application#clients
+Entity#primaries
+Entity#properties
+Entity#relationships
+Entity#super
+Relationship#target
+Relationship#properties
+Relationship#type
+Relationship#isNullable
+Relationship#isContainment

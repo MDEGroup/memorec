@@ -1,0 +1,15 @@
+GenGapModel#genModel
+GenGapModel#customClassNamePattern
+GenGapModel#generateCustomClasses
+GenGapModel#customModelDirectory
+GenGapModel#cleanModelDirectory
+GenGapModel#generateCustomProviders
+GenGapModel#customEditDirectory
+GenGapModel#cleanEditDirectory
+GenGapModel#genGapPackages
+GenGapPackage#genPackage
+GenGapPackage#customClassPackageSuffix
+GenGapPackage#customProviderPackageSuffix
+GenGapPackage#nestedGenGapPackages
+GenGapPackage#superGenGapPackage
+GenGapPackage#genGapModel

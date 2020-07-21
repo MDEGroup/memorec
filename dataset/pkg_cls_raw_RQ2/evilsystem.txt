@@ -1,0 +1,15 @@
+package#System
+package#SimpleType
+package#Entity
+package#NamedObject
+package#Attribute
+package#Function
+package#Parameter
+package#Service
+package#PackageElement
+package#Type
+package#TypeReference
+package#Component
+package#Platform
+package#MethodType
+package#NamedQuery

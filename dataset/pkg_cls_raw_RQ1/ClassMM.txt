@@ -1,0 +1,8 @@
+ClassMM#Classifier
+ClassMM#Association
+ClassMM#Attribute
+ClassMM#Class
+ClassMM#PrimitiveDataType
+ClassMM#ClassModel
+ClassMM#String
+ClassMM#Boolean

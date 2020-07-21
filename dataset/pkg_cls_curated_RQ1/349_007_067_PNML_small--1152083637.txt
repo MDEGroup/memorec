@@ -1,0 +1,7 @@
+pnml#PNMLDocument
+pnml#PlaceElement
+pnml#TransitionElement
+pnml#ArcPlace2Transition
+pnml#ArcTransition2Place
+pnml#Element
+pnml#NetElement

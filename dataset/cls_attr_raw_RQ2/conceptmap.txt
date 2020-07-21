@@ -1,0 +1,9 @@
+ArrowConnection#name
+ArrowConnection#fromElement
+ArrowConnection#toElement
+DoubleArrowConnection#name
+DoubleArrowConnection#fromElement
+DoubleArrowConnection#toElement
+DefaultConnection#name
+DefaultConnection#fromElement
+DefaultConnection#toElement

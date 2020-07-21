@@ -1,0 +1,6 @@
+ScriptConsoleContext#object
+ScriptConsoleContext#language
+ScriptConsoleContext#script
+ScriptConsoleContext#expression
+ScriptConsoleContext#result
+ScriptConsoleContext#exception

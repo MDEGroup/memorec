@@ -1,0 +1,14 @@
+epatch#Epatch
+epatch#ModelImport
+epatch#ResourceImport
+epatch#EPackageImport
+epatch#NamedResource
+epatch#NamedObject
+epatch#ObjectRef
+epatch#CreatedObject
+epatch#Assignment
+epatch#SingleAssignment
+epatch#ListAssignment
+epatch#AssignmentValue
+epatch#ObjectNew
+epatch#ObjectCopy

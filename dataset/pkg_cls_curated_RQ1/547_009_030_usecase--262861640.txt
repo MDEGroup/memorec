@@ -1,0 +1,16 @@
+mtpusecase#NamedElement
+mtpusecase#Package
+mtpusecase#PackableElement
+mtpusecase#HasInheritance
+mtpusecase#Generalization
+mtpusecase#Comment
+mtpusecase#UseCase
+mtpusecase#Actor
+mtpusecase#Relation
+mtpusecase#DirectedAssociation
+mtpusecase#Association
+mtpusecase#Include
+mtpusecase#Extend
+mtpusecase#TransformationActor
+mtpusecase#RequirementUseCase
+mtpusecase#ConstraintComment

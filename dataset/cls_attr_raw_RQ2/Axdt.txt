@@ -1,0 +1,6 @@
+AxdtProjectSource#project
+AxdtProjectSource#outputLocation
+AxdtProjectSource#librariesLocation
+AxdtProjectSource#configLocation
+AxdtProjectSource#connectedPackageRoots
+AxdtProjectSource#parent

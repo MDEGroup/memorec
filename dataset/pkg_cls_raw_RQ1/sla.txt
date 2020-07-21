@@ -1,0 +1,10 @@
+slamodel#SLAModel
+slamodel#SLA
+slamodel#CustomerSLA
+slamodel#PerformanceConstraint
+slamodel#Constraint
+slamodel#Penalty
+slamodel#TimedWindowValueConstraint
+slamodel#MetricTypeName
+slamodel#StructuralReference
+slamodel#TimedPenalty

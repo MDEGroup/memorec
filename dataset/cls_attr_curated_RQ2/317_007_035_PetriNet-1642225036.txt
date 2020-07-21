@@ -1,0 +1,8 @@
+PlaceToTransition#weight
+PlaceToTransition#name
+PlaceToTransition#from
+PlaceToTransition#to
+TransitionToPlace#weight
+TransitionToPlace#name
+TransitionToPlace#from
+TransitionToPlace#to

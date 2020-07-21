@@ -1,0 +1,7 @@
+customsandwich#RecipeTemplate
+customsandwich#ForFeatureRecipeInstructions
+customsandwich#ForFeatureRecipeIngredients
+customsandwich#IfFeatureRecipeInstructions
+customsandwich#IfFeatureRecipeIngredients
+customsandwich#IfElseFeatureInstructionUsing
+customsandwich#PhFeatureIngredientName

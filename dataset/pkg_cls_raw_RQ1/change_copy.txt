@@ -1,0 +1,7 @@
+change#ChangeDescription
+change#EObjectToChangesMapEntry
+change#FeatureChange
+change#ListChange
+change#ChangeKind
+change#ResourceChange
+change#FeatureMapEntry

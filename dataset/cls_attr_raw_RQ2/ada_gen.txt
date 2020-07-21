@@ -1,0 +1,17 @@
+AdaPackage#name
+AdaPackage#withedPrimitives
+AdaPackage#variants
+AdaPackage#records
+PrimitiveVariant#name
+PrimitiveVariant#typeName
+PrimitiveVariant#primitiveType
+EnumVariant#name
+EnumVariant#typeName
+EnumVariant#enumerates
+PrimitivesType#name
+PrimitivesType#initValue
+PrimitivesType#nullValue
+Simple#name
+Simple#cardinality
+Simple#segment
+Simple#qualifier

@@ -1,0 +1,6 @@
+PropertyDefinition#name
+PropertyDefinition#valueSingle
+PropertyDefinition#valueMultiple
+ContextElement#elements
+ContextElement#properties
+ContextElement#name

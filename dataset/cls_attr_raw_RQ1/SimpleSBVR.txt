@@ -1,0 +1,3 @@
+RoleBinding#occursIn
+RoleBinding#isOf
+RoleBinding#bindsTo

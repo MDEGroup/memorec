@@ -1,0 +1,9 @@
+TraySection#name
+TraySection#image
+TraySection#description
+TraySection#implementation
+TraySection#templateId
+TraySection#preferenceOptions
+DesktopToolItem#id
+DesktopToolItem#name
+DesktopToolItem#image

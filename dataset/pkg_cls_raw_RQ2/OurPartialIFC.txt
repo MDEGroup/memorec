@@ -1,0 +1,13 @@
+package#OurIFC
+package#OurIfcRelAssociatesMaterial
+package#OurIfcMaterialSelect
+package#OurIfcElement
+package#Identifiable
+package#OurIfcElementType
+package#OurIfcRoot
+package#OurIfcRelDefinesByType
+package#OurIfcMaterial
+package#OurIfcMaterialLayer
+package#OurIfcMaterialList
+package#OurIfcMaterialLayerSet
+package#OurIfcMaterialLayerSetUsage

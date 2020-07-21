@@ -1,0 +1,9 @@
+hornetq#BindingType
+hornetq#ConfigType
+hornetq#ConnectorType
+hornetq#DiscoveryGroupType
+hornetq#DocumentRoot
+hornetq#PropertiesType
+hornetq#PropertyType
+hornetq#HornetQContextMapperType
+hornetq#HornetQMessageComposerType

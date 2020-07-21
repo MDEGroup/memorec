@@ -1,0 +1,9 @@
+lifecycle#LifeCycle
+lifecycle#AbstractState
+lifecycle#State
+lifecycle#InitialState
+lifecycle#FinalState
+lifecycle#Transition
+lifecycle#LifecycleElement
+lifecycle#WorkProductUse
+lifecycle#WorkProductDefinition

@@ -1,0 +1,8 @@
+review#Review
+review#ReviewResult
+review#Patch
+review#Rating
+review#IFilePatch2
+review#IProgressMonitor
+review#ScopeItem
+review#Changeset

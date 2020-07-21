@@ -1,0 +1,16 @@
+package#DatabaseModel
+package#Class
+package#Attribut
+package#Attr
+package#CodeGenFlag
+package#PrimaryKey
+package#ForeignKey
+package#ReferencedClassName
+package#Index
+package#ForeignAttr
+package#DbClassCodeGenCntrl
+package#Ccgflag
+package#CcgFlagActuals
+package#CcgActualTextLine
+package#PackageRef
+package#PrimCodeGenRef

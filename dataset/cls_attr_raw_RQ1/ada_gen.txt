@@ -1,0 +1,10 @@
+AdaPackage#name
+AdaPackage#withedPrimitives
+AdaPackage#variants
+AdaPackage#records
+PrimitivesType#name
+PrimitivesType#initValue
+PrimitivesType#nullValue
+Simple#cardinality
+Simple#segment
+Simple#qualifier

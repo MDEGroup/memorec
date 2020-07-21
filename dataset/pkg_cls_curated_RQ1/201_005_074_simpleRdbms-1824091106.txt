@@ -1,0 +1,6 @@
+simpleRdbms#Schema
+simpleRdbms#RModelElement
+simpleRdbms#Table
+simpleRdbms#Column
+simpleRdbms#Key
+simpleRdbms#ForeignKey

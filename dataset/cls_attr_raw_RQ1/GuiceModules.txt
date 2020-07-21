@@ -1,0 +1,6 @@
+ModuleAST#name
+ModuleAST#mixins
+ModuleAST#bindings
+BindingAST#from
+BindingAST#to
+BindingAST#toInstance

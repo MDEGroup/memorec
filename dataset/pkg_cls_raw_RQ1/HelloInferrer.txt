@@ -1,0 +1,3 @@
+helloInferrer#Model
+helloInferrer#Greeting
+helloInferrer#Operation

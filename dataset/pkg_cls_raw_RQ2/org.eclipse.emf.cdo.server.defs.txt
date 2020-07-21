@@ -1,0 +1,8 @@
+package#CDOServerDef
+package#StoreDef
+package#MemStoreDef
+package#RepositoryDef
+package#SynchronizableRepositoryDef
+package#RepositorySynchronizerDef
+package#OfflineCloneDef
+package#FailoverParticipantDef

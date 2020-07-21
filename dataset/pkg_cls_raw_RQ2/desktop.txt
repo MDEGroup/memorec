@@ -1,0 +1,9 @@
+package#StringToStringMap
+package#TraySection
+package#TraySectionCollection
+package#DesktopToolItemCollection
+package#DesktopToolItem
+package#AbstractTrayPreferencePage
+package#IToolbarItemProvider
+package#Image
+package#AbstractTraySection

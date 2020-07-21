@@ -1,0 +1,16 @@
+relational#TdTable
+relational#TdView
+relational#TdCatalog
+relational#TdSchema
+relational#TdColumn
+relational#TdSqlDataType
+relational#TdTrigger
+relational#TdProcedure
+softwaredeployment#TdProviderConnection
+softwaredeployment#TdDataManager
+softwaredeployment#TdDataProvider
+softwaredeployment#TdSoftwareSystem
+softwaredeployment#TdMachine
+xml#TdXMLElement
+xml#TdXMLContent
+xml#TdXMLDocument

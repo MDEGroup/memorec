@@ -1,0 +1,4 @@
+TypedElement#type
+TypedElement#dataType
+TypedElement#lowerBound
+TypedElement#upperBound

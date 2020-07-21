@@ -1,0 +1,11 @@
+SoftwareQualityControl#DateType
+SoftwareQualityControl#ControlsSequence
+SoftwareQualityControl#Control
+SoftwareQualityControl#ControlType
+SoftwareQualityControl#BugTracking
+SoftwareQualityControl#Bug
+SoftwareQualityControl#BugStatusType
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Double

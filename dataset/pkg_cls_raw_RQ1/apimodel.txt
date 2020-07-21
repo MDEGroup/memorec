@@ -1,0 +1,13 @@
+apimodel#API
+apimodel#Module
+apimodel#Service
+apimodel#Port
+apimodel#EnvVariable
+apimodel#EnvVariableList
+apimodel#JobEnvVariableList
+apimodel#ResultCode
+apimodel#ResultCodeList
+apimodel#Type
+apimodel#TypeList
+apimodel#portDirection
+apimodel#APIUsage

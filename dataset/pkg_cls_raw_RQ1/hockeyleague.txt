@@ -1,0 +1,15 @@
+hockeyleague#Arena
+hockeyleague#Defence
+hockeyleague#Forward
+hockeyleague#Goalie
+hockeyleague#GoalieStats
+hockeyleague#HockeyleagueObject
+hockeyleague#League
+hockeyleague#Player
+hockeyleague#PlayerStats
+hockeyleague#Team
+hockeyleague#DefencePositionKind
+hockeyleague#ForwardPositionKind
+hockeyleague#HeightKind
+hockeyleague#ShotKind
+hockeyleague#WeightKind

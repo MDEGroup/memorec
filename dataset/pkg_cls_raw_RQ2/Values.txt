@@ -1,0 +1,16 @@
+package#BagValue
+package#CollectionValue
+package#EnumerationLiteralValue
+package#IntegerValue
+package#InvalidValue
+package#NullValue
+package#ObjectValue
+package#OrderedSetValue
+package#RealValue
+package#SequenceValue
+package#SetValue
+package#TupleValue
+package#TypeValue
+package#UniqueCollectionValue
+package#UnlimitedValue
+package#Value

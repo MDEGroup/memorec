@@ -1,0 +1,9 @@
+uimodel#StringToStringMap
+uimodel#TraySection
+uimodel#TraySectionCollection
+uimodel#DesktopToolItemCollection
+uimodel#DesktopToolItem
+uimodel#AbstractTrayPreferencePage
+uimodel#IToolbarItemProvider
+uimodel#Image
+uimodel#AbstractTraySection

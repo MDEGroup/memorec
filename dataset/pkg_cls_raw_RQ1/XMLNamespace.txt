@@ -1,0 +1,5 @@
+namespace#LangType
+namespace#LangTypeNull
+namespace#SpaceType
+namespace#SpaceTypeObject
+namespace#XMLNamespaceDocumentRoot

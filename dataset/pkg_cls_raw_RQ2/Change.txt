@@ -1,0 +1,8 @@
+package#ChangeDescription
+package#EObjectToChangesMapEntry
+package#FeatureChange
+package#ListChange
+package#ChangeKind
+package#ResourceChange
+package#FeatureMapEntry
+package#EObjectToURIMap

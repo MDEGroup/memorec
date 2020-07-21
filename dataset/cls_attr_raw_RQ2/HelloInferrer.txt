@@ -1,0 +1,4 @@
+Operation#name
+Operation#params
+Operation#output
+Operation#body

@@ -1,0 +1,10 @@
+package#Boolean
+package#Integer
+package#String
+package#Double
+package#Metric
+package#MetricValue
+package#StringMetricValue
+package#BooleanMetricValue
+package#IntegerMetricValue
+package#DoubleMetricValue

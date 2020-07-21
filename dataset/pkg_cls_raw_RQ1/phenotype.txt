@@ -1,0 +1,4 @@
+phenotype#Phenotype
+phenotype#PhenotypeQualityOntologyTerm
+phenotype#TraitOntologyTerm
+phenotype#TraitValueOntologyTerm

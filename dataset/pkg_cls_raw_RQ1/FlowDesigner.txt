@@ -1,0 +1,10 @@
+FlowDesigner#InitialState
+FlowDesigner#FinalState
+FlowDesigner#ActionState
+FlowDesigner#ViewState
+FlowDesigner#Event
+FlowDesigner#Source
+FlowDesigner#Target
+FlowDesigner#NamedState
+FlowDesigner#Flow
+FlowDesigner#Action

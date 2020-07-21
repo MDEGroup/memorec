@@ -1,0 +1,15 @@
+package#Album
+package#Artist
+package#Biography
+package#Disc
+package#File
+package#Link
+package#Media
+package#Playlist
+package#PlaylistConfimation
+package#PlaylistContainer
+package#Restriction
+package#Result
+package#Track
+package#User
+package#Comparable

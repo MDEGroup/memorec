@@ -1,0 +1,3 @@
+ClassificationModel#featureModel
+ClassificationModel#classifications
+ClassificationModel#viewMapping

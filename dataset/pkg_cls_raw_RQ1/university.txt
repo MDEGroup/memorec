@@ -1,0 +1,13 @@
+persons#Person
+persons#Student
+persons#Assistant
+persons#Professor
+infrastructure#Building
+infrastructure#RoomBooking
+infrastructure#DayOfWeek
+courses#Module
+courses#Events
+courses#Lecture
+courses#Tutorial
+courses#Exam
+courses#PassedExam

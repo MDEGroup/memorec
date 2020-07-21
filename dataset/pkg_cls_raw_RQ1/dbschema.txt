@@ -1,0 +1,7 @@
+dbschema#NamedElement
+dbschema#DBSchema
+dbschema#Table
+dbschema#Column
+dbschema#AttributeColumn
+dbschema#ForeignKeyColumn
+dbschema#ColumnType

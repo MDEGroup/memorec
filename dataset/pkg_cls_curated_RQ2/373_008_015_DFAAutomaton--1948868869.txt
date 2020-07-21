@@ -1,0 +1,4 @@
+package#Automaton
+package#AlphabetSymbol
+package#State
+package#Transition

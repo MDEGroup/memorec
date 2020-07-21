@@ -1,0 +1,3 @@
+Term#subject
+Term#predicate
+Term#object

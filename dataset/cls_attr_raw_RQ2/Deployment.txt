@@ -1,0 +1,14 @@
+Node#opposite_deploy
+Node#name
+Node#os
+Application#deploy
+Application#name
+Application#category
+Application#version
+Application#license
+Server#opposite_deploy
+Server#name
+Server#os
+Desktop#opposite_deploy
+Desktop#name
+Desktop#os

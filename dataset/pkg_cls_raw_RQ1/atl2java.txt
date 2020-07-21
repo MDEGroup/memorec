@@ -1,0 +1,14 @@
+atl2javamm#Rule
+atl2javamm#Transformation
+atl2javamm#InputPattern
+atl2javamm#OutputPattern
+atl2javamm#InputPatternElement
+atl2javamm#OutputPatternElement
+atl2javamm#Binding
+atl2javamm#Model
+atl2javamm#PrimitiveBinding
+atl2javamm#NavigationBinding
+atl2javamm#OutputpatternElementBinding
+atl2javamm#ResolveBinding
+atl2javamm#SourceModel
+atl2javamm#TargetModel

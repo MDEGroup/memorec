@@ -1,0 +1,3 @@
+statediagram#StateDiagram
+statediagram#State
+statediagram#Transition

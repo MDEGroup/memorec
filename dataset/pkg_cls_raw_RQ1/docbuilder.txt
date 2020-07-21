@@ -1,0 +1,11 @@
+dbuilder#IProject
+dbuilder#IFolder
+dbuilder#IFile
+dbuilder#IResource
+dbuilder#DocManager
+dbuilder#DocumentedProject
+dbuilder#Document
+dbuilder#DocInput
+dbuilder#DocOutput
+dbuilder#DocResource
+dbuilder#DocFormat

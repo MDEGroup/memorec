@@ -1,0 +1,7 @@
+blockclassbase#ModelElement
+blockclassbase#ModelElementCore
+blockclassbase#ModelElementRole
+blockclassbase#Name
+blockclassbase#ModelelementStereotypeRole
+blockclassbase#ModelelementClassdiagramRole
+blockclassbase#ModelelementBlockdiagramRole

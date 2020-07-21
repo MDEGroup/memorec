@@ -1,0 +1,13 @@
+model#File
+model#Project
+model#FileElement
+model#Category
+model#Note
+model#PersonNote
+model#SettingNote
+model#PlotNote
+model#GenericNote
+model#GenericCategory
+model#PersonCategory
+model#SettingCategory
+model#PlotCategory

@@ -1,0 +1,3 @@
+Type#supertype
+Type#subtype
+Type#collectionType

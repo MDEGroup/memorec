@@ -1,0 +1,13 @@
+package#DescriptorLibrary
+package#TriggerDesc
+package#ConditionDesc
+package#ConditionalStepDesc
+package#DomainObjectDesc
+package#QueryDesc
+package#BuildingBlockDesc
+package#Property
+package#Value
+package#StepDesc
+package#Classifier
+package#NamedElement
+package#DataType

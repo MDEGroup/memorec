@@ -1,0 +1,14 @@
+package#XpectJavaModel
+package#XjmClass
+package#XjmTest
+package#XjmSetup
+package#XjmMethod
+package#XjmTestMethod
+package#XjmXpectMethod
+package#NameToMethodEntry
+package#JavaMethod
+package#SingleParameterProvider
+package#MultiParameterProvider
+package#XpectSetup
+package#ParameterAdapter
+package#Environment

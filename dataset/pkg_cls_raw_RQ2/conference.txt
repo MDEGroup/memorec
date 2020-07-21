@@ -1,0 +1,9 @@
+package#NamedElement
+package#Conference
+package#ConferenceElement
+package#Track
+package#Slot
+package#Talk
+package#Participant
+package#Lunch
+package#TimedElement

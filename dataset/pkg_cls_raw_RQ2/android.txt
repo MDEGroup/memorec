@@ -1,0 +1,16 @@
+package#Activity
+package#GroupView
+package#LinearLayout
+package#View
+package#Button
+package#TextView
+package#GridLayout
+package#ImageView
+package#RelativeLayout
+package#ListView
+package#ProgressBar
+package#CheckBox
+package#EditText
+package#RadioGroup
+package#RadioButton
+package#ListItem

@@ -1,0 +1,6 @@
+package#QualifiedName
+package#TypeRule
+package#VisibilityKind
+package#MultiplicityRule
+package#BoundSpecification
+package#Direction

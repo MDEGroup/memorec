@@ -1,0 +1,4 @@
+package#Model
+package#UMLClass
+package#UMLAttribute
+package#Generalization

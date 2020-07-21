@@ -1,0 +1,11 @@
+Spiel#beschreibung
+Spiel#spieler
+Spiel#id
+Spiel#zuege
+Spiel#active
+Spiel#figures
+Spiel#fields
+Spieler#farbe
+Spieler#id
+Spieler#name
+Spieler#state

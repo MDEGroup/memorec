@@ -1,0 +1,16 @@
+flat11#CommittedType
+flat11#DocumentRoot
+flat11#InitType
+flat11#KindType
+flat11#KindTypeObject
+flat11#LabelType
+flat11#LocationType
+flat11#NailType
+flat11#NameType
+flat11#NtaType
+flat11#ParameterType
+flat11#SourceType
+flat11#TargetType
+flat11#TemplateType
+flat11#TransitionType
+flat11#UrgentType

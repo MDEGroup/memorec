@@ -1,0 +1,14 @@
+Place#name
+Place#numberOfTokens
+Place#capacity
+PetriNet#name
+PetriNet#containsGenericPlaces
+PetriNet#containsTransitions
+PetriNet#containsInputArcs
+PetriNet#containsOutputArcs
+InputArc#InputArcFromPlace
+InputArc#InputArcToTransition
+InputArc#weight
+OutputArc#OutputArcFromTransition
+OutputArc#OutputArcToPlace
+OutputArc#weight

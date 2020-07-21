@@ -1,0 +1,16 @@
+package#BoundsType
+package#DegreesType
+package#DgpsStationType
+package#DocumentRoot
+package#EmailType
+package#FixType
+package#FixTypeObject
+package#GpxType
+package#LatitudeType
+package#LongitudeType
+package#RteptType
+package#RteType
+package#TrkptType
+package#TrksegType
+package#TrkType
+package#WptType

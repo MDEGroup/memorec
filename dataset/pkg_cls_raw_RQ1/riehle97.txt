@@ -1,0 +1,14 @@
+riehle97#Credit
+riehle97#CreditCore
+riehle97#CreditRole
+riehle97#Borrower
+riehle97#BorrowerCore
+riehle97#BorrowerRole
+riehle97#SecurityObject
+riehle97#SecurityObjectCore
+riehle97#SecurityObjectRole
+riehle97#Private
+riehle97#Business
+riehle97#CreditSecurityobjectRole
+riehle97#BorrowerCreditsRole
+riehle97#BorrowerSecurityobjectRole

@@ -1,0 +1,10 @@
+Angazovani_Radnik#radina
+Angazovani_Radnik#ime
+Angazovani_Radnik#prezime
+Angazovani_Radnik#plata
+Visokokvalifikovani_Radnik#naziv skole
+Visokokvalifikovani_Radnik#stepen
+Visokokvalifikovani_Radnik#drzavni?
+Posao#podposao
+Posao#naziv
+Posao#tezina

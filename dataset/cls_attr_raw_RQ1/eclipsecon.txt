@@ -1,0 +1,8 @@
+Tutorial#presenters
+Tutorial#assigned
+Tutorial#handouts
+Tutorial#title
+Conference#tutorials
+Conference#attendees
+Conference#days
+Conference#eclipsezilla

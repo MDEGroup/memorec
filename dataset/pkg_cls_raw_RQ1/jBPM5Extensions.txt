@@ -1,0 +1,10 @@
+model#DocumentRoot
+model#GlobalType
+model#ImportType
+model#OnEntryScriptType
+model#OnExitScriptType
+model#PackageNameType
+model#PriorityType
+model#RuleFlowGroupType
+model#TaskNameType
+model#VersionType

@@ -1,0 +1,9 @@
+package#RRepositoryItem
+package#RCodeElement
+package#RProject
+package#RClass
+package#RMethod
+package#RField
+package#RDependency
+package#RRepository
+package#RTransitiveDependency

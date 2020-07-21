@@ -1,0 +1,9 @@
+package#Root
+package#RootPackage
+package#RootFolder
+package#IdentifiableElement
+package#Container
+package#Package
+package#Folder
+package#Artifact
+package#ResourceSet

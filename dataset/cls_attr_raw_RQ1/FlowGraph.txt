@@ -1,0 +1,8 @@
+FlowInstr#cfNext
+FlowInstr#cfPrev
+FlowInstr#def
+FlowInstr#use
+FlowInstr#dfNext
+Var#definers
+Var#users
+Var#method

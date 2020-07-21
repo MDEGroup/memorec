@@ -1,0 +1,14 @@
+classdiagram#Diagram
+classdiagram#Association
+classdiagram#Class
+classdiagram#Aggregation
+classdiagram#Composition
+classdiagram#Dependency
+classdiagram#Generalization
+classdiagram#Interface
+classdiagram#InterfaceRealization
+classdiagram#Realization
+classdiagram#Attribute
+classdiagram#PrimitiveDataType
+classdiagram#AttributeValue
+classdiagram#Method

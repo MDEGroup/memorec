@@ -1,0 +1,13 @@
+dataflownet#NamedElement
+dataflownet#Node
+dataflownet#StateMachine
+dataflownet#DataflowNet
+dataflownet#StateMachineState
+dataflownet#StateMachineTransition
+dataflownet#Channel
+dataflownet#FiringRule
+dataflownet#Token
+dataflownet#DataflowSystem
+dataflownet#Comparation
+dataflownet#Process
+dataflownet#Protocol

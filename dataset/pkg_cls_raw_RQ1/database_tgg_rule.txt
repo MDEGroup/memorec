@@ -1,0 +1,8 @@
+database_tgg_rule#AnnotatedTable
+database_tgg_rule#AnnotatedFKey
+database_tgg_rule#AnnotatedColumn
+database_tgg_rule#AnnotatedDatabase
+database_tgg_rule#AnnotatedType
+database_tgg_rule#AnnotatedProcedure
+database_tgg_rule#AnnotatedParameter
+database_tgg_rule#AnnotatedPKey

@@ -1,0 +1,17 @@
+StateMachine#states
+StateMachine#transitions
+StateMachine#variables
+State#outgoing
+State#incoming
+State#stateMachine
+State#initialTime
+State#finalTime
+State#parentState
+Transition#target
+Transition#source
+Transition#trigger
+Transition#stateMachine
+Transition#initialTime
+Transition#finalTime
+Transition#guard
+Transition#action

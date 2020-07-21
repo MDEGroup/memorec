@@ -1,0 +1,10 @@
+package#AbstractMapping
+package#AbstractMappingDefinition
+package#AbstractExpressionMapping
+package#AbstractMappingReference
+package#DiagramMapping
+package#NodeMapping
+package#LabelMapping
+package#EdgeMapping
+package#EdgeEndMapping
+package#MappingCall

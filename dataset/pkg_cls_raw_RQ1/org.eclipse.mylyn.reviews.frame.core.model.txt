@@ -1,0 +1,12 @@
+model#Review
+model#Comment
+model#Item
+model#Location
+model#User
+model#TaskReference
+model#ReviewState
+model#ReviewGroup
+model#CommentType
+model#Topic
+model#ReviewComponent
+model#SubModelRoot

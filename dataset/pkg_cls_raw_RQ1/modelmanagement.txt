@@ -1,0 +1,8 @@
+modelmanagement#Package
+modelmanagement#NamedElement
+modelmanagement#Application
+modelmanagement#PackageOwner
+modelmanagement#Module
+processcomponents#ProcessComponent
+processcomponents#ProcessComponentInsideCompany
+processcomponents#ProcessComponentOutsideCompany

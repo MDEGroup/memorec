@@ -1,0 +1,7 @@
+ProcDeclaration#name
+ProcDeclaration#args
+ProcDeclaration#procCall
+ProcDeclaration#instructions
+If#condition
+If#thenPart
+If#elsePart

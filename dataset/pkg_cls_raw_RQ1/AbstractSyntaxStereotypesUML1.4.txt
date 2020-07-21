@@ -1,0 +1,12 @@
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+AbstractSynthax#ModelElement
+AbstractSynthax#Constraint
+AbstractSynthax#TaggedValue
+AbstractSynthax#TagDefinition
+AbstractSynthax#Multiplicity
+AbstractSynthax#GeneralizableElement
+AbstractSynthax#Stereotype
+AbstractSynthax#Geometry
+AbstractSynthax#Name

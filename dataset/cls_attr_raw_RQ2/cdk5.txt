@@ -1,0 +1,9 @@
+CDK5Provides#timeout
+CDK5Provides#validateWsdl
+CDK5Provides#forwardSecuritySubject
+CDK5Provides#forwardMessageProperties
+CDK5Provides#forwardAttachments
+CDK5Provides#wsdl
+CDK5Consumes#timeout
+CDK5Consumes#operation
+CDK5Consumes#mep

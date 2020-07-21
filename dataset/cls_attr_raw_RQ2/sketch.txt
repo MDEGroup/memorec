@@ -1,0 +1,7 @@
+Sketch#word
+Sketch#points
+Sketch#quantizedPoints
+Sketch#gridWidth
+Sketch#name
+Sketch#meta
+Sketch#pointlist

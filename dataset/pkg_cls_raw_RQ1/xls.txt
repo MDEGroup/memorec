@@ -1,0 +1,16 @@
+xls#DateTimeType
+xls#ValueType
+xls#StringValue
+xls#NumberValue
+xls#DateTimeTypeValue
+xls#BooleanValue
+xls#ErrorValue
+xls#Workbook
+xls#Worksheet
+xls#Table
+xls#TableElement
+xls#ColOrRowElement
+xls#Column
+xls#Row
+xls#Cell
+xls#Data

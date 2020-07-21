@@ -1,0 +1,9 @@
+rails#Component
+rails#Train
+rails#Project
+rails#Track
+rails#Switch
+rails#Port
+rails#Connection
+rails#Out
+rails#In

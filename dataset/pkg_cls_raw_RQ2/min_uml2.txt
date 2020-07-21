@@ -1,0 +1,14 @@
+package#Activity
+package#ActivityNode
+package#ActivityGroup
+package#ActivityPartition
+package#OpaqueAction
+package#ForkNode
+package#JoinNode
+package#DecisionNode
+package#ActivityFinalNode
+package#ActivityEdge
+package#ControlFlow
+package#ObjectFlow
+package#ValueSpecification
+package#OpaqueExpression

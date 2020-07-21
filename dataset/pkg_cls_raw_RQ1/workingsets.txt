@@ -1,0 +1,5 @@
+workingsets#WorkingSet
+workingsets#WorkingSetGroup
+workingsets#Predicate
+workingsets#Project
+workingsets#NamePredicate

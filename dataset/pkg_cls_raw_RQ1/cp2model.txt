@@ -1,0 +1,7 @@
+cp2model#CP2Repository
+cp2model#CP2Project
+cp2model#CP2Class
+cp2model#CP2Field
+cp2model#C2CodeElement
+cp2model#C2Methods
+cp2model#CP2Dependency

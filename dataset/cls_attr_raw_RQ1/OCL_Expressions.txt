@@ -1,0 +1,16 @@
+OclExpression#queryArg
+OclExpression#querySrc
+OclExpression#resultType
+OclExpression#varDec
+OclExpression#varInit
+QueryExp#argument
+QueryExp#source
+QueryExp#varDeclaration
+VariableDeclaration#var
+VariableDeclaration#varType
+VariableDeclaration#oclExpression
+VariableDeclaration#queryExp
+VariableDeclaration#varInit
+VariableInitialisation#initExpression
+VariableInitialisation#varDec
+VariableInitialisation#iterateExp

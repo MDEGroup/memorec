@@ -1,0 +1,11 @@
+package#Diagram
+package#Element
+package#Connection
+package#Scene
+package#Monologue
+package#Utterance
+package#BRTUtterance
+package#SystemProcess
+package#UbiquitousAccess
+package#OpeningPoint
+package#ClosingPoint

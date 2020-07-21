@@ -1,0 +1,3 @@
+MavenProvider#mappings
+MavenProvider#scopes
+MavenProvider#transitive

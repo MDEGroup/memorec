@@ -1,0 +1,7 @@
+Entity#name
+Entity#superType
+Entity#features
+Operation#name
+Operation#params
+Operation#type
+Operation#body

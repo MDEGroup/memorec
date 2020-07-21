@@ -1,0 +1,16 @@
+buildertools#IProject
+buildertools#IFolder
+buildertools#IFile
+buildertools#IResource
+buildertools#IProgressMonitor
+buildertools#CoreException
+buildertools#ManagedProject
+buildertools#BuildProcess
+buildertools#BuildResource
+buildertools#InputResource
+buildertools#OutputResource
+buildertools#BuildManager
+buildertools#BuildNatureConfig
+buildertools#BuilderConfig
+buildertools#BuilderPosition
+buildertools#BuildNatureContainer

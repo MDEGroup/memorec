@@ -1,0 +1,10 @@
+Customer#firstName
+Customer#lastName
+Customer#age
+Customer#vip
+Customer#address
+Address#country
+Address#city
+Address#street
+Address#number
+Address#postalCode

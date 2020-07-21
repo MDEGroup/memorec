@@ -1,0 +1,17 @@
+package#AbstractTransportationObjectType
+package#AuxiliaryTrafficAreaFunctionType
+package#AuxiliaryTrafficAreaPropertyType
+package#AuxiliaryTrafficAreaType
+package#DocumentRoot
+package#RailwayType
+package#RoadType
+package#SquareType
+package#TrackType
+package#TrafficAreaFunctionType
+package#TrafficAreaPropertyType
+package#TrafficAreaType
+package#TrafficAreaUsageType
+package#TrafficSurfaceMaterialType
+package#TransportationComplexFunctionType
+package#TransportationComplexType
+package#TransportationComplexUsageType

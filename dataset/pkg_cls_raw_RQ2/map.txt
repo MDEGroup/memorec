@@ -1,0 +1,11 @@
+package#CorrelatedMapFeatureSet
+package#CorrelatedMapSet
+package#EmbeddedMap
+package#Map
+package#MapDistribution
+package#MapFeature
+package#MapInterval
+package#MapPoint
+package#MapPosition
+package#RelativeMapPosition
+package#Map_1

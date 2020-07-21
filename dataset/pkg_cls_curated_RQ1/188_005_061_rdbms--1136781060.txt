@@ -1,0 +1,17 @@
+rdbms#Database
+rdbms#Table
+rdbms#Column
+rdbms#ForeignKey
+rdbms#Constraints
+rdbms#CheckCon
+rdbms#PKeyAndUnique
+rdbms#PrimaryKeyCon
+rdbms#UniqueCon
+rdbms#Action
+rdbms#DeferrableAct
+rdbms#DeferredAct
+rdbms#SystemDataType
+rdbms#ModelElement
+rdbms#UserDefinedDataType
+rdbms#DataType
+rdbms#ReferencingType

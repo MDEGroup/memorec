@@ -1,0 +1,6 @@
+variantmodel#FeatureSelection
+variantmodel#VariantModel
+variantmodel#VariantSelection
+variantmodel#VariantValue
+variantmodel#ID
+variantmodel#SelectionState

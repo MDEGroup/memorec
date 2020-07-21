@@ -1,0 +1,7 @@
+DetectedVariant#sequence
+DetectedVariant#detector
+DetectedVariant#assayData
+GenomicFeatureVariant#sequence
+GenomicFeatureVariant#detector
+GenomicFeatureVariant#assayData
+GenomicFeatureVariant#genomicFeature

@@ -1,0 +1,7 @@
+package#NamedElement
+package#Type
+package#DataType
+package#Entity
+package#EntityModel
+package#Feature
+package#FeatureKind

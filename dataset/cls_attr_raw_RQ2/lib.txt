@@ -1,0 +1,9 @@
+UoD#allLibraries
+UoD#allPersons
+UoD#allAuthors
+Book#title
+Book#isbn
+Book#author
+Library#name
+Library#books
+Library#loans

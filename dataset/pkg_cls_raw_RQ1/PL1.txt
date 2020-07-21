@@ -1,0 +1,16 @@
+PL/I#PLIClassifier
+PL/I#PLISimpleType
+PL/I#PLINamedType
+PL/I#PLIComposedType
+PL/I#PLIAlias
+PL/I#PLIAttribute
+PL/I#PLIComputationalType
+PL/I#PLINonComputationalType
+PL/I#PLIElement
+PL/I#PLIElementInitialValue
+PL/I#PLISourceText
+PL/I#PLIArray
+PL/I#PLIFixedBoundArray
+PL/I#PLIFixedLboundArray
+PL/I#PLIHBoundArray
+PL/I#PLIVariableBoundArray

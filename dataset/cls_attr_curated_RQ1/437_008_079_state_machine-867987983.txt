@@ -1,0 +1,9 @@
+Statemachine#states
+Statemachine#associatedTree
+Statemachine#associatedAttribute
+StateAttribute#type
+StateAttribute#value
+StateAttribute#stateAttributeQuery
+ConditionalState#condition
+ConditionalState#andExpression
+ConditionalState#conditionsOrganization

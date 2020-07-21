@@ -1,0 +1,17 @@
+mapping#Model
+mapping#DataType
+mapping#Import
+mapping#Structure
+mapping#StructureMapping
+mapping#StructurePOJOMapping
+mapping#StructureFieldPOJOMapping
+mapping#FunctionModule
+mapping#FunctionModuleMapping
+mapping#FunctionModulePOJOMapping
+mapping#FunctionModulePOJOCallMapping
+mapping#FunctionModulePOJORequestResponseMapping
+mapping#FunctionModulePOJOParameterMapping
+mapping#FunctionModulePOJOImportingParameter
+mapping#FunctionModulePOJOExportingParameter
+mapping#FunctionModulePOJOChangingParameter
+mapping#FunctionModulePOJOTablesParameter

@@ -1,0 +1,8 @@
+IngresIdentitySpecifier#dataType
+IngresIdentitySpecifier#seqLength
+IngresIdentitySpecifier#seqPrecision
+IngresIdentitySpecifier#maximumOption
+IngresIdentitySpecifier#minimumOption
+IngresIdentitySpecifier#cacheSize
+IngresIdentitySpecifier#cacheOption
+IngresIdentitySpecifier#orderOption

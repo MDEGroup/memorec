@@ -1,0 +1,17 @@
+Rdl#AssignmentType
+Rdl#DataInputAssociationType
+Rdl#DataInputType
+Rdl#DefinitionsType
+Rdl#DocumentRoot
+Rdl#EndEventType
+Rdl#ExclusiveGatewayType
+Rdl#FromType
+Rdl#InputSetType
+Rdl#IoSpecificationType
+Rdl#ItemDefinitionType
+Rdl#ProcessType
+Rdl#PropertyType
+Rdl#SequenceFlowType
+Rdl#StartEventType
+Rdl#TaskType
+Rdl#ToType

@@ -1,0 +1,4 @@
+ResourceManager#guid
+ResourceManager#uriBase
+ResourceManager#subManagers
+ResourceManager#resourceDescriptors

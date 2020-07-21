@@ -1,0 +1,9 @@
+SeminarSchedulingSystem#SeminarSchedulingSystem
+SeminarSchedulingSystem#Presenter
+SeminarSchedulingSystem#Seminar
+SeminarSchedulingSystem#Offering
+SeminarSchedulingSystem#Date
+SeminarSchedulingSystem#Attendee
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

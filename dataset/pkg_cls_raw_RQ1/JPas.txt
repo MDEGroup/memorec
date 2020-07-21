@@ -1,0 +1,17 @@
+jPas#Model
+jPas#Program
+jPas#Method
+jPas#Function
+jPas#Procedure
+jPas#ProcParam
+jPas#Param
+jPas#VariableDeclaration
+jPas#Variable
+jPas#StatementSequence
+jPas#Statement
+jPas#IfStatement
+jPas#WhileStatement
+jPas#AssignStatement
+jPas#Condition
+jPas#Operator
+jPas#Datatype

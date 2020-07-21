@@ -1,0 +1,5 @@
+eshop#Customer
+eshop#Employee
+eshop#Peson
+eshop#ShoppingCart
+eshop#ShoppingCartState

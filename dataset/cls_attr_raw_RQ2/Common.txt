@@ -1,0 +1,4 @@
+Scope#offset
+Scope#length
+Scope#body
+Scope#parent

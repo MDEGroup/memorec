@@ -1,0 +1,16 @@
+Outline#location
+Outline#extension
+Outline#nodes
+Node#location
+Node#name
+Node#label
+Node#icon
+Node#outline
+Node#mapping
+Label#location
+Label#label
+Label#methodCall
+Label#labelSuite
+LabelSuite#location
+LabelSuite#label
+LabelSuite#methodCall

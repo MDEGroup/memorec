@@ -1,0 +1,7 @@
+database#DataBase
+database#Table
+database#Column
+database#PrimaryKey
+database#Index
+database#Unique
+database#NamedElement

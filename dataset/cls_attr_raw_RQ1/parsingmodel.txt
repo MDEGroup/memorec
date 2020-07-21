@@ -1,0 +1,5 @@
+Level#content
+Level#parent
+Level#subLevel
+Level#lineNumber
+Level#indentLength

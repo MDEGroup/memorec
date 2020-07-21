@@ -1,0 +1,3 @@
+schoollibrary#Asset
+schoollibrary#SchoolBook
+schoollibrary#SchoolLibrary

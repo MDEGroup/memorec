@@ -1,0 +1,10 @@
+TaskUsiXML#Task
+TaskUsiXML#Operator
+TaskUsiXML#BinaryOperator
+TaskUsiXML#UnaryOperator
+TaskUsiXML#FiniteInteration
+TaskUsiXML#BinaryType
+TaskUsiXML#UnaryType
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String

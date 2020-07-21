@@ -1,0 +1,7 @@
+package#Board
+package#Square
+package#Ranks
+package#Files
+package#Colors
+package#Piece
+package#Types

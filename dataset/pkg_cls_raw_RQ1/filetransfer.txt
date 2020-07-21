@@ -1,0 +1,4 @@
+filetransfer2x#FileTransferProvides
+filetransfer2x#FileTransferConsumes
+filetransfer2x#CopyMode
+filetransfer2x#TransferMode

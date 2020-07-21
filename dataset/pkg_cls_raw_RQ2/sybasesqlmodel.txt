@@ -1,0 +1,9 @@
+package#SybaseParameter
+package#SybaseRoutine
+package#SybaseBaseTable
+package#SybaseViewTable
+package#JDBCParameterType
+package#SybaseAuthorizationIdentifier
+package#SybaseIndexMember
+package#SybaseAuthorizedObject
+package#SybasePrivilege

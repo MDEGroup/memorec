@@ -1,0 +1,12 @@
+package#Archetype
+package#Config
+package#TypeDef
+package#typeAtt
+package#Univers
+package#Combat
+package#TypeAttaque
+package#Fiche
+package#Lien
+package#Box
+package#ListeCategorie
+package#Categorie

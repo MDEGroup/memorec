@@ -1,0 +1,12 @@
+Aquatory#ports
+Aquatory#routes
+Aquatory#ships
+Ship#name
+Ship#destination
+Ship#route
+Ship#cargo
+Warship#name
+Warship#destination
+Warship#route
+Warship#cargo
+Warship#escorts

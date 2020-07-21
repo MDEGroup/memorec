@@ -1,0 +1,12 @@
+package#ComponentDiagram
+package#Component
+package#Connector
+package#Port
+package#FmiTypes
+package#PortKind
+package#NamedElement
+package#EventBComponent
+package#FMUComponent
+package#FMUPort
+package#EventBPort
+package#Variable

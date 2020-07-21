@@ -1,0 +1,10 @@
+ViewObject#constraints
+ViewObject#label
+ViewObject#outgoingLinks
+ViewObject#incomingLinks
+ViewObject#anchors
+ViewLink#source
+ViewLink#target
+ViewLink#bendpoints
+ViewLink#sourceAnchor
+ViewLink#targetAnchor

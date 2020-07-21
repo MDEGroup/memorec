@@ -1,0 +1,9 @@
+package#DiagramNode
+package#DiagramLink
+package#DiagramCanvas
+package#DiagramBaseElement
+package#DiagramBaseNode
+package#ChildNode
+package#RigidChildNode
+package#Dimension
+package#Point

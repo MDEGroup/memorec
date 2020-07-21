@@ -1,0 +1,6 @@
+Box#name
+Box#ownedBoxes
+Box#owner
+Box#flows
+Box#incomingFlows
+Box#outgoingFlows

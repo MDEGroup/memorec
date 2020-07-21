@@ -1,0 +1,12 @@
+script#Model
+script#AbstractElement
+script#NativeTypeEnum
+script#NativeType
+script#TypeRef
+script#MultiTypeRef
+script#ReturnTypeRef
+script#PackageDeclaration
+script#Import
+script#Interface
+script#MethodDeclaration
+script#ArgumentDeclaration

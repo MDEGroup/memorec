@@ -1,0 +1,8 @@
+karteikastensystem#KarteikastenSystem
+karteikastensystem#Person
+karteikastensystem#Karteikasten
+karteikastensystem#Sprache
+karteikastensystem#Fach
+karteikastensystem#Karteifachtyp
+karteikastensystem#Karte
+karteikastensystem#Kartenseite

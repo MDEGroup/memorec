@@ -1,0 +1,6 @@
+extendedtypes#ExtendedElementTypeSet
+extendedtypes#ExtendedElementTypeConfiguration
+extendedtypes#IconEntry
+extendedtypes#ActionConfiguration
+extendedtypes#PreActionConfiguration
+extendedtypes#PostActionConfiguration

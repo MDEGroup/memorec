@@ -1,0 +1,4 @@
+designPatterns#DesignPattern
+designPatterns#ObserverPattern
+designPatterns#MediatorPattern
+designPatterns#MediatedObserverPattern

@@ -1,0 +1,16 @@
+featherweightjava#NamedElement
+featherweightjava#Class
+featherweightjava#Member
+featherweightjava#Constructor
+featherweightjava#Parameter
+featherweightjava#FieldInitialisiation
+featherweightjava#Method
+featherweightjava#Field
+featherweightjava#Expression
+featherweightjava#ConstructorCall
+featherweightjava#FieldAccess
+featherweightjava#FieldAccessChild
+featherweightjava#ParameterAccess
+featherweightjava#This
+featherweightjava#MethodCall
+featherweightjava#Cast

@@ -1,0 +1,12 @@
+OurPNVis#PNVis
+OurPNVis#Arc
+OurPNVis#Place
+OurPNVis#Transition
+OurPNVis#Finished
+OurPNVis#Tokens
+OurPNVis#CanChange
+OurPNVis#Shape
+OurPNVis#Activities
+OurPNVis#Geometry
+OurPNVis#KeepAnim
+OurPNVis#ident

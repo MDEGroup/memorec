@@ -1,0 +1,5 @@
+FeatureHybridizationResult#expressionStudy
+FeatureHybridizationResult#hybridization
+FeatureHybridizationResult#arrayFeature
+FeatureHybridizationResult#sample
+FeatureHybridizationResult#observation

@@ -1,0 +1,13 @@
+datamodel#tag
+datamodel#item_tag
+datamodel#bill
+datamodel#bill_item
+datamodel#item_pimple
+datamodel#person
+datamodel#Account
+datamodel#product
+datamodel#price
+datamodel#shoppinglist
+datamodel#shoppinglist_item
+datamodel#shoppinglist_buyer
+datamodel#dauerauftrag

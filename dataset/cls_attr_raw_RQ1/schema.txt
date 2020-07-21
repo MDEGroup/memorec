@@ -1,0 +1,7 @@
+SocialSchemaCatalog#targetTypes
+SocialSchemaCatalog#nsPrefix
+SocialSchemaCatalog#generatedPackageName
+SocialSchemaCatalog#xmiUrl
+SocialSchemaCatalog#ecoreUrl
+SocialSchemaCatalog#ePackage
+SocialSchemaCatalog#eFactory

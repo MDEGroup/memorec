@@ -1,0 +1,5 @@
+sdb#SDBRuntime
+sdb#SDBSymptom
+sdb#SDBMatchPattern
+sdb#SDBSolution
+sdb#SDBDirective

@@ -1,0 +1,12 @@
+swml#WebApplication
+swml#Entity
+swml#Attribute
+swml#DataType
+swml#Relationship
+swml#WebPage
+swml#StaticPage
+swml#DynamicPage
+swml#Link
+swml#Icon
+swml#EntityPage
+swml#IndexPage

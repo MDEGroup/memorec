@@ -1,0 +1,3 @@
+CGContainmentPart#containmentBody
+CGContainmentPart#init
+CGContainmentPart#eStructuralFeature

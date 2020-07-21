@@ -1,0 +1,4 @@
+camel#JavaDSLType
+camel#XMLDSLType
+camel#CamelImplementationType
+camel#DocumentRoot

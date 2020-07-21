@@ -1,0 +1,7 @@
+KSecurityRule#kElementQuery
+KSecurityRule#EReference0
+KSecurityRule#authorized
+KSecurityRule#primitiveTypes
+KSecurityRule#endValidity
+KSecurityRule#allowed
+KSecurityRule#acceptBinding

@@ -1,0 +1,8 @@
+XFunctionTypeRef#paramTypes
+XFunctionTypeRef#returnType
+XFunctionTypeRef#type
+XFunctionTypeRef#instanceContext
+XImportDeclaration#extension
+XImportDeclaration#static
+XImportDeclaration#importedType
+XImportDeclaration#importedNamespace

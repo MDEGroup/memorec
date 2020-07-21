@@ -1,0 +1,6 @@
+Aplikacija#naziv
+Aplikacija#verzija
+Aplikacija#deployed
+Cvor#Ime
+Cvor#os
+Cvor#deploy

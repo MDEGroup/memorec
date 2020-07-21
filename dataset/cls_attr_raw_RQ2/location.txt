@@ -1,0 +1,15 @@
+GeoLinearFeature#geographicalDatum
+GeoLinearFeature#geographicalProjection
+GeoLinearFeature#vertices
+GeoPoint#geographicalDatum
+GeoPoint#geographicalProjection
+GeoPoint#longitude
+GeoPoint#latitude
+GeoPoint#elevation
+GeoPoint#linearFeature
+GeoPolygon#geographicalDatum
+GeoPolygon#geographicalProjection
+GeoPolygon#vertices
+Location#simpleLocation
+Location#creationTime
+Location#destructionTime

@@ -1,0 +1,12 @@
+fmusim#FMU
+fmusim#ModelDescription
+fmusim#Graph
+fmusim#Component
+fmusim#Connection
+fmusim#Port
+fmusim#ScalarVariable
+fmusim#Type
+fmusim#BaseUnit
+fmusim#Experiment
+fmusim#Implementation
+fmusim#EClass0

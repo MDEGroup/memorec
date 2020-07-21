@@ -1,0 +1,8 @@
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+PrimitiveTypes#String
+WSLink#LocatedElement
+WSLink#Network
+WSLink#Services
+WSLink#WebService
+WSLink#RSS

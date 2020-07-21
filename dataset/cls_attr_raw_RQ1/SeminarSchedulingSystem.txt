@@ -1,0 +1,16 @@
+Presenter#name
+Presenter#seminarSchedulingSystem
+Presenter#qualifiedFor
+Presenter#offering
+Seminar#title
+Seminar#seminarSchedulingSystem
+Seminar#qualified
+Seminar#offering
+Offering#is_cancelled
+Offering#date
+Offering#attendee
+Offering#presenter
+Offering#seminar
+Date#year
+Date#month
+Date#day

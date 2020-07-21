@@ -1,0 +1,14 @@
+specio2#IoPackage
+specio2#ParamProfile
+specio2#ParamStruct
+specio2#Item
+specio2#Cursor
+specio2#Fun
+specio2#Proc
+specio2#Type
+specio2#StructuredType
+specio2#NameType
+specio2#InParam
+specio2#OutParam
+specio2#ParamFull
+specio2#DefVal

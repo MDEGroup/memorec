@@ -1,0 +1,9 @@
+Rule#id
+Rule#idFilter
+Rule#actionFilter
+Rule#typeFilter
+Rule#filterScript
+SignatureRule#trustedCertificationAuthority
+SignatureRule#indentXml
+SignatureRule#postProcessor
+SignatureRule#reloadPeriod

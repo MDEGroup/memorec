@@ -1,0 +1,5 @@
+enactment#Enactment
+enactment#Resource
+enactment#ActionEnactment
+enactment#PlanEnactment
+enactment#ServiceInvocationEnactment

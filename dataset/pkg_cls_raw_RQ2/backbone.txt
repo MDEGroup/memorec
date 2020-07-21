@@ -1,0 +1,12 @@
+package#Application
+package#NamedElement
+package#Model
+package#Attribute
+package#Reference
+package#Operation
+package#Parameter
+package#Collection
+package#Router
+package#RouterMapping
+package#View
+package#CardinalityKind

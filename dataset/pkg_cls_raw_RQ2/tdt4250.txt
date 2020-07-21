@@ -1,0 +1,8 @@
+package#Course
+package#Assignment
+package#Answer
+package#Student
+package#ResponsibilityRole
+package#Person
+package#Teacher
+package#Root

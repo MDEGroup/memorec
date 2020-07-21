@@ -1,0 +1,4 @@
+Chapter#title
+Chapter#nbPages
+Chapter#author
+Chapter#book

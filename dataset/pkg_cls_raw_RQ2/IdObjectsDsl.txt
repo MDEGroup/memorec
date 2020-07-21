@@ -1,0 +1,10 @@
+package#Model
+package#Package
+package#Entity
+package#EntityReference
+package#Persistence
+package#PersistencePackage
+package#PersistenceEntity
+package#PersistenceProperty
+package#PersistencePropertyConfig
+package#EntityProperty

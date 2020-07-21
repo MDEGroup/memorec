@@ -1,0 +1,9 @@
+package#DmdDocumentRoot
+package#DomainFinder
+package#DomainManagerConfiguration
+package#DomainManagerSoftPkg
+package#FindBy
+package#LocalFile
+package#NamingService
+package#Service
+package#Services

@@ -1,0 +1,13 @@
+Car#registrationNumber
+Car#color
+Car#carModel
+Car#owner
+Model#id
+Model#manufacturer
+Model#type
+Model#productionYear
+Owner#id
+Owner#name
+Owner#driver
+Owner#birth
+Owner#car

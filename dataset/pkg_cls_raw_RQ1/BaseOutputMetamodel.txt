@@ -1,0 +1,5 @@
+BaseNotationMetamodel#RootNotationModel
+BaseNotationMetamodel#Token
+BaseNotationMetamodel#Lex
+BaseNotationMetamodel#Location
+BaseNotationMetamodel#NotationModelElement

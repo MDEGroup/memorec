@@ -1,0 +1,13 @@
+package#ActivityExtension
+package#CaseExtension
+package#CopyExtension
+package#EndNode
+package#LinkExtension
+package#OnAlarmExtension
+package#OnEventExtension
+package#OnMessageExtension
+package#PartnerLinkExtension
+package#ProcessExtension
+package#ReferencePartnerLinks
+package#StartNode
+package#VariableExtension

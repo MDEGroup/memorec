@@ -1,0 +1,9 @@
+PetriNetMM2#PetriNetModel
+PetriNetMM2#PetriNetModelElement
+PetriNetMM2#PetriNet
+PetriNetMM2#Place
+PetriNetMM2#Transition
+PetriNetMM2#Arc
+PetriNetMM2#PTArc
+PetriNetMM2#TPArc
+PetriNetMM2#GenericPT

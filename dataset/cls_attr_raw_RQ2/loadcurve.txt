@@ -1,0 +1,9 @@
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#loadCurve
+LoadCurve#name
+LoadCurve#description
+LoadCurve#creationDate
+LoadCurve#startTime
+LoadCurve#measurement

@@ -1,0 +1,17 @@
+DocumentedProject#iProjectInstance
+DocumentedProject#documents
+DocumentedProject#name
+DocumentedProject#version
+Document#project
+Document#inputs
+Document#outputs
+Document#enabled
+Document#name
+Document#version
+DocInput#path
+DocInput#directory
+DocInput#document
+DocOutput#path
+DocOutput#directory
+DocOutput#format
+DocOutput#document

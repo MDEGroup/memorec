@@ -1,0 +1,7 @@
+Check#result
+Check#expression
+Check#rootCause
+Check#passedIconResult
+Check#source
+Check#target
+Check#name

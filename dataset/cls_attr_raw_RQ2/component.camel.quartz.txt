@@ -1,0 +1,11 @@
+CamelQuartzBindingType#contextMapper
+CamelQuartzBindingType#messageComposer
+CamelQuartzBindingType#camelBindingName
+CamelQuartzBindingType#cron
+CamelQuartzBindingType#stateful
+CamelQuartzBindingType#triggerStartTime
+CamelQuartzBindingType#triggerEndTime
+DocumentRoot#mixed
+DocumentRoot#xMLNSPrefixMap
+DocumentRoot#xSISchemaLocation
+DocumentRoot#bindingQuartz

@@ -1,0 +1,11 @@
+package#Addressable
+package#Company
+package#Supplier
+package#Customer
+package#Order
+package#OrderDetail
+package#PurchaseOrder
+package#SalesOrder
+package#Category
+package#Product
+package#VAT

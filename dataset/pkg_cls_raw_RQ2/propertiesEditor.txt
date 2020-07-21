@@ -1,0 +1,9 @@
+package#Properties
+package#Property
+package#Annotation
+package#PropertiesEditor
+package#EFile
+package#DefaultProperty
+package#DefaultProperties
+package#SubProperties
+package#Merge

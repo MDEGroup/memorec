@@ -1,0 +1,6 @@
+SingleTypeDefinitionTail#first
+SingleTypeDefinitionTail#last
+SingleTypeDefinitionTail#types
+VariableDefinition#name
+VariableDefinition#types
+VariableDefinition#value

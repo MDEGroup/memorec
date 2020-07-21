@@ -1,0 +1,12 @@
+PSF#version
+PSF#providers
+PSF#workingSets
+WorkingSet#id
+WorkingSet#label
+WorkingSet#name
+WorkingSet#editPageId
+WorkingSet#items
+Item#factoryID
+Item#elementID
+Item#path
+Item#type

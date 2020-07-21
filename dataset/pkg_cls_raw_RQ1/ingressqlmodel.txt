@@ -1,0 +1,6 @@
+ingressqlmodel#IngresSynonym
+ingressqlmodel#IngresDBEvent
+ingressqlmodel#IngresSchema
+ingressqlmodel#IngresViewTable
+ingressqlmodel#IngresTrigger
+ingressqlmodel#IngresIdentitySpecifier

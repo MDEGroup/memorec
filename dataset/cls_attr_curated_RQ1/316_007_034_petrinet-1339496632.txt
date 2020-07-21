@@ -1,0 +1,10 @@
+PetriNet#name
+PetriNet#nodes
+PetriNet#arcs
+Arc#net
+Arc#source
+Arc#target
+Node#name
+Node#net
+Node#incoming
+Node#outgoing

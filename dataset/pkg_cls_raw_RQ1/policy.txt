@@ -1,0 +1,8 @@
+policy#AppliesToType
+policy#DocumentRoot
+policy#OperatorContentType
+policy#PolicyAttachmentType
+policy#PolicyReferenceType
+policy#PolicyType
+policy#PolicyURIsType
+policy#URIType

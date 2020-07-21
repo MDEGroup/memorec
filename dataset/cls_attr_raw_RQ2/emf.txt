@@ -1,0 +1,9 @@
+Cooperation#rightHandSide
+Cooperation#leftHandSide
+Cooperation#actions
+Model#systemEquation
+Model#processAssignments
+Model#rateAssignments
+RateExpression#leftHandSide
+RateExpression#rightHandSide
+RateExpression#operator

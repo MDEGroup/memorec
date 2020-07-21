@@ -1,0 +1,4 @@
+autocgmodel#CGASTCallExp
+autocgmodel#CGContainmentVisit
+autocgmodel#CGContainmentPart
+autocgmodel#CGContainmentBody

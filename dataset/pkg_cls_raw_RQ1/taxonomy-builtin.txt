@@ -1,0 +1,4 @@
+taxonomy-builtin#CategoryVocabulary
+taxonomy-builtin#TagVocabulary
+taxonomy-builtin#Category
+taxonomy-builtin#Tag

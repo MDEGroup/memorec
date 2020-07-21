@@ -1,0 +1,10 @@
+RequisitePro#DescribedElt
+RequisitePro#NamedElt
+RequisitePro#ContainerElt
+RequisitePro#Project
+RequisitePro#Package
+RequisitePro#ContainedElt
+RequisitePro#TypedElt
+RequisitePro#Document
+RequisitePro#Attribute
+RequisitePro#Requirement

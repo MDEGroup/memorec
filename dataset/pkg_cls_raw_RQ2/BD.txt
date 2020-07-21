@@ -1,0 +1,6 @@
+package#EsquemaBD
+package#Tabla
+package#Columna
+package#TipoPrimitivo
+package#ElementoNombrado
+package#ClaveAjena

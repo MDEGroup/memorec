@@ -1,0 +1,16 @@
+package#CommittedType
+package#DocumentRoot
+package#InitType
+package#KindType
+package#KindTypeObject
+package#LabelType
+package#LocationType
+package#NailType
+package#NameType
+package#NtaType
+package#ParameterType
+package#SourceType
+package#TargetType
+package#TemplateType
+package#TransitionType
+package#UrgentType

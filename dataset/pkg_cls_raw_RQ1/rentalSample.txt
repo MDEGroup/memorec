@@ -1,0 +1,9 @@
+rental#RentalAgency
+rental#Customer
+rental#Address
+rental#StreetType
+rental#RentalObject
+rental#License
+rental#Rental
+rental#Car
+rental#Device

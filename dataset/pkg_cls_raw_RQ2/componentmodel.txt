@@ -1,0 +1,9 @@
+package#Component
+package#PrimitiveComponent
+package#CompositeComponent
+package#InPort
+package#OutPort
+package#Port
+package#Property
+package#NumericProperty
+package#EnumProperty

@@ -1,0 +1,9 @@
+mime#MIMEContent
+mime#MIMEPart
+mime#MIMEMultipartRelated
+mime#MIMEMimeXml
+mime#IMIMEPart
+mime#IMIMEMultipartRelated
+mime#IMIMEContent
+mime#IMIMEMimeXml
+mime#List

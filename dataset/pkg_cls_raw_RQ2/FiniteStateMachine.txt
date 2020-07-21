@@ -1,0 +1,6 @@
+package#MgaObject
+package#Transition
+package#State
+package#StateMachine
+package#RootFolder
+package#AssociationStateState

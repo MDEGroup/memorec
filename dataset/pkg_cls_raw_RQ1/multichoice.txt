@@ -1,0 +1,8 @@
+multichoicesystem#System
+multichoicesystem#MultipleChoice
+multichoicesystem#User
+multichoicesystem#Administrator
+multichoicesystem#MultipleChoiceInst
+multichoicesystem#Statement
+multichoicesystem#Answer
+multichoicesystem#StatementInst

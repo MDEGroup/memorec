@@ -1,0 +1,8 @@
+Lims#Gender
+Lims#Family
+Lims#Laboratory
+Lims#Individual
+Lims#Sequencer
+Lims#Run
+Lims#Sample
+Lims#Sequenced

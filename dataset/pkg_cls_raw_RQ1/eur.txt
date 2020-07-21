@@ -1,0 +1,7 @@
+eur#Argument
+eur#Strategy
+eur#Solution
+eur#Assumption
+eur#Context
+eur#Justification
+eur#Criteria

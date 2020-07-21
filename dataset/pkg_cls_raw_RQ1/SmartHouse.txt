@@ -1,0 +1,16 @@
+SmartHouse#House
+SmartHouse#Gate
+SmartHouse#Security
+SmartHouse#Person
+SmartHouse#WaterHeater
+SmartHouse#EV
+SmartHouse#Room
+SmartHouse#Heating
+SmartHouse#Window
+SmartHouse#AirConditioner
+SmartHouse#Light
+SmartHouse#Projector
+SmartHouse#WashingMachine
+SmartHouse#Sensor
+SmartHouse#Cooker
+SmartHouse#CoffeeMaker

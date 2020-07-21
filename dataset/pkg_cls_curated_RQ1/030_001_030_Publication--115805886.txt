@@ -1,0 +1,17 @@
+publication#Article
+publication#BiblioReference
+publication#BiblioReferenceSet
+publication#Book
+publication#BookArticle
+publication#Content
+publication#Indexing
+publication#Journal
+publication#JournalArticle
+publication#JournalIssue
+publication#Multimedia
+publication#Proceeding
+publication#Protocol
+publication#SimpleCitation
+publication#TechnicalReport
+publication#Thesis
+publication#WebResource

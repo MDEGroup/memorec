@@ -1,0 +1,7 @@
+bigpicture#BigPicture
+bigpicture#Platform
+bigpicture#WorkPackage
+bigpicture#TaskBP
+bigpicture#ActivityBP
+bigpicture#UseCase
+bigpicture#Assignment

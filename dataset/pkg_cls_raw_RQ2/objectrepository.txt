@@ -1,0 +1,4 @@
+package#Repository
+package#Connection
+package#Attribute
+package#IObjectDescriptor

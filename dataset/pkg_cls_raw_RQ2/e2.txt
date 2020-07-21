@@ -1,0 +1,8 @@
+package#Lecture
+package#Person
+package#Assingnment
+package#Course
+package#Group
+package#AssignmentSubmission
+package#University
+package#LectureContent

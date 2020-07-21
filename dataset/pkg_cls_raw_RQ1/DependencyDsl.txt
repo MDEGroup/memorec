@@ -1,0 +1,12 @@
+dependencyDsl#Project
+dependencyDsl#GA
+dependencyDsl#Dependency
+dependencyDsl#MappedDependency
+dependencyDsl#Plugin
+dependencyDsl#Extension
+dependencyDsl#Model
+dependencyDsl#Import
+dependencyDsl#Type
+dependencyDsl#SimpleType
+dependencyDsl#Entity
+dependencyDsl#Property

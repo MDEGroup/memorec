@@ -1,0 +1,15 @@
+package#SegmentModel
+package#PrimitivesDef
+package#PrimitivesPackage
+package#ImageValueType
+package#ImageValueParams
+package#PrimitivesType
+package#QualifierDefs
+package#Segment
+package#Qualifier
+package#Field
+package#AdaMappings
+package#FieldMapping
+package#Attribute
+package#FormatDefs
+package#Format

@@ -1,0 +1,4 @@
+feature#AnnotatedSimpleFeature
+feature#Feature
+feature#FeatureSet
+feature#SimpleFeature

@@ -1,0 +1,7 @@
+modulecore#WorkbenchModule
+modulecore#WorkbenchModuleResource
+modulecore#ModuleType
+modulecore#URI
+modulecore#ProjectModules
+modulecore#DependentModule
+modulecore#DependencyType

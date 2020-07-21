@@ -1,0 +1,9 @@
+EventPattern#stateMachine
+EventPattern#id
+EventPattern#holdingTime
+ComplexEventPattern#operator
+ComplexEventPattern#timewindow
+ComplexEventPattern#compositionEvents
+Event#type
+Event#timestamp
+Event#eventSource

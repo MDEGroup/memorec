@@ -1,0 +1,11 @@
+Axis2Placement3D#cartesianX
+Axis2Placement3D#cartesianY
+Axis2Placement3D#axis
+Axis2Placement3D#refDirection
+Axis2Placement3D#cartesianZ
+GUIDElement#name
+GUIDElement#elementName
+GUIDElement#description
+Direction#x
+Direction#y
+Direction#z

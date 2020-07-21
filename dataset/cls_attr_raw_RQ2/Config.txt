@@ -1,0 +1,17 @@
+TestConfig#seed
+TestConfig#nsURI
+TestConfig#count
+TestConfig#testClass
+TestConfig#id
+TestRun#config
+TestRun#time
+TestRun#results
+TestResult#seedCount
+TestResult#testName
+TestResult#error
+TestResult#failure
+TestResult#executionTime
+TestDiff#lastUpdate
+TestDiff#config
+TestDiff#oldResult
+TestDiff#newResult

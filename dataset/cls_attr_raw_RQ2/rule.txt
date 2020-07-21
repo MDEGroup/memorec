@@ -1,0 +1,15 @@
+NewElementRules#transferTypes
+NewElementRules#name
+NewElementRules#deletable
+RemusTransferType#name
+RemusTransferType#id
+RemusTransferType#actions
+RuleAction#name
+RuleAction#infoTypeId
+RuleAction#ruleValue
+RuleAction#groovyMatcher
+RuleAction#postProcessingInstructions
+RuleResult#value
+RuleResult#actions
+RuleResult#description
+RuleResult#transferType

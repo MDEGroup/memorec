@@ -1,0 +1,10 @@
+Graph#strict
+Graph#type
+Graph#name
+Graph#statements
+EdgeStatement#sourceNode
+EdgeStatement#edgeTargets
+EdgeStatement#attributes
+EdgeTarget#operator
+EdgeTarget#targetSubgraph
+EdgeTarget#targetnode

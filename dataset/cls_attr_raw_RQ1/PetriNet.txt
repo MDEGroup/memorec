@@ -1,0 +1,3 @@
+PetriNet#elements
+PetriNet#arcs
+PetriNet#name

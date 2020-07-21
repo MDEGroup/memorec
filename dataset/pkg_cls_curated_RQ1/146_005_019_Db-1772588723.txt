@@ -1,0 +1,9 @@
+relationaldatabase#NamedElement
+relationaldatabase#DatabaseModel
+relationaldatabase#Table
+relationaldatabase#Column
+relationaldatabase#ForeignKey
+relationaldatabase#DataType
+relationaldatabase#Tag
+relationaldatabase#Taggable
+relationaldatabase#Configuration

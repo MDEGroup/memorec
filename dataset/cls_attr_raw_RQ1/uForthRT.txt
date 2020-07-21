@@ -1,0 +1,7 @@
+Program#ip
+Program#memory
+Program#variables
+Program#variable_map
+Program#definition_map
+Program#definitions
+Program#data_stack

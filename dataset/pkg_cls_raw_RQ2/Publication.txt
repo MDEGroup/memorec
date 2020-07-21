@@ -1,0 +1,17 @@
+package#Article
+package#BiblioReference
+package#BiblioReferenceSet
+package#Book
+package#BookArticle
+package#Content
+package#Indexing
+package#Journal
+package#JournalArticle
+package#JournalIssue
+package#Multimedia
+package#Proceeding
+package#Protocol
+package#SimpleCitation
+package#TechnicalReport
+package#Thesis
+package#WebResource

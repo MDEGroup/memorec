@@ -1,0 +1,9 @@
+SDDescriptor#id
+SDDescriptor#name
+SDDescriptor#description
+SDDescriptor#children
+SDDescriptor#parent
+SDSnapshotObservation#validityMask
+SDSnapshotObservation#creationTime
+SDSnapshotObservation#memberDescriptor
+SDSnapshotObservation#window

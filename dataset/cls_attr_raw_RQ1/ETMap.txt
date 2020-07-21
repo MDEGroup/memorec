@@ -1,0 +1,9 @@
+MappingModel#name
+MappingModel#imports
+MappingModel#mappings
+Mapping#logicalSys
+Mapping#physicalSys
+Mapping#subsysMappings
+SubSystemMapping#logicalSubSys
+SubSystemMapping#node
+SubSystemMapping#threadMappings

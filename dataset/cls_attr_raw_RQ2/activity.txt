@@ -1,0 +1,3 @@
+Edge#guard
+Edge#source
+Edge#target

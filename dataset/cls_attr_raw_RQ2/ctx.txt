@@ -1,0 +1,16 @@
+EntityClass#name
+EntityClass#attribute
+EntityClass#superclass
+EntityClass#isAbstract
+ComparativeFormalRelation#name
+ComparativeFormalRelation#target
+ComparativeFormalRelation#source
+Association#name
+Association#source
+Association#target
+QualitativeFormalRelation#name
+QualitativeFormalRelation#parameter
+QualitativeFormalRelation#datatype
+PrimitiveFormalRelation#name
+PrimitiveFormalRelation#target
+PrimitiveFormalRelation#source

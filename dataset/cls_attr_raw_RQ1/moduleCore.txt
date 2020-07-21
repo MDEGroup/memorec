@@ -1,0 +1,12 @@
+WorkbenchModule#handle
+WorkbenchModule#deployedName
+WorkbenchModule#resources
+WorkbenchModule#moduleType
+WorkbenchModule#modules
+WorkbenchModuleResource#sourcePath
+WorkbenchModuleResource#deployedPath
+WorkbenchModuleResource#exclusions
+WorkbenchModuleResource#module
+DependentModule#handle
+DependentModule#deployedPath
+DependentModule#dependencyType

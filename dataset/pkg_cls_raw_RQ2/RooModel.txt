@@ -1,0 +1,6 @@
+package#RooModel
+package#Project
+package#PersistenceSetup
+package#javaVersion
+package#providerType
+package#databaseType

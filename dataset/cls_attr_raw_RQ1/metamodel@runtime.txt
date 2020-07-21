@@ -1,0 +1,16 @@
+System#root
+System#services
+System#types
+System#dataTypes
+System#groups
+ComponentInstance#type
+ComponentInstance#state
+ComponentInstance#superComponent
+ComponentInstance#attribute
+ComponentInstance#binding
+ComponentInstance#implem
+ComponentInstance#groups
+ComponentType#port
+ComponentType#attribute
+ComponentType#groups
+ComponentType#implem

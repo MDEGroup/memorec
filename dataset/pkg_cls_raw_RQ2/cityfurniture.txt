@@ -1,0 +1,4 @@
+package#CityFurnitureClassType
+package#CityFurnitureFunctionType
+package#CityFurnitureType
+package#DocumentRoot

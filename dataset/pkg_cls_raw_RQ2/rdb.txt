@@ -1,0 +1,10 @@
+package#DB
+package#Table
+package#Column
+package#Rectangle
+package#Relation
+package#Point
+package#RelationKind
+package#View
+package#ERDInfo
+package#UserComment

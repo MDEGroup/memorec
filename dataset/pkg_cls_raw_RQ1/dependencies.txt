@@ -1,0 +1,12 @@
+dependencies#Shape
+dependencies#Point
+dependencies#Dimension
+dependencies#Subject
+dependencies#Note
+dependencies#ShapeStyle
+dependencies#Connection
+dependencies#ConnectionStyle
+dependencies#Diagram
+dependencies#Layer
+dependencies#Kind
+dependencies#Router

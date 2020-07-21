@@ -1,0 +1,3 @@
+lwc11#EntityModel
+lwc11#Entity
+lwc11#Feature

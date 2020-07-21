@@ -1,0 +1,5 @@
+package#CheckConfiguration
+package#ConfiguredCatalog
+package#ConfiguredCheck
+package#ConfiguredParameter
+package#SeverityKind

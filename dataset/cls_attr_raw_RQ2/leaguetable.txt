@@ -1,0 +1,7 @@
+MatchResult#participant1
+MatchResult#participant2
+MatchResult#points1
+MatchResult#points2
+LeagueTable#participants
+LeagueTable#matchResults
+LeagueTable#tableRows

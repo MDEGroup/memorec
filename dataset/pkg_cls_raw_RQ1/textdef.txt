@@ -1,0 +1,10 @@
+textdef#TextualDSLVisualizer
+textdef#TextualVisualizationDescriptor
+textdef#Literal
+textdef#Value
+textdef#LiteralChoice
+textdef#AbstractColor
+textdef#StandardColor
+textdef#RGBColor
+textdef#ColorEnum
+textdef#ValueChoice

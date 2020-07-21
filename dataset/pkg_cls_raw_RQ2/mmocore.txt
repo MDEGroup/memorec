@@ -1,0 +1,15 @@
+package#Identifiable
+package#Resource
+package#UrlResource
+package#Version
+package#Project
+package#Decorate
+package#ImageResource
+package#PluginDependence
+package#TextResource
+package#StringToStringMap
+package#PreferencesNode
+package#PreferencesContributor
+package#BeanContributor
+package#PropertiesContributor
+package#i18nString

@@ -1,0 +1,6 @@
+simplepdl#WorkSequenceType
+simplepdl#Process
+simplepdl#WorkDefinition
+simplepdl#WorkSequence
+simplepdl#ProcessElement
+simplepdl#Guidance

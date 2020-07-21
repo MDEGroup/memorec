@@ -1,0 +1,13 @@
+PrimitiveTypes#String
+PrimitiveTypes#Boolean
+PrimitiveTypes#Integer
+SecureUML#Group
+SecureUML#User
+SecureUML#Subject
+SecureUML#Role
+SecureUML#Permission
+SecureUML#AuthorizationConstraint
+SecureUML#AtomicAction
+SecureUML#CompositeAction
+SecureUML#Action
+SecureUML#Resource

@@ -1,0 +1,10 @@
+package#CDOResourceNode
+package#CDOResourceFolder
+package#CDOResource
+package#ResourceSet
+package#URI
+package#Diagnostic
+package#CDOResourceLeaf
+package#CDOFileResource
+package#CDOBinaryResource
+package#CDOTextResource

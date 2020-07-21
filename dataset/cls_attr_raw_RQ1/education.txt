@@ -1,0 +1,11 @@
+School#name
+School#address
+School#phone
+School#students
+School#courses
+Student#name
+Student#schools
+Student#courses
+Course#name
+Course#students
+Course#school

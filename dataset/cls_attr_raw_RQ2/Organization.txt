@@ -1,0 +1,8 @@
+ContactingDetail#legalEntity
+ContactingDetail#streetAddress
+ContactingDetail#postalCode
+ContactingDetail#administrativeDivision
+ContactingDetail#communicationModes
+OrderedLegalEntity#legalEntity
+OrderedLegalEntity#precedence
+OrderedLegalEntity#orderedSet

@@ -1,0 +1,6 @@
+planetlab#RSpec
+planetlab#NetSpec
+planetlab#NodeSpec
+planetlab#LinkSpec
+planetlab#IfSpec
+planetlab#SwitchSpec

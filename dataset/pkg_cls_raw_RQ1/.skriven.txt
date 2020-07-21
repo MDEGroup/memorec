@@ -1,0 +1,7 @@
+prototip#TezinaPosla
+prototip#Angazovani_Radnik
+prototip#Visokokvalifikovani_Radnik
+prototip#Visa_Skola
+prototip#Fakultetski_Obrazovan
+prototip#Fizikalac
+prototip#Posao

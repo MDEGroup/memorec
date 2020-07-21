@@ -1,0 +1,17 @@
+WElement#name
+WElement#description
+WElement#model
+WLink#child
+WLink#parent
+WLink#end
+MatchModel#leftM
+MatchModel#rightM
+MatchModel#methods
+MatchModel#parameters
+Equal#similarity
+Equal#left
+Equal#right
+Equal#userAssistance
+PropagationEdge#incomingLink
+PropagationEdge#outgoingLink
+PropagationEdge#propagation

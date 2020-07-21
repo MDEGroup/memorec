@@ -1,0 +1,6 @@
+sbpdesigner#Element
+sbpdesigner#Model
+sbpdesigner#Project
+sbpdesigner#Folder
+sbpdesigner#ModelElement
+sbpdesigner#Container

@@ -1,0 +1,5 @@
+standardPetriNets#Place
+standardPetriNets#Transition
+standardPetriNets#InputArc
+standardPetriNets#OutputArc
+standardPetriNets#PetriNet

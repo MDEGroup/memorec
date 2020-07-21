@@ -1,0 +1,5 @@
+package#WorkingSet
+package#WorkingSetGroup
+package#Predicate
+package#Project
+package#NamePredicate

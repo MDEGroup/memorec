@@ -1,0 +1,6 @@
+package#ComponentInstantiation
+package#ExecutableTransformation
+package#AdaptedTransformation
+package#AdaptWithBinding
+package#TemplateSpecificData
+package#AtlTemplateData

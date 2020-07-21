@@ -1,0 +1,16 @@
+package#Comparison
+package#MatchResource
+package#Match
+package#Diff
+package#ResourceAttachmentChange
+package#ReferenceChange
+package#AttributeChange
+package#Conflict
+package#Equivalence
+package#DifferenceKind
+package#DifferenceSource
+package#DifferenceState
+package#ConflictKind
+package#EIterable
+package#IEqualityHelper
+package#Diagnostic

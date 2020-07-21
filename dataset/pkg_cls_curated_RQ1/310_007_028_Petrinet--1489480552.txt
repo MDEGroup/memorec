@@ -1,0 +1,6 @@
+petrinet#PetriNet
+petrinet#Arc
+petrinet#Noeud
+petrinet#Transition
+petrinet#Place
+petrinet#ArcKindType

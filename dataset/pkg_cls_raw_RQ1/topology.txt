@@ -1,0 +1,14 @@
+Topology#Element
+Topology#CIMTime
+Topology#CIMDateTime
+Topology#CIMDuration
+Topology#CIMGYear
+Topology#CIMDate
+Topology#CIMGMonthDay
+Topology#CIMGMonth
+Topology#CIMGDay
+Topology#CIMGYearMonth
+Core#ConnectivityNode
+Core#Terminal
+Core#IdentifiedObject
+Core#BaseVoltage

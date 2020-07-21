@@ -1,0 +1,12 @@
+package#ModelElement
+package#Type
+package#Field
+package#Method
+package#IntertypeDefinition
+package#Project
+package#Visitor
+package#Visitable
+package#List
+package#Invocation
+package#Weaving
+package#TypeReference

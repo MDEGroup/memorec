@@ -1,0 +1,6 @@
+XAnnotation#elementValuePairs
+XAnnotation#annotationType
+XAnnotation#value
+XAnnotationElementValueBinaryOperation#leftOperand
+XAnnotationElementValueBinaryOperation#rightOperand
+XAnnotationElementValueBinaryOperation#operator

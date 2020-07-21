@@ -1,0 +1,11 @@
+statemachines#TranslationKind
+statemachines#Statemachine
+statemachines#StatemachineOwner
+statemachines#Transition
+statemachines#AbstractNode
+statemachines#State
+statemachines#Initial
+statemachines#Final
+statemachines#Any
+statemachines#Junction
+statemachines#Fork

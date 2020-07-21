@@ -1,0 +1,8 @@
+package#KarteikastenSystem
+package#Person
+package#Karteikasten
+package#Sprache
+package#Fach
+package#Karteifachtyp
+package#Karte
+package#Kartenseite

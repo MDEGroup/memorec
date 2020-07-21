@@ -1,0 +1,9 @@
+sybasesqlmodel#SybaseParameter
+sybasesqlmodel#SybaseRoutine
+sybasesqlmodel#SybaseBaseTable
+sybasesqlmodel#SybaseViewTable
+sybasesqlmodel#JDBCParameterType
+sybasesqlmodel#SybaseAuthorizationIdentifier
+sybasesqlmodel#SybaseIndexMember
+sybasesqlmodel#SybaseAuthorizedObject
+sybasesqlmodel#SybasePrivilege

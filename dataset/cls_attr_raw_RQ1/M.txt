@@ -1,0 +1,12 @@
+Module#imports
+Module#exports
+Module#moduleMembers
+DerivedType#supertypes
+DerivedType#fields
+DerivedType#initializationExpression
+DerivedType#whereExpression
+DerivedType#expression
+TypeReference#subtype
+TypeReference#field
+TypeReference#lowerBound
+TypeReference#upperBound
