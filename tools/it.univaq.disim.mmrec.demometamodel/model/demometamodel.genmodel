@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel"
+    modelDirectory="/it.univaq.disim.mmrec.demometamodel/src-gen" creationIcons="false"
+    editDirectory="/it.univaq.disim.mmrec.demometamodel.edit/src-gen" editorDirectory="/it.univaq.disim.mmrec.demometamodel.editor/src-gen"
+    modelPluginID="it.univaq.disim.mmrec.demometamodel" modelName="Demometamodel"
+    rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container" codeFormatting="true"
+    importerID="org.eclipse.emf.importer.ecore" complianceLevel="8.0" copyrightFields="false"
+    usedGenPackages="#//demometamodel/Web" operationReflection="true" importOrganizing="true">
+  <foreignModel>demometamodel.ecore</foreignModel>
+  <testsDirectory xsi:nil="true"/>
+  <genPackages prefix="Demometamodel" basePackage="it.univaq.disim.mmrec" disposableProviderFactory="true"
+      ecorePackage="demometamodel.ecore#/">
+    <nestedGenPackages prefix="NewPackage1" disposableProviderFactory="true" ecorePackage="demometamodel.ecore#//Web">
+      <genClasses ecoreClass="demometamodel.ecore#//Web/Page">
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute demometamodel.ecore#//Web/Page/title"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute demometamodel.ecore#//Web/Page/meta"/>
+      </genClasses>
+      <genClasses ecoreClass="demometamodel.ecore#//Web/Static">
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute demometamodel.ecore#//Web/Static/content"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute demometamodel.ecore#//Web/Static/picture"/>
+      </genClasses>
+      <genClasses ecoreClass="demometamodel.ecore#//Web/Dynamic">
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute demometamodel.ecore#//Web/Dynamic/list"/>
+        <genFeatures notify="false" createChild="false" propertySortChoices="true"
+            ecoreFeature="ecore:EReference demometamodel.ecore#//Web/Dynamic/entity"/>
+      </genClasses>
+    </nestedGenPackages>
+    <nestedGenPackages prefix="NewPackage2" disposableProviderFactory="true" ecorePackage="demometamodel.ecore#//Data">
+      <genClasses ecoreClass="demometamodel.ecore#//Data/Field">
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute demometamodel.ecore#//Data/Field/isPK"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute demometamodel.ecore#//Data/Field/name"/>
+      </genClasses>
+      <genClasses ecoreClass="demometamodel.ecore#//Data/Entity">
+        <genFeatures notify="false" createChild="false" propertySortChoices="true"
+            ecoreFeature="ecore:EReference demometamodel.ecore#//Data/Entity/fields"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute demometamodel.ecore#//Data/Entity/name"/>
+      </genClasses>
+    </nestedGenPackages>
+  </genPackages>
+</genmodel:GenModel>

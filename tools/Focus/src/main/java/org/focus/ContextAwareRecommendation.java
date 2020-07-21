@@ -222,46 +222,52 @@ public class ContextAwareRecommendation {
 				if (count > 3)
 					break;
 			}
-
-			float[] ratings = new float[numOfCols - 1];
-
-			// For every '?' cell (-1.0), compute a rating
-			for (int k = 0; k < numOfCols; k++) {
-				if (matrix[numOfSlices - 1][numOfRows - 1][k] == -1) {
-					double totalSim = 0;
-
-					// Iterate over the top-3 most similar methods
-					for (String key : top3Sim.keySet()) {
-						String line = key.trim();
-
-						String parts[] = line.split("#");
-						int slice = Integer.parseInt(parts[0]);
-						int row = Integer.parseInt(parts[1]);
-
-						// Compute the average rating of the method declaration
-						double avgMDRating = 0;
-						for (int m = 0; m < numOfCols; m++)
-							avgMDRating += matrix[slice][row][m];
-						avgMDRating /= numOfCols;
-
-						String project = listOfPRs.get(slice);
-						double projectSim = simScores.get(project);
-						double val = projectSim * matrix[slice][row][k];
-						double methodSim = top3Sim.get(key);
-						totalSim += methodSim;
-						ratings[k] += (val - avgMDRating) * methodSim;
+			try {
+				float[] ratings = new float[numOfCols - 1];
+				
+				// For every '?' cell (-1.0), compute a rating
+				for (int k = 0; k < numOfCols; k++) {
+					if (matrix[numOfSlices - 1][numOfRows - 1][k] == -1) {
+						double totalSim = 0;
+	
+						// Iterate over the top-3 most similar methods
+						for (String key : top3Sim.keySet()) {
+							String line = key.trim();
+	
+							String parts[] = line.split("#");
+							int slice = Integer.parseInt(parts[0]);
+							int row = Integer.parseInt(parts[1]);
+	
+							// Compute the average rating of the method declaration
+							double avgMDRating = 0;
+							for (int m = 0; m < numOfCols; m++)
+								avgMDRating += matrix[slice][row][m];
+							avgMDRating /= numOfCols;
+	
+							String project = listOfPRs.get(slice);
+							double projectSim = simScores.get(project);
+							double val = projectSim * matrix[slice][row][k];
+							double methodSim = top3Sim.get(key);
+							totalSim += methodSim;
+							try {
+							ratings[k] += (val - avgMDRating) * methodSim;
+							} catch(Exception e) {
+								System.err.println(testingPro);
+							}
+						}
+	
+						if (totalSim != 0)
+							ratings[k] /= totalSim;
+	
+						double activeMDrating = 0.8;
+						ratings[k] += activeMDrating;
+						String methodInvocation = listOfMIs.get(k);
+						recommendations.put(methodInvocation, ratings[k]);
 					}
-
-					if (totalSim != 0)
-						ratings[k] /= totalSim;
-
-					double activeMDrating = 0.8;
-					ratings[k] += activeMDrating;
-					String methodInvocation = listOfMIs.get(k);
-					recommendations.put(methodInvocation, ratings[k]);
 				}
+			} catch (Exception e) {
+				System.err.println(testingPro);
 			}
-
 			ValueComparator bvc2 = new ValueComparator(recommendations);
 			TreeMap<String, Float> recSortedMap = new TreeMap<>(bvc2);
 			recSortedMap.putAll(recommendations);

@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
 import java.util.Properties;
 import java.util.concurrent.ConcurrentHashMap;
@@ -36,19 +37,33 @@ public class Runner {
 			// Read evaluation parameters (pi, delta)
 			String conf = prop.getProperty("configuration");
 			switch (conf) {
-				case "C1.1": configuration = Configuration.C1_1; break;
-				case "C1.2": configuration = Configuration.C1_2; break;
-				case "C2.1": configuration = Configuration.C2_1; break;
-				case "C2.2": configuration = Configuration.C2_2; break;
-				default: log.error("Invalid configuration " + conf);
+			case "C1.1":
+				configuration = Configuration.C1_1;
+				break;
+			case "C1.2":
+				configuration = Configuration.C1_2;
+				break;
+			case "C2.1":
+				configuration = Configuration.C2_1;
+				break;
+			case "C2.2":
+				configuration = Configuration.C2_2;
+				break;
+			default:
+				log.error("Invalid configuration " + conf);
 			}
 
 			// Read evaluation mode
 			String mode = prop.getProperty("validation");
 			switch (mode) {
-				case "ten-fold": tenFold = true; break;
-				case "leave-one-out": leaveOneOut = true; break;
-				default: log.error("Invalid validation mode " + mode);
+			case "ten-fold":
+				tenFold = true;
+				break;
+			case "leave-one-out":
+				leaveOneOut = true;
+				break;
+			default:
+				log.error("Invalid validation mode " + mode);
 			}
 
 			// Count number of projects from List.txt
@@ -88,7 +103,10 @@ public class Runner {
 			if (tenFold) {
 				long before = System.nanoTime();
 				log.info("Running ten-fold cross-validation on %s with configuration %s", srcDir, configuration);
-				tenFoldCrossValidation();
+				List<Integer> ks = Arrays.asList(1, 5, 10, 15, 20);
+				for (Integer k : ks) 
+				 tenFoldCrossValidation(k);
+					
 				long after = System.nanoTime();
 				log.info("10-fold took %ds", TimeUnit.SECONDS.convert(after - before, TimeUnit.NANOSECONDS));
 			}
@@ -107,16 +125,17 @@ public class Runner {
 	/**
 	 * Ten-fold cross validation
 	 */
-	public void tenFoldCrossValidation() {
-		int numOfNeighbours = 2;
+	public void tenFoldCrossValidation(int numOfNeighbours) {
+		//int numOfNeighbours = 20;
 		int numOfFolds = 10;
 		int step = (int) numOfProjects / 10;
-		List<Integer> ns = Arrays.asList(1, 5, 10, 15, 20);
+		List<Integer> ns = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20);
 		Map<Integer, Float> avgSuccess = new ConcurrentHashMap<>();
 		Map<Integer, Float> avgPrecision = new ConcurrentHashMap<>();
 		Map<Integer, Float> avgRecall = new ConcurrentHashMap<>();
 
-		IntStream.range(0,  numOfFolds).parallel().forEach(i -> {
+//		IntStream.range(0,  numOfFolds).parallel().forEach(i -> {
+		for (int i = 0; i < numOfFolds; i++) {
 			int trainingStartPos1 = 1;
 			int trainingEndPos1 = i * step;
 			int trainingStartPos2 = (i + 1) * step + 1;
@@ -133,16 +152,16 @@ public class Runner {
 					testingEndPos);
 			calculator.computeProjectSimilarity();
 			long after = System.nanoTime();
-			log.info("Fold [%d/%d]: SimilarityCalculator took %ds", i, numOfFolds,
-					TimeUnit.SECONDS.convert(after - before, TimeUnit.NANOSECONDS));
+//			log.info("Fold [%d/%d]: SimilarityCalculator took %ds", i, numOfFolds,
+//					TimeUnit.SECONDS.convert(after - before, TimeUnit.NANOSECONDS));
 
 			before = System.nanoTime();
 			ContextAwareRecommendation engine = new ContextAwareRecommendation(srcDir, subFolder, numOfNeighbours,
 					testingStartPos, testingEndPos);
 			engine.recommendation();
 			after = System.nanoTime();
-			log.info("Fold [%d/%d]: ContextAwareRecommendation took %ds", i, numOfFolds,
-					TimeUnit.SECONDS.convert(after - before, TimeUnit.NANOSECONDS));
+//			log.info("Fold [%d/%d]: ContextAwareRecommendation took %ds", i, numOfFolds,
+//					TimeUnit.SECONDS.convert(after - before, TimeUnit.NANOSECONDS));
 
 //			APIUsagePatternMatcher matcher = new APIUsagePatternMatcher(srcDir, subFolder, trainingStartPos1,
 //					trainingEndPos1, trainingStartPos2, trainingEndPos2, testingStartPos, testingEndPos);
@@ -162,14 +181,12 @@ public class Runner {
 				// log.info("precision@" + n + " = " + precision);
 				// log.info("recall@" + n + " = " + recall);
 			}
-		});
-
-		log.info("### 10-FOLDS RESULTS ###");
-		for (Integer n : ns) {
-			log.info("successRate@" + n + " = " + avgSuccess.get(n) / numOfFolds);
-			log.info("precision@" + n + "   = " + avgPrecision.get(n) / numOfFolds);
-			log.info("recall@" + n + "      = " + avgRecall.get(n) / numOfFolds);
 		}
+
+//		log.info("### 10-FOLDS RESULTS ###");
+		log.info("N, SR, P, R, Neighbors");
+		for (Integer n : ns)
+			System.out.println(String.format(Locale.US, "%d, %.3f, %.3f, cls_pkg_curated_RQ1_%d", n, (avgPrecision.get(n) / numOfFolds), (avgRecall.get(n) / numOfFolds), numOfNeighbours));
 	}
 
 	public void leaveOneOutValidation() {
@@ -181,7 +198,7 @@ public class Runner {
 		Map<Integer, Float> avgPrecision = new ConcurrentHashMap<>();
 		Map<Integer, Float> avgRecall = new ConcurrentHashMap<>();
 
-		IntStream.range(0,  numOfFolds).parallel().forEach(i -> {
+		IntStream.range(0, numOfFolds).parallel().forEach(i -> {
 			int trainingStartPos1 = 1;
 			int trainingEndPos1 = i * step;
 			int trainingStartPos2 = (i + 1) * step + 1;

@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Dataextractor
+Bundle-SymbolicName: it.univaq.disim.memorec.dataextractor
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: it.univaq.disim.mmrec.dataextractor
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.emf.ecore;bundle-version="2.15.0",
+ org.eclipse.emf.ecore.xmi;bundle-version="2.15.0",
+ org.eclipse.ocl,
+ org.eclipse.ocl.common,
+ org.eclipse.ocl.ecore

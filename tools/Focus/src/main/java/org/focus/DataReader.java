@@ -207,7 +207,7 @@ public class DataReader {
 					methodInvocations.put(md, vector);
 				}
 			}
-		} catch (IOException e) {
+		} catch (Exception e) {
 			log.error("Couldn't read file " + filename, e);
 		}
 
@@ -217,7 +217,7 @@ public class DataReader {
 
 		for (String key : keySet) {
 			List<String> list = methodInvocations.get(key);
-			if (list.size() < 5)
+			if (list.size() < 2)
 				temp.add(key);
 		}
 
@@ -312,7 +312,7 @@ public class DataReader {
 				terms.put(mi, freq);
 			}
 			reader.close();
-		} catch (IOException e) {
+		} catch (Exception e) {
 			log.error("Couldn't read file " + filename, e);
 		}
 
@@ -331,12 +331,12 @@ public class DataReader {
 
 		// remove the last half of the method declarations, only when there are more
 		// than 5 declarations
-		if (keySet.size() < 6)
+		if (keySet.size() < 3)
 			removeHalf = false;
 
 		if (removeHalf) {
 			size = methodInvocations.size();
-			int half = Math.round(size / 3);
+			int half = Math.round(size / 2);
 			int count = 0;
 			for (String key : keySet) {
 				count++;
