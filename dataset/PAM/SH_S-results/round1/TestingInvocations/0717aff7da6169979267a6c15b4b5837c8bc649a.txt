@@ -1,3 +1,0 @@
-camelinaction/StarterKitJavaProxyBuilderTest/testProxyBuilder()#camelinaction/Inventory/setAmount(java.lang.String)
-camelinaction/StarterKitJavaProxyBuilderTest/testProxyBuilder()#camelinaction/RiderService/updateInventory(camelinaction.Inventory)
-camelinaction/StarterKitJavaProxyBuilderTest/testProxyBuilder()#camelinaction/Inventory/setName(java.lang.String)

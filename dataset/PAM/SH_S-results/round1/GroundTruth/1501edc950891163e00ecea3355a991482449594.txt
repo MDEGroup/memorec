@@ -1,3 +1,0 @@
-com/harishkannarao/angularjs/model/ConnectivityDetailsBuilder/build()#com/harishkannarao/angularjs/model/ConnectivityDetails/ConnectivityDetails()
-com/harishkannarao/angularjs/model/ConnectivityDetailsBuilder/build()#com/harishkannarao/angularjs/model/ConnectivityDetails/setWifi(java.lang.String)
-com/harishkannarao/angularjs/model/ConnectivityDetailsBuilder/build()#com/harishkannarao/angularjs/model/ConnectivityDetails/setGps(java.lang.Boolean)

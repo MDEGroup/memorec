@@ -1,4 +1,0 @@
-$/LoginPage/Handler/tryLogin($.AjaxRequestTarget)#$/LoginPage/getForm()
-$/LoginPage/Handler/tryLogin($.AjaxRequestTarget)#$/LoginPage/getUserId()
-$/LoginPage/Handler/tryLogin($.AjaxRequestTarget)#java/lang/Object/Object()
-$/LoginPage/Handler/tryLogin($.AjaxRequestTarget)#$/LoginPage/Handler/addInputComponents($.AjaxRequestTarget)

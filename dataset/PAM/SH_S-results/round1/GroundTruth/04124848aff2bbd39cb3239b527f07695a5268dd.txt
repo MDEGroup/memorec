@@ -1,3 +1,0 @@
-redis/StringServiceTest/testByte()#redis/TestBean/TestBean()
-redis/StringServiceTest/testByte()#java/lang/String/getBytes()
-redis/StringServiceTest/testByte()#java/lang/String/getBytes(java.lang.String)

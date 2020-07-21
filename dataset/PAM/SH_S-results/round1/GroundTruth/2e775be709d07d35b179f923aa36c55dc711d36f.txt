@@ -1,2 +1,0 @@
-net/lr/tutorial/karaf/db/command/SelectCommand/getDataSourcesTable()#java/util/List/add(E)
-net/lr/tutorial/karaf/db/command/SelectCommand/getDataSourcesTable()#net/lr/tutorial/karaf/db/command/ShellTable/addRow()

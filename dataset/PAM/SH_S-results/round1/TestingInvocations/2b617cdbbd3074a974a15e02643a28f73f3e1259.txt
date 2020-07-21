@@ -1,3 +1,0 @@
-org/apache/servicemix/logging/jms/JMSAppenderTest/setupBroker()#org/apache/activemq/broker/BrokerService/setBrokerName(java.lang.String)
-org/apache/servicemix/logging/jms/JMSAppenderTest/setupBroker()#org/apache/activemq/broker/BrokerService/start()
-org/apache/servicemix/logging/jms/JMSAppenderTest/setupBroker()#org/apache/activemq/broker/BrokerService/BrokerService()

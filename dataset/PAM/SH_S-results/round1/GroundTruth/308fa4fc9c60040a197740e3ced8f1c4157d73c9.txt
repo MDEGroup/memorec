@@ -1,2 +1,0 @@
-agenda/rest/GrupoREST/delete(java.lang.String)#agenda/dao/SessionManager/rollBack()
-agenda/rest/GrupoREST/delete(java.lang.String)#agenda/dao/SessionManager/begin()

@@ -1,2 +1,0 @@
-org/planningpoker/domain/NumberCard/getDisplayValue()#java/lang/Double/Double(double)
-org/planningpoker/domain/NumberCard/getDisplayValue()#java/text/NumberFormat/format(double)

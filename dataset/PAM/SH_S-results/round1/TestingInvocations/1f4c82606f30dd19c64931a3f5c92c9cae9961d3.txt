@@ -1,3 +1,0 @@
-com/example/restapp/DummyBeanTest/testUpdate()#com/example/restapp/business/DummyBean/DummyBean()
-com/example/restapp/DummyBeanTest/testUpdate()#com/example/restapp/AbstractTest/session()
-com/example/restapp/DummyBeanTest/testUpdate()#javax/ws/rs/client/WebTarget/request()

@@ -1,2 +1,0 @@
-de/l3s/warc/reader/ext/SubsetExtractor/wordCount(java.lang.String)#java/util/StringTokenizer/hasMoreTokens()
-de/l3s/warc/reader/ext/SubsetExtractor/wordCount(java.lang.String)#java/util/StringTokenizer/StringTokenizer(java.lang.String)

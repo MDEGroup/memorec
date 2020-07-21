@@ -1,2 +1,0 @@
-storm/starter/ReportBolt/execute(backtype.storm.tuple.Tuple)#java/lang/StringBuilder/toString()
-storm/starter/ReportBolt/execute(backtype.storm.tuple.Tuple)#backtype/storm/tuple/Tuple/getStringByField(java.lang.String)

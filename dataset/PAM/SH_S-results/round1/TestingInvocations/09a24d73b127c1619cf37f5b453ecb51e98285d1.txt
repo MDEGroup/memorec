@@ -1,3 +1,0 @@
-net/spinetrak/gasguzzler/resources/LoginResourceTest/login()#net/spinetrak/gasguzzler/core/UserTest/getUserWithHashedPassword()
-net/spinetrak/gasguzzler/resources/LoginResourceTest/login()#java/lang/String/split(java.lang.String)
-net/spinetrak/gasguzzler/resources/LoginResourceTest/login()#net/spinetrak/gasguzzler/core/User/getUsername()

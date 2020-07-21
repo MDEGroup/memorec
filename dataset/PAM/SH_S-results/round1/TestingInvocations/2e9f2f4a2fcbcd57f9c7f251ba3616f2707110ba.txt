@@ -1,3 +1,0 @@
-DAO/OrientacaoDAO/delete(int,int,int)#database/Conn/getConnection()
-DAO/OrientacaoDAO/delete(int,int,int)#java/io/PrintStream/println(java.lang.String)
-DAO/OrientacaoDAO/delete(int,int,int)#java/lang/Throwable/getMessage()

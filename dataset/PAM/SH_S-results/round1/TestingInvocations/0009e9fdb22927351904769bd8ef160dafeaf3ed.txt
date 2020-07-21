@@ -1,3 +1,0 @@
-com/lac/xab/MainApp/main(java.lang.String[])#com/lac/xab/MainApp/getDetail(int)
-com/lac/xab/MainApp/main(java.lang.String[])#com/google/common/collect/Lists/newArrayList()
-com/lac/xab/MainApp/main(java.lang.String[])#java/lang/StringBuffer/toString()

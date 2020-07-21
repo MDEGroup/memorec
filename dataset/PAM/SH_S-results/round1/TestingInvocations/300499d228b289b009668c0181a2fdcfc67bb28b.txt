@@ -1,3 +1,0 @@
-com/nikolas/wicketsecurity/business/security/control/UserDao/findUserByUsername(java.lang.String)#javax/persistence/criteria/CriteriaQuery/select(javax.persistence.criteria.Selection)
-com/nikolas/wicketsecurity/business/security/control/UserDao/findUserByUsername(java.lang.String)#javax/persistence/criteria/Path/get(java.lang.String)
-com/nikolas/wicketsecurity/business/security/control/UserDao/findUserByUsername(java.lang.String)#javax/persistence/criteria/AbstractQuery/from(java.lang.Class)

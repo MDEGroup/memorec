@@ -1,2 +1,0 @@
-org/drools/agent/KnowledgeAgentFactory/loadProvider()#org/drools/agent/KnowledgeAgentFactory/setKnowledgeAgentProvider(org.drools.agent.KnowledgeAgentProvider)
-org/drools/agent/KnowledgeAgentFactory/loadProvider()#java/lang/RuntimeException/RuntimeException(java.lang.String)

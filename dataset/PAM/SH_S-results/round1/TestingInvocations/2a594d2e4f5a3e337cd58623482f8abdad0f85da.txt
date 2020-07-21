@@ -1,3 +1,0 @@
-fr/esiea/tetris/controler/Controler/step()#fr/esiea/tetris/model/Model/getTetrimino()
-fr/esiea/tetris/controler/Controler/step()#fr/esiea/tetris/model/Board/checkLine()
-fr/esiea/tetris/controler/Controler/step()#fr/esiea/tetris/model/Model/getBoard()

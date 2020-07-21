@@ -1,3 +1,0 @@
-net/vvakame/vvakame10js/service/FavoriteServiceTest/processFavorite()#org/hamcrest/CoreMatchers/is(T)
-net/vvakame/vvakame10js/service/FavoriteServiceTest/processFavorite()#net/vvakame/vvakame10js/model/Favorite/setText(java.lang.String)
-net/vvakame/vvakame10js/service/FavoriteServiceTest/processFavorite()#net/vvakame/vvakame10js/service/FavoriteService/processFavorite(java.util.List,net.vvakame.vvakame10js.model.Favorite)

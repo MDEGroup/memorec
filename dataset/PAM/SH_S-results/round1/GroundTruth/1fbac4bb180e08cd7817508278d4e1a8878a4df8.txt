@@ -1,3 +1,0 @@
-com/done/analytics/domain/VoteResult/equals(java.lang.Object)#com/done/analytics/domain/VoteResult/getTopicName()
-com/done/analytics/domain/VoteResult/equals(java.lang.Object)#com/done/analytics/domain/VoteResult/getPercentage()
-com/done/analytics/domain/VoteResult/equals(java.lang.Object)#com/done/analytics/domain/VoteResult/getPresenter()
