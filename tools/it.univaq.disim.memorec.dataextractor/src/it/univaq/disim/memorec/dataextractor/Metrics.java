@@ -1,4 +1,4 @@
-package it.univaq.disim.mmrec.dataextractor;
+package it.univaq.disim.memorec.dataextractor;
 
 import java.io.File;
 import java.io.FileOutputStream;

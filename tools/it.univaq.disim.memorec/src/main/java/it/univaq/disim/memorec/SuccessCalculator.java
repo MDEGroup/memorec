@@ -1,4 +1,4 @@
-package org.focus;
+package it.univaq.disim.memorec;
 
 import java.util.HashSet;
 import java.util.Map;

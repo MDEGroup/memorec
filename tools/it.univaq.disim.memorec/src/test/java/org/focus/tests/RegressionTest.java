@@ -5,11 +5,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.focus.Configuration;
-import org.focus.ContextAwareRecommendation;
-import org.focus.SimilarityCalculator;
-import org.focus.SuccessCalculator;
 import org.junit.jupiter.api.Test;
+
+import it.univaq.disim.memorec.Configuration;
+import it.univaq.disim.memorec.ContextAwareRecommendation;
+import it.univaq.disim.memorec.SimilarityCalculator;
+import it.univaq.disim.memorec.SuccessCalculator;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
