@@ -230,7 +230,6 @@ DotNET_SystemReflection.txt
 Droid.txt
 Dsl.txt
 DslECharts.txt
-DuplicationDetection.txt
 EBC.txt
 EEFGen.txt
 EG.txt
@@ -1368,7 +1367,6 @@ history.txt
 hivpredrt.txt
 hockeyleague.txt
 ht.txt
-httpComponents.txt
 humantask.txt
 iaca.txt
 iasted.owl.txt
@@ -1390,7 +1388,6 @@ ingressqlmodel.txt
 inheritancemapping.txt
 inspection.txt
 instance.txt
-instantiation.txt
 integration.txt
 interaction.txt
 internal.txt
@@ -1725,7 +1722,6 @@ reqif10.txt
 request.txt
 requirement.txt
 requirements.txt
-research_team.txt
 resolutionmodel.txt
 resourcedesc.txt
 resourcemanager.txt
@@ -1879,7 +1875,6 @@ taste.txt
 tc60201.txt
 tcl.txt
 tclchecker.txt
-tdt4250.txt
 teav.txt
 telehash.txt
 template.txt

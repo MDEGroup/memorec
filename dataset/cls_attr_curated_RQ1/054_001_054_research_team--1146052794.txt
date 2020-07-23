@@ -2,7 +2,6 @@ Team#name
 Team#meaning
 Team#status
 Team#urlPage
-Team#
 Team#members
 Team#teamMaster
 Team#openPosition
@@ -40,7 +39,6 @@ Paper#title
 Paper#url4pdf
 Paper#state
 Paper#submittedTo
-Paper#
 Paper#author
 CallForPaper#title
 CallForPaper#category

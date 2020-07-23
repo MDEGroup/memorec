@@ -101,14 +101,13 @@ public class Runner {
 
 		if (loadConfigurations(propFile)) {
 			if (tenFold) {
-				long before = System.nanoTime();
-				log.info("Running ten-fold cross-validation on %s with configuration %s", srcDir, configuration);
 				List<Integer> ks = Arrays.asList(1, 5, 10, 15, 20);
-				for (Integer k : ks) 
-				 tenFoldCrossValidation(k);
-					
-				long after = System.nanoTime();
-				log.info("10-fold took %ds", TimeUnit.SECONDS.convert(after - before, TimeUnit.NANOSECONDS));
+				for (Integer k : ks) { 
+					long before = System.nanoTime();
+					tenFoldCrossValidation(k);
+					long after = System.nanoTime();
+					log.info("N = %d - 10-fold on %s with configuration %s took %d", k, srcDir, configuration, TimeUnit.MILLISECONDS.convert(after - before, TimeUnit.NANOSECONDS));
+				}
 			}
 
 			if (leaveOneOut) {
@@ -133,8 +132,6 @@ public class Runner {
 		Map<Integer, Float> avgSuccess = new ConcurrentHashMap<>();
 		Map<Integer, Float> avgPrecision = new ConcurrentHashMap<>();
 		Map<Integer, Float> avgRecall = new ConcurrentHashMap<>();
-
-//		IntStream.range(0,  numOfFolds).parallel().forEach(i -> {
 		for (int i = 0; i < numOfFolds; i++) {
 			int trainingStartPos1 = 1;
 			int trainingEndPos1 = i * step;
@@ -142,48 +139,27 @@ public class Runner {
 			int trainingEndPos2 = numOfProjects;
 			int testingStartPos = 1 + i * step;
 			int testingEndPos = (i + 1) * step;
-
 			int k = i + 1;
 			String subFolder = "evaluation/round" + Integer.toString(k);
-
-			long before = System.nanoTime();
 			SimilarityCalculator calculator = new SimilarityCalculator(srcDir, subFolder, configuration,
 					trainingStartPos1, trainingEndPos1, trainingStartPos2, trainingEndPos2, testingStartPos,
 					testingEndPos);
 			calculator.computeProjectSimilarity();
-			long after = System.nanoTime();
-//			log.info("Fold [%d/%d]: SimilarityCalculator took %ds", i, numOfFolds,
-//					TimeUnit.SECONDS.convert(after - before, TimeUnit.NANOSECONDS));
-
-			before = System.nanoTime();
 			ContextAwareRecommendation engine = new ContextAwareRecommendation(srcDir, subFolder, numOfNeighbours,
 					testingStartPos, testingEndPos);
 			engine.recommendation();
-			after = System.nanoTime();
-//			log.info("Fold [%d/%d]: ContextAwareRecommendation took %ds", i, numOfFolds,
-//					TimeUnit.SECONDS.convert(after - before, TimeUnit.NANOSECONDS));
-
-//			APIUsagePatternMatcher matcher = new APIUsagePatternMatcher(srcDir, subFolder, trainingStartPos1,
-//					trainingEndPos1, trainingStartPos2, trainingEndPos2, testingStartPos, testingEndPos);
-//			matcher.searchAPIUsagePatterns();
-
 			SuccessCalculator calc = new SuccessCalculator(srcDir, subFolder, testingStartPos, testingEndPos);
 			for (Integer n : ns) {
 				float success = calc.computeSuccessRate(n);
 				float precision = calc.computePrecision(n);
 				float recall = calc.computeRecall(n);
-
 				avgSuccess.put(n, avgSuccess.getOrDefault(n, 0f) + success);
 				avgPrecision.put(n, avgPrecision.getOrDefault(n, 0f) + precision);
 				avgRecall.put(n, avgRecall.getOrDefault(n, 0f) + recall);
-
-				// log.info("successRate@" + n + " = " + success);
-				// log.info("precision@" + n + " = " + precision);
-				// log.info("recall@" + n + " = " + recall);
 			}
 		}
 
-//		log.info("### 10-FOLDS RESULTS ###");
+		log.info("### 10-FOLDS RESULTS ###");
 		log.info("N, SR, P, R, Neighbors");
 		for (Integer n : ns)
 			System.out.println(String.format(Locale.US, "%d, %.3f, %.3f, cls_pkg_curated_RQ1_%d", n, (avgPrecision.get(n) / numOfFolds), (avgRecall.get(n) / numOfFolds), numOfNeighbours));
