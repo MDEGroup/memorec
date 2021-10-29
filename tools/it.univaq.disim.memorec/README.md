@@ -14,23 +14,25 @@ To start the evaluation of **MemoRec** using the default `evaluation.properties`
 ```
 mvn clean compile exec:java -Dexec.mainClass=it.univaq.disim.Runner
 ```
+The command runs 5 times the evaluation process with different number of neighbors, i.e., k =  1, 5, 10, 15, 20.
+Each time the ten-fold validation is executed where the input dataset is splitted into training and testing data.
 
-Results (success rate, precision, recall) for different cut-off values are displayed in the console directly as follows:
+Results in average (success rate, precision, recall) for different cut-off values (N) are displayed in the console directly as follows:
 
 ```
 Runner:106 - Running the evaluation with k = 1
-Runner:167 - 	Fold 0 time 160 ms
-Runner:167 - 	Fold 1 time 177 ms
-Runner:167 - 	Fold 2 time 177 ms
-Runner:167 - 	Fold 3 time 175 ms
-Runner:167 - 	Fold 4 time 335 ms
-Runner:167 - 	Fold 5 time 346 ms
-Runner:167 - 	Fold 6 time 379 ms
-Runner:167 - 	Fold 7 time 269 ms
-Runner:167 - 	Fold 8 time 265 ms
-Runner:167 - 	Fold 9 time 246 ms
+Runner:167 - 	Fold 0 time 6160 ms
+Runner:167 - 	Fold 1 time 7177 ms
+Runner:167 - 	Fold 2 time 6177 ms
+Runner:167 - 	Fold 3 time 5175 ms
+Runner:167 - 	Fold 4 time 6335 ms
+Runner:167 - 	Fold 5 time 7346 ms
+Runner:167 - 	Fold 6 time 6379 ms
+Runner:167 - 	Fold 7 time 7269 ms
+Runner:167 - 	Fold 8 time 56265 ms
+Runner:167 - 	Fold 9 time 6246 ms
 Runner:182 - ### 10-FOLDS RESULTS ###
-Runner:183 - N, SR, P, R, Neighbors
+Runner:183 - N, SuccessRate,Precision,Recall,k
 Runner:185 - 1,8,692,0,087,0,010,1
 Runner:185 - 2,11,168,0,080,0,019,1
 Runner:185 - 3,13,364,0,076,0,023,1
