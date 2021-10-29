@@ -54,7 +54,9 @@ Runner:185 - 18,19,393,0,046,0,047,1
 Runner:185 - 19,19,486,0,045,0,048,1
 Runner:185 - 20,19,626,0,045,0,049,1
 ```
-Intermediate results for every fold (recommended invocations, groundtruth invocations, usage patterns, etc.) are stored in the `evaluation` folder of the corresponding dataset (e.g. `<dataset_folder>/evaluation/`).
+The log output lists the execution time for each fold and the average metric (success rate, precision recall) scores.
+
+Intermediate results for every fold (recommendations, groundtruth data, metamodel similarities, etc.) are stored in the `evaluation` folder of the corresponding dataset (e.g. `<dataset_folder>/evaluation/`).
 ## The `evaluation.properties` file
 The evaluation of MemoRec is configured with a `.properties` file that specifies the dataset. For instance, the default `evaluation.properties` runs 10-fold cross-validation on the curated dataset supported by IE_S
 
