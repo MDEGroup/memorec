@@ -182,7 +182,7 @@ public class Runner {
 		log.info("### 10-FOLDS RESULTS ###");
 		log.info("N, SR, P, R, Neighbors");
 		for (Integer n : ns)
-			log.info("%d,%.3f,%.3f,%.3f,%d", 
+			log.info("%d\t%.3f\t%.3f\t%.3f\t%d", 
 					n, 
 					avgSuccess.get(n) / numOfFolds, 
 					avgPrecision.get(n) / numOfFolds, 
