@@ -102,11 +102,13 @@ public class Runner {
 		if (loadConfigurations(propFile)) {
 			if (tenFold) {
 				List<Integer> ks = Arrays.asList(1, 5, 10, 15, 20);
-				for (Integer k : ks) { 
+				for (Integer k : ks) {
+					log.info("Running the evaluation with k = %d", k);
 					long before = System.nanoTime();
-					tenFoldCrossValidation(k);
+					tenFoldCrossValidation(k, Similarity.Structural);
 					long after = System.nanoTime();
-					log.info("N = %d - 10-fold on %s with configuration %s took %d", k, srcDir, configuration, TimeUnit.MILLISECONDS.convert(after - before, TimeUnit.NANOSECONDS));
+					//log.info("N = %d - 10-fold on %s with configuration %s took %d", k, srcDir, configuration,
+					//		TimeUnit.MILLISECONDS.convert(after - before, TimeUnit.NANOSECONDS));
 				}
 			}
 
@@ -124,15 +126,19 @@ public class Runner {
 	/**
 	 * Ten-fold cross validation
 	 */
-	public void tenFoldCrossValidation(int numOfNeighbours) {
-		//int numOfNeighbours = 20;
+	public void tenFoldCrossValidation(int numOfNeighbours, Similarity sim) {
+		// int numOfNeighbours = 20;
 		int numOfFolds = 10;
 		int step = (int) numOfProjects / 10;
 		List<Integer> ns = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20);
 		Map<Integer, Float> avgSuccess = new ConcurrentHashMap<>();
 		Map<Integer, Float> avgPrecision = new ConcurrentHashMap<>();
 		Map<Integer, Float> avgRecall = new ConcurrentHashMap<>();
+		
 		for (int i = 0; i < numOfFolds; i++) {
+			long before = System.nanoTime();
+			
+			
 			int trainingStartPos1 = 1;
 			int trainingEndPos1 = i * step;
 			int trainingStartPos2 = (i + 1) * step + 1;
@@ -141,13 +147,26 @@ public class Runner {
 			int testingEndPos = (i + 1) * step;
 			int k = i + 1;
 			String subFolder = "evaluation/round" + Integer.toString(k);
-			SimilarityCalculator calculator = new SimilarityCalculator(srcDir, subFolder, configuration,
-					trainingStartPos1, trainingEndPos1, trainingStartPos2, trainingEndPos2, testingStartPos,
-					testingEndPos);
+			SimilarityCalculator calculator;
+			if (sim == Similarity.Syntactically) 
+				 calculator = new GraphBasedSimilarityCalculator(srcDir, subFolder,
+						configuration, trainingStartPos1, trainingEndPos1, trainingStartPos2, trainingEndPos2,
+						testingStartPos, testingEndPos);
+			else {
+				calculator = new GraphBasedSimilarityCalculator(srcDir, subFolder,
+						configuration, trainingStartPos1, trainingEndPos1, trainingStartPos2, trainingEndPos2,
+						testingStartPos, testingEndPos);
+			}
 			calculator.computeProjectSimilarity();
+			
 			ContextAwareRecommendation engine = new ContextAwareRecommendation(srcDir, subFolder, numOfNeighbours,
 					testingStartPos, testingEndPos);
 			engine.recommendation();
+			
+			long after = System.nanoTime();
+			log.info("\tFold %d time %d", i, TimeUnit.MILLISECONDS.convert(after - before, TimeUnit.NANOSECONDS));
+			
+			
 			SuccessCalculator calc = new SuccessCalculator(srcDir, subFolder, testingStartPos, testingEndPos);
 			for (Integer n : ns) {
 				float success = calc.computeSuccessRate(n);
@@ -157,12 +176,19 @@ public class Runner {
 				avgPrecision.put(n, avgPrecision.getOrDefault(n, 0f) + precision);
 				avgRecall.put(n, avgRecall.getOrDefault(n, 0f) + recall);
 			}
+			
 		}
 
 		log.info("### 10-FOLDS RESULTS ###");
 		log.info("N, SR, P, R, Neighbors");
 		for (Integer n : ns)
-			System.out.println(String.format(Locale.US, "%d, %.3f, %.3f, cls_pkg_curated_RQ1_%d", n, (avgPrecision.get(n) / numOfFolds), (avgRecall.get(n) / numOfFolds), numOfNeighbours));
+			log.info("%d,%.3f,%.3f,%.3f,%d", 
+					n, 
+					avgSuccess.get(n) / numOfFolds, 
+					avgPrecision.get(n) / numOfFolds, 
+					avgRecall.get(n) / numOfFolds, 
+					numOfNeighbours);
+		//, (avgRecall.get(n) / numOfFolds), 
 	}
 
 	public void leaveOneOutValidation() {
@@ -185,9 +211,9 @@ public class Runner {
 			String subFolder = "evaluation/round1";
 
 			long before = System.nanoTime();
-			SimilarityCalculator calculator = new SimilarityCalculator(srcDir, subFolder, configuration,
-					trainingStartPos1, trainingEndPos1, trainingStartPos2, trainingEndPos2, testingStartPos,
-					testingEndPos);
+			GraphBasedSimilarityCalculator calculator = new GraphBasedSimilarityCalculator(srcDir, subFolder,
+					configuration, trainingStartPos1, trainingEndPos1, trainingStartPos2, trainingEndPos2,
+					testingStartPos, testingEndPos);
 			calculator.computeProjectSimilarity();
 			long after = System.nanoTime();
 			log.info("Fold [%d/%d]: SimilarityCalculator took %ds", i, numOfFolds,

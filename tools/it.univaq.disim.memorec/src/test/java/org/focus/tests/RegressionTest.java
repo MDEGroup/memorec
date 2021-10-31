@@ -1,5 +1,8 @@
 package org.focus.tests;
 
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
@@ -9,10 +12,9 @@ import org.junit.jupiter.api.Test;
 
 import it.univaq.disim.memorec.Configuration;
 import it.univaq.disim.memorec.ContextAwareRecommendation;
-import it.univaq.disim.memorec.SimilarityCalculator;
+import it.univaq.disim.memorec.GraphBasedSimilarityCalculator;
 import it.univaq.disim.memorec.SuccessCalculator;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
  * Just a simple regression test to make sure success rates are stable on SH_S
@@ -39,7 +41,7 @@ class RegressionTest {
 
 			String subFolder = "evaluation/round" + (i + 1);
 
-			SimilarityCalculator calculator = new SimilarityCalculator(srcDir, subFolder, conf, trainingStartPos1,
+			GraphBasedSimilarityCalculator calculator = new GraphBasedSimilarityCalculator(srcDir, subFolder, conf, trainingStartPos1,
 					trainingEndPos1, trainingStartPos2, trainingEndPos2, testingStartPos, testingEndPos);
 			calculator.computeProjectSimilarity();
 
@@ -83,7 +85,7 @@ class RegressionTest {
 
 			String subFolder = "evaluation/round" + (i + 1);
 
-			SimilarityCalculator calculator = new SimilarityCalculator(srcDir, subFolder, conf, trainingStartPos1,
+			GraphBasedSimilarityCalculator calculator = new GraphBasedSimilarityCalculator(srcDir, subFolder, conf, trainingStartPos1,
 					trainingEndPos1, trainingStartPos2, trainingEndPos2, testingStartPos, testingEndPos);
 			calculator.computeProjectSimilarity();
 
@@ -127,7 +129,7 @@ class RegressionTest {
 
 			String subFolder = "evaluation/round" + (i + 1);
 
-			SimilarityCalculator calculator = new SimilarityCalculator(srcDir, subFolder, conf, trainingStartPos1,
+			GraphBasedSimilarityCalculator calculator = new GraphBasedSimilarityCalculator(srcDir, subFolder, conf, trainingStartPos1,
 					trainingEndPos1, trainingStartPos2, trainingEndPos2, testingStartPos, testingEndPos);
 			calculator.computeProjectSimilarity();
 
@@ -171,7 +173,7 @@ class RegressionTest {
 
 			String subFolder = "evaluation/round" + (i + 1);
 
-			SimilarityCalculator calculator = new SimilarityCalculator(srcDir, subFolder, conf, trainingStartPos1,
+			GraphBasedSimilarityCalculator calculator = new GraphBasedSimilarityCalculator(srcDir, subFolder, conf, trainingStartPos1,
 					trainingEndPos1, trainingStartPos2, trainingEndPos2, testingStartPos, testingEndPos);
 			calculator.computeProjectSimilarity();
 

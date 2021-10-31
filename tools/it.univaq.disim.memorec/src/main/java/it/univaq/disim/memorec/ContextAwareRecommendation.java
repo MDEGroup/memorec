@@ -201,7 +201,7 @@ public class ContextAwareRecommendation {
 				for (int j = 0; j < numOfRows; j++) {
 					byte[] otherMethodVector = matrix[i][j];
 
-					SimilarityCalculator simCalculator = new SimilarityCalculator(srcDir);
+					GraphBasedSimilarityCalculator simCalculator = new GraphBasedSimilarityCalculator(srcDir);
 					float sim = simCalculator.computeJaccardSimilarity(testingMethodVector, otherMethodVector);
 					String key = Integer.toString(i) + "#" + Integer.toString(j);
 					mdSimScores.put(key, sim);
